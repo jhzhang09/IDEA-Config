@@ -12,6 +12,15 @@
         <mark key="^" line="40" column="4" />
         <mark key="." line="40" column="4" />
       </file>
+      <file name="/Class.txt.ft" timestamp="1543841355403">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/HTML File.txt.ft" timestamp="1543840738343">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Interface.txt.ft" timestamp="1543840741359">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" timestamp="1543830270556">
         <mark key="[" line="2" column="4" />
         <mark key="]" line="3" column="7" />
@@ -41,6 +50,8 @@
         <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
