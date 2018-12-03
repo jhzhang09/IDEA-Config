@@ -15,11 +15,8 @@
       <file name="/Class.txt.ft" timestamp="1543841355403">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiFaceRecognizeController.java" timestamp="1543843925931">
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="0" />
-        <mark key="^" line="84" column="0" />
-        <mark key="." line="84" column="0" />
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiFaceRecognizeController.java" timestamp="1543845394654">
+        <mark key="^" line="46" column="54" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1543843996491">
         <mark key="[" line="0" column="0" />
@@ -42,6 +39,18 @@
       <jump line="28" column="0" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiClientSoftwareController.java" />
     </jumps>
     <registers>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmF4LmFubm90YXRpb24uUmVzb3VyY2U7CmltcG9ydCBqYXZheC52YWxpZGF0aW9uLlZhbGlkOwppbXBvcnQgamF2YS51dGlsLkRhdGU7CmltcG9ydCBqYXZhLnV0aWwuSGFzaE1hcDsKaW1wb3J0IGphdmEudXRpbC5MaXN0OwppbXBvcnQgamF2YS51dGlsLk1hcDsK</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmF4LmFubm90YXRpb24uUmVzb3VyY2U7CmltcG9ydCBqYXZheC52YWxpZGF0aW9uLlZhbGlkOwppbXBvcnQgamF2YS51dGlsLkRhdGU7CmltcG9ydCBqYXZhLnV0aWwuSGFzaE1hcDsKaW1wb3J0IGphdmEudXRpbC5MaXN0OwppbXBvcnQgamF2YS51dGlsLk1hcDsK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IGNvbS50ZHIubW9kdWxlcy5rZXlib2FyZC5lbnRpdHkuS2V5Ym9hcmRFbnRpdHk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGZsb2F0IFNVQ0NFU1NfU0lNSUxBUklUWSA9IDAuN2Y7Cg==</text>
+      </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
