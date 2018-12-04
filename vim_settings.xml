@@ -22,12 +22,11 @@
       <file name="/Class.txt.ft" timestamp="1543841355403">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiKeyRecognizeController.java" timestamp="1543913521038">
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiKeyRecognizeController.java" timestamp="1543914936415">
         <mark key="'" line="24" column="4" />
-        <mark key="[" line="21" column="16" />
-        <mark key="]" line="21" column="21" />
-        <mark key="^" line="21" column="21" />
-        <mark key="." line="21" column="21" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="25" column="1" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiFaceRecognizeController.java" timestamp="1543899178393">
         <mark key="'" line="0" column="0" />
@@ -75,7 +74,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(&quot;/recognize&quot;)</text>
+        <text encoding="base64">QFJlc3RDb250cm9sbGVyCkBSZXF1ZXN0TWFwcGluZygiL3JlY29nbml6ZSIpCnB1YmxpYyBjbGFzcyBBcGlLZXlSZWNvZ25pemVDb250cm9sbGVyIHsKICAgIC8qKgogICAgICogZ2V0ILe9t6gKICAgICAqCiAgICAgKiBAcmV0dXJuILe1u9gKIA==</text>
       </register>
       <register name="-" type="4">
         <text>(&quot;/recognize&quot;)</text>
@@ -84,7 +83,7 @@
         <text>cla</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IGNsaWVudFNvZnR3YXJlU2VydmljZS5nZXROZXdWZXJzaW9uKCk7CiAgICAgICAgQXBpZEFzc2VydC5pc051bGwoZW50aXR5LCBFcnJvckNvZGVDb25zdGFudHMuRTAxMDAxKTsK</text>
+        <text encoding="base64">QFJlc3RDb250cm9sbGVyCkBSZXF1ZXN0TWFwcGluZygiL3JlY29nbml6ZSIpCnB1YmxpYyBjbGFzcyBBcGlLZXlSZWNvZ25pemVDb250cm9sbGVyIHsKICAgIC8qKgogICAgICogZ2V0ILe9t6gKICAgICAqCiAgICAgKiBAcmV0dXJuILe1u9gKIA==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -114,7 +113,7 @@
         <text encoding="base64">aW1wb3J0IGNvbS50ZHIuYW5ub3RhdGlvbi5UcmFuc2FjdGlvbkxvZ2dlcjsK</text>
       </register>
       <register name=":" type="4">
-        <text>action GotoFile</text>
+        <text>reg</text>
       </register>
     </registers>
     <search>
@@ -131,8 +130,8 @@
       <history-cmd>
         <entry>wq</entry>
         <entry>w</entry>
-        <entry>reg</entry>
         <entry>action GotoFile</entry>
+        <entry>reg</entry>
       </history-cmd>
       <history-expr />
       <history-input />
