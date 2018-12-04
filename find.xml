@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '...\safekeyboard-admin [safekeyboard-admin]'" />
-    <option name="defaultScopeName" value="Directory '...\safekeyboard-admin [safekeyboard-admin]'" />
-    <option name="SEARCH_SCOPE" value="Directory '...\safekeyboard-admin [safekeyboard-admin]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
