@@ -3,31 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1543983259237">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/pom.xml" timestamp="1543916732761">
-        <mark key="[" line="24" column="13" />
-        <mark key="]" line="56" column="13" />
-        <mark key="." line="34" column="6" />
-        <mark key="^" line="13" column="10" />
-      </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiClientSoftwareController.java" timestamp="1543912091963">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="63" column="5" />
-        <mark key="]" line="63" column="5" />
-        <mark key="^" line="63" column="3" />
-        <mark key="." line="63" column="5" />
-      </file>
-      <file name="/Class.txt.ft" timestamp="1543841355403">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/config/FilterConfig.java" timestamp="1543977334322" />
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiKeyRecognizeController.java" timestamp="1543979535415">
-        <mark key="'" line="24" column="4" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="25" column="1" />
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiKeyRecognizeController.java" timestamp="1543997215460">
+        <mark key="'" line="48" column="2" />
+        <mark key="[" line="65" column="86" />
+        <mark key="]" line="65" column="103" />
+        <mark key="." line="58" column="30" />
+        <mark key="^" line="65" column="103" />
+      </file>
+      <file name="/Interface.txt.ft" timestamp="1543840741359">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/resources/mapper/user/UserDao.xml" timestamp="1543919183443">
         <mark key="'" line="20" column="8" />
@@ -35,11 +20,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiFaceRecognizeController.java" timestamp="1543899178393">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="44" />
-        <mark key="^" line="66" column="11" />
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/pom.xml" timestamp="1544004507095">
+        <mark key="'" line="112" column="0" />
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="109" column="0" />
+        <mark key="." line="109" column="0" />
+        <mark key="^" line="108" column="31" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/src/test/java/com/tdr/ApiApplicationTests.java" timestamp="1543918423539">
         <mark key="'" line="409" column="0" />
@@ -48,17 +34,77 @@
         <mark key="." line="38" column="19" />
         <mark key="^" line="159" column="27" />
       </file>
+      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/util/ca/PKCS7Utils.java" timestamp="1544004935346">
+        <mark key="'" line="33" column="7" />
+        <mark key="[" line="33" column="7" />
+        <mark key="]" line="185" column="0" />
+        <mark key="n" line="28" column="1" />
+      </file>
       <file name="/HTML File.txt.ft" timestamp="1543889439537">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Interface.txt.ft" timestamp="1543840741359">
+      <file name="/Dummy.txt" timestamp="1544004018861">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" timestamp="1543830270556">
-        <mark key="[" line="2" column="4" />
-        <mark key="]" line="3" column="7" />
-        <mark key="^" line="3" column="7" />
-        <mark key="." line="3" column="7" />
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/common/utils/cert/PKCS7CertUtil.java" timestamp="1544005210878">
+        <mark key="'" line="138" column="24" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="52" column="10" />
+        <mark key="^" line="52" column="10" />
+        <mark key="." line="52" column="10" />
+      </file>
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiClientSoftwareController.java" timestamp="1543912091963">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="63" column="5" />
+        <mark key="]" line="63" column="5" />
+        <mark key="^" line="63" column="3" />
+        <mark key="." line="63" column="5" />
+      </file>
+      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/TradingcenterApplication.java" timestamp="1544000652713" />
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/form/KeyboardKeyRecForm.java" timestamp="1543997779912">
+        <mark key="[" line="10" column="8" />
+        <mark key="]" line="10" column="7" />
+        <mark key="^" line="10" column="7" />
+        <mark key="." line="10" column="7" />
+      </file>
+      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/util/ca/X509CertificateHolderSignSelector.java" timestamp="1544005382751">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="72" column="0" />
+      </file>
+      <file name="D:/Workspaces/IntelliJ/tradingcenter/ccb-verifier/src/test/java/com/tdr/verifier/CcbVerifierTest.java" timestamp="1544003908168">
+        <mark key="'" line="21" column="1" />
+        <mark key="[" line="13" column="52" />
+        <mark key="]" line="14" column="15" />
+        <mark key="^" line="14" column="15" />
+        <mark key="." line="14" column="15" />
+      </file>
+      <file name="/CcbVerifierTest.java" timestamp="1544003872655" />
+      <file name="D:/Workspaces/IntelliJ/tradingcenter/ccb-verifier/pom.xml" timestamp="1544004010932">
+        <mark key="'" line="22" column="15" />
+        <mark key="[" line="13" column="20" />
+        <mark key="]" line="22" column="15" />
+        <mark key="^" line="22" column="15" />
+        <mark key="." line="22" column="15" />
+      </file>
+      <file name="/Class.txt.ft" timestamp="1543841355403">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/pom.xml" timestamp="1543998715641">
+        <mark key="'" line="34" column="36" />
+        <mark key="[" line="94" column="25" />
+        <mark key="]" line="94" column="24" />
+        <mark key="." line="94" column="24" />
+        <mark key="^" line="94" column="24" />
+      </file>
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiFaceRecognizeController.java" timestamp="1543995299688">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="43" column="68" />
+        <mark key="]" line="126" column="0" />
+        <mark key="^" line="66" column="11" />
+      </file>
+      <file name="/fragment.java" timestamp="1543998971569">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -79,7 +125,6 @@
       <jump line="128" column="0" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiFaceRecognizeController.java" />
       <jump line="103" column="34" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiFaceRecognizeController.java" />
       <jump line="126" column="0" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiFaceRecognizeController.java" />
-      <jump line="0" column="0" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiFaceRecognizeController.java" />
       <jump line="65" column="30" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiClientSoftwareController.java" />
       <jump line="0" column="0" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiClientSoftwareController.java" />
       <jump line="23" column="1" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiKeyRecognizeController.java" />
@@ -90,76 +135,127 @@
       <jump line="0" column="0" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/src/test/java/com/tdr/ApiApplicationTests.java" />
       <jump line="409" column="0" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/src/test/java/com/tdr/ApiApplicationTests.java" />
       <jump line="20" column="8" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/resources/mapper/user/UserDao.xml" />
+      <jump line="0" column="0" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiFaceRecognizeController.java" />
+      <jump line="44" column="0" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiFaceRecognizeController.java" />
+      <jump line="110" column="0" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiKeyRecognizeController.java" />
+      <jump line="97" column="39" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiKeyRecognizeController.java" />
+      <jump line="120" column="16" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiKeyRecognizeController.java" />
+      <jump line="49" column="4" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiKeyRecognizeController.java" />
+      <jump line="96" column="43" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiKeyRecognizeController.java" />
+      <jump line="51" column="2" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiKeyRecognizeController.java" />
+      <jump line="285" column="4" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/common/utils/cert/PKCS7CertUtil.java" />
+      <jump line="0" column="0" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/pom.xml" />
+      <jump line="95" column="20" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/pom.xml" />
+      <jump line="98" column="20" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/pom.xml" />
+      <jump line="93" column="15" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/pom.xml" />
+      <jump line="102" column="15" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/pom.xml" />
+      <jump line="0" column="0" filename="D:/Workspaces/IntelliJ/safekeyboard/pom.xml" />
+      <jump line="33" column="10" filename="D:/Workspaces/IntelliJ/safekeyboard/pom.xml" />
+      <jump line="34" column="36" filename="D:/Workspaces/IntelliJ/safekeyboard/pom.xml" />
+      <jump line="301" column="4" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/common/utils/cert/PKCS7CertUtil.java" />
+      <jump line="270" column="0" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/common/utils/cert/PKCS7CertUtil.java" />
+      <jump line="4" column="19" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/pom.xml" />
+      <jump line="113" column="0" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/pom.xml" />
+      <jump line="40" column="49" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/common/utils/cert/PKCS7CertUtil.java" />
+      <jump line="76" column="12" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/common/utils/cert/PKCS7CertUtil.java" />
+      <jump line="80" column="12" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/common/utils/cert/PKCS7CertUtil.java" />
+      <jump line="27" column="5" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/common/utils/cert/PKCS7CertUtil.java" />
+      <jump line="19" column="303" filename="D:/Workspaces/IntelliJ/tradingcenter/ccb-verifier/src/test/java/com/tdr/verifier/CcbVerifierTest.java" />
+      <jump line="24" column="1" filename="D:/Workspaces/IntelliJ/tradingcenter/ccb-verifier/src/test/java/com/tdr/verifier/CcbVerifierTest.java" />
+      <jump line="22" column="15" filename="D:/Workspaces/IntelliJ/tradingcenter/ccb-verifier/pom.xml" />
+      <jump line="29" column="32" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/common/utils/cert/PKCS7CertUtil.java" />
+      <jump line="28" column="7" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/common/utils/cert/PKCS7CertUtil.java" />
+      <jump line="32" column="0" filename="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/util/ca/PKCS7Utils.java" />
+      <jump line="185" column="0" filename="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/util/ca/PKCS7Utils.java" />
+      <jump line="28" column="1" filename="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/util/ca/PKCS7Utils.java" />
+      <jump line="27" column="4" filename="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/util/ca/PKCS7Utils.java" />
+      <jump line="26" column="4" filename="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/util/ca/PKCS7Utils.java" />
+      <jump line="33" column="7" filename="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/util/ca/PKCS7Utils.java" />
+      <jump line="173" column="0" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/common/utils/cert/PKCS7CertUtil.java" />
+      <jump line="0" column="0" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/common/utils/cert/PKCS7CertUtil.java" />
+      <jump line="137" column="24" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/common/utils/cert/PKCS7CertUtil.java" />
+      <jump line="20" column="0" filename="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/util/ca/X509CertificateHolderSignSelector.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC52ZXJzaW9uKCIzLjIuMCIpLmJ1aWxkKCk7ZAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cHVibGljIGNsYXNzIFg1MDlDZXJ0aWZpY2F0ZUhvbGRlclNpZ25TZWxlY3RvciBpbXBsZW1lbnRzIFNlbGVjdG9yPFg1MDlDZXJ0aWZpY2F0ZUhvbGRlcj4gewogICAgcHJpdmF0ZSBmaW5hbCBYNTAwTmFtZSBpc3N1ZXI7CiAgICBwcml2YXRlIGZpbmFsIEF1dGhvcml0eUtleUlkZW50aWZpZXIgYXV0aG9yaXR5S2V5SWRlbnRpZmllcjsKCiAgICBwdWJsaWMgWDUwOUNlcnRpZmljYXRlSG9sZGVyU2lnblNlbGVjdG9yKFg1MDBOYW1lIGlzc3VlciwgQXV0aG9yaXR5S2V5SWRlbnRpZmllciBhdXRob3JpdHlLZXlJZGVudGlmaWVyKSB7CiAgICAgICAgdGhpcy5pc3N1ZXIgPSBpc3N1ZXI7CiAgICAgICAgdGhpcy5hdXRob3JpdHlLZXlJZGVudGlmaWVyID0gYXV0aG9yaXR5S2V5SWRlbnRpZmllcjsKICAgIH0KCiAgICBwdWJsaWMgWDUwOUNlcnRpZmljYXRlSG9sZGVyU2lnblNlbGVjdG9yKEF1dGhvcml0eUtleUlkZW50aWZpZXIgYXV0aG9yaXR5S2V5SWRlbnRpZmllcikgewogICAgICAgIHRoaXMobnVsbCwgYXV0aG9yaXR5S2V5SWRlbnRpZmllcik7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgaW50IGhhc2hDb2RlKCkgewogICAgICAgIGludCBjb2RlID0gMDsKCiAgICAgICAgaWYgKGlzc3VlciAhPSBudWxsKSB7CiAgICAgICAgICAgIGNvZGUgXj0gaXNzdWVyLmhhc2hDb2RlKCk7CiAgICAgICAgfQoKICAgICAgICBpZiAoYXV0aG9yaXR5S2V5SWRlbnRpZmllciAhPSBudWxsKSB7CiAgICAgICAgICAgIGNvZGUgXj0gYXV0aG9yaXR5S2V5SWRlbnRpZmllci5oYXNoQ29kZSgpOwogICAgICAgIH0KCiAgICAgICAgcmV0dXJuIGNvZGU7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgT2JqZWN0IGNsb25lKCkgewogICAgICAgIHJldHVybiBuZXcgWDUwOUNlcnRpZmljYXRlSG9sZGVyU2lnblNlbGVjdG9yKGlzc3VlciwgYXV0aG9yaXR5S2V5SWRlbnRpZmllcik7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgYm9vbGVhbiBtYXRjaChYNTA5Q2VydGlmaWNhdGVIb2xkZXIgb2JqKSB7CgogICAgICAgIFg1MDlDZXJ0aWZpY2F0ZUhvbGRlciBjZXJ0SGxkciA9IG9iajsKICAgICAgICB0cnkgewogICAgICAgICAgICBFeHRlbnNpb24gZXh0ZW5zaW9uID0gbmV3IEV4dGVuc2lvbihFeHRlbnNpb24uYXV0aG9yaXR5S2V5SWRlbnRpZmllciwgdHJ1ZSwKICAgICAgICAgICAgICAgICAgICBhdXRob3JpdHlLZXlJZGVudGlmaWVyLmdldEVuY29kZWQoKSk7CiAgICAgICAgICAgIGJvb2xlYW4gY29tcGFyZVJlc3VsdCA9IGV4dGVuc2lvbi5nZXRQYXJzZWRWYWx1ZSgpCiAgICAgICAgICAgICAgICAgICAgLmVxdWFscyhjZXJ0SGxkci5nZXRFeHRlbnNpb24oRXh0ZW5zaW9uLmF1dGhvcml0eUtleUlkZW50aWZpZXIpLmdldFBhcnNlZFZhbHVlKCkpOwogICAgICAgICAgICBpZiAoaXNzdWVyICE9IG51bGwpIHsKICAgICAgICAgICAgICAgIHJldHVybiAoaXNzdWVyLmVxdWFscyhjZXJ0SGxkci5nZXRJc3N1ZXIoKSkpICYmIGNvbXBhcmVSZXN1bHQ7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmV0dXJuIGNvbXBhcmVSZXN1bHQ7CiAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewogICAgICAgICAgICBsb2cuZXJyb3IoIlg1MDlDZXJ0aWZpY2F0ZUhvbGRlclNpZ25TZWxlY3RvciBtYXRjaCBlcnJvciEiLCBlKTsKICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgIH0KCiAgICB9Cn0=</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>}Slf4j</text>
       </register>
       <register name="/" type="4">
-        <text>SM</text>
+        <text>class</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">Y3RJZD5teXNxbC1jb25uZWN0b3ItamF2YTwvYXJ0aWZhY3RJZD4KICAgICAgPHNjb3BlPnJ1bnRpbWU8L3Njb3BlPgogICAgPC9kZXBlbmRlbmN5PgogICAgPGRlcGVuZGVuY3k+CiAgICAgIDxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDwvZ3JvdXBJZD4KICAgICAgPGFydGlmYWN0SWQ+c3ByaW5nLWJvb3QtZGV2dG9vbHM8L2FydGlmYWN0SWQ+CiAgICAgIDxzY29wZT5ydW50aW1lPC9zY29wZT4KICAgIDwvZGVwZW5kZW5jeT4KICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5vcmcucHJvamVjdGxvbWJvazwvZ3JvdXBJZD4KICAgICAgPGFydGlmYWN0SWQ+bG9tYm9rPC9hcnRpZmFjdElkPgogICAgICA8c2NvcGU+cHJvdmlkZWQ8L3Njb3BlPgogICAgPC9kZXBlbmRlbmN5PgogICAgPGRlcGVuZGVuY3k+CiAgICAgIDxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDwvZ3JvdXBJZD4KICAgICAgPGFydGlmYWN0SWQ+c3ByaW5nLWJvb3Qtc3RhcnRlci10ZXN0PC9hcnRpZmFjdElkPgogICAgICA8c2NvcGU+dGVzdDwvc2NvcGU+CiAgICA8L2RlcGVuZGVuY3k+CiAgPC9kZXBlbmRlbmNpZXM+CgogIDxidWlsZD4KICAgIDxwbHVnaW5zPgogICAgICA8cGx1Z2luPgogICAgICAgIDxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDwvZ3JvdXBJZD4KICAgICAgICA8YXJ0aWZhY3RJZD5zcHJpbmctYm9vdC1tYXZlbi1wbHVnaW48L2FydGlmYWN0SWQ+CiAgICAgIDwvcGx1Z2luPgogICAgICA8IS0tIMz4uf21pdSqsuLK1CAtLT4KICAgICAgPHBsdWdpbj4KICAgICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLm1hdmVuLnBsdWdpbnM8L2dyb3VwSWQ+CiAgICAgICAgPGFydGlmYWN0SWQ+bWF2ZW4tc3VyZWZpcmUtcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgIDxjb25maWd1cmF0aW9uPgogICAgICAgICAgPHNraXBUZXN0cz50cnVlPC9za2lwVGVzdHM+CiAgICAgICAgPC9jb25m</text>
+        <text encoding="base64">aW1wbGVtZW50cyBTZWxlY3RvcjxYNTA5Q2VydGlmaWNhdGVIb2xkZXI+IHsKICAgIHByaXZhdGUgZmluYWwgWDUwME5hbWUgaXNzdWVyOwogICAgcHJpdmF0ZSBmaW5hbCBBdXRob3JpdHlLZXlJZGVudGlmaWVyIGF1dGhvcml0eUtleUlkZW50aWZpZXI7CgogICAgcHVibGljIFg1MDlDZXJ0aWZpY2F0ZUhvbGRlclNpZ25TZWxlY3RvcihYNTAwTmFtZSBpc3N1ZXIsIEF1dGhvcml0eUtleUlkZW50aWZpZXIgYXV0aG9yaXR5S2V5SWRlbnRpZmllcikgewogICAgICAgIHRoaXMuaXNzdWVyID0gaXNzdWVyOwogICAgICAgIHRoaXMuYXV0aG9yaXR5S2V5SWRlbnRpZmllciA9IGF1dGhvcml0eUtleUlkZW50aWZpZXI7CiAgICB9CgogICAgcHVibGljIFg1MDlDZXJ0aWZpY2F0ZUhvbGRlclNpZ25TZWxlY3RvcihBdXRob3JpdHlLZXlJZGVudGlmaWVyIGF1dGhvcml0eUtleUlkZW50aWZpZXIpIHsKICAgICAgICB0aGlzKG51bGwsIGF1dGhvcml0eUtleUlkZW50aWZpZXIpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIGludCBoYXNoQ29kZSgpIHsKICAgICAgICBpbnQgY29kZSA9IDA7CgogICAgICAgIGlmIChpc3N1ZXIgIT0gbnVsbCkgewogICAgICAgICAgICBjb2RlIF49IGlzc3Vlci5oYXNoQ29kZSgpOwogICAgICAgIH0KCiAgICAgICAgaWYgKGF1dGhvcml0eUtleUlkZW50aWZpZXIgIT0gbnVsbCkgewogICAgICAgICAgICBjb2RlIF49IGF1dGhvcml0eUtleUlkZW50aWZpZXIuaGFzaENvZGUoKTsKICAgICAgICB9CgogICAgICAgIHJldHVybiBjb2RlOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIE9iamVjdCBjbG9uZSgpIHsKICAgICAgICByZXR1cm4gbmV3IFg1MDlDZXJ0aWZpY2F0ZUhvbGRlclNpZ25TZWxlY3Rvcihpc3N1ZXIsIGF1dGhvcml0eUtleUlkZW50aWZpZXIpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIGJvb2xlYW4gbWF0Y2goWDUwOUNlcnRpZmljYXRlSG9sZGVyIG9iaikgewoKICAgICAgICBYNTA5Q2VydGlmaWNhdGVIb2xkZXIgY2VydEhsZHIgPSBvYmo7CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgRXh0ZW5zaW9uIGV4dGVuc2lvbiA9IG5ldyBFeHRlbnNpb24oRXh0ZW5zaW9uLmF1dGhvcml0eUtleUlkZW50aWZpZXIsIHRydWUsCiAgICAgICAgICAgICAgICAgICAgYXV0aG9yaXR5S2V5SWRlbnRpZmllci5nZXRFbmNvZGVkKCkpOwogICAgICAgICAgICBib29sZWFuIGNvbXBhcmVSZXN1bHQgPSBleHRlbnNpb24uZ2V0UGFyc2VkVmFsdWUoKQogICAgICAgICAgICAgICAgICAgIC5lcXVhbHMoY2VydEhsZHIuZ2V0RXh0ZW5zaW9uKEV4dGVuc2lvbi5hdXRob3JpdHlLZXlJZGVudGlmaWVyKS5nZXRQYXJzZWRWYWx1ZSgpKTsKICAgICAgICAgICAgaWYgKGlzc3VlciAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gKGlzc3Vlci5lcXVhbHMoY2VydEhsZHIuZ2V0SXNzdWVyKCkpKSAmJiBjb21wYXJlUmVzdWx0OwogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiBjb21wYXJlUmVzdWx0OwogICAgICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgbG9nLmVycm9yKCJYNTA5Q2VydGlmaWNhdGVIb2xkZXJTaWduU2VsZWN0b3IgbWF0Y2ggZXJyb3IhIiwgZSk7CiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9CgogICAgfQp9</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC52ZXJzaW9uKCIzLjIuMCIpLmJ1aWxkKCk7ZAo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIHMgewo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4K</text>
+      <register name="3" type="4">
+        <text>{
+}</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIMDgubnU7Mb3Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">cHVibGljIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHVibGljIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>qa!</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>SM</last-search>
+      <last-search>class</last-search>
       <last-offset />
-      <last-pattern>SM</last-pattern>
+      <last-pattern>class</last-pattern>
+      <last-replace>log.</last-replace>
+      <last-substitute>logger.</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
         <entry>cla</entry>
         <entry>SM</entry>
+        <entry>pr</entry>
+        <entry>bc</entry>
+        <entry>prov</entry>
+        <entry>main</entry>
+        <entry>pkix</entry>
+        <entry>logger.</entry>
+        <entry>class</entry>
       </history-search>
       <history-cmd>
-        <entry>wq</entry>
         <entry>action GotoFile</entry>
         <entry>reg</entry>
         <entry>action Find in path</entry>
         <entry>action Find in Path</entry>
         <entry>f</entry>
         <entry>action FindInPath</entry>
-        <entry>W</entry>
-        <entry>w</entry>
         <entry>wa</entry>
         <entry>q</entry>
         <entry>qa!</entry>
+        <entry>W</entry>
+        <entry>wq</entry>
+        <entry>%s/logger./log./g</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -191,6 +287,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
