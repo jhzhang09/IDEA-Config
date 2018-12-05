@@ -132,7 +132,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qa!</text>
       </register>
     </registers>
     <search>
@@ -155,7 +155,11 @@
         <entry>action Find in Path</entry>
         <entry>f</entry>
         <entry>action FindInPath</entry>
+        <entry>W</entry>
         <entry>w</entry>
+        <entry>wa</entry>
+        <entry>q</entry>
+        <entry>qa!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
