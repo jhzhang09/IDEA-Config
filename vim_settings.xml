@@ -3,16 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiKeyRecognizeController.java" timestamp="1544085421168">
-        <mark key="'" line="70" column="86" />
-        <mark key="[" line="70" column="87" />
-        <mark key="]" line="70" column="86" />
-        <mark key="^" line="70" column="86" />
-        <mark key="." line="70" column="86" />
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiKeyRecognizeController.java" timestamp="1544086574413">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="66" column="13" />
+        <mark key="]" line="66" column="24" />
+        <mark key="^" line="66" column="24" />
+        <mark key="." line="66" column="24" />
       </file>
       <file name="/a.dummy" timestamp="1544082345572">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/common/utils/R.java" timestamp="1544086144833" />
       <file name="/Interface.txt.ft" timestamp="1544063718556">
         <mark key="[" line="0" column="0" />
       </file>
@@ -167,13 +168,16 @@
       <jump line="22" column="0" filename="D:/Workspaces/IntelliJ/safekeyboard/pom.xml" />
       <jump line="35" column="0" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/modules/user/dao/UserDao.java" />
       <jump line="70" column="86" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiKeyRecognizeController.java" />
+      <jump line="65" column="8" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiKeyRecognizeController.java" />
+      <jump line="42" column="0" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiKeyRecognizeController.java" />
+      <jump line="0" column="0" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiKeyRecognizeController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>after</text>
+        <text>login</text>
       </register>
       <register name="-" type="4">
-        <text>after</text>
+        <text>login</text>
       </register>
       <register name="/" type="4">
         <text>E08002</text>
@@ -182,34 +186,34 @@
         <text>c</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBBYnN0cmFjdEFwaUFzc2VydC5pc1RydWUoRGF0ZVV0aWxzLmFkZE1pbGxpc2Vjb25kcyhkZWNvZGVkSldULmdldEV4cGlyZXNBdCgpLCAzKS5hZnRlcihuZXcgRGF0ZSgpKSwK</text>
+        <text encoding="base64">ICAgIEBSZXNvdXJjZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBBYnN0cmFjdEFwaUFzc2VydC5pc051bGwoaGF2ZUZhY2VVc2VyRW50aXR5TGlzdCwgRXJyb3JDb2RlQ29uc3RhbnRzLkUwMjAwNCk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgS2V5Ym9hcmRTZXJ2aWNlIGtleWJvYXJkU2VydmljZTsK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">KC4pLigpKSwKICAgICAgICAgICAgICAgIA==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="5" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKFVzZXJFbnRpdHkgdXNlckVudGl0eSA6IGhhdmVGYWNlVXNlckVudGl0eUxpc3QpIHsK</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGZsb2F0IFNVQ0NFU1NfU0lNSUxBUklUWSA9IDAuN2Y7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuIHA3VmVyaWZ5ID0gUEtDUzdVdGlscy5nZXRJbnN0YW5jZShmb3JtLmdldEtleVNpZ24oKSkudmVyaWZ5KCk7Cg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBBYnN0cmFjdEFwaUFzc2VydC5pc1RydWUoRGF0ZVV0aWxzLmFkZE1pbGxpc2Vjb25kcyhkZWNvZGVkSldULmdldEV4cGlyZXNBdCgpLCAzKS5hZnRlcihuZXcgRGF0ZSgpKSwK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBBYnN0cmFjdEFwaUFzc2VydC5pc051bGwoaGF2ZUZhY2VVc2VyRW50aXR5TGlzdCwgRXJyb3JDb2RlQ29uc3RhbnRzLkUwMjAwNCk7Cg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">KC4pLigpKSwKICAgICAgICAgICAgICAgIA==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIXA3VmVyaWZ5KSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>%s/E08002/E09001/g</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -244,11 +248,11 @@
         <entry>W</entry>
         <entry>%s/logger./log./g</entry>
         <entry>wq</entry>
-        <entry>qa!</entry>
         <entry>wa</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>%s/E08002/E09001/g</entry>
+        <entry>qa!</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
