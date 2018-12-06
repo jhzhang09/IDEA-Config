@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/common/utils/cert/X509CertificateHolderSignSelector.java" timestamp="1544063067718">
+        <mark key="]" line="17" column="45" />
+        <mark key="^" line="17" column="45" />
+        <mark key="." line="17" column="45" />
+      </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/config/FilterConfig.java" timestamp="1543977334322" />
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiKeyRecognizeController.java" timestamp="1543997215460">
         <mark key="'" line="48" column="2" />
@@ -13,12 +18,6 @@
       </file>
       <file name="/Interface.txt.ft" timestamp="1543840741359">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/resources/mapper/user/UserDao.xml" timestamp="1543919183443">
-        <mark key="'" line="20" column="8" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/pom.xml" timestamp="1544004507095">
         <mark key="'" line="112" column="0" />
@@ -34,16 +33,17 @@
         <mark key="." line="38" column="19" />
         <mark key="^" line="159" column="27" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/util/ca/PKCS7Utils.java" timestamp="1544004935346">
-        <mark key="'" line="33" column="7" />
-        <mark key="[" line="33" column="7" />
-        <mark key="]" line="185" column="0" />
-        <mark key="n" line="28" column="1" />
+      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/util/ca/PKCS7Utils.java" timestamp="1544062772282">
+        <mark key="'" line="73" column="6" />
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="109" column="11" />
+        <mark key="." line="109" column="11" />
+        <mark key="^" line="109" column="11" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1543889439537">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544004018861">
+      <file name="/Dummy.txt" timestamp="1544062606867">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/common/utils/cert/PKCS7CertUtil.java" timestamp="1544005210878">
@@ -74,14 +74,15 @@
         <mark key="." line="16" column="5" />
         <mark key="^" line="16" column="5" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/common/utils/cert/PKCS7Utils.java" timestamp="1544010310655">
-        <mark key="[" line="165" column="43" />
-        <mark key="]" line="165" column="41" />
-        <mark key="^" line="165" column="41" />
-        <mark key="." line="165" column="41" />
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/common/utils/cert/PKCS7Utils.java" timestamp="1544062400136">
+        <mark key="'" line="31" column="6" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="6" />
+        <mark key="^" line="32" column="6" />
+        <mark key="." line="32" column="6" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/util/ca/X509CertificateHolderSignSelector.java" timestamp="1544005382751">
-        <mark key="'" line="20" column="0" />
+      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/util/ca/X509CertificateHolderSignSelector.java" timestamp="1544061450268">
+        <mark key="'" line="28" column="0" />
         <mark key="[" line="20" column="0" />
         <mark key="]" line="72" column="0" />
       </file>
@@ -190,49 +191,55 @@
       <jump line="20" column="0" filename="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/util/ca/X509CertificateHolderSignSelector.java" />
       <jump line="64" column="0" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/common/utils/cert/s.java" />
       <jump line="61" column="12" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/common/utils/cert/s.java" />
+      <jump line="28" column="0" filename="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/util/ca/X509CertificateHolderSignSelector.java" />
+      <jump line="147" column="34" filename="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/util/ca/PKCS7Utils.java" />
+      <jump line="48" column="54" filename="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/util/ca/PKCS7Utils.java" />
+      <jump line="151" column="6" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/common/utils/cert/PKCS7Utils.java" />
+      <jump line="31" column="6" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/common/utils/cert/PKCS7Utils.java" />
+      <jump line="73" column="6" filename="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/util/ca/PKCS7Utils.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">OiA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aWYg</text>
+        <text encoding="base64">OiA=</text>
       </register>
       <register name="/" type="4">
         <text>class</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">aW1wbGVtZW50cyBTZWxlY3RvcjxYNTA5Q2VydGlmaWNhdGVIb2xkZXI+IHsKICAgIHByaXZhdGUgZmluYWwgWDUwME5hbWUgaXNzdWVyOwogICAgcHJpdmF0ZSBmaW5hbCBBdXRob3JpdHlLZXlJZGVudGlmaWVyIGF1dGhvcml0eUtleUlkZW50aWZpZXI7CgogICAgcHVibGljIFg1MDlDZXJ0aWZpY2F0ZUhvbGRlclNpZ25TZWxlY3RvcihYNTAwTmFtZSBpc3N1ZXIsIEF1dGhvcml0eUtleUlkZW50aWZpZXIgYXV0aG9yaXR5S2V5SWRlbnRpZmllcikgewogICAgICAgIHRoaXMuaXNzdWVyID0gaXNzdWVyOwogICAgICAgIHRoaXMuYXV0aG9yaXR5S2V5SWRlbnRpZmllciA9IGF1dGhvcml0eUtleUlkZW50aWZpZXI7CiAgICB9CgogICAgcHVibGljIFg1MDlDZXJ0aWZpY2F0ZUhvbGRlclNpZ25TZWxlY3RvcihBdXRob3JpdHlLZXlJZGVudGlmaWVyIGF1dGhvcml0eUtleUlkZW50aWZpZXIpIHsKICAgICAgICB0aGlzKG51bGwsIGF1dGhvcml0eUtleUlkZW50aWZpZXIpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIGludCBoYXNoQ29kZSgpIHsKICAgICAgICBpbnQgY29kZSA9IDA7CgogICAgICAgIGlmIChpc3N1ZXIgIT0gbnVsbCkgewogICAgICAgICAgICBjb2RlIF49IGlzc3Vlci5oYXNoQ29kZSgpOwogICAgICAgIH0KCiAgICAgICAgaWYgKGF1dGhvcml0eUtleUlkZW50aWZpZXIgIT0gbnVsbCkgewogICAgICAgICAgICBjb2RlIF49IGF1dGhvcml0eUtleUlkZW50aWZpZXIuaGFzaENvZGUoKTsKICAgICAgICB9CgogICAgICAgIHJldHVybiBjb2RlOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIE9iamVjdCBjbG9uZSgpIHsKICAgICAgICByZXR1cm4gbmV3IFg1MDlDZXJ0aWZpY2F0ZUhvbGRlclNpZ25TZWxlY3Rvcihpc3N1ZXIsIGF1dGhvcml0eUtleUlkZW50aWZpZXIpOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIGJvb2xlYW4gbWF0Y2goWDUwOUNlcnRpZmljYXRlSG9sZGVyIG9iaikgewoKICAgICAgICBYNTA5Q2VydGlmaWNhdGVIb2xkZXIgY2VydEhsZHIgPSBvYmo7CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgRXh0ZW5zaW9uIGV4dGVuc2lvbiA9IG5ldyBFeHRlbnNpb24oRXh0ZW5zaW9uLmF1dGhvcml0eUtleUlkZW50aWZpZXIsIHRydWUsCiAgICAgICAgICAgICAgICAgICAgYXV0aG9yaXR5S2V5SWRlbnRpZmllci5nZXRFbmNvZGVkKCkpOwogICAgICAgICAgICBib29sZWFuIGNvbXBhcmVSZXN1bHQgPSBleHRlbnNpb24uZ2V0UGFyc2VkVmFsdWUoKQogICAgICAgICAgICAgICAgICAgIC5lcXVhbHMoY2VydEhsZHIuZ2V0RXh0ZW5zaW9uKEV4dGVuc2lvbi5hdXRob3JpdHlLZXlJZGVudGlmaWVyKS5nZXRQYXJzZWRWYWx1ZSgpKTsKICAgICAgICAgICAgaWYgKGlzc3VlciAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gKGlzc3Vlci5lcXVhbHMoY2VydEhsZHIuZ2V0SXNzdWVyKCkpKSAmJiBjb21wYXJlUmVzdWx0OwogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiBjb21wYXJlUmVzdWx0OwogICAgICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgbG9nLmVycm9yKCJYNTA5Q2VydGlmaWNhdGVIb2xkZXJTaWduU2VsZWN0b3IgbWF0Y2ggZXJyb3IhIiwgZSk7CiAgICAgICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICB9CgogICAgfQp9</text>
+        <text>c</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBwa2NzN0Jhc2U2NFN0cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiB2ZXJpZnlSZXN1bHQgPSB0cnVlOwo=</text>
+        <text encoding="base64">ICAgKgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oIlZlcmlmeSBtYXRjaCBzaWduZWQgY2VydGlmaWNhdGUgcmVzdWx0OiB2ZXJpZnlSZXN1bHQpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLmJ1aWxkKGNlcnRpZmljYXRlLmdldFN1YmplY3RQdWJsaWNLZXlJbmZvKCkpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5ldyBKY2FDb250ZW50VmVyaWZpZXJQcm92aWRlckJ1aWxkZXIoKS5zZXRQcm92aWRlcihuZXcgQm91bmN5Q2FzdGxlUHJvdmlkZXIoKSkK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2ZXJpZnlSZXN1bHQgPSB2ZXJpZnlSZXN1bHQgJiYgaXRlcmF0b3IubmV4dCgpLmlzU2lnbmF0dXJlVmFsaWQoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2ZXJpZnlSZXN1bHQgPSB2ZXJpZnlSZXN1bHQgJiYgc2lnblZlcmlmeTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmVycm9yKCJWZXJpZnkgdXBwZXIgaXNzdWVyIGVycm9yISIsIGUpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIHMgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHZlcmlmeVJlc3VsdDsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qa!</text>
       </register>
     </registers>
     <search>
@@ -263,13 +270,13 @@
         <entry>action Find in Path</entry>
         <entry>f</entry>
         <entry>action FindInPath</entry>
+        <entry>W</entry>
+        <entry>%s/logger./log./g</entry>
+        <entry>wq</entry>
+        <entry>w</entry>
         <entry>wa</entry>
         <entry>q</entry>
         <entry>qa!</entry>
-        <entry>W</entry>
-        <entry>wq</entry>
-        <entry>%s/logger./log./g</entry>
-        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -304,6 +311,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
