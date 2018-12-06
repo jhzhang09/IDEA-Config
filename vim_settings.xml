@@ -59,7 +59,7 @@
       <file name="/HTML File.txt.ft" timestamp="1544063712230">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544078924700">
+      <file name="/Dummy.txt" timestamp="1544099259520">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/form/KeyboardKeyRecForm.java" timestamp="1543997779912">
@@ -270,7 +270,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qa!</text>
       </register>
     </registers>
     <search>
@@ -308,12 +308,12 @@
         <entry>wa</entry>
         <entry>q</entry>
         <entry>%s/E08002/E09001/g</entry>
-        <entry>qa!</entry>
         <entry>75,87 dd</entry>
         <entry>75,87dd</entry>
         <entry>75,87d</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>qa!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
