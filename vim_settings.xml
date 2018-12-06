@@ -8,7 +8,6 @@
         <mark key="^" line="17" column="45" />
         <mark key="." line="17" column="45" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/config/FilterConfig.java" timestamp="1543977334322" />
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiKeyRecognizeController.java" timestamp="1543997215460">
         <mark key="'" line="48" column="2" />
         <mark key="[" line="65" column="86" />
@@ -16,7 +15,7 @@
         <mark key="." line="58" column="30" />
         <mark key="^" line="65" column="103" />
       </file>
-      <file name="/Interface.txt.ft" timestamp="1543840741359">
+      <file name="/Interface.txt.ft" timestamp="1544063718556">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/pom.xml" timestamp="1544004507095">
@@ -40,7 +39,7 @@
         <mark key="." line="109" column="11" />
         <mark key="^" line="109" column="11" />
       </file>
-      <file name="/HTML File.txt.ft" timestamp="1543889439537">
+      <file name="/HTML File.txt.ft" timestamp="1544063712230">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1544062606867">
@@ -60,7 +59,6 @@
         <mark key="^" line="63" column="3" />
         <mark key="." line="63" column="5" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/TradingcenterApplication.java" timestamp="1544000652713" />
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/form/KeyboardKeyRecForm.java" timestamp="1543997779912">
         <mark key="[" line="10" column="8" />
         <mark key="]" line="10" column="7" />
@@ -93,7 +91,6 @@
         <mark key="^" line="14" column="15" />
         <mark key="." line="14" column="15" />
       </file>
-      <file name="/CcbVerifierTest.java" timestamp="1544003872655" />
       <file name="D:/Workspaces/IntelliJ/tradingcenter/ccb-verifier/pom.xml" timestamp="1544004010932">
         <mark key="'" line="22" column="15" />
         <mark key="[" line="13" column="20" />
@@ -101,7 +98,13 @@
         <mark key="^" line="22" column="15" />
         <mark key="." line="22" column="15" />
       </file>
-      <file name="/Class.txt.ft" timestamp="1543841355403">
+      <file name="/Enum.txt.ft" timestamp="1544063716932">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Class.txt.ft" timestamp="1544063714797">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/AnnotationType.txt.ft" timestamp="1544063719303">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/pom.xml" timestamp="1543998715641">
@@ -110,12 +113,6 @@
         <mark key="]" line="94" column="24" />
         <mark key="." line="94" column="24" />
         <mark key="^" line="94" column="24" />
-      </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiFaceRecognizeController.java" timestamp="1543995299688">
-        <mark key="'" line="44" column="0" />
-        <mark key="[" line="43" column="68" />
-        <mark key="]" line="126" column="0" />
-        <mark key="^" line="66" column="11" />
       </file>
       <file name="/fragment.java" timestamp="1543998971569">
         <mark key="[" line="0" column="0" />
@@ -239,7 +236,7 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHZlcmlmeVJlc3VsdDsK</text>
       </register>
       <register name=":" type="4">
-        <text>qa!</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -249,7 +246,7 @@
       <last-replace>log.</last-replace>
       <last-substitute>logger.</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -274,9 +271,9 @@
         <entry>%s/logger./log./g</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>qa!</entry>
         <entry>wa</entry>
         <entry>q</entry>
-        <entry>qa!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
