@@ -3,17 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/common/utils/cert/X509CertificateHolderSignSelector.java" timestamp="1544063067718">
-        <mark key="]" line="17" column="45" />
-        <mark key="^" line="17" column="45" />
-        <mark key="." line="17" column="45" />
-      </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiKeyRecognizeController.java" timestamp="1544082709028">
-        <mark key="'" line="44" column="2" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
-        <mark key="^" line="55" column="59" />
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiKeyRecognizeController.java" timestamp="1544085421168">
+        <mark key="'" line="70" column="86" />
+        <mark key="[" line="70" column="87" />
+        <mark key="]" line="70" column="86" />
+        <mark key="^" line="70" column="86" />
+        <mark key="." line="70" column="86" />
       </file>
       <file name="/a.dummy" timestamp="1544082345572">
         <mark key="[" line="0" column="0" />
@@ -39,6 +34,12 @@
       </file>
       <file name="/Dummy.txt" timestamp="1544078924700">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/form/KeyboardKeyRecForm.java" timestamp="1543997779912">
+        <mark key="[" line="10" column="8" />
+        <mark key="]" line="10" column="7" />
+        <mark key="^" line="10" column="7" />
+        <mark key="." line="10" column="7" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/validator/AbstractApiAssert.java" timestamp="1544082695211">
         <mark key="[" line="29" column="3" />
@@ -77,10 +78,11 @@
         <mark key="^" line="94" column="24" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/constants/ErrorCodeConstants.java" timestamp="1544082971262">
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/constants/ErrorCodeConstants.java" timestamp="1544083309058">
         <mark key="[" line="181" column="49" />
-        <mark key="]" line="181" column="0" />
-        <mark key="." line="181" column="0" />
+        <mark key="]" line="191" column="15" />
+        <mark key="." line="191" column="15" />
+        <mark key="^" line="191" column="15" />
       </file>
       <file name="/fragment.java" timestamp="1544080972850">
         <mark key="[" line="0" column="0" />
@@ -164,59 +166,60 @@
       <jump line="73" column="6" filename="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/util/ca/PKCS7Utils.java" />
       <jump line="22" column="0" filename="D:/Workspaces/IntelliJ/safekeyboard/pom.xml" />
       <jump line="35" column="0" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/modules/user/dao/UserDao.java" />
+      <jump line="70" column="86" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiKeyRecognizeController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>after</text>
       </register>
       <register name="-" type="4">
-        <text>ApidAssert</text>
+        <text>after</text>
       </register>
       <register name="/" type="4">
-        <text>class</text>
+        <text>E08002</text>
       </register>
       <register name="0" type="4">
         <text>c</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBBYnN0cmFjdEFwaUFzc2VydC5pc1RydWUoRGF0ZVV0aWxzLmFkZE1pbGxpc2Vjb25kcyhkZWNvZGVkSldULmdldEV4cGlyZXNBdCgpLCAzKS5hZnRlcihuZXcgRGF0ZSgpKSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogQENsYXNzTmFtZTogQWJzdHJhY3RBcGlBc3NlcnQK</text>
+        <text encoding="base64">ICAgICAgICBBYnN0cmFjdEFwaUFzc2VydC5pc051bGwoaGF2ZUZhY2VVc2VyRW50aXR5TGlzdCwgRXJyb3JDb2RlQ29uc3RhbnRzLkUwMjAwNCk7Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">KC4pLigpKSwKICAgICAgICAgICAgICAgIA==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGRhcGlhcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKFVzZXJFbnRpdHkgdXNlckVudGl0eSA6IGhhdmVGYWNlVXNlckVudGl0eUxpc3QpIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIExpc3Q8VXNlckVudGl0eT4gc2VsZWN0QnlLZXlib2FyZElkQW5kVXNlck5hbWVBbmRLZXlTbigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBib29sZWFuIHA3VmVyaWZ5ID0gUEtDUzdVdGlscy5nZXRJbnN0YW5jZShmb3JtLmdldEtleVNpZ24oKSkudmVyaWZ5KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIExpc3Q8VXNlckVudGl0eWRkPgo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBoYXZlRmFjZVVzZXJFbnRpdHlMaXN0Lgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIXA3VmVyaWZ5KSB7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>%s/E08002/E09001/g</text>
       </register>
     </registers>
     <search>
-      <last-search>class</last-search>
+      <last-search>E08002</last-search>
       <last-offset />
-      <last-pattern>class</last-pattern>
-      <last-replace>log.</last-replace>
-      <last-substitute>logger.</last-substitute>
+      <last-pattern>E08002</last-pattern>
+      <last-replace>E09001</last-replace>
+      <last-substitute>E08002</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -229,6 +232,7 @@
         <entry>pkix</entry>
         <entry>logger.</entry>
         <entry>class</entry>
+        <entry>E08002</entry>
       </history-search>
       <history-cmd>
         <entry>action GotoFile</entry>
@@ -244,6 +248,7 @@
         <entry>wa</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>%s/E08002/E09001/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
