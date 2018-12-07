@@ -2,8 +2,8 @@
   <component name="GrepConsole">
     <option name="donationNagger">
       <DonationNagger>
-        <option name="actionsExecuted" value="1" />
-        <option name="firstUsage" value="1543905371235" />
+        <option name="actionsExecuted" value="5" />
+        <option name="firstUsage" value="0" />
         <option name="firstUsedVersion" value="8.5.162.000.1" />
       </DonationNagger>
     </option>
@@ -22,7 +22,6 @@
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
-                              <option name="color" value="-65536" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
@@ -36,7 +35,7 @@
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
-                              <option name="color" value="-14336" />
+                              <option name="color" value="-2228224" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
@@ -49,7 +48,7 @@
                         <GrepStyle>
                           <option name="backgroundColor">
                             <GrepColor>
-                              <option name="color" value="-256" />
+                              <option name="color" value="-2234839" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
@@ -79,7 +78,6 @@
                         <GrepStyle>
                           <option name="foregroundColor">
                             <GrepColor>
-                              <option name="color" value="-4144960" />
                               <option name="enabled" value="true" />
                             </GrepColor>
                           </option>
@@ -89,6 +87,27 @@
                   </list>
                 </option>
                 <option name="name" value="default" />
+              </GrepExpressionGroup>
+              <GrepExpressionGroup>
+                <option name="enabled" value="true" />
+                <option name="grepExpressionItems">
+                  <list>
+                    <GrepExpressionItem>
+                      <option name="grepExpression" value=".*Caused.*" />
+                      <option name="style">
+                        <GrepStyle>
+                          <option name="backgroundColor">
+                            <GrepColor>
+                              <option name="color" value="-15646721" />
+                              <option name="enabled" value="true" />
+                            </GrepColor>
+                          </option>
+                        </GrepStyle>
+                      </option>
+                    </GrepExpressionItem>
+                  </list>
+                </option>
+                <option name="name" value="myGroup" />
               </GrepExpressionGroup>
             </list>
           </option>
@@ -100,13 +119,12 @@
                   <list>
                     <GrepExpressionItem>
                       <option name="action" value="REMOVE" />
-                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*unwanted line.*" />
                     </GrepExpressionItem>
                     <GrepExpressionItem>
                       <option name="action" value="REMOVE_UNLESS_PREVIOUSLY_MATCHED" />
-                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*unwanted line.*" />
+                      <option name="inputFilter" value="true" />
                     </GrepExpressionItem>
                   </list>
                 </option>
@@ -115,6 +133,8 @@
             </list>
           </option>
           <option name="name" value="default" />
+          <option name="showStatsInConsoleByDefault" value="true" />
+          <option name="showStatsInStatusBarByDefault" value="true" />
         </Profile>
       </list>
     </option>
