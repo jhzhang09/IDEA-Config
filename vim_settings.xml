@@ -25,13 +25,11 @@
       <file name="/a.dummy" timestamp="1544097547699">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_147.sql" timestamp="1544164692148" />
       <file name="$APPLICATION_HOME_DIR$/plugins/restClient/lib/restClient.jar!/com/intellij/ws/rest/client/requests/collection/post-requests.http" timestamp="1544102590494">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="31" column="3" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/iedis/Patterns.txt" timestamp="1544103341868" />
       <file name="$APPLICATION_CONFIG_DIR$/iedis/Terminal_2.iedis" timestamp="1544103487246">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -46,12 +44,11 @@
         <mark key="." line="71" column="119" />
         <mark key="^" line="71" column="119" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_150.sql" timestamp="1544164740472" />
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/user/user.html" timestamp="1544165085408">
-        <mark key="[" line="47" column="32" />
-        <mark key="]" line="47" column="95" />
-        <mark key="^" line="47" column="95" />
-        <mark key="." line="47" column="95" />
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/user/user.html" timestamp="1544169879713">
+        <mark key="[" line="61" column="16" />
+        <mark key="]" line="61" column="7" />
+        <mark key="^" line="61" column="7" />
+        <mark key="." line="61" column="7" />
       </file>
       <file name="/Interface.txt.ft" timestamp="1544063718556">
         <mark key="[" line="0" column="0" />
@@ -82,7 +79,6 @@
         <mark key="." line="3" column="4" />
         <mark key="^" line="3" column="4" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_149.sql" timestamp="1544164739430" />
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/resources/mapper/user/UserDao.xml" timestamp="1544080673741">
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="23" />
@@ -282,43 +278,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">PGlucHV0IHR5cGU9ImJ1dHRvbiIgY2xhc3M9ImJ0biBidG4tcHJpbWFyeSIgdmFsdWU9IrbByKFrZXkiPg==</text>
       </register>
       <register name="/" type="4">
         <text>devtools</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">IyMjIFNlbmQgUE9TVCByZXF1ZXN0IHdpdGgganNvbiBib2R5ClBPU1QgaHR0cHM6Ly9odHRwYmluLm9yZy9wb3N0CkNvbnRlbnQtVHlwZTogYXBwbGljYXRpb24vanNvbgoKewogICJpZCI6IDk5OSwKICAidmFsdWUiOiAiY29udGVudCIKfQoKIyMjIFNlbmQgUE9TVCByZXF1ZXN0IHdpdGggYm9keSBhcyBwYXJhbWV0ZXJzClBPU1QgaHR0cHM6Ly9odHRwYmluLm9yZy9wb3N0CkNvbnRlbnQtVHlwZTogYXBwbGljYXRpb24veC13d3ctZm9ybS11cmxlbmNvZGVkCgppZD05OTkmdmFsdWU9Y29udGVudAoKIyMjIFNlbmQgYSBmb3JtIHdpdGggdGhlIHRleHQgYW5kIGZpbGUgZmllbGRzClBPU1QgaHR0cHM6Ly9odHRwYmluLm9yZy9wb3N0CkNvbnRlbnQtVHlwZTogbXVsdGlwYXJ0L2Zvcm0tZGF0YTsgYm91bmRhcnk9V2ViQXBwQm91bmRhcnkKCi0tV2ViQXBwQm91bmRhcnkKQ29udGVudC1EaXNwb3NpdGlvbjogZm9ybS1kYXRhOyBuYW1lPSJlbGVtZW50LW5hbWUiCkNvbnRlbnQtVHlwZTogdGV4dC9wbGFpbgoKTmFtZQotLVdlYkFwcEJvdW5kYXJ5CkNvbnRlbnQtRGlzcG9zaXRpb246IGZvcm0tZGF0YTsgbmFtZT0iZGF0YSI7IGZpbGVuYW1lPSJkYXRhLmpzb24iCkNvbnRlbnQtVHlwZTogYXBwbGljYXRpb24vanNvbgoKPCAuL3JlcXVlc3QtZm9ybS1kYXRhLmpzb24KLS1XZWJBcHBCb3VuZGFyeS0tCgojIyMK</text>
+        <text encoding="base64">ICAgICAgICAgICA8aW5wdXQgdHlwZT0iYnV0dG9uIiBjbGFzcz0iYnRuIGJ0bi1wcmltYXJ5IiB2YWx1ZT0itsHIoWtleSI+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBUb21jYXQK</text>
+        <text encoding="base64">ICAgICAgICAgICA8aW5wdXQgdHlwZT0iYnV0dG9uIiBjbGFzcz0iYnRuIGJ0bi1wcmltYXJ5IiB2YWx1ZT0itsHIoWtleSI+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBUb21jYXQK</text>
+        <text encoding="base64">ICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtYXAucHV0KCJ0b2tlbiIsIHRva2VuKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1zbS0yIj4K</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CgogICAgLyoqCiAgICAgKiBzaWduRmxhZyA6IMrHt/HHqcP7o6wxLcepw/ujrDAtsrvHqcP7CiAgICAgKi8KICAgIEBWYWx1ZSgiJHtzYWZla2V5Ym9hcmQuaHNtLmZsYWd9IikKICAgIFN0cmluZyBzaWduRmxhZzsK</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IG1hcCA9ICBIYXNoTWFwPD4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGlucHV0IHR5cGU9ImJ1dHRvbiIgY2xhc3M9ImJ0biBidG4tcHJpbWFyeSIgdmFsdWU9IrbByKFrZXkiPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -331,7 +327,7 @@
       <last-replace>E09001</last-replace>
       <last-substitute>E08002</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -407,6 +403,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
