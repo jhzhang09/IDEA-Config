@@ -3,11 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/form/KeyboardBaseForm.java" timestamp="1544096828169">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-      </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/BaseController.java" timestamp="1544162990033">
         <mark key="'" line="58" column="33" />
         <mark key="[" line="19" column="55" />
@@ -24,11 +19,6 @@
       </file>
       <file name="/a.dummy" timestamp="1544097547699">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/iedis/Terminal_2.iedis" timestamp="1544103487246">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="/ApiKeyboardJoinController.java" timestamp="1544097593175">
         <mark key="[" line="0" column="0" />
@@ -98,7 +88,7 @@
         <mark key="^" line="65" column="23" />
         <mark key="." line="65" column="23" />
       </file>
-      <file name="/HTML File.txt.ft" timestamp="1544063712230">
+      <file name="/HTML File.txt.ft" timestamp="1544182759044">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d0d78b12-4954-483f-b026-68f2e189eb10/console.sql" timestamp="1544164766223">
@@ -107,11 +97,11 @@
       <file name="/Dummy.txt" timestamp="1544176694075">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/user/userface.html" timestamp="1544171962147">
-        <mark key="[" line="9" column="26" />
-        <mark key="]" line="9" column="26" />
-        <mark key="." line="9" column="26" />
-        <mark key="^" line="9" column="26" />
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/user/userface.html" timestamp="1544185685492">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="9" />
+        <mark key="." line="18" column="9" />
+        <mark key="^" line="18" column="9" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/form/KeyboardKeyRecForm.java" timestamp="1543997779912">
         <mark key="[" line="10" column="8" />
@@ -135,16 +125,12 @@
         <mark key="^" line="31" column="19" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/sys/user.html" timestamp="1544178085918">
-        <mark key="'" line="21" column="6" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="95" column="7" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/resources/application.yml" timestamp="1544103561804">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/sys/user.html" timestamp="1544184363604">
+        <mark key="'" line="23" column="6" />
+        <mark key="[" line="56" column="39" />
+        <mark key="]" line="56" column="38" />
+        <mark key="." line="56" column="38" />
+        <mark key="^" line="56" column="38" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/form/KeyboardJoinForm.java" timestamp="1544097370852">
         <mark key="[" line="44" column="0" />
@@ -157,11 +143,6 @@
         <mark key="]" line="45" column="5" />
         <mark key="." line="45" column="5" />
         <mark key="^" line="45" column="5" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/iedis/Patterns_1.txt" timestamp="1544103482367">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="/Enum.txt.ft" timestamp="1544063716932">
         <mark key="[" line="0" column="0" />
