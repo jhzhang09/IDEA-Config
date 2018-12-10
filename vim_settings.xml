@@ -3,18 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1544097547699">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/user/user.html" timestamp="1544410958773">
-        <mark key="'" line="14" column="55" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="83" />
-        <mark key="." line="57" column="0" />
-        <mark key="^" line="71" column="22" />
-      </file>
-      <file name="/Interface.txt.ft" timestamp="1544063718556">
-        <mark key="[" line="0" column="0" />
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/user/user.html" timestamp="1544412867849">
+        <mark key="'" line="8" column="4" />
+        <mark key="[" line="78" column="71" />
+        <mark key="]" line="78" column="71" />
+        <mark key="." line="78" column="71" />
+        <mark key="^" line="56" column="73" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/modules/user/dao/UserDao.java" timestamp="1544087056582">
         <mark key="'" line="36" column="6" />
@@ -53,8 +47,12 @@
         <mark key="^" line="65" column="23" />
         <mark key="." line="65" column="23" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/iedis/Terminal_1.iedis" timestamp="1544103421157">
-        <mark key="[" line="0" column="0" />
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/user/user.js" timestamp="1544412746144">
+        <mark key="'" line="94" column="16" />
+        <mark key="[" line="224" column="0" />
+        <mark key="]" line="224" column="0" />
+        <mark key="." line="224" column="0" />
+        <mark key="^" line="223" column="69" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/validator/AbstractApiAssert.java" timestamp="1544082695211">
         <mark key="[" line="29" column="3" />
@@ -108,9 +106,6 @@
         <mark key="^" line="100" column="47" />
         <mark key="." line="100" column="47" />
       </file>
-      <file name="/172.16.32.9" timestamp="1544103484372">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/sys/role.html" timestamp="1544409541465">
         <mark key="'" line="23" column="14" />
         <mark key="[" line="15" column="7" />
@@ -137,9 +132,6 @@
         <mark key="[" line="29" column="71" />
         <mark key="]" line="29" column="71" />
         <mark key="." line="29" column="71" />
-      </file>
-      <file name="/ApiKeyboardJoinController.java" timestamp="1544097593175">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiRequestPolicyController.java" timestamp="1544098087896">
         <mark key="[" line="71" column="52" />
@@ -177,15 +169,6 @@
         <mark key="[" line="20" column="74" />
         <mark key="]" line="20" column="74" />
         <mark key="." line="20" column="74" />
-      </file>
-      <file name="/HTML File.txt.ft" timestamp="1544182759044">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d0d78b12-4954-483f-b026-68f2e189eb10/console.sql" timestamp="1544164766223">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1544176694075">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/user/userface.html" timestamp="1544409598563">
         <mark key="'" line="21" column="4" />
@@ -231,14 +214,10 @@
         <mark key="^" line="22" column="13" />
         <mark key="." line="23" column="56" />
       </file>
-      <file name="/Enum.txt.ft" timestamp="1544063716932">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Class.txt.ft" timestamp="1544063714797">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/AnnotationType.txt.ft" timestamp="1544063719303">
-        <mark key="[" line="0" column="0" />
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/keyboard/keyboard.js" timestamp="1544412633092">
+        <mark key="'" line="167" column="8" />
+        <mark key="[" line="500" column="0" />
+        <mark key="]" line="500" column="77" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/java/com/tdr/modules/user/controller/UserController.java" timestamp="1544095857143">
         <mark key="[" line="65" column="0" />
@@ -258,9 +237,6 @@
         <mark key="." line="191" column="15" />
         <mark key="^" line="191" column="15" />
       </file>
-      <file name="/fragment.java" timestamp="1544080972850">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/sys/dept.html" timestamp="1544409355309">
         <mark key="'" line="23" column="12" />
         <mark key="[" line="23" column="56" />
@@ -269,18 +245,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="49" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/common/utils/cert/PKCS7CertUtil.java" />
-      <jump line="76" column="12" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/common/utils/cert/PKCS7CertUtil.java" />
-      <jump line="80" column="12" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/common/utils/cert/PKCS7CertUtil.java" />
-      <jump line="27" column="5" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/common/utils/cert/PKCS7CertUtil.java" />
-      <jump line="19" column="303" filename="D:/Workspaces/IntelliJ/tradingcenter/ccb-verifier/src/test/java/com/tdr/verifier/CcbVerifierTest.java" />
-      <jump line="24" column="1" filename="D:/Workspaces/IntelliJ/tradingcenter/ccb-verifier/src/test/java/com/tdr/verifier/CcbVerifierTest.java" />
-      <jump line="22" column="15" filename="D:/Workspaces/IntelliJ/tradingcenter/ccb-verifier/pom.xml" />
-      <jump line="29" column="32" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/common/utils/cert/PKCS7CertUtil.java" />
-      <jump line="28" column="7" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/common/utils/cert/PKCS7CertUtil.java" />
-      <jump line="32" column="0" filename="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/util/ca/PKCS7Utils.java" />
-      <jump line="185" column="0" filename="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/util/ca/PKCS7Utils.java" />
-      <jump line="28" column="1" filename="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/util/ca/PKCS7Utils.java" />
       <jump line="27" column="4" filename="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/util/ca/PKCS7Utils.java" />
       <jump line="26" column="4" filename="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/util/ca/PKCS7Utils.java" />
       <jump line="33" column="7" filename="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/util/ca/PKCS7Utils.java" />
@@ -369,55 +333,67 @@
       <jump line="18" column="6" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/user/userface.html" />
       <jump line="16" column="6" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/user/userface.html" />
       <jump line="21" column="4" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/user/userface.html" />
+      <jump line="180" column="9" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/user/user.js" />
+      <jump line="116" column="37" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/user/user.js" />
+      <jump line="1" column="0" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/keyboard/keyboard.js" />
+      <jump line="210" column="19" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/keyboard/keyboard.js" />
+      <jump line="211" column="56" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/keyboard/keyboard.js" />
+      <jump line="213" column="34" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/keyboard/keyboard.js" />
+      <jump line="232" column="64" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/keyboard/keyboard.js" />
+      <jump line="484" column="35" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/keyboard/keyboard.js" />
+      <jump line="500" column="35" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/keyboard/keyboard.js" />
+      <jump line="167" column="8" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/keyboard/keyboard.js" />
+      <jump line="94" column="16" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/user/user.js" />
+      <jump line="8" column="4" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/user/user.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IGNsYXNzPSJidG4gYnRuLXByaW1hcnkiIHR5cGU9ImJ1dHRvbiIgdmFsdWU9IrbByKFrZXkiPgo=</text>
+      <register name="&quot;" type="4">
+        <text>?</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>?</text>
       </register>
       <register name="/" type="4">
-        <text>#if</text>
+        <text>monitorStartTime</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IGNsYXNzPSJidG4gYnRuLXByaW1hcnkiIHR5cGU9ImJ1dHRvbiIgdmFsdWU9IrbByKFrZXkiPgo=</text>
+        <text encoding="base64">CQkJdGhpcy4kc2V0KHRoaXMuX2RhdGEsICdtb25pdG9yU3RhcnRUaW1lJywgc3RhcnREYXRlcGlja2VyLnZhbHVlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5zcHJpbmctYm9vdC1kZXZ0b29sczwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHNjb3BlPnJ1bnRpbWU8L3Njb3BlPgogICAgICAgICAgICA8b3B0aW9uYWw+dHJ1ZTwvb3B0aW9uYWw+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sPgo8aGVhZD4KPHRpdGxlPrncwO3UscHQse08L3RpdGxlPgo8I2luY2x1ZGUgIi9oZWFkZXIuaHRtbCI+CjwvaGVhZD4KPGJvZHk+CjxkaXYgaWQ9InJyYXBwIiB2LWNsb2FrPgoJPGRpdiB2LXNob3c9InNob3dMaXN0Ij4KCQk8ZGl2IGNsYXNzPSJncmlkLWJ0biI+CgkJCTxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAgY29sLXNtLTIiPgoJCQkJPGlucHV0IHR5cGU9InRleHQiIGNsYXNzPSJmb3JtLWNvbnRyb2wiIHYtbW9kZWw9InEudXNlcm5hbWUiIEBrZXl1cC5lbnRlcj0icXVlcnkiIHBsYWNlaG9sZGVyPSLTw7unw/siPgoJCQk8L2Rpdj4KCQkJPGEgY2xhc3M9ImJ0biBidG4tZGVmYXVsdCIgQGNsaWNrPSJxdWVyeSI+sunRrzwvYT4KCQkJPCNpZiBzaGlyby5oYXNQZXJtaXNzaW9uKCJzeXM6dXNlcjpzYXZlIik+CgkJCTxhIGNsYXNzPSJidG4gYnRuLXByaW1hcnkiIEBjbGljaz0iYWRkIj48aSBjbGFzcz0iZmEgZmEtcGx1cyI+PC9pPiZuYnNwO9DC1PY8L2E+CgkJCTwvI2lmPgoJCQk8I2lmIHNoaXJvLmhhc1Blcm1pc3Npb24oInN5czp1c2VyOnVwZGF0ZSIpPgoJCQk8YSBjbGFzcz0iYnRuIGJ0bi1wcmltYXJ5IiBAY2xpY2s9InVwZGF0ZSI+PGkgY2xhc3M9ImZhIGZhLXBlbmNpbC1zcXVhcmUtbyI+PC9pPiZuYnNwO9DeuMQ8L2E+CgkJCTwvI2lmPgoJCQk8I2lmIHNoaXJvLmhhc1Blcm1pc3Npb24oInN5czp1c2VyOmRlbGV0ZSIpPgoJCQk8YSBjbGFzcz0iYnRuIGJ0bi1wcmltYXJ5IiBAY2xpY2s9ImRlbCI+PGkgY2xhc3M9ImZhIGZhLXRyYXNoLW8iPjwvaT4mbmJzcDvJvrP9PC9hPgoJCQk8LyNpZj4KCQk8L2Rpdj4KCSAgICA8dGFibGUgaWQ9ImpxR3JpZCI+PC90YWJsZT4KCSAgICA8ZGl2IGlkPSJqcUdyaWRQYWdlciI+PC9kaXY+CiAgICA8L2Rpdj4KCgk8ZGl2IHYtc2hvdz0iIXNob3dMaXN0IiBjbGFzcz0icGFuZWwgcGFuZWwtZGVmYXVsdCI+CgkJPGRpdiBjbGFzcz0icGFuZWwtaGVhZGluZyI+e3t0aXRsZX19PC9kaXY+CgkJPGZvcm0gY2xhc3M9ImZvcm0taG9yaXpvbnRhbCI+CgkJCTxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAiPgoJCQkJPGRpdiBjbGFzcz0iY29sLXNtLTIgY29udHJvbC1sYWJlbCI+08O7p8P7PC9kaXY+CgkJCQk8ZGl2IGNsYXNzPSJjb2wtc20tMTAiPgoJCQkJCTxpbnB1dCB0eXBlPSJ0ZXh0IiBjbGFzcz0iZm9ybS1jb250cm9sIiB2LW1vZGVsPSJ1c2VyLnVzZXJuYW1lIiBwbGFjZWhvbGRlcj0itcfCvNXLusUiLz4KCQkJCTwvZGl2PgoJCQk8L2Rpdj4KCQkJPGRpdiBjbGFzcz0iZm9ybS1ncm91cCI+CgkJCQk8ZGl2IGNsYXNzPSJjb2wtc20tMiBjb250cm9sLWxhYmVsIj7L+cr0sr/DxTwvZGl2PgoJCQkJPGRpdiBjbGFzcz0iY29sLXNtLTEwIj4KCQkJCQk8aW5wdXQgdHlwZT0idGV4dCIgY2xhc3M9ImZvcm0tY29udHJvbCIgc3R5bGU9ImN1cnNvcjpwb2ludGVyOyIgdi1tb2RlbD0idXNlci5kZXB0TmFtZSIgQGNsaWNrPSJkZXB0VHJlZSIgcmVhZG9ubHk9InJlYWRvbmx5IiBwbGFjZWhvbGRlcj0iy/nK9LK/w8UiLz4KCQkJCTwvZGl2PgoJCQk8L2Rpdj4KCQkJPGRpdiBjbGFzcz0iZm9ybS1ncm91cCI+CgkJCQk8ZGl2IGNsYXNzPSJjb2wtc20tMiBjb250cm9sLWxhYmVsIj7D3MLrPC9kaXY+CgkJCQk8ZGl2IGNsYXNzPSJjb2wtc20tMTAiPgoJCQkJCTxpbnB1dCB0eXBlPSJ0ZXh0IiBjbGFzcz0iZm9ybS1jb250cm9sIiB2LW1vZGVsPSJ1c2VyLnBhc3N3b3JkIiBwbGFjZWhvbGRlcj0iw9zC6yIvPgoJCQkJPC9kaXY+CgkJCTwvZGl2PgoJCQk8ZGl2IGNsYXNzPSJmb3JtLWdyb3VwIj4KCQkJCTxkaXYgY2xhc3M9ImNvbC1zbS0yIGNvbnRyb2wtbGFiZWwiPtPKz+Q8L2Rpdj4KCQkJCTxkaXYgY2xhc3M9ImNvbC1zbS0xMCI+CgkJCQkJPGlucHV0IHR5cGU9InRleHQiIGNsYXNzPSJmb3JtLWNvbnRyb2wiIHYtbW9kZWw9InVzZXIuZW1haWwiIHBsYWNlaG9sZGVyPSLTys/kIi8+CgkJCQk8L2Rpdj4KCQkJPC9kaXY+CgkJCTxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAiPgoJCQkJPGRpdiBjbGFzcz0iY29sLXNtLTIgY29udHJvbC1sYWJlbCI+yta7+rrFPC9kaXY+CgkJCQk8ZGl2IGNsYXNzPSJjb2wtc20tMTAiPgoJCQkJCTxpbnB1dCB0eXBlPSJ0ZXh0IiBjbGFzcz0iZm9ybS1jb250cm9sIiB2LW1vZGVsPSJ1c2VyLm1vYmlsZSIgcGxhY2Vob2xkZXI9IsrWu/q6xSIvPgoJCQkJPC9kaXY+CgkJCTwvZGl2PgoJCQk8ZGl2IGNsYXNzPSJmb3JtLWdyb3VwIj4KCQkJCTxkaXYgY2xhc3M9ImNvbC1zbS0yIGNvbnRyb2wtbGFiZWwiPr3Hyas8L2Rpdj4KCQkJCTxkaXYgY2xhc3M9ImNvbC1zbS0xMCI+CgkJCQkJPGxhYmVsIHYtZm9yPSJyb2xlIGluIHJvbGVMaXN0IiBjbGFzcz0iY2hlY2tib3gtaW5saW5lIj4KCQkJCQkJPGlucHV0IHR5cGU9ImNoZWNrYm94IiA6dmFsdWU9InJvbGUucm9sZUlkIiB2LW1vZGVsPSJ1c2VyLnJvbGVJZExpc3QiPnt7cm9sZS5yb2xlTmFtZX19CgkJCQkJPC9sYWJlbD4KCQkJCTwvZGl2PgoJCQk8L2Rpdj4KCQkJPGRpdiBjbGFzcz0iZm9ybS1ncm91cCI+CgkJCQk8ZGl2IGNsYXNzPSJjb2wtc20tMiBjb250cm9sLWxhYmVsIj7XtMysPC9kaXY+CgkJCQk8bGFiZWwgY2xhc3M9InJhZGlvLWlubGluZSI+CgkJCQkJPGlucHV0IHR5cGU9InJhZGlvIiBuYW1lPSJzdGF0dXMiIHZhbHVlPSIwIiB2LW1vZGVsPSJ1c2VyLnN0YXR1cyIvPiC9+9PDCgkJCQk8L2xhYmVsPgoJCQkJPGxhYmVsIGNsYXNzPSJyYWRpby1pbmxpbmUiPgoJCQkJCTxpbnB1dCB0eXBlPSJyYWRpbyIgbmFtZT0ic3RhdHVzIiB2YWx1ZT0iMSIgdi1tb2RlbD0idXNlci5zdGF0dXMiLz4g1f2zowoJCQkJPC9sYWJlbD4KCQkJPC9kaXY+CgkJCTxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAiPgoJCQkJPGRpdiBjbGFzcz0iY29sLXNtLTIgY29udHJvbC1sYWJlbCI+PC9kaXY+CgkJCQk8aW5wdXQgdHlwZT0iYnV0dG9uIiBjbGFzcz0iYnRuIGJ0bi1wcmltYXJ5IiBAY2xpY2s9InNhdmVPclVwZGF0ZSIgdmFsdWU9Isi3tqgiLz4KCQkJCSZuYnNwOyZuYnNwOzxpbnB1dCB0eXBlPSJidXR0b24iIGNsYXNzPSJidG4gYnRuLXdhcm5pbmciIEBjbGljaz0icmVsb2FkIiB2YWx1ZT0it7W72CIvPgoJCQk8L2Rpdj4KCQk8L2Zvcm0+Cgk8L2Rpdj4KPC9kaXY+Cgo8IS0tINGh1PGyv8PFIC0tPgo8ZGl2IGlkPSJkZXB0TGF5ZXIiIHN0eWxlPSJkaXNwbGF5OiBub25lO3BhZGRpbmc6MTBweDsiPgoJPHVsIGlkPSJkZXB0VHJlZSIgY2xhc3M9Inp0cmVlIj48L3VsPgo8L2Rpdj4KCjxzY3JpcHQgc3JjPSIke3JlcXVlc3QuY29udGV4dFBhdGh9L3N0YXRpY3MvanMvbW9kdWxlcy9zeXMvdXNlci5qcz9fJHsubm93P2xvbmd9Ij48L3NjcmlwdD4KPC9ib2R5Pgo8L2h0bWw+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtc20tNjY2NjY2Ij4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHdlYjogZGVidWcK</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5zcHJpbmctYm9vdC1kZXZ0b29sczwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHNjb3BlPnJ1bnRpbWU8L3Njb3BlPgogICAgICAgICAgICA8b3B0aW9uYWw+dHJ1ZTwvb3B0aW9uYWw+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJpYWJsZXMucHV0KCJzaGlybyIsIHNoaXJvVGFnKTtkZAo=</text>
+        <text encoding="base64">PCFET0NUWVBFIGh0bWw+CjxodG1sPgo8aGVhZD4KPHRpdGxlPrncwO3UscHQse08L3RpdGxlPgo8I2luY2x1ZGUgIi9oZWFkZXIuaHRtbCI+CjwvaGVhZD4KPGJvZHk+CjxkaXYgaWQ9InJyYXBwIiB2LWNsb2FrPgoJPGRpdiB2LXNob3c9InNob3dMaXN0Ij4KCQk8ZGl2IGNsYXNzPSJncmlkLWJ0biI+CgkJCTxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAgY29sLXNtLTIiPgoJCQkJPGlucHV0IHR5cGU9InRleHQiIGNsYXNzPSJmb3JtLWNvbnRyb2wiIHYtbW9kZWw9InEudXNlcm5hbWUiIEBrZXl1cC5lbnRlcj0icXVlcnkiIHBsYWNlaG9sZGVyPSLTw7unw/siPgoJCQk8L2Rpdj4KCQkJPGEgY2xhc3M9ImJ0biBidG4tZGVmYXVsdCIgQGNsaWNrPSJxdWVyeSI+sunRrzwvYT4KCQkJPCNpZiBzaGlyby5oYXNQZXJtaXNzaW9uKCJzeXM6dXNlcjpzYXZlIik+CgkJCTxhIGNsYXNzPSJidG4gYnRuLXByaW1hcnkiIEBjbGljaz0iYWRkIj48aSBjbGFzcz0iZmEgZmEtcGx1cyI+PC9pPiZuYnNwO9DC1PY8L2E+CgkJCTwvI2lmPgoJCQk8I2lmIHNoaXJvLmhhc1Blcm1pc3Npb24oInN5czp1c2VyOnVwZGF0ZSIpPgoJCQk8YSBjbGFzcz0iYnRuIGJ0bi1wcmltYXJ5IiBAY2xpY2s9InVwZGF0ZSI+PGkgY2xhc3M9ImZhIGZhLXBlbmNpbC1zcXVhcmUtbyI+PC9pPiZuYnNwO9DeuMQ8L2E+CgkJCTwvI2lmPgoJCQk8I2lmIHNoaXJvLmhhc1Blcm1pc3Npb24oInN5czp1c2VyOmRlbGV0ZSIpPgoJCQk8YSBjbGFzcz0iYnRuIGJ0bi1wcmltYXJ5IiBAY2xpY2s9ImRlbCI+PGkgY2xhc3M9ImZhIGZhLXRyYXNoLW8iPjwvaT4mbmJzcDvJvrP9PC9hPgoJCQk8LyNpZj4KCQk8L2Rpdj4KCSAgICA8dGFibGUgaWQ9ImpxR3JpZCI+PC90YWJsZT4KCSAgICA8ZGl2IGlkPSJqcUdyaWRQYWdlciI+PC9kaXY+CiAgICA8L2Rpdj4KCgk8ZGl2IHYtc2hvdz0iIXNob3dMaXN0IiBjbGFzcz0icGFuZWwgcGFuZWwtZGVmYXVsdCI+CgkJPGRpdiBjbGFzcz0icGFuZWwtaGVhZGluZyI+e3t0aXRsZX19PC9kaXY+CgkJPGZvcm0gY2xhc3M9ImZvcm0taG9yaXpvbnRhbCI+CgkJCTxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAiPgoJCQkJPGRpdiBjbGFzcz0iY29sLXNtLTIgY29udHJvbC1sYWJlbCI+08O7p8P7PC9kaXY+CgkJCQk8ZGl2IGNsYXNzPSJjb2wtc20tMTAiPgoJCQkJCTxpbnB1dCB0eXBlPSJ0ZXh0IiBjbGFzcz0iZm9ybS1jb250cm9sIiB2LW1vZGVsPSJ1c2VyLnVzZXJuYW1lIiBwbGFjZWhvbGRlcj0itcfCvNXLusUiLz4KCQkJCTwvZGl2PgoJCQk8L2Rpdj4KCQkJPGRpdiBjbGFzcz0iZm9ybS1ncm91cCI+CgkJCQk8ZGl2IGNsYXNzPSJjb2wtc20tMiBjb250cm9sLWxhYmVsIj7L+cr0sr/DxTwvZGl2PgoJCQkJPGRpdiBjbGFzcz0iY29sLXNtLTEwIj4KCQkJCQk8aW5wdXQgdHlwZT0idGV4dCIgY2xhc3M9ImZvcm0tY29udHJvbCIgc3R5bGU9ImN1cnNvcjpwb2ludGVyOyIgdi1tb2RlbD0idXNlci5kZXB0TmFtZSIgQGNsaWNrPSJkZXB0VHJlZSIgcmVhZG9ubHk9InJlYWRvbmx5IiBwbGFjZWhvbGRlcj0iy/nK9LK/w8UiLz4KCQkJCTwvZGl2PgoJCQk8L2Rpdj4KCQkJPGRpdiBjbGFzcz0iZm9ybS1ncm91cCI+CgkJCQk8ZGl2IGNsYXNzPSJjb2wtc20tMiBjb250cm9sLWxhYmVsIj7D3MLrPC9kaXY+CgkJCQk8ZGl2IGNsYXNzPSJjb2wtc20tMTAiPgoJCQkJCTxpbnB1dCB0eXBlPSJ0ZXh0IiBjbGFzcz0iZm9ybS1jb250cm9sIiB2LW1vZGVsPSJ1c2VyLnBhc3N3b3JkIiBwbGFjZWhvbGRlcj0iw9zC6yIvPgoJCQkJPC9kaXY+CgkJCTwvZGl2PgoJCQk8ZGl2IGNsYXNzPSJmb3JtLWdyb3VwIj4KCQkJCTxkaXYgY2xhc3M9ImNvbC1zbS0yIGNvbnRyb2wtbGFiZWwiPtPKz+Q8L2Rpdj4KCQkJCTxkaXYgY2xhc3M9ImNvbC1zbS0xMCI+CgkJCQkJPGlucHV0IHR5cGU9InRleHQiIGNsYXNzPSJmb3JtLWNvbnRyb2wiIHYtbW9kZWw9InVzZXIuZW1haWwiIHBsYWNlaG9sZGVyPSLTys/kIi8+CgkJCQk8L2Rpdj4KCQkJPC9kaXY+CgkJCTxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAiPgoJCQkJPGRpdiBjbGFzcz0iY29sLXNtLTIgY29udHJvbC1sYWJlbCI+yta7+rrFPC9kaXY+CgkJCQk8ZGl2IGNsYXNzPSJjb2wtc20tMTAiPgoJCQkJCTxpbnB1dCB0eXBlPSJ0ZXh0IiBjbGFzcz0iZm9ybS1jb250cm9sIiB2LW1vZGVsPSJ1c2VyLm1vYmlsZSIgcGxhY2Vob2xkZXI9IsrWu/q6xSIvPgoJCQkJPC9kaXY+CgkJCTwvZGl2PgoJCQk8ZGl2IGNsYXNzPSJmb3JtLWdyb3VwIj4KCQkJCTxkaXYgY2xhc3M9ImNvbC1zbS0yIGNvbnRyb2wtbGFiZWwiPr3Hyas8L2Rpdj4KCQkJCTxkaXYgY2xhc3M9ImNvbC1zbS0xMCI+CgkJCQkJPGxhYmVsIHYtZm9yPSJyb2xlIGluIHJvbGVMaXN0IiBjbGFzcz0iY2hlY2tib3gtaW5saW5lIj4KCQkJCQkJPGlucHV0IHR5cGU9ImNoZWNrYm94IiA6dmFsdWU9InJvbGUucm9sZUlkIiB2LW1vZGVsPSJ1c2VyLnJvbGVJZExpc3QiPnt7cm9sZS5yb2xlTmFtZX19CgkJCQkJPC9sYWJlbD4KCQkJCTwvZGl2PgoJCQk8L2Rpdj4KCQkJPGRpdiBjbGFzcz0iZm9ybS1ncm91cCI+CgkJCQk8ZGl2IGNsYXNzPSJjb2wtc20tMiBjb250cm9sLWxhYmVsIj7XtMysPC9kaXY+CgkJCQk8bGFiZWwgY2xhc3M9InJhZGlvLWlubGluZSI+CgkJCQkJPGlucHV0IHR5cGU9InJhZGlvIiBuYW1lPSJzdGF0dXMiIHZhbHVlPSIwIiB2LW1vZGVsPSJ1c2VyLnN0YXR1cyIvPiC9+9PDCgkJCQk8L2xhYmVsPgoJCQkJPGxhYmVsIGNsYXNzPSJyYWRpby1pbmxpbmUiPgoJCQkJCTxpbnB1dCB0eXBlPSJyYWRpbyIgbmFtZT0ic3RhdHVzIiB2YWx1ZT0iMSIgdi1tb2RlbD0idXNlci5zdGF0dXMiLz4g1f2zowoJCQkJPC9sYWJlbD4KCQkJPC9kaXY+CgkJCTxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAiPgoJCQkJPGRpdiBjbGFzcz0iY29sLXNtLTIgY29udHJvbC1sYWJlbCI+PC9kaXY+CgkJCQk8aW5wdXQgdHlwZT0iYnV0dG9uIiBjbGFzcz0iYnRuIGJ0bi1wcmltYXJ5IiBAY2xpY2s9InNhdmVPclVwZGF0ZSIgdmFsdWU9Isi3tqgiLz4KCQkJCSZuYnNwOyZuYnNwOzxpbnB1dCB0eXBlPSJidXR0b24iIGNsYXNzPSJidG4gYnRuLXdhcm5pbmciIEBjbGljaz0icmVsb2FkIiB2YWx1ZT0it7W72CIvPgoJCQk8L2Rpdj4KCQk8L2Zvcm0+Cgk8L2Rpdj4KPC9kaXY+Cgo8IS0tINGh1PGyv8PFIC0tPgo8ZGl2IGlkPSJkZXB0TGF5ZXIiIHN0eWxlPSJkaXNwbGF5OiBub25lO3BhZGRpbmc6MTBweDsiPgoJPHVsIGlkPSJkZXB0VHJlZSIgY2xhc3M9Inp0cmVlIj48L3VsPgo8L2Rpdj4KCjxzY3JpcHQgc3JjPSIke3JlcXVlc3QuY29udGV4dFBhdGh9L3N0YXRpY3MvanMvbW9kdWxlcy9zeXMvdXNlci5qcz9fJHsubm93P2xvbmd9Ij48L3NjcmlwdD4KPC9ib2R5Pgo8L2h0bWw+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJPC8jaWY+Cg==</text>
+        <text encoding="base64">ICAgIHdlYjogZGVidWcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJPGEgY2xhc3M9ImJ0biBidG4tcHJpbWFyeSIgQGNsaWNrPSJkZWwiPjxpIGNsYXNzPSJmYSBmYS10cmFzaC1vIj48L2k+Jm5ic3A7yb6z/TwvYT4K</text>
+        <text encoding="base64">ICAgICAgICB2YXJpYWJsZXMucHV0KCJzaGlybyIsIHNoaXJvVGFnKTtkZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJPCNpZiBzaGlyby5oYXNQZXJtaXNzaW9uKCJzeXM6dXNlcjpkZWxldGUiKT4K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">CQkJPC8jaWY+Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQkJPGEgY2xhc3M9ImJ0biBidG4tcHJpbWFyeSIgQGNsaWNrPSJkZWwiPjxpIGNsYXNzPSJmYSBmYS10cmFzaC1vIj48L2k+Jm5ic3A7yb6z/TwvYT4K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJPGEgY2xhc3M9ImJ0biBidG4tcHJpbWFyeSIgQGNsaWNrPSJ1cGRhdGUiPjxpIGNsYXNzPSJmYSBmYS1wZW5jaWwtc3F1YXJlLW8iPjwvaT4mbmJzcDvQ3rjEPC9hPgo=</text>
+        <text encoding="base64">CQkJPCNpZiBzaGlyby5oYXNQZXJtaXNzaW9uKCJzeXM6dXNlcjpkZWxldGUiKT4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>#if</last-search>
+      <last-search>monitorStartTime</last-search>
       <last-offset />
-      <last-pattern>#if</last-pattern>
+      <last-pattern>monitorStartTime</last-pattern>
       <last-replace>@shiro.hasPermission</last-replace>
       <last-substitute>#if</last-substitute>
       <last-dir>1</last-dir>
@@ -448,6 +424,7 @@
         <entry>#if\ shiro.hasPermision(</entry>
         <entry>#if\ shiro.hasPermission(</entry>
         <entry>#if</entry>
+        <entry>monitorStartTime</entry>
       </history-search>
       <history-cmd>
         <entry>%s/#if\ //g</entry>
