@@ -39,11 +39,11 @@
         <mark key="." line="24" column="57" />
         <mark key="^" line="24" column="57" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/user/user.html" timestamp="1544495159517">
-        <mark key="'" line="80" column="6" />
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/user/user.html" timestamp="1544497643524">
+        <mark key="'" line="22" column="8" />
         <mark key="[" line="12" column="55" />
         <mark key="]" line="12" column="55" />
-        <mark key="." line="12" column="55" />
+        <mark key="." line="22" column="78" />
         <mark key="^" line="12" column="56" />
       </file>
       <file name="/ApiKeyboardJoinController.java" timestamp="1544097593175">
@@ -97,6 +97,9 @@
         <mark key="." line="15" column="93" />
         <mark key="^" line="17" column="3" />
       </file>
+      <file name="/JavaScript Console" timestamp="1544498045191">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/user/user.js" timestamp="1544433614235">
         <mark key="'" line="88" column="15" />
         <mark key="[" line="114" column="0" />
@@ -116,7 +119,7 @@
         <mark key="." line="34" column="51" />
         <mark key="^" line="34" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544495474437">
+      <file name="/Dummy.txt" timestamp="1544497573747">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/user/userface.html" timestamp="1544409598563">
@@ -231,11 +234,11 @@
         <mark key="." line="23" column="14" />
         <mark key="^" line="23" column="14" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/java/com/tdr/modules/user/controller/UserController.java" timestamp="1544435939195">
-        <mark key="[" line="157" column="16" />
-        <mark key="]" line="122" column="46" />
-        <mark key="^" line="122" column="46" />
-        <mark key="." line="122" column="46" />
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/java/com/tdr/modules/user/controller/UserController.java" timestamp="1544497880537">
+        <mark key="'" line="181" column="12" />
+        <mark key="[" line="181" column="0" />
+        <mark key="]" line="181" column="47" />
+        <mark key="." line="181" column="0" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/constants/ErrorCodeConstants.java" timestamp="1544083309058">
         <mark key="[" line="181" column="49" />
@@ -248,11 +251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="53" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/sys/dept.html" />
-      <jump line="71" column="7" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/sys/role.html" />
-      <jump line="0" column="0" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/keyboard/keyboard.html" />
-      <jump line="24" column="8" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/keyboard/keyboard.html" />
-      <jump line="0" column="0" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/keyboard/keyboardtoken.html" />
       <jump line="16" column="12" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/keyboard/keyboardtoken.html" />
       <jump line="0" column="0" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/keyboarduser/rkeyboarduser.html" />
       <jump line="16" column="12" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/keyboarduser/rkeyboarduser.html" />
@@ -348,10 +346,15 @@
       <jump line="53" column="31" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/pom.xml" />
       <jump line="55" column="41" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/user/user.html" />
       <jump line="80" column="6" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/user/user.html" />
+      <jump line="125" column="9" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/java/com/tdr/modules/user/controller/UserController.java" />
+      <jump line="1" column="0" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/java/com/tdr/modules/user/controller/UserController.java" />
+      <jump line="12" column="55" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/user/user.html" />
+      <jump line="22" column="8" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/user/user.html" />
+      <jump line="181" column="12" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/java/com/tdr/modules/user/controller/UserController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFJSRXhjZXB0aW9uKCLO3tCntcTNvMaszt63qNequ7siKTsK</text>
       </register>
       <register name="-" type="4">
         <text>1</text>
@@ -363,31 +366,31 @@
         <text encoding="base64">ICAgICAgICAgICAgaW50IGlkTm9Db3VudCA9IHVzZXJTZXJ2aWNlLmNvdW50KG5ldyBRdWVyeVdyYXBwZXI8VXNlckVudGl0eT4oKS5lcSgiaWRfbm8iLCB1c2VyLmdldElkTm8oKSkpOwogICAgICAgICAgICBpZiAoaWROb0NvdW50ICE9IDApIHsKICAgICAgICAgICAgICAgIHRocm93IG5ldyBSUkV4Y2VwdGlvbigitMvJ7bfd1qS6xdPDu6fS0b6tzO280yIpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnJ1bnRpbWU8L3Njb3BlPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFJSRXhjZXB0aW9uKCLO3tCntcTNvMaszt63qNequ7siKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgaW50IGtleVVzZXJDb3VudCA9IHVzZXJTZXJ2aWNlLmNvdW50KG5ldyBRdWVyeVdyYXBwZXI8VXNlckVudGl0eT4oKS5lcSgia2V5X3N1IiwgdXNlci5nZXRLZXlTbigpKSk7CiAgICAgICAgICAgIGlmIChrZXlVc2VyQ291bnQgIT0gMCkgewogICAgICAgICAgICAgICAgdGhyb3cgbmV3IFJSRXhjZXB0aW9uKCK0y2tledLRsPO2qLW9xuTL+9PDu6ciKTsKICAgICAgICAgICAgfQog</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGQnZGQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIDxuYW1lPnNhZmVrZXlib2FyZDwvbmFtZT4K</text>
+      <register name="5" type="4">
+        <text encoding="base64">aW50IGtleVVzZXJDb3VudCA9IHVzZXJTZXJ2aWNlLmNvdW50KG5ldyBRdWVyeVdyYXBwZXI8VXNlckVudGl0eT4oKS5lcSgia2V5X3NuIiwgdXNlci5nZXRLZXlTbigpKSk7CiAgICAgICAgaWYgKGtleVVzZXJDb3VudCAhPSAwKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBSUkV4Y2VwdGlvbigitMtrZXnS0bDztqi1vcbky/vTw7unIik7CiAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGQnZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnJ1bnRpbWU8L3Njb3BlPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHZtLmZhY2VJbWFnZUZpbGUgIT0gbnVsbCkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgKQo=</text>
+        <text encoding="base64">ICAgIGQnZGQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
