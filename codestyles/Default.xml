@@ -2,4 +2,7 @@
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="-1" />
   </MarkdownNavigatorCodeStyleSettings>
+  <SqlCodeStyleSettings version="2">
+    <option name="KEYWORD_CASE" value="0" />
+  </SqlCodeStyleSettings>
 </code_scheme>
