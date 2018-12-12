@@ -35,11 +35,12 @@
       <file name="/Interface.txt.ft" timestamp="1544063718556">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/modules/user/dao/UserDao.java" timestamp="1544516652393">
-        <mark key="'" line="48" column="0" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/modules/user/dao/UserDao.java" timestamp="1544583890626">
+        <mark key="'" line="41" column="5" />
+        <mark key="[" line="14" column="24" />
+        <mark key="]" line="14" column="24" />
+        <mark key="." line="14" column="24" />
+        <mark key="^" line="14" column="24" />
       </file>
       <file name="/&lt;Generic&gt; Fragment (UserDao.xml:1648).sql" timestamp="1544516053257">
         <mark key="[" line="0" column="0" />
@@ -57,11 +58,12 @@
         <mark key="^" line="49" column="13" />
         <mark key="." line="49" column="13" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/resources/mapper/user/UserDao.xml" timestamp="1544521198458">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="50" column="14" />
-        <mark key="]" line="50" column="14" />
-        <mark key="." line="50" column="14" />
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/resources/mapper/user/UserDao.xml" timestamp="1544583996231">
+        <mark key="'" line="34" column="9" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="29" column="35" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/pom.xml" timestamp="1544509843166">
         <mark key="[" line="11" column="0" />
@@ -213,7 +215,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d0d78b12-4954-483f-b026-68f2e189eb10/console.sql" timestamp="1544164766223">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544517282819">
+      <file name="/Dummy.txt" timestamp="1544584331306">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -295,9 +297,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="12" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/record/useridrecord.html" />
-      <jump line="0" column="0" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/software/clientsoftware.html" />
-      <jump line="29" column="12" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/software/clientsoftware.html" />
       <jump line="18" column="70" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/sys/dept.html" />
       <jump line="23" column="12" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/sys/dept.html" />
       <jump line="0" column="0" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/sys/dict.html" />
@@ -395,59 +394,62 @@
       <jump line="1" column="0" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/resources/a.sql" />
       <jump line="3" column="0" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/resources/a.sql" />
       <jump line="0" column="0" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/resources/a.sql" />
+      <jump line="44" column="22" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/modules/user/dao/UserDao.java" />
+      <jump line="41" column="5" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/modules/user/dao/UserDao.java" />
+      <jump line="44" column="9" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/resources/mapper/user/UserDao.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PC9zcWw+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>修改pom文件，删除无用的配置项</text>
+        <text encoding="base64">PiA=</text>
       </register>
       <register name="/" type="4">
-        <text>too</text>
+        <text>username</text>
       </register>
       <register name="0" type="4">
         <text>修改pom文件，删除无用的配置项</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">PC9zcWw+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNlbGVjdCAqCiAgICBmcm9tIHRiX3VzZXIKICAgIHdoZXJlIHVzZXJfaWQgSU4gKHNlbGVjdCB1c2VyX2lkIGZyb20gdGJfcl9rZXlib2FyZF91c2VyIHdoZXJlIGtleWJvYXJkX2lkID0gI3thcmcwfSBhbmQgdXNlcl9uYW1lID0gI3thcmcxfSkKICAgICAgYW5kIGtleV9zbiA9ICN7YXJnMn0K</text>
+        <text encoding="base64">CWNyZWF0ZV90aW1lCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">c2VsZWN0ICoKZnJvbSB0Yl91c2VyCndoZXJlIHVzZXJfaWQgSU4gKHNlbGVjdCB1c2VyX2lkIGZyb20gdGJfcl9rZXlib2FyZF91c2VyIHdoZXJlIGtleWJvYXJkX2lkID0gI3thcmcwfSBhbmQgdXNlcl9uYW1lID0gI3thcmcxfSkKYW5kIGtleV9zbiA9ICN7YXJnMn0K</text>
+        <text encoding="base64">CWtleV9jZXJ0LAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">CWtleV9zbiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWZhY2VfcGF0aCwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWlkX25vLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDwvc2VsZWN0Pgo=</text>
+        <text encoding="base64">CXVzZXJfbmFtZSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXVzZXJfaWQsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxzZWxlY3QgaWQ9InNlbGVjdEJ5S2V5Ym9hSWRBbmRVc2VyTmFtZUFuZEtleVNuIiByZXN1bHRNYXA9InVzZXJNYXAiPgo=</text>
+        <text encoding="base64">ICAgIDxzcWwgaWQ9IkJhc2VfQ29sdW1uX0xpc3QiPgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qa!</text>
       </register>
     </registers>
     <search>
-      <last-search>too</last-search>
+      <last-search>username</last-search>
       <last-offset />
-      <last-pattern>too</last-pattern>
-      <last-replace>@shiro.hasPermission</last-replace>
-      <last-substitute>#if</last-substitute>
+      <last-pattern>username</last-pattern>
+      <last-replace>userName</last-replace>
+      <last-substitute>username</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -471,6 +473,7 @@
         <entry>user</entry>
         <entry>user.keySn</entry>
         <entry>too</entry>
+        <entry>username</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\/#if/shiro:hasPermission/g</entry>
@@ -491,8 +494,9 @@
         <entry>q!</entry>
         <entry>wa</entry>
         <entry>q</entry>
-        <entry>qa!</entry>
+        <entry>%s/username/userName/g</entry>
         <entry>w</entry>
+        <entry>qa!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
