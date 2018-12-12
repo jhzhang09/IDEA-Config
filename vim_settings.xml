@@ -18,12 +18,12 @@
         <mark key="." line="24" column="57" />
         <mark key="^" line="24" column="57" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/user/user.html" timestamp="1544605002490">
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/user/user.html" timestamp="1544607585685">
         <mark key="'" line="51" column="63" />
-        <mark key="[" line="3" column="19" />
-        <mark key="]" line="3" column="29" />
-        <mark key="." line="3" column="29" />
-        <mark key="^" line="3" column="29" />
+        <mark key="[" line="68" column="107" />
+        <mark key="]" line="68" column="108" />
+        <mark key="." line="68" column="108" />
+        <mark key="^" line="68" column="108" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_812.sql" timestamp="1544520633140">
         <mark key="'" line="0" column="0" />
@@ -74,12 +74,12 @@
         <mark key="." line="32" column="31" />
         <mark key="^" line="32" column="31" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/user/user.js" timestamp="1544605572389">
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/user/user.js" timestamp="1544608266176">
         <mark key="'" line="13" column="8" />
-        <mark key="[" line="227" column="26" />
-        <mark key="]" line="227" column="28" />
-        <mark key="." line="227" column="28" />
-        <mark key="^" line="227" column="28" />
+        <mark key="[" line="221" column="29" />
+        <mark key="]" line="221" column="15" />
+        <mark key="." line="221" column="15" />
+        <mark key="^" line="221" column="15" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/pom.xml" timestamp="1544508783080">
         <mark key="'" line="30" column="0" />
@@ -238,7 +238,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d0d78b12-4954-483f-b026-68f2e189eb10/console.sql" timestamp="1544164766223">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544601531632">
+      <file name="/Dummy.txt" timestamp="1544608013113">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -309,7 +309,7 @@
         <mark key="." line="191" column="15" />
         <mark key="^" line="191" column="15" />
       </file>
-      <file name="/fragment.java" timestamp="1544508290935">
+      <file name="/fragment.java" timestamp="1544608013097">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -416,11 +416,11 @@
       <jump line="13" column="8" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/user/user.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>读</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGEgPSBrZXlib2FyZE9iamVjdDsK</text>
       </register>
       <register name="-" type="4">
-        <text>读</text>
+        <text>6</text>
       </register>
       <register name="/" type="4">
         <text>httpclient.version</text>
@@ -429,34 +429,34 @@
         <text>修改pom文件，删除无用的配置项</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGEgPSBrZXlib2FyZE9iamVjdDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9IiR7cmVxdWVzdC5jb250ZXh0UGF0aH0vc3RhdGljcy9saWJzL2pxdWVyeS52YWxpZGF0ZS5qcyI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">PHNjcmlwdCBzcmM9IiR7cmVxdWVzdC5jb250ZXh0UGF0aH0vc3RhdGljcy9saWJzL2pxdWVyeS52YWxpZGF0ZS5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9IiR7cmVxdWVzdC5jb250ZXh0UGF0aH0vc3RhdGljcy9saWJzL2pxdWVyeS0xLjguMy5qcyI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9IiR7cmVxdWVzdC5jb250ZXh0UGF0aH0vc3RhdGljcy9saWJzL2pxdWVyeS52YWxpZGF0ZS5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PC9zcWw+Cg==</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9IiR7cmVxdWVzdC5jb250ZXh0UGF0aH0vc3RhdGljcy9saWJzL2pxdWVyeS0xLjguMy5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWNyZWF0ZV90aW1lCg==</text>
+        <text encoding="base64">PC9zcWw+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CWtleV9jZXJ0LAo=</text>
+        <text encoding="base64">CWNyZWF0ZV90aW1lCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CWtleV9zbiwK</text>
+        <text encoding="base64">CWtleV9jZXJ0LAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWZhY2VfcGF0aCwK</text>
+        <text encoding="base64">CWtleV9zbiwK</text>
       </register>
       <register name=":" type="4">
-        <text>qa!</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -510,8 +510,8 @@
         <entry>wa</entry>
         <entry>q</entry>
         <entry>%s/username/userName/g</entry>
-        <entry>w</entry>
         <entry>qa!</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
