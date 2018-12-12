@@ -18,12 +18,12 @@
         <mark key="." line="24" column="57" />
         <mark key="^" line="24" column="57" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/user/user.html" timestamp="1544597782183">
-        <mark key="'" line="22" column="8" />
-        <mark key="[" line="33" column="101" />
-        <mark key="]" line="33" column="57" />
-        <mark key="." line="33" column="57" />
-        <mark key="^" line="33" column="57" />
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/user/user.html" timestamp="1544605002490">
+        <mark key="'" line="51" column="63" />
+        <mark key="[" line="3" column="19" />
+        <mark key="]" line="3" column="29" />
+        <mark key="." line="3" column="29" />
+        <mark key="^" line="3" column="29" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_812.sql" timestamp="1544520633140">
         <mark key="'" line="0" column="0" />
@@ -74,12 +74,12 @@
         <mark key="." line="32" column="31" />
         <mark key="^" line="32" column="31" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/user/user.js" timestamp="1544433614235">
-        <mark key="'" line="88" column="15" />
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="114" column="36" />
-        <mark key="." line="114" column="0" />
-        <mark key="^" line="226" column="40" />
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/user/user.js" timestamp="1544605572389">
+        <mark key="'" line="13" column="8" />
+        <mark key="[" line="227" column="26" />
+        <mark key="]" line="227" column="28" />
+        <mark key="." line="227" column="28" />
+        <mark key="^" line="227" column="28" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/pom.xml" timestamp="1544508783080">
         <mark key="'" line="30" column="0" />
@@ -148,7 +148,6 @@
         <mark key="^" line="85" column="50" />
         <mark key="." line="85" column="50" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/libs/validator.js" timestamp="1544597973407" />
       <file name="D:/Workspaces/IntelliJ/safekeyboard/pom.xml" timestamp="1544436702055">
         <mark key="'" line="36" column="35" />
         <mark key="[" line="7" column="0" />
@@ -315,8 +314,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="16" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/sys/menu.html" />
-      <jump line="23" column="12" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/sys/menu.html" />
       <jump line="23" column="14" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/sys/role.html" />
       <jump line="10" column="6" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/user/userface.html" />
       <jump line="18" column="6" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/user/userface.html" />
@@ -415,13 +412,15 @@
       <jump line="1510" column="27" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.1.0.RELEASE/spring-boot-dependencies-2.1.0.RELEASE.pom" />
       <jump line="104" column="24" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.1.0.RELEASE/spring-boot-dependencies-2.1.0.RELEASE.pom" />
       <jump line="7" column="3" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/pom.xml" />
+      <jump line="49" column="63" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/user/user.html" />
+      <jump line="13" column="8" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/user/user.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>max-lifetime: 1800000</text>
+        <text>读</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PiA=</text>
+        <text>读</text>
       </register>
       <register name="/" type="4">
         <text>httpclient.version</text>
@@ -467,13 +466,10 @@
       <last-replace>userName</last-replace>
       <last-substitute>username</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>hasPermisson</entry>
-        <entry encoding="base64">Lmhhc1Blcm1pc3Npb24+</entry>
-        <entry>\/#if</entry>
         <entry>y</entry>
         <entry>shiro:</entry>
         <entry>&quot;)</entry>
@@ -496,7 +492,6 @@
         <entry>httpclient.version</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/\/#if/shiro:hasPermission/g</entry>
         <entry>%s/shiro:/shiro./g</entry>
         <entry>%s/shiro:/#shiro:/g</entry>
         <entry>%s/shiro:/@shiro:/g</entry>
