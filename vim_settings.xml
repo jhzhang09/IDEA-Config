@@ -18,12 +18,12 @@
         <mark key="." line="24" column="57" />
         <mark key="^" line="24" column="57" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/user/user.html" timestamp="1544607585685">
-        <mark key="'" line="51" column="63" />
-        <mark key="[" line="68" column="107" />
-        <mark key="]" line="68" column="108" />
-        <mark key="." line="68" column="108" />
-        <mark key="^" line="68" column="108" />
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/user/user.html" timestamp="1544609869422">
+        <mark key="'" line="66" column="62" />
+        <mark key="[" line="3" column="84" />
+        <mark key="]" line="3" column="98" />
+        <mark key="." line="3" column="98" />
+        <mark key="^" line="3" column="98" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_812.sql" timestamp="1544520633140">
         <mark key="'" line="0" column="0" />
@@ -74,12 +74,12 @@
         <mark key="." line="32" column="31" />
         <mark key="^" line="32" column="31" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/user/user.js" timestamp="1544608266176">
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/user/user.js" timestamp="1544609629193">
         <mark key="'" line="13" column="8" />
-        <mark key="[" line="221" column="29" />
-        <mark key="]" line="221" column="15" />
-        <mark key="." line="221" column="15" />
-        <mark key="^" line="221" column="15" />
+        <mark key="[" line="227" column="28" />
+        <mark key="]" line="227" column="34" />
+        <mark key="." line="227" column="34" />
+        <mark key="^" line="227" column="34" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/pom.xml" timestamp="1544508783080">
         <mark key="'" line="30" column="0" />
@@ -238,7 +238,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d0d78b12-4954-483f-b026-68f2e189eb10/console.sql" timestamp="1544164766223">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544608013113">
+      <file name="/Dummy.txt" timestamp="1544609876057">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -314,7 +314,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="14" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/sys/role.html" />
       <jump line="10" column="6" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/user/userface.html" />
       <jump line="18" column="6" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/user/userface.html" />
       <jump line="16" column="6" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/user/userface.html" />
@@ -414,13 +413,14 @@
       <jump line="7" column="3" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/pom.xml" />
       <jump line="49" column="63" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/user/user.html" />
       <jump line="13" column="8" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/user/user.js" />
+      <jump line="66" column="62" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/user/user.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGEgPSBrZXlib2FyZE9iamVjdDsK</text>
+      <register name="&quot;" type="4">
+        <text>null</text>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>httpclient.version</text>
