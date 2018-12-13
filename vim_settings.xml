@@ -238,7 +238,6 @@
         <mark key="." line="3" column="4" />
         <mark key="^" line="3" column="4" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiIdCardRecognizeController.java" timestamp="1544674585783" />
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/ApiApplication.java" timestamp="1544674822507">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -268,7 +267,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d0d78b12-4954-483f-b026-68f2e189eb10/console.sql" timestamp="1544164766223">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544675273346">
+      <file name="/Dummy.txt" timestamp="1544686798329">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -346,7 +345,7 @@
         <mark key="]" line="73" column="11" />
         <mark key="." line="73" column="11" />
       </file>
-      <file name="/fragment.java" timestamp="1544667861121">
+      <file name="/fragment.java" timestamp="1544686798300">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -493,7 +492,7 @@
         <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qa!</text>
       </register>
     </registers>
     <search>
@@ -503,11 +502,10 @@
       <last-replace encoding="base64">XCA=</last-replace>
       <last-substitute>CcbVerifier.</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>y</entry>
         <entry>shiro:</entry>
         <entry>&quot;)</entry>
         <entry>#if\ shrio.hasPermision(</entry>
@@ -530,8 +528,6 @@
         <entry>CcbVerifier.</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/shiro:/shiro./g</entry>
-        <entry>%s/shiro:/#shiro:/g</entry>
         <entry>%s/shiro:/@shiro:/g</entry>
         <entry>%s/shiro:/@shiro./g</entry>
         <entry encoding="base64">Iik+</entry>
@@ -548,10 +544,10 @@
         <entry>wa</entry>
         <entry>q</entry>
         <entry>%s/username/userName/g</entry>
-        <entry>qa!</entry>
         <entry>%s/CcbVerifier.//g</entry>
         <entry>%s/CcbVerifier./\ /g</entry>
         <entry>w</entry>
+        <entry>qa!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
