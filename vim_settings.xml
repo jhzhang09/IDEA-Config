@@ -133,11 +133,12 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/tradingcenter/ccb-verifier/src/main/java/com/tdr/verifier/CcbVerifier.java" timestamp="1544670757218">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="^" line="61" column="35" />
-        <mark key="." line="59" column="0" />
+      <file name="D:/Workspaces/IntelliJ/tradingcenter/ccb-verifier/src/main/java/com/tdr/verifier/CcbVerifier.java" timestamp="1544676619444">
+        <mark key="'" line="74" column="58" />
+        <mark key="[" line="145" column="13" />
+        <mark key="]" line="145" column="20" />
+        <mark key="^" line="145" column="20" />
+        <mark key="." line="145" column="20" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/sys/log.js" timestamp="1544410239389">
         <mark key="[" line="23" column="26" />
@@ -197,6 +198,11 @@
         <mark key="^" line="66" column="24" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/java/com/tdr/modules/sys/controller/AbstractController.java" timestamp="1544675160562">
+        <mark key="[" line="39" column="14" />
+        <mark key="]" line="39" column="14" />
+        <mark key="." line="39" column="14" />
+      </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/index.html" timestamp="1544595151969">
         <mark key="[" line="110" column="36" />
         <mark key="]" line="113" column="21" />
@@ -232,6 +238,12 @@
         <mark key="." line="3" column="4" />
         <mark key="^" line="3" column="4" />
       </file>
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiIdCardRecognizeController.java" timestamp="1544674585783" />
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/ApiApplication.java" timestamp="1544674822507">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/application-prod.yml" timestamp="1544602151958">
         <mark key="[" line="11" column="6" />
         <mark key="]" line="11" column="26" />
@@ -256,7 +268,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d0d78b12-4954-483f-b026-68f2e189eb10/console.sql" timestamp="1544164766223">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544674180777">
+      <file name="/Dummy.txt" timestamp="1544675273346">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -286,12 +298,14 @@
         <mark key="." line="67" column="3" />
         <mark key="^" line="67" column="3" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/java/com/tdr/AdminApplication.java" timestamp="1544517200256">
-        <mark key="'" line="49" column="0" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="^" line="38" column="48" />
-        <mark key="." line="49" column="0" />
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/java/com/tdr/AdminApplication.java" timestamp="1544675413963">
+        <mark key="a" line="19" column="3" />
+        <mark key="'" line="56" column="0" />
+        <mark key="i" line="19" column="3" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="36" column="10" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/modules/user/service/UserService.java" timestamp="1544087124311">
         <mark key="[" line="45" column="5" />
@@ -327,14 +341,16 @@
         <mark key="." line="191" column="15" />
         <mark key="^" line="191" column="15" />
       </file>
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/java/com/tdr/modules/sys/controller/SysUserController.java" timestamp="1544675128876">
+        <mark key="[" line="73" column="11" />
+        <mark key="]" line="73" column="11" />
+        <mark key="." line="73" column="11" />
+      </file>
       <file name="/fragment.java" timestamp="1544667861121">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="6" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/user/userface.html" />
-      <jump line="16" column="6" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/user/userface.html" />
-      <jump line="21" column="4" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/user/userface.html" />
       <jump line="180" column="9" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/user/user.js" />
       <jump line="116" column="37" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/user/user.js" />
       <jump line="1" column="0" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/keyboard/keyboard.js" />
@@ -432,16 +448,19 @@
       <jump line="66" column="62" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/user/user.html" />
       <jump line="227" column="34" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/user/user.js" />
       <jump line="83" column="48" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiClientFaceController.java" />
+      <jump line="105" column="6" filename="D:/Workspaces/IntelliJ/tradingcenter/ccb-verifier/src/main/java/com/tdr/verifier/CcbVerifier.java" />
+      <jump line="73" column="37" filename="D:/Workspaces/IntelliJ/tradingcenter/ccb-verifier/src/main/java/com/tdr/verifier/CcbVerifier.java" />
+      <jump line="74" column="58" filename="D:/Workspaces/IntelliJ/tradingcenter/ccb-verifier/src/main/java/com/tdr/verifier/CcbVerifier.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>bornKeySignBase64</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>bornKeySignBase64</text>
       </register>
       <register name="/" type="4">
-        <text>httpclient.version</text>
+        <text>CcbVerifier.</text>
       </register>
       <register name="0" type="4">
         <text>修改pom文件，删除无用的配置项</text>
@@ -450,41 +469,41 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIEB0aHJvd3MgSU9FeGNlcHRpb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqICAgICAgICAgICAg1qTK6c/C1NjH68fzcDEwCg==</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBwa3NjMTBCYXNlNjQK</text>
+        <text encoding="base64">ICAgICAqIEB0aHJvd3MgSU9FeGNlcHRpb24K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqICAgICAgICAgICAgzfjS+Lbcs/bJ+sPc1L/HqcP7veG5+wo=</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>httpclient.version</last-search>
+      <last-search>CcbVerifier.</last-search>
       <last-offset />
-      <last-pattern>httpclient.version</last-pattern>
-      <last-replace>userName</last-replace>
-      <last-substitute>username</last-substitute>
+      <last-pattern>CcbVerifier.</last-pattern>
+      <last-replace encoding="base64">XCA=</last-replace>
+      <last-substitute>CcbVerifier.</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -508,6 +527,7 @@
         <entry>username</entry>
         <entry>slims</entry>
         <entry>httpclient.version</entry>
+        <entry>CcbVerifier.</entry>
       </history-search>
       <history-cmd>
         <entry>%s/shiro:/shiro./g</entry>
@@ -529,6 +549,8 @@
         <entry>q</entry>
         <entry>%s/username/userName/g</entry>
         <entry>qa!</entry>
+        <entry>%s/CcbVerifier.//g</entry>
+        <entry>%s/CcbVerifier./\ /g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
