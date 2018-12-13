@@ -203,6 +203,13 @@
         <mark key="^" line="113" column="21" />
         <mark key="." line="113" column="21" />
       </file>
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiClientFaceController.java" timestamp="1544674077564">
+        <mark key="'" line="82" column="48" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="37" column="89" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="/ApiKeyboardJoinController.java" timestamp="1544097593175">
         <mark key="[" line="0" column="0" />
       </file>
@@ -249,7 +256,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d0d78b12-4954-483f-b026-68f2e189eb10/console.sql" timestamp="1544164766223">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544669070512">
+      <file name="/Dummy.txt" timestamp="1544674180777">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -325,7 +332,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="6" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/user/userface.html" />
       <jump line="18" column="6" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/user/userface.html" />
       <jump line="16" column="6" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/user/userface.html" />
       <jump line="21" column="4" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/user/userface.html" />
@@ -425,10 +431,11 @@
       <jump line="13" column="8" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/user/user.js" />
       <jump line="66" column="62" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/user/user.html" />
       <jump line="227" column="34" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/user/user.js" />
+      <jump line="83" column="48" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiClientFaceController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -440,31 +447,31 @@
         <text>修改pom文件，删除无用的配置项</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIEB0aHJvd3MgSU9FeGNlcHRpb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqICAgICAgICAgICAg1qTK6c/C1NjH68fzcDEwCg==</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBwa3NjMTBCYXNlNjQK</text>
+        <text encoding="base64">ICAgICAqIEB0aHJvd3MgSU9FeGNlcHRpb24K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqICAgICAgICAgICAgzfjS+Lbcs/bJ+sPc1L/HqcP7veG5+wo=</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBib3JuS2V5U2lnbkJhc2U2NAo=</text>
+        <text encoding="base64">ICAgICAqICAgICAgICAgICAg1qTK6c/C1NjH68fzcDEwCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIAo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBwa3NjMTBCYXNlNjQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
+        <text encoding="base64">ICAgICAqICAgICAgICAgICAgzfjS+Lbcs/bJ+sPc1L/HqcP7veG5+wo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

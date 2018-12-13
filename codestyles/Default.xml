@@ -1,4 +1,22 @@
 <code_scheme name="Default" version="173">
+  <JavaCodeStyleSettings>
+    <option name="IMPORT_LAYOUT_TABLE">
+      <value>
+        <package name="" withSubpackages="true" static="true" />
+        <emptyLine />
+        <package name="java" withSubpackages="true" static="false" />
+        <emptyLine />
+        <package name="javax" withSubpackages="true" static="false" />
+        <emptyLine />
+        <package name="org" withSubpackages="true" static="false" />
+        <emptyLine />
+        <package name="com" withSubpackages="true" static="false" />
+        <emptyLine />
+        <emptyLine />
+        <package name="" withSubpackages="true" static="false" />
+      </value>
+    </option>
+  </JavaCodeStyleSettings>
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="-1" />
   </MarkdownNavigatorCodeStyleSettings>
