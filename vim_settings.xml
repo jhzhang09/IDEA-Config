@@ -74,12 +74,12 @@
         <mark key="." line="32" column="31" />
         <mark key="^" line="32" column="31" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/user/user.js" timestamp="1544668129075">
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/user/user.js" timestamp="1544669001560">
         <mark key="'" line="227" column="34" />
-        <mark key="[" line="227" column="37" />
-        <mark key="]" line="228" column="22" />
+        <mark key="[" line="232" column="0" />
+        <mark key="]" line="232" column="0" />
         <mark key="^" line="228" column="22" />
-        <mark key="." line="228" column="22" />
+        <mark key="." line="232" column="0" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/pom.xml" timestamp="1544508783080">
         <mark key="'" line="30" column="0" />
@@ -238,7 +238,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d0d78b12-4954-483f-b026-68f2e189eb10/console.sql" timestamp="1544164766223">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544667861141">
+      <file name="/Dummy.txt" timestamp="1544669070512">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -417,7 +417,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoYnJvd3Nlci50b1NvdXJjZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGtleVNuVmFsdWUgPT09ICcwJykgewogICAgICAgICAgICAgICAgYWxlcnQoIsfrvatrZXm3xdbDtb22wb+ox/jT8qOhIikKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
         <text>null</text>
@@ -429,31 +429,31 @@
         <text>修改pom文件，删除无用的配置项</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoYnJvd3Nlci50b1NvdXJjZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGtleVNuVmFsdWUgPT09ICcwJykgewogICAgICAgICAgICAgICAgYWxlcnQoIsfrvatrZXm3xdbDtb22wb+ox/jT8qOhIikKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoYnJvd3Nlci50b1NvdXJjZSk7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGEgPSBrZXlib2FyZE9iamVjdDsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGEgPSBrZXlib2FyZE9iamVjdDsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9IiR7cmVxdWVzdC5jb250ZXh0UGF0aH0vc3RhdGljcy9saWJzL2pxdWVyeS52YWxpZGF0ZS5qcyI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">PHNjcmlwdCBzcmM9IiR7cmVxdWVzdC5jb250ZXh0UGF0aH0vc3RhdGljcy9saWJzL2pxdWVyeS52YWxpZGF0ZS5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9IiR7cmVxdWVzdC5jb250ZXh0UGF0aH0vc3RhdGljcy9saWJzL2pxdWVyeS0xLjguMy5qcyI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9IiR7cmVxdWVzdC5jb250ZXh0UGF0aH0vc3RhdGljcy9saWJzL2pxdWVyeS52YWxpZGF0ZS5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PC9zcWw+Cg==</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9IiR7cmVxdWVzdC5jb250ZXh0UGF0aH0vc3RhdGljcy9saWJzL2pxdWVyeS0xLjguMy5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
