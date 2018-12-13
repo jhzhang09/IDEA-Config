@@ -86,12 +86,12 @@
         <mark key="^" line="228" column="22" />
         <mark key="." line="232" column="0" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/pom.xml" timestamp="1544508783080">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="30" column="25" />
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/pom.xml" timestamp="1544688953671">
+        <mark key="'" line="45" column="42" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="26" column="25" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/iedis/Terminal_1.iedis" timestamp="1544103421157">
         <mark key="[" line="0" column="0" />
@@ -273,7 +273,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d0d78b12-4954-483f-b026-68f2e189eb10/console.sql" timestamp="1544164766223">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544688163105">
+      <file name="/Dummy.txt" timestamp="1544689223350">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -296,10 +296,10 @@
         <mark key="^" line="14" column="35" />
         <mark key="." line="14" column="35" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/pom.xml" timestamp="1544601526566">
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/pom.xml" timestamp="1544688928171">
         <mark key="'" line="7" column="3" />
-        <mark key="[" line="66" column="12" />
-        <mark key="]" line="67" column="3" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="52" />
         <mark key="." line="67" column="3" />
         <mark key="^" line="67" column="3" />
       </file>
@@ -351,12 +351,11 @@
         <mark key="]" line="73" column="11" />
         <mark key="." line="73" column="11" />
       </file>
-      <file name="/fragment.java" timestamp="1544688163091">
+      <file name="/fragment.java" timestamp="1544689223326">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="180" column="9" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/user/user.js" />
       <jump line="116" column="37" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/user/user.js" />
       <jump line="1" column="0" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/keyboard/keyboard.js" />
       <jump line="210" column="19" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/keyboard/keyboard.js" />
@@ -456,59 +455,60 @@
       <jump line="105" column="6" filename="D:/Workspaces/IntelliJ/tradingcenter/ccb-verifier/src/main/java/com/tdr/verifier/CcbVerifier.java" />
       <jump line="73" column="37" filename="D:/Workspaces/IntelliJ/tradingcenter/ccb-verifier/src/main/java/com/tdr/verifier/CcbVerifier.java" />
       <jump line="74" column="58" filename="D:/Workspaces/IntelliJ/tradingcenter/ccb-verifier/src/main/java/com/tdr/verifier/CcbVerifier.java" />
+      <jump line="49" column="42" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>bornKeySignBase64</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>bornKeySignBase64</text>
       </register>
       <register name="/" type="4">
-        <text>CcbVerifier.</text>
+        <text>finalNa</text>
       </register>
-      <register name="0" type="4">
-        <text>修改pom文件，删除无用的配置项</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICA8ZmluYWxOYW1lPiR7cHJvamVjdC5hcnRpZmFjdElkfTwvZmluYWxOYW1lPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICogCg==</text>
+        <text encoding="base64">ICAgIDwvcHJvcGVydGllcz4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIAo=</text>
+        <text encoding="base64">ICAgICAgICA8ZmluYWxOYW1lPiR7cHJvamVjdC5hcnRpZmFjdElkfTwvZmluYWxOYW1lPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxwcm9wZXJ0aWVzPgo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIEB0aHJvd3MgSU9FeGNlcHRpb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>CcbVerifier.</last-search>
+      <last-search>finalNa</last-search>
       <last-offset />
-      <last-pattern>CcbVerifier.</last-pattern>
+      <last-pattern>finalNa</last-pattern>
       <last-replace encoding="base64">XCA=</last-replace>
       <last-substitute>CcbVerifier.</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -532,6 +532,7 @@
         <entry>slims</entry>
         <entry>httpclient.version</entry>
         <entry>CcbVerifier.</entry>
+        <entry>finalNa</entry>
       </history-search>
       <history-cmd>
         <entry>%s/shiro:/@shiro:/g</entry>
