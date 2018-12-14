@@ -51,7 +51,7 @@
         <mark key="^" line="4" column="28" />
         <mark key="." line="4" column="28" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/common/utils/FastDFSClientUtils.java" timestamp="1544769140890">
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/common/utils/FastDFSClientUtils.java" timestamp="1544780777158">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="151" column="69" />
         <mark key="]" line="151" column="69" />
@@ -137,10 +137,11 @@
         <mark key="^" line="41" column="19" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/header.html" timestamp="1544595744625">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/header.html" timestamp="1544780886370">
+        <mark key="[" line="10" column="56" />
+        <mark key="]" line="10" column="64" />
+        <mark key="." line="10" column="64" />
+        <mark key="^" line="10" column="64" />
       </file>
       <file name="D:/Workspaces/IntelliJ/tradingcenter/ccb-verifier/src/main/java/com/tdr/verifier/CcbVerifier.java" timestamp="1544676619444">
         <mark key="'" line="74" column="58" />
@@ -295,7 +296,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d0d78b12-4954-483f-b026-68f2e189eb10/console.sql" timestamp="1544164766223">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544755055636">
+      <file name="/Dummy.txt" timestamp="1544781663450">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -481,7 +482,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9IiR7cmVxdWVzdC5jb250ZXh0UGF0aH0vc3RhdGljcy9saWJzL2pxdWVyeS5taW4uanMiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="-" type="4">
         <text>+</text>
@@ -490,7 +491,7 @@
         <text>finalNa</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8ZmluYWxOYW1lPiR7cHJvamVjdC5hcnRpZmFjdElkfTwvZmluYWxOYW1lPgo=</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9IiR7cmVxdWVzdC5jb250ZXh0UGF0aH0vc3RhdGljcy9saWJzL2pxdWVyeS5taW4uanMiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -520,7 +521,7 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgKCF3aW5kb3cuQWN0aXZlWE9iamVjdCkgewo=</text>
       </register>
       <register name=":" type="4">
-        <text>qa!</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -530,11 +531,10 @@
       <last-replace encoding="base64">XCA=</last-replace>
       <last-substitute>CcbVerifier.</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>shiro:</entry>
         <entry>&quot;)</entry>
         <entry>#if\ shrio.hasPermision(</entry>
         <entry>#if\ shiro.hasPermision(</entry>
@@ -575,8 +575,8 @@
         <entry>%s/username/userName/g</entry>
         <entry>%s/CcbVerifier.//g</entry>
         <entry>%s/CcbVerifier./\ /g</entry>
-        <entry>w</entry>
         <entry>qa!</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
