@@ -51,7 +51,8 @@
         <mark key="^" line="4" column="28" />
         <mark key="." line="4" column="28" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/common/utils/FastDFSClientUtils.java" timestamp="1544755275174">
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/common/utils/FastDFSClientUtils.java" timestamp="1544769140890">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="151" column="69" />
         <mark key="]" line="151" column="69" />
         <mark key="." line="151" column="69" />
@@ -377,8 +378,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="210" column="19" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/keyboard/keyboard.js" />
-      <jump line="211" column="56" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/keyboard/keyboard.js" />
       <jump line="213" column="34" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/keyboard/keyboard.js" />
       <jump line="232" column="64" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/keyboard/keyboard.js" />
       <jump line="484" column="35" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/keyboard/keyboard.js" />
@@ -477,6 +476,8 @@
       <jump line="25" column="15" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/application.yml" />
       <jump line="0" column="0" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/application-dev.yml" />
       <jump line="48" column="0" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/application-dev.yml" />
+      <jump line="71" column="46" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/common/utils/FastDFSClientUtils.java" />
+      <jump line="0" column="0" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/common/utils/FastDFSClientUtils.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
