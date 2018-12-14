@@ -500,7 +500,7 @@
         <text encoding="base64">ICAgICAgICAgICAgaWYgKGJyb3dzZXIuaW5kZXhPZigiTVNJRSIpIDwgMCkgewo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qa!</text>
       </register>
     </registers>
     <search>
@@ -555,8 +555,8 @@
         <entry>%s/username/userName/g</entry>
         <entry>%s/CcbVerifier.//g</entry>
         <entry>%s/CcbVerifier./\ /g</entry>
-        <entry>qa!</entry>
         <entry>w</entry>
+        <entry>qa!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
