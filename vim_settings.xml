@@ -51,6 +51,12 @@
         <mark key="^" line="4" column="28" />
         <mark key="." line="4" column="28" />
       </file>
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/common/utils/FastDFSClientUtils.java" timestamp="1544755275174">
+        <mark key="[" line="151" column="69" />
+        <mark key="]" line="151" column="69" />
+        <mark key="." line="151" column="69" />
+        <mark key="^" line="151" column="69" />
+      </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/application-dev.yml" timestamp="1544696406008">
         <mark key="'" line="48" column="0" />
         <mark key="[" line="48" column="0" />
@@ -155,6 +161,12 @@
         <mark key="^" line="34" column="52" />
         <mark key="." line="34" column="52" />
       </file>
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/record/cameramonitorrecord.js" timestamp="1544754948637">
+        <mark key="[" line="31" column="56" />
+        <mark key="]" line="31" column="52" />
+        <mark key="^" line="31" column="52" />
+        <mark key="." line="31" column="52" />
+      </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiKeyboardJoinController.java" timestamp="1544098474193">
         <mark key="'" line="87" column="0" />
         <mark key="[" line="85" column="52" />
@@ -224,6 +236,12 @@
         <mark key="^" line="6" column="18" />
         <mark key="." line="6" column="18" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" timestamp="1544755907565">
+        <mark key="[" line="6" column="58" />
+        <mark key="]" line="5" column="30" />
+        <mark key="." line="5" column="30" />
+        <mark key="^" line="5" column="30" />
+      </file>
       <file name="/ApiKeyboardJoinController.java" timestamp="1544097593175">
         <mark key="[" line="0" column="0" />
       </file>
@@ -251,10 +269,6 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/application-prod.yml" timestamp="1544602151958">
-        <mark key="[" line="11" column="6" />
-        <mark key="]" line="11" column="26" />
-      </file>
       <file name="/JavaScript Console" timestamp="1544498045191">
         <mark key="[" line="0" column="0" />
       </file>
@@ -272,10 +286,15 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/record/userfacerecord.js" timestamp="1544754988114">
+        <mark key="[" line="37" column="53" />
+        <mark key="]" line="37" column="53" />
+        <mark key="." line="37" column="53" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d0d78b12-4954-483f-b026-68f2e189eb10/console.sql" timestamp="1544164766223">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544693700961">
+      <file name="/Dummy.txt" timestamp="1544755055636">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -461,10 +480,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbS50ZHI6IGRlYnVnCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;, page);</text>
+        <text>+</text>
       </register>
       <register name="/" type="4">
         <text>finalNa</text>
@@ -473,31 +492,31 @@
         <text encoding="base64">ICAgICAgICA8ZmluYWxOYW1lPiR7cHJvamVjdC5hcnRpZmFjdElkfTwvZmluYWxOYW1lPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbS50ZHI6IGRlYnVnCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbS50ZHI6IGRlYnVnCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGtleWJvYXJkT2JqZWN0Lm9iamVjdCA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICBhbGVydCgix+vPyLCy17C8/MXMtsHWpL/YvP6joSIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGtleWJvYXJkT2JqZWN0Lm9iamVjdCA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICBhbGVydCgix+vPyLCy17C8/MXMtsHWpL/YvP6joSIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFsZXJ0KCK4w7mmxNzWu9ans9ZJReSvwMDG96OhIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCF3aW5kb3cuQWN0aXZlWE9iamVjdCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFsZXJ0KCK4w7mmxNzWu9ans9ZJReSvwMDG96OhIik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGJyb3dzZXIuaW5kZXhPZigiTVNJRSIpIDwgMCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCF3aW5kb3cuQWN0aXZlWE9iamVjdCkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>qa!</text>
