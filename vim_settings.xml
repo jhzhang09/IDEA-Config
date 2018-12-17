@@ -224,6 +224,7 @@
         <mark key="^" line="66" column="24" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.4.0/shiro-core-1.4.0-sources.jar!/org/apache/shiro/mgt/AuthenticatingSecurityManager.java" timestamp="1545037788563" />
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/java/com/tdr/modules/sys/controller/AbstractController.java" timestamp="1544675160562">
         <mark key="[" line="39" column="14" />
         <mark key="]" line="39" column="14" />
@@ -263,6 +264,7 @@
         <mark key="." line="71" column="119" />
         <mark key="^" line="71" column="119" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.4.0/shiro-core-1.4.0-sources.jar!/org/apache/shiro/subject/support/DelegatingSubject.java" timestamp="1545038435184" />
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/form/KeyboardRequestPolicyForm.java" timestamp="1544097271184">
         <mark key="[" line="16" column="65" />
         <mark key="]" line="18" column="11" />
@@ -284,6 +286,7 @@
       <file name="/JavaScript Console" timestamp="1544498045191">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.4.0/shiro-core-1.4.0-sources.jar!/org/apache/shiro/authc/AbstractAuthenticator.java" timestamp="1545038359722" />
       <file name="/HTML File.txt.ft" timestamp="1544757123651">
         <mark key="[" line="0" column="0" />
       </file>
@@ -329,7 +332,7 @@
         <mark key="^" line="14" column="35" />
         <mark key="." line="14" column="35" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/modules/sys/shiro/UserRealm.java" timestamp="1545033789314" />
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/modules/sys/shiro/UserRealm.java" timestamp="1545038103816" />
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/pom.xml" timestamp="1544688928171">
         <mark key="'" line="7" column="3" />
         <mark key="[" line="51" column="0" />
@@ -356,6 +359,7 @@
       <file name="/Class.txt.ft" timestamp="1544063714797">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.4.0/shiro-core-1.4.0-sources.jar!/org/apache/shiro/authc/pam/ModularRealmAuthenticator.java" timestamp="1545038588981" />
       <file name="/&lt;Generic&gt; Fragment (UserDao.xml:942).sql" timestamp="1544516114499">
         <mark key="[" line="0" column="0" />
       </file>
@@ -529,7 +533,7 @@
         <text encoding="base64">ICAgICAqIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qa!</text>
       </register>
     </registers>
     <search>
@@ -585,8 +589,8 @@
         <entry>%s/username/userName/g</entry>
         <entry>%s/CcbVerifier.//g</entry>
         <entry>%s/CcbVerifier./\ /g</entry>
-        <entry>qa!</entry>
         <entry>w</entry>
+        <entry>qa!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -633,6 +637,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed BACK_SLASH</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
