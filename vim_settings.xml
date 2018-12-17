@@ -105,6 +105,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/iedis/Terminal_1.iedis" timestamp="1544103421157">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/exception/ApiExceptionHandler.java" timestamp="1545017943133">
+        <mark key="[" line="33" column="3" />
+        <mark key="]" line="33" column="3" />
+        <mark key="^" line="102" column="54" />
+        <mark key="." line="33" column="3" />
+      </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/validator/AbstractApiAssert.java" timestamp="1544082695211">
         <mark key="[" line="29" column="3" />
         <mark key="]" line="29" column="12" />
@@ -192,6 +198,9 @@
         <mark key="]" line="23" column="14" />
         <mark key="." line="23" column="14" />
         <mark key="^" line="23" column="14" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.2.RELEASE/spring-webmvc-5.1.2.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/ResponseEntityExceptionHandler.java" timestamp="1545017599447">
+        <mark key="'" line="60" column="70" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/BaseController.java" timestamp="1544162990033">
         <mark key="'" line="58" column="33" />
@@ -296,7 +305,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d0d78b12-4954-483f-b026-68f2e189eb10/console.sql" timestamp="1544164766223">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544781663450">
+      <file name="/Dummy.txt" timestamp="1545017957478">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -325,15 +334,6 @@
         <mark key="]" line="51" column="52" />
         <mark key="." line="67" column="3" />
         <mark key="^" line="67" column="3" />
-      </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/java/com/tdr/AdminApplication.java" timestamp="1544675413963">
-        <mark key="a" line="19" column="3" />
-        <mark key="'" line="56" column="0" />
-        <mark key="i" line="19" column="3" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="^" line="36" column="10" />
-        <mark key="." line="37" column="0" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/modules/user/service/UserService.java" timestamp="1544087124311">
         <mark key="[" line="45" column="5" />
@@ -379,46 +379,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="213" column="34" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/keyboard/keyboard.js" />
-      <jump line="232" column="64" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/keyboard/keyboard.js" />
-      <jump line="484" column="35" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/keyboard/keyboard.js" />
-      <jump line="500" column="35" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/keyboard/keyboard.js" />
-      <jump line="167" column="8" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/keyboard/keyboard.js" />
-      <jump line="94" column="16" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/user/user.js" />
-      <jump line="8" column="4" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/user/user.html" />
-      <jump line="224" column="0" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/user/user.js" />
-      <jump line="114" column="15" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/user/user.js" />
-      <jump line="205" column="8" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/user/user.js" />
-      <jump line="190" column="46" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/user/user.js" />
-      <jump line="4" column="13" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/user/user.js" />
-      <jump line="181" column="8" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/user/user.js" />
-      <jump line="198" column="31" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/user/user.js" />
-      <jump line="158" column="31" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/user/user.js" />
-      <jump line="166" column="23" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/user/user.js" />
-      <jump line="168" column="16" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/user/user.js" />
-      <jump line="192" column="20" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/user/user.js" />
-      <jump line="215" column="20" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/user/user.js" />
-      <jump line="222" column="28" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/user/user.js" />
-      <jump line="223" column="28" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/user/user.js" />
-      <jump line="226" column="28" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/user/user.js" />
-      <jump line="3" column="8" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/user/user.js" />
-      <jump line="81" column="4" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/user/user.js" />
-      <jump line="92" column="44" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/user/user.js" />
-      <jump line="12" column="14" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/application.yml" />
-      <jump line="49" column="13" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/application-dev.yml" />
-      <jump line="26" column="2" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/application-dev.yml" />
-      <jump line="50" column="4" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/application.yml" />
-      <jump line="89" column="27" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/user/user.js" />
-      <jump line="107" column="15" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/user/user.js" />
-      <jump line="111" column="16" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/user/user.js" />
-      <jump line="112" column="16" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/user/user.js" />
-      <jump line="117" column="23" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/user/user.js" />
-      <jump line="120" column="52" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/user/user.js" />
-      <jump line="124" column="43" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/user/user.js" />
-      <jump line="131" column="32" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/user/user.js" />
-      <jump line="137" column="26" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/user/user.js" />
-      <jump line="138" column="27" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/user/user.js" />
-      <jump line="139" column="26" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/user/user.js" />
       <jump line="150" column="30" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/user/user.js" />
       <jump line="160" column="72" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/user/user.js" />
       <jump line="162" column="50" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/user/user.js" />
@@ -479,59 +439,99 @@
       <jump line="48" column="0" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/application-dev.yml" />
       <jump line="71" column="46" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/common/utils/FastDFSClientUtils.java" />
       <jump line="0" column="0" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/common/utils/FastDFSClientUtils.java" />
+      <jump line="79" column="28" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.2.RELEASE/spring-webmvc-5.1.2.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/ResponseEntityExceptionHandler.java" />
+      <jump line="83" column="8" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.2.RELEASE/spring-webmvc-5.1.2.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/ResponseEntityExceptionHandler.java" />
+      <jump line="89" column="8" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.2.RELEASE/spring-webmvc-5.1.2.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/ResponseEntityExceptionHandler.java" />
+      <jump line="122" column="23" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.2.RELEASE/spring-webmvc-5.1.2.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/ResponseEntityExceptionHandler.java" />
+      <jump line="202" column="30" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.2.RELEASE/spring-webmvc-5.1.2.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/ResponseEntityExceptionHandler.java" />
+      <jump line="204" column="20" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.2.RELEASE/spring-webmvc-5.1.2.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/ResponseEntityExceptionHandler.java" />
+      <jump line="224" column="30" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.2.RELEASE/spring-webmvc-5.1.2.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/ResponseEntityExceptionHandler.java" />
+      <jump line="226" column="20" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.2.RELEASE/spring-webmvc-5.1.2.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/ResponseEntityExceptionHandler.java" />
+      <jump line="244" column="30" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.2.RELEASE/spring-webmvc-5.1.2.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/ResponseEntityExceptionHandler.java" />
+      <jump line="246" column="20" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.2.RELEASE/spring-webmvc-5.1.2.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/ResponseEntityExceptionHandler.java" />
+      <jump line="259" column="30" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.2.RELEASE/spring-webmvc-5.1.2.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/ResponseEntityExceptionHandler.java" />
+      <jump line="262" column="20" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.2.RELEASE/spring-webmvc-5.1.2.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/ResponseEntityExceptionHandler.java" />
+      <jump line="275" column="30" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.2.RELEASE/spring-webmvc-5.1.2.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/ResponseEntityExceptionHandler.java" />
+      <jump line="277" column="20" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.2.RELEASE/spring-webmvc-5.1.2.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/ResponseEntityExceptionHandler.java" />
+      <jump line="290" column="30" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.2.RELEASE/spring-webmvc-5.1.2.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/ResponseEntityExceptionHandler.java" />
+      <jump line="292" column="20" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.2.RELEASE/spring-webmvc-5.1.2.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/ResponseEntityExceptionHandler.java" />
+      <jump line="305" column="30" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.2.RELEASE/spring-webmvc-5.1.2.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/ResponseEntityExceptionHandler.java" />
+      <jump line="307" column="20" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.2.RELEASE/spring-webmvc-5.1.2.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/ResponseEntityExceptionHandler.java" />
+      <jump line="320" column="30" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.2.RELEASE/spring-webmvc-5.1.2.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/ResponseEntityExceptionHandler.java" />
+      <jump line="322" column="20" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.2.RELEASE/spring-webmvc-5.1.2.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/ResponseEntityExceptionHandler.java" />
+      <jump line="335" column="30" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.2.RELEASE/spring-webmvc-5.1.2.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/ResponseEntityExceptionHandler.java" />
+      <jump line="337" column="20" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.2.RELEASE/spring-webmvc-5.1.2.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/ResponseEntityExceptionHandler.java" />
+      <jump line="350" column="30" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.2.RELEASE/spring-webmvc-5.1.2.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/ResponseEntityExceptionHandler.java" />
+      <jump line="352" column="20" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.2.RELEASE/spring-webmvc-5.1.2.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/ResponseEntityExceptionHandler.java" />
+      <jump line="365" column="30" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.2.RELEASE/spring-webmvc-5.1.2.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/ResponseEntityExceptionHandler.java" />
+      <jump line="367" column="20" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.2.RELEASE/spring-webmvc-5.1.2.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/ResponseEntityExceptionHandler.java" />
+      <jump line="380" column="30" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.2.RELEASE/spring-webmvc-5.1.2.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/ResponseEntityExceptionHandler.java" />
+      <jump line="382" column="20" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.2.RELEASE/spring-webmvc-5.1.2.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/ResponseEntityExceptionHandler.java" />
+      <jump line="395" column="30" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.2.RELEASE/spring-webmvc-5.1.2.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/ResponseEntityExceptionHandler.java" />
+      <jump line="397" column="20" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.2.RELEASE/spring-webmvc-5.1.2.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/ResponseEntityExceptionHandler.java" />
+      <jump line="410" column="30" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.2.RELEASE/spring-webmvc-5.1.2.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/ResponseEntityExceptionHandler.java" />
+      <jump line="413" column="20" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.2.RELEASE/spring-webmvc-5.1.2.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/ResponseEntityExceptionHandler.java" />
+      <jump line="426" column="30" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.2.RELEASE/spring-webmvc-5.1.2.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/ResponseEntityExceptionHandler.java" />
+      <jump line="430" column="20" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.2.RELEASE/spring-webmvc-5.1.2.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/ResponseEntityExceptionHandler.java" />
+      <jump line="450" column="52" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.2.RELEASE/spring-webmvc-5.1.2.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/ResponseEntityExceptionHandler.java" />
+      <jump line="458" column="20" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.2.RELEASE/spring-webmvc-5.1.2.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/ResponseEntityExceptionHandler.java" />
+      <jump line="464" column="25" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.2.RELEASE/spring-webmvc-5.1.2.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/ResponseEntityExceptionHandler.java" />
+      <jump line="12" column="3" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.2.RELEASE/spring-webmvc-5.1.2.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/ResponseEntityExceptionHandler.java" />
+      <jump line="31" column="38" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.2.RELEASE/spring-webmvc-5.1.2.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/ResponseEntityExceptionHandler.java" />
+      <jump line="60" column="70" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.2.RELEASE/spring-webmvc-5.1.2.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/ResponseEntityExceptionHandler.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9IiR7cmVxdWVzdC5jb250ZXh0UGF0aH0vc3RhdGljcy9saWJzL2pxdWVyeS5taW4uanMiPjwvc2NyaXB0Pgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">OiA=</text>
       </register>
       <register name="-" type="4">
-        <text>+</text>
+        <text encoding="base64">OiA=</text>
       </register>
       <register name="/" type="4">
-        <text>finalNa</text>
+        <text>see</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">PHNjcmlwdCBzcmM9IiR7cmVxdWVzdC5jb250ZXh0UGF0aH0vc3RhdGljcy9saWJzL2pxdWVyeS5taW4uanMiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICogQENsYXNzTmFtZTogQXBpRXhjZXB0aW9uSGFuZGxlcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbS50ZHI6IGRlYnVnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqICAgICAgb3JnLnNwcmluZ2ZyYW1ld29yay5odHRwLkh0dHBIZWFkZXJzLG9yZy5zcHJpbmdmcmFtZXdvcmsuaHR0cC5IdHRwU3RhdHVzLG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmNvbnRleHQucmVxdWVzdC5XZWJSZXF1ZXN0KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqICAgICAgamF2YS5sYW5nLk9iamVjdCwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGtleWJvYXJkT2JqZWN0Lm9iamVjdCA9PSBudWxsKSB7CiAgICAgICAgICAgICAgICBhbGVydCgix+vPyLCy17C8/MXMtsHWpL/YvP6joSIpOwo=</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAqICAgICAgb3JnLnNwcmluZ2ZyYW1ld29yay5odHRwLkh0dHBIZWFkZXJzLG9yZy5zcHJpbmdmcmFtZXdvcmsuaHR0cC5IdHRwU3RhdHVzLG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmNvbnRleHQucmVxdWVzdC5XZWJSZXF1ZXN0KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybjsK</text>
+        <text encoding="base64">ICAgICAqICAgICAgamF2YS5sYW5nLk9iamVjdCwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFsZXJ0KCK4w7mmxNzWu9ans9ZJReSvwMDG96OhIik7Cg==</text>
+        <text encoding="base64">ICAgICAqIEBzZWUgb3JnLnNwcmluZ2ZyYW1ld29yay53ZWIuc2VydmxldC5tdmMubWV0aG9kLmFubm90YXRpb24uUmVzcG9uc2VFbnRpdHlFeGNlcHRpb25IYW5kbGVyI2hhbmRsZUV4Y2VwdGlvbkludGVybmFsKGphdmEubGFuZy5FeGNlcHRpb24sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCF3aW5kb3cuQWN0aXZlWE9iamVjdCkgewo=</text>
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>finalNa</last-search>
+      <last-search>see</last-search>
       <last-offset />
-      <last-pattern>finalNa</last-pattern>
+      <last-pattern>see</last-pattern>
       <last-replace encoding="base64">XCA=</last-replace>
       <last-substitute>CcbVerifier.</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -555,6 +555,7 @@
         <entry>httpclient.version</entry>
         <entry>CcbVerifier.</entry>
         <entry>finalNa</entry>
+        <entry>see</entry>
       </history-search>
       <history-cmd>
         <entry>%s/shiro:/@shiro:/g</entry>
