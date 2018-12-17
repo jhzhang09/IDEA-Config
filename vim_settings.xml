@@ -202,6 +202,7 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.2.RELEASE/spring-webmvc-5.1.2.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/ResponseEntityExceptionHandler.java" timestamp="1545017599447">
         <mark key="'" line="60" column="70" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.4.0/shiro-core-1.4.0-sources.jar!/org/apache/shiro/realm/AuthenticatingRealm.java" timestamp="1545034160105" />
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/BaseController.java" timestamp="1544162990033">
         <mark key="'" line="58" column="33" />
         <mark key="[" line="19" column="55" />
@@ -328,6 +329,7 @@
         <mark key="^" line="14" column="35" />
         <mark key="." line="14" column="35" />
       </file>
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/modules/sys/shiro/UserRealm.java" timestamp="1545033789314" />
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/pom.xml" timestamp="1544688928171">
         <mark key="'" line="7" column="3" />
         <mark key="[" line="51" column="0" />
@@ -368,6 +370,10 @@
         <mark key="]" line="191" column="15" />
         <mark key="." line="191" column="15" />
         <mark key="^" line="191" column="15" />
+      </file>
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/java/com/tdr/modules/sys/controller/SysLoginController.java" timestamp="1545033670712">
+        <mark key="[" line="88" column="17" />
+        <mark key="]" line="88" column="45" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/java/com/tdr/modules/sys/controller/SysUserController.java" timestamp="1544675128876">
         <mark key="[" line="73" column="11" />
@@ -482,13 +488,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">OiA=</text>
+        <text>IncorrectCredentialsException</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">OiA=</text>
       </register>
       <register name="/" type="4">
-        <text>see</text>
+        <text>IncorrectCredentialsException</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">PHNjcmlwdCBzcmM9IiR7cmVxdWVzdC5jb250ZXh0UGF0aH0vc3RhdGljcy9saWJzL2pxdWVyeS5taW4uanMiPjwvc2NyaXB0Pgo=</text>
@@ -525,9 +531,9 @@
       </register>
     </registers>
     <search>
-      <last-search>see</last-search>
+      <last-search>IncorrectCredentialsException</last-search>
       <last-offset />
-      <last-pattern>see</last-pattern>
+      <last-pattern>IncorrectCredentialsException</last-pattern>
       <last-replace encoding="base64">XCA=</last-replace>
       <last-substitute>CcbVerifier.</last-substitute>
       <last-dir>1</last-dir>
@@ -556,6 +562,7 @@
         <entry>CcbVerifier.</entry>
         <entry>finalNa</entry>
         <entry>see</entry>
+        <entry>IncorrectCredentialsException</entry>
       </history-search>
       <history-cmd>
         <entry>%s/shiro:/@shiro:/g</entry>
