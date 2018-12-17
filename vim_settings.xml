@@ -102,6 +102,9 @@
         <mark key="^" line="26" column="25" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3-sources.jar!/ch/qos/logback/classic/spi/ILoggingEvent.java" timestamp="1545044985228">
+        <mark key="'" line="25" column="2" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/iedis/Terminal_1.iedis" timestamp="1544103421157">
         <mark key="[" line="0" column="0" />
       </file>
@@ -165,12 +168,12 @@
       <file name="/UserRealm.java" timestamp="1545040313889">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/login.html" timestamp="1544596028553">
-        <mark key="'" line="72" column="56" />
-        <mark key="[" line="72" column="49" />
-        <mark key="]" line="72" column="66" />
-        <mark key="^" line="34" column="52" />
-        <mark key="." line="34" column="52" />
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/login.html" timestamp="1545045906757">
+        <mark key="'" line="70" column="0" />
+        <mark key="[" line="31" column="55" />
+        <mark key="]" line="32" column="43" />
+        <mark key="^" line="32" column="43" />
+        <mark key="." line="32" column="43" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/record/cameramonitorrecord.js" timestamp="1544754948637">
         <mark key="[" line="31" column="56" />
@@ -397,12 +400,11 @@
         <mark key="." line="191" column="15" />
         <mark key="^" line="191" column="15" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/java/com/tdr/modules/sys/controller/SysLoginController.java" timestamp="1545043055504">
-        <mark key="'" line="89" column="8" />
-        <mark key="[" line="83" column="14" />
-        <mark key="]" line="83" column="28" />
-        <mark key="^" line="83" column="28" />
-        <mark key="." line="83" column="28" />
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/java/com/tdr/modules/sys/controller/SysLoginController.java" timestamp="1545044707161">
+        <mark key="'" line="84" column="0" />
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/java/com/tdr/modules/sys/controller/SysUserController.java" timestamp="1544675128876">
         <mark key="[" line="73" column="11" />
@@ -414,16 +416,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="185" column="16" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/user/user.js" />
-      <jump line="186" column="16" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/user/user.js" />
-      <jump line="193" column="41" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/user/user.js" />
-      <jump line="225" column="35" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/user/user.js" />
-      <jump line="229" column="35" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/user/user.js" />
-      <jump line="67" column="39" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/user/user.html" />
-      <jump line="53" column="40" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/user/user.html" />
-      <jump line="88" column="15" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/user/user.js" />
-      <jump line="11" column="10" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/application.yml" />
-      <jump line="29" column="36" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/application-dev.yml" />
       <jump line="50" column="2" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/application-dev.yml" />
       <jump line="53" column="31" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/pom.xml" />
       <jump line="55" column="41" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/user/user.html" />
@@ -514,55 +506,65 @@
       <jump line="37" column="10" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/modules/sys/shiro/ShiroUtils.java" />
       <jump line="44" column="5" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/modules/sys/shiro/ShiroUtils.java" />
       <jump line="87" column="8" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/java/com/tdr/modules/sys/controller/SysLoginController.java" />
+      <jump line="52" column="11" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/java/com/tdr/modules/sys/controller/SysLoginController.java" />
+      <jump line="0" column="0" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/java/com/tdr/modules/sys/controller/SysLoginController.java" />
+      <jump line="145" column="0" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/java/com/tdr/modules/sys/controller/SysLoginController.java" />
+      <jump line="42" column="0" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/java/com/tdr/modules/sys/controller/SysLoginController.java" />
+      <jump line="43" column="33" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/java/com/tdr/modules/sys/controller/SysLoginController.java" />
+      <jump line="57" column="30" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/java/com/tdr/modules/sys/controller/SysLoginController.java" />
+      <jump line="83" column="22" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/java/com/tdr/modules/sys/controller/SysLoginController.java" />
+      <jump line="84" column="0" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/java/com/tdr/modules/sys/controller/SysLoginController.java" />
+      <jump line="25" column="2" filename="$MAVEN_REPOSITORY$/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3-sources.jar!/ch/qos/logback/classic/spi/ILoggingEvent.java" />
+      <jump line="66" column="0" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/login.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGxpIGNsYXNzPSJhY3RpdmUiPjxhIGhyZWY9IiN1c2VybmFtZUxvZ2luIj48L2E+PC9saT4K</text>
       </register>
       <register name="-" type="4">
         <text>keySn</text>
       </register>
       <register name="/" type="4">
-        <text>IncorrectCredentialsException</text>
+        <text>user</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IG5ldyBTaW1wbGVBdXRoZW50aWNhdGlvbkluZm8odXNlciwKICAgICAgICAgICAgICAgIFNoaXJvVXRpbHMuc2hhMjU2KFNoaXJvVXRpbHMuS0VZX0xPR0lOX05PUk1BTF9QQVNTV09SRCwgdXNlci5nZXRTYWx0KCkpLAogICAgICAgICAgICAgICAgQnl0ZVNvdXJjZS5VdGlsLmJ5dGVzKHVzZXIuZ2V0U2FsdCgpKSwgZ2V0TmFtZSgpKTsKICAgIA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGxpIGNsYXNzPSJhY3RpdmUiPjxhIGhyZWY9IiN1c2VybmFtZUxvZ2luIj48L2E+PC9saT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9saT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDVy7rFsru05tTaCiAgICAgICAgaWYgKHVzZXIgPT0gbnVsbCkgewogICAgICAgICAgICB0aHJvdyBuZXcgVW5rbm93bkFjY291bnRFeGNlcHRpb24oItXLusW78sPcwuuyu9X9yLciKTsKICAgICAgICB9CgogICAgICAgIC8vINXLusXL+LaoCiAgICAgICAgaWYgKHVzZXIuZ2V0U3RhdHVzKCkgPT0gMCkgewogICAgICAgICAgICB0aHJvdyBuZXcgTG9ja2VkQWNjb3VudEV4Y2VwdGlvbigi1cu6xdLRsbvL+LaoLMfrwarPtbncwO3UsSIpOwogICAgICAgIH0K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFIuZXJyb3IoItXLusXS0bG7y/i2qCzH68Gqz7W53MDt1LEiKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChMb2NrZWRBY2NvdW50RXhjZXB0aW9uIGUpIHsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGxpPgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIDxuYXYgY2xhc3M9Im5hdmJhciBuYXZiYXItZGVmYXVsdGRkIj48L25hdj4K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImxvZ2luLWJveC1ib2R5Ij4K</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5mbyA9IGdldFBhc3N3b3JkU2ltcGxlQXV0aGVudGljYXRpb25JbmZvKHRva2VuKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTaW1wbGVBdXRoZW50aWNhdGlvbkluZm8odXNlciwgdXNlci5nZXRQYXNzd29yZCgpLCBCeXRlU291cmNlLlV0aWwuYnl0ZXModXNlci5nZXRTYWx0KCkpLCBnZXROYW1lKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXNVc2VyRW50aXR5IHVzZXIgPSBzeXNVc2VyU2VydmljZS5nZXRPbmUobmV3IFF1ZXJ5V3JhcHBlcjxTeXNVc2VyRW50aXR5PigpLmVxKCJrZXlfc24iLCBrZXlTbikpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmV3IFNpbXBsZUF1dGhlbnRpY2F0aW9uSW5mbyh1c2VyLCB1c2VyLmdldFBhc3N3b3JkKCksIEJ5dGVTb3VyY2UuVXRpbC5ieXRlcyh1c2VyLmdldFNhbHQoKSksIGdldE5hbWUoKSk7Cg==</text>
+        <text encoding="base64">LyoqCiAqIENvcHlyaWdodCAyMDE4IMjLyMu/qtS0IGh0dHA6Ly93d3cucmVucmVuLmlvCiAqIDxwPgogKiBMaWNlbnNlZCB1bmRlciB0aGUgQXBhY2hlIExpY2Vuc2UsIFZlcnNpb24gMi4wICh0aGUgIkxpY2Vuc2UiKTsgeW91IG1heSBub3QKICogdXNlIHRoaXMgZmlsZSBleGNlcHQgaW4gY29tcGxpYW5jZSB3aXRoIHRoZSBMaWNlbnNlLiBZb3UgbWF5IG9idGFpbiBhIGNvcHkgb2YKICogdGhlIExpY2Vuc2UgYXQKICogPHA+CiAqIGh0dHA6Ly93d3cuYXBhY2hlLm9yZy9saWNlbnNlcy9MSUNFTlNFLTIuMAogKiA8cD4KICogVW5sZXNzIHJlcXVpcmVkIGJ5IGFwcGxpY2FibGUgbGF3IG9yIGFncmVlZCB0byBpbiB3cml0aW5nLCBzb2Z0d2FyZQogKiBkaXN0cmlidXRlZCB1bmRlciB0aGUgTGljZW5zZSBpcyBkaXN0cmlidXRlZCBvbiBhbiAiQVMgSVMiIEJBU0lTLCBXSVRIT1VUCiAqIFdBUlJBTlRJRVMgT1IgQ09ORElUSU9OUyBPRiBBTlkgS0lORCwgZWl0aGVyIGV4cHJlc3Mgb3IgaW1wbGllZC4gU2VlIHRoZQogKiBMaWNlbnNlIGZvciB0aGUgc3BlY2lmaWMgbGFuZ3VhZ2UgZ292ZXJuaW5nIHBlcm1pc3Npb25zIGFuZCBsaW1pdGF0aW9ucyB1bmRlcgogKiB0aGUgTGljZW5zZS4KICovCgpwYWNrYWdlIGNvbS50ZHIubW9kdWxlcy5zeXMuY29udHJvbGxlcjsKCmltcG9ydCBqYXZhLmF3dC5pbWFnZS5CdWZmZXJlZEltYWdlOwppbXBvcnQgamF2YS5pby5JT0V4Y2VwdGlvbjsKCmltcG9ydCBqYXZheC5pbWFnZWlvLkltYWdlSU87CmltcG9ydCBqYXZheC5zZXJ2bGV0LlNlcnZsZXRPdXRwdXRTdHJlYW07CmltcG9ydCBqYXZheC5zZXJ2bGV0Lmh0dHAuSHR0cFNlcnZsZXRSZXNwb25zZTsKCmltcG9ydCBvcmcuYXBhY2hlLnNoaXJvLmF1dGhjLkF1dGhlbnRpY2F0aW9uRXhjZXB0aW9uOwppbXBvcnQgb3JnLmFwYWNoZS5zaGlyby5hdXRoYy5JbmNvcnJlY3RDcmVkZW50aWFsc0V4Y2VwdGlvbjsKaW1wb3J0IG9yZy5hcGFjaGUuc2hpcm8uYXV0aGMuTG9ja2VkQWNjb3VudEV4Y2VwdGlvbjsKaW1wb3J0IG9yZy5hcGFjaGUuc2hpcm8uYXV0aGMuVW5rbm93bkFjY291bnRFeGNlcHRpb247CmltcG9ydCBvcmcuYXBhY2hlLnNoaXJvLnN1YmplY3QuU3ViamVjdDsKaW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuYmVhbnMuZmFjdG9yeS5hbm5vdGF0aW9uLkF1dG93aXJlZDsKaW1wb3J0IG9yZy5zcHJpbmdmcmFtZXdvcmsuc3RlcmVvdHlwZS5Db250cm9sbGVyOwppbXBvcnQgb3JnLnNwcmluZ2ZyYW1ld29yay53ZWIuYmluZC5hbm5vdGF0aW9uLlJlcXVlc3RNYXBwaW5nOwppbXBvcnQgb3JnLnNwcmluZ2ZyYW1ld29yay53ZWIuYmluZC5hbm5vdGF0aW9uLlJlcXVlc3RNZXRob2Q7CmltcG9ydCBvcmcuc3ByaW5nZnJhbWV3b3JrLndlYi5iaW5kLmFubm90YXRpb24uUmVzcG9uc2VCb2R5OwoKaW1wb3J0IGNvbS5iYW9taWRvdS5teWJhdGlzcGx1cy5jb3JlLmNvbmRpdGlvbnMucXVlcnkuUXVlcnlXcmFwcGVyOwppbXBvcnQgY29tLmdvb2dsZS5jb2RlLmthcHRjaGEuQ29uc3RhbnRzOwppbXBvcnQgY29tLmdvb2dsZS5jb2RlLmthcHRjaGEuUHJvZHVjZXI7CmltcG9ydCBjb20udGRyLmNvbW1vbi51dGlscy5SOwppbXBvcnQgY29tLnRkci5tb2R1bGVzLnN5cy5lbnRpdHkuU3lzVXNlckVudGl0eTsKaW1wb3J0IGNvbS50ZHIubW9kdWxlcy5zeXMuc2VydmljZS5TeXNVc2VyU2VydmljZTsKaW1wb3J0IGNvbS50ZHIubW9kdWxlcy5zeXMuc2hpcm8uU2hpcm9VdGlsczsKaW1wb3J0IGNvbS50ZHIubW9kdWxlcy5zeXMuc2hpcm8uVXNlcm5hbWVQYXNzd29yZEtleVRva2VuOwoKLyoqCiAqILXHwrzP4LnYCiAqCiAqIEBhdXRob3IgY2hlbnNodW4KICogQGVtYWlsIHN1bmxpZ2h0Y3NAZ21haWwuY29tCiAqIEBkYXRlIDIwMTbE6jEx1MIxMMjVIM/CzucxOjE1OjMxCiAqLwpAQ29udHJvbGxlcgpwdWJsaWMgY2xhc3MgU3lzTG9naW5Db250cm9sbGVyIHsKICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgUHJvZHVjZXIgcHJvZHVjZXI7CiAgICBAQXV0b3dpcmVkCiAgICBwcml2YXRlIFN5c1VzZXJTZXJ2aWNlIHN5c1VzZXJTZXJ2aWNlOwoKICAgIEBSZXF1ZXN0TWFwcGluZygiY2FwdGNoYS5qcGciKQogICAgcHVibGljIHZvaWQgY2FwdGNoYShIdHRwU2VydmxldFJlc3BvbnNlIHJlc3BvbnNlKSB0aHJvd3MgSU9FeGNlcHRpb24gewogICAgICAgIHJlc3BvbnNlLnNldEhlYWRlcigiQ2FjaGUtQ29udHJvbCIsICJuby1zdG9yZSwgbm8tY2FjaGUiKTsKICAgICAgICByZXNwb25zZS5zZXRDb250ZW50VHlwZSgiaW1hZ2UvanBlZyIpOwoKICAgICAgICAvLyDJ+rPJzsTX1tHp1qTC6wogICAgICAgIFN0cmluZyB0ZXh0ID0gcHJvZHVjZXIuY3JlYXRlVGV4dCgpOwogICAgICAgIC8vIMn6s8nNvMas0enWpMLrCiAgICAgICAgQnVmZmVyZWRJbWFnZSBpbWFnZSA9IHByb2R1Y2VyLmNyZWF0ZUltYWdlKHRleHQpOwogICAgICAgIC8vILGjtOa1vXNoaXJvIHNlc3Npb24KICAgICAgICBTaGlyb1V0aWxzLnNldFNlc3Npb25BdHRyaWJ1dGUoQ29uc3RhbnRzLktBUFRDSEFfU0VTU0lPTl9LRVksIHRleHQpOwoKICAgICAgICBTZXJ2bGV0T3V0cHV0U3RyZWFtIG91dCA9IHJlc3BvbnNlLmdldE91dHB1dFN0cmVhbSgpOwogICAgICAgIEltYWdlSU8ud3JpdGUoaW1hZ2UsICJqcGciLCBvdXQpOwogICAgfQoKICAgIC8qKgogICAgICoga2V5tcfCvAogICAgICovCiAgICBAUmVzcG9uc2VCb2R5CiAgICBAUmVxdWVzdE1hcHBpbmcodmFsdWUgPSAiL3N5cy9rZXlMb2dpbiIsIG1ldGhvZCA9IFJlcXVlc3RNZXRob2QuUE9TVCkKICAgIHB1YmxpYyBSIGtleUxvZ2luKFN0cmluZyBrZXlTbiwgU3RyaW5nIHNpZ24pIHsKCiAgICAgICAgLy8gsunRr9PDu6fQxc+iCiAgICAgICAgU3lzVXNlckVudGl0eSB1c2VyID0gc3lzVXNlclNlcnZpY2UuZ2V0T25lKG5ldyBRdWVyeVdyYXBwZXI8U3lzVXNlckVudGl0eT4oKS5lcSgia2V5X3NuIiwga2V5U24pKTsKCiAgICAgICAgLy8g1cu6xbK7tObU2gogICAgICAgIGlmICh1c2VyID09IG51bGwpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IFVua25vd25BY2NvdW50RXhjZXB0aW9uKCk7CiAgICAgICAgfQogICAgICAgIC8vINXLusXL+LaoCiAgICAgICAgaWYgKHVzZXIuZ2V0U3RhdHVzKCkgPT0gMCkgewogICAgICAgICAgICB0aHJvdyBuZXcgTG9ja2VkQWNjb3VudEV4Y2VwdGlvbigi1cu6xdLRsbvL+LaoLMfrwarPtbncwO3UsSIpOwogICAgICAgIH0KICAgICAgICAvLyBUT0RPOiDWpMrp0KPR6QogICAgICAgIHRyeSB7CiAgICAgICAgICAgIFN1YmplY3Qgc3ViamVjdCA9IFNoaXJvVXRpbHMuZ2V0U3ViamVjdCgpOwogICAgICAgICAgICBVc2VybmFtZVBhc3N3b3JkS2V5VG9rZW4gdG9rZW4gPSBuZXcgVXNlcm5hbWVQYXNzd29yZEtleVRva2VuKHVzZXIuZ2V0VXNlcm5hbWUoKSwKICAgICAgICAgICAgICAgICAgICBTaGlyb1V0aWxzLktFWV9MT0dJTl9OT1JNQUxfUEFTU1dPUkQsIHRydWUpOwogICAgICAgICAgICBzdWJqZWN0LmxvZ2luKHRva2VuKTsKICAgICAgICB9IGNhdGNoIChVbmtub3duQWNjb3VudEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIHJldHVybiBSLmVycm9yKGUuZ2V0TWVzc2FnZSgpKTsKICAgICAgICB9IGNhdGNoIChBdXRoZW50aWNhdGlvbkV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIHJldHVybiBSLmVycm9yKCLVy7un0enWpMqnsNwiKTsKICAgICAgICB9CgogICAgICAgIHJldHVybiBSLm9rKCk7CiAgICB9CgogICAgLyoqCiAgICAgKiC1x8K8CiAgICAgKi8KICAgIEBSZXNwb25zZUJvZHkKICAgIEBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9ICIvc3lzL2xvZ2luIiwgbWV0aG9kID0gUmVxdWVzdE1ldGhvZC5QT1NUKQogICAgcHVibGljIFIgbG9naW4oU3RyaW5nIHVzZXJuYW1lLCBTdHJpbmcgcGFzc3dvcmQsIFN0cmluZyBjYXB0Y2hhKSB7CiAgICAgICAgU3RyaW5nIGthcHRjaGEgPSBTaGlyb1V0aWxzLmdldEthcHRjaGEoQ29uc3RhbnRzLktBUFRDSEFfU0VTU0lPTl9LRVkpOwogICAgICAgIGlmICghY2FwdGNoYS5lcXVhbHNJZ25vcmVDYXNlKGthcHRjaGEpKSB7CiAgICAgICAgICAgIHJldHVybiBSLmVycm9yKCLR6dakwuuyu9X9yLciKTsKICAgICAgICB9CgogICAgICAgIHRyeSB7CiAgICAgICAgICAgIFN1YmplY3Qgc3ViamVjdCA9IFNoaXJvVXRpbHMuZ2V0U3ViamVjdCgpOwogICAgICAgICAgICBVc2VybmFtZVBhc3N3b3JkS2V5VG9rZW4gdG9rZW4gPSBuZXcgVXNlcm5hbWVQYXNzd29yZEtleVRva2VuKHVzZXJuYW1lLCBwYXNzd29yZCwgZmFsc2UpOwogICAgICAgICAgICBzdWJqZWN0LmxvZ2luKHRva2VuKTsKICAgICAgICB9IGNhdGNoIChVbmtub3duQWNjb3VudEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIHJldHVybiBSLmVycm9yKGUuZ2V0TWVzc2FnZSgpKTsKICAgICAgICB9IGNhdGNoIChJbmNvcnJlY3RDcmVkZW50aWFsc0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIHJldHVybiBSLmVycm9yKCLVy7rFu/LD3MLrsrvV/ci3Iik7CiAgICAgICAgfSBjYXRjaCAoTG9ja2VkQWNjb3VudEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIHJldHVybiBSLmVycm9yKCLVy7rF0tGxu8v4tqgsx+vBqs+1udzA7dSxIik7CiAgICAgICAgfSBjYXRjaCAoQXV0aGVudGljYXRpb25FeGNlcHRpb24gZSkgewogICAgICAgICAgICByZXR1cm4gUi5lcnJvcigi1cu7p9Hp1qTKp7DcIik7CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gUi5vaygpOwogICAgfQoKICAgIC8qKgogICAgICogzcuz9gogICAgICovCiAgICBAUmVxdWVzdE1hcHBpbmcodmFsdWUgPSAibG9nb3V0IiwgbWV0aG9kID0gUmVxdWVzdE1ldGhvZC5HRVQpCiAgICBwdWJsaWMgU3RyaW5nIGxvZ291dCgpIHsKICAgICAgICBTaGlyb1V0aWxzLmxvZ291dCgpOwogICAgICAgIHJldHVybiAicmVkaXJlY3Q6bG9naW4uaHRtbCI7CiAgICB9Cgp9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDVy7rFy/i2qAogICAgICAgIGlmICh1c2VyLmdldFN0YXR1cygpID09IDApIHsKICAgICAgICAgICAgdGhyb3cgbmV3IExvY2tlZEFjY291bnRFeGNlcHRpb24oItXLusXS0bG7y/i2qCzH68Gqz7W53MDt1LEiKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>IncorrectCredentialsException</last-search>
+      <last-search>user</last-search>
       <last-offset />
-      <last-pattern>IncorrectCredentialsException</last-pattern>
+      <last-pattern>user</last-pattern>
       <last-replace encoding="base64">XCA=</last-replace>
       <last-substitute>CcbVerifier.</last-substitute>
       <last-dir>1</last-dir>
@@ -582,7 +584,6 @@
         <entry>data</entry>
         <entry>cache</entry>
         <entry>free</entry>
-        <entry>user</entry>
         <entry>user.keySn</entry>
         <entry>too</entry>
         <entry>username</entry>
@@ -592,6 +593,7 @@
         <entry>finalNa</entry>
         <entry>see</entry>
         <entry>IncorrectCredentialsException</entry>
+        <entry>user</entry>
       </history-search>
       <history-cmd>
         <entry>%s/shiro:/@shiro:/g</entry>
