@@ -332,7 +332,9 @@
         <mark key="^" line="14" column="35" />
         <mark key="." line="14" column="35" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/modules/sys/shiro/UserRealm.java" timestamp="1545038103816" />
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/modules/sys/shiro/UserRealm.java" timestamp="1545039556345">
+        <mark key="[" line="102" column="82" />
+      </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/pom.xml" timestamp="1544688928171">
         <mark key="'" line="7" column="3" />
         <mark key="[" line="51" column="0" />
@@ -377,9 +379,11 @@
         <mark key="." line="191" column="15" />
         <mark key="^" line="191" column="15" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/java/com/tdr/modules/sys/controller/SysLoginController.java" timestamp="1545036543575">
-        <mark key="[" line="88" column="17" />
-        <mark key="]" line="88" column="45" />
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/java/com/tdr/modules/sys/controller/SysLoginController.java" timestamp="1545039765765">
+        <mark key="[" line="71" column="7" />
+        <mark key="]" line="71" column="9" />
+        <mark key="^" line="71" column="9" />
+        <mark key="." line="71" column="9" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/java/com/tdr/modules/sys/controller/SysUserController.java" timestamp="1544675128876">
         <mark key="[" line="73" column="11" />
@@ -493,47 +497,47 @@
       <jump line="60" column="70" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.2.RELEASE/spring-webmvc-5.1.2.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/ResponseEntityExceptionHandler.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>IncorrectCredentialsException</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFIuZXJyb3IoItXLusW78sPcwuuyu9X9yLciKTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">OiA=</text>
+        <text>captcha</text>
       </register>
       <register name="/" type="4">
         <text>IncorrectCredentialsException</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9IiR7cmVxdWVzdC5jb250ZXh0UGF0aH0vc3RhdGljcy9saWJzL2pxdWVyeS5taW4uanMiPjwvc2NyaXB0Pgo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">CgogICAgLyoqCiAgICAgKiC1x8K8CiAgICAgKi8KICAgIEBSZXNwb25zZUJvZHkKICAgIEBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9ICIvc3lzL2xvZ2luIiwgbWV0aG9kID0gUmVxdWVzdE1ldGhvZC5QT1NUKQogICAgcHVibGljIFIgbG9naW4oU3RyaW5nIHVzZXJuYW1lLCBTdHJpbmcgcGFzc3dvcmQsIFN0cmluZyBjYXB0Y2hhKSB7CiAgICAgICAgU3RyaW5nIGthcHRjaGEgPSBTaGlyb1V0aWxzLmdldEthcHRjaGEoQ29uc3RhbnRzLktBUFRDSEFfU0VTU0lPTl9LRVkpOwogICAgICAgIGlmICghY2FwdGNoYS5lcXVhbHNJZ25vcmVDYXNlKGthcHRjaGEpKSB7CiAgICAgICAgICAgIHJldHVybiBSLmVycm9yKCLR6dakwuuyu9X9yLciKTsKICAgICAgICB9CgogICAgICAgIHRyeSB7CiAgICAgICAgICAgIFN1YmplY3Qgc3ViamVjdCA9IFNoaXJvVXRpbHMuZ2V0U3ViamVjdCgpOwogICAgICAgICAgICBVc2VybmFtZVBhc3N3b3JkVG9rZW4gdG9rZW4gPSBuZXcgVXNlcm5hbWVQYXNzd29yZFRva2VuKHVzZXJuYW1lLCBwYXNzd29yZCk7CiAgICAgICAgICAgIHN1YmplY3QubG9naW4odG9rZW4pOwogICAgICAgIH0gY2F0Y2ggKFVua25vd25BY2NvdW50RXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgcmV0dXJuIFIuZXJyb3IoZS5nZXRNZXNzYWdlKCkpOwogICAgICAgIH0gY2F0Y2ggKEluY29ycmVjdENyZWRlbnRpYWxzRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgcmV0dXJuIFIuZXJyb3IoItXLusW78sPcwuuyu9X9yLciKTsKICAgICAgICB9IGNhdGNoIChMb2NrZWRBY2NvdW50RXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgcmV0dXJuIFIuZXJyb3IoItXLusXS0bG7y/i2qCzH68Gqz7W53MDt1LEiKTsKICAgICAgICB9IGNhdGNoIChBdXRoZW50aWNhdGlvbkV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIHJldHVybiBSLmVycm9yKCLVy7un0enWpMqnsNwiKTsKICAgICAgICB9CgogICAgICAgIHJldHVybiBSLm9rKCk7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogQENsYXNzTmFtZTogQXBpRXhjZXB0aW9uSGFuZGxlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFIuZXJyb3IoItXLusW78sPcwuuyu9X9yLciKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChJbmNvcnJlY3RDcmVkZW50aWFsc0V4Y2VwdGlvbiBlKSB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqICAgICAgb3JnLnNwcmluZ2ZyYW1ld29yay5odHRwLkh0dHBIZWFkZXJzLG9yZy5zcHJpbmdmcmFtZXdvcmsuaHR0cC5IdHRwU3RhdHVzLG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmNvbnRleHQucmVxdWVzdC5XZWJSZXF1ZXN0KQo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqICAgICAgamF2YS5sYW5nLk9iamVjdCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFIuZXJyb3IoItHp1qTC67K71f3ItyIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIWNhcHRjaGEuZXF1YWxzSWdub3JlQ2FzZShrYXB0Y2hhKSkgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqICAgICAgb3JnLnNwcmluZ2ZyYW1ld29yay5odHRwLkh0dHBIZWFkZXJzLG9yZy5zcHJpbmdmcmFtZXdvcmsuaHR0cC5IdHRwU3RhdHVzLG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmNvbnRleHQucmVxdWVzdC5XZWJSZXF1ZXN0KQo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcga2FwdGNoYSA9IFNoaXJvVXRpbHMuZ2V0S2FwdGNoYShDb25zdGFudHMuS0FQVENIQV9TRVNTSU9OX0tFWSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqICAgICAgamF2YS5sYW5nLk9iamVjdCwK</text>
+        <text encoding="base64">ICogQENsYXNzTmFtZTogQXBpRXhjZXB0aW9uSGFuZGxlcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIEBzZWUgb3JnLnNwcmluZ2ZyYW1ld29yay53ZWIuc2VydmxldC5tdmMubWV0aG9kLmFubm90YXRpb24uUmVzcG9uc2VFbnRpdHlFeGNlcHRpb25IYW5kbGVyI2hhbmRsZUV4Y2VwdGlvbkludGVybmFsKGphdmEubGFuZy5FeGNlcHRpb24sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIAo=</text>
+        <text encoding="base64">ICAgICAqICAgICAgb3JnLnNwcmluZ2ZyYW1ld29yay5odHRwLkh0dHBIZWFkZXJzLG9yZy5zcHJpbmdmcmFtZXdvcmsuaHR0cC5IdHRwU3RhdHVzLG9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLmNvbnRleHQucmVxdWVzdC5XZWJSZXF1ZXN0KQo=</text>
       </register>
       <register name=":" type="4">
-        <text>qa!</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -589,8 +593,8 @@
         <entry>%s/username/userName/g</entry>
         <entry>%s/CcbVerifier.//g</entry>
         <entry>%s/CcbVerifier./\ /g</entry>
-        <entry>w</entry>
         <entry>qa!</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
