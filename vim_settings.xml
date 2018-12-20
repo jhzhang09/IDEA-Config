@@ -220,6 +220,7 @@
         <mark key="^" line="123" column="14" />
         <mark key="." line="118" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.4.0/shiro-core-1.4.0-sources.jar!/org/apache/shiro/authc/UsernamePasswordToken.java" timestamp="1545276815075" />
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/modules/user/service/UserService.java" timestamp="1544087124311">
         <mark key="[" line="45" column="5" />
         <mark key="]" line="45" column="5" />
