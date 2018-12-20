@@ -229,6 +229,12 @@
       <file name="/Enum.txt.ft" timestamp="1544063716932">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/resources/fdfs_client.conf" timestamp="1545273365584">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="5" />
+        <mark key="." line="4" column="5" />
+        <mark key="^" line="4" column="5" />
+      </file>
       <file name="/Class.txt.ft" timestamp="1544063714797">
         <mark key="[" line="0" column="0" />
       </file>
@@ -386,10 +392,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IDA0MDZBNUI2OEIxQkQxQTI2N0ZFNDI5QjVGQjAyNTlGRDBEREMyODY5OTFFRjc4RkJDRUU4N0YyRDc1NzM5MzM1MkFDMTY3QzU4M0VGNzI0RjIwRjhCNDNFMTRDODJFOEFBMTZCQjU1ODE1MjA2OTE0RUYyNzQ3QzhFRDgzRjIyNTI=</text>
+        <text>charset = ISO8859-1</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IDA0MDZBNUI2OEIxQkQxQTI2N0ZFNDI5QjVGQjAyNTlGRDBEREMyODY5OTFFRjc4RkJDRUU4N0YyRDc1NzM5MzM1MkFDMTY3QzU4M0VGNzI0RjIwRjhCNDNFMTRDODJFOEFBMTZCQjU1ODE1MjA2OTE0RUYyNzQ3QzhFRDgzRjIyNTI=</text>
+        <text>charset = ISO8859-1</text>
       </register>
       <register name="/" type="4">
         <text>keyLogin</text>
@@ -398,34 +404,34 @@
         <text encoding="base64">CSAgICBBTkQgci51c2VyX25hbWUgPSAje3VzZXJOYW1lfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYW5kIGtleV9zbiA9ICN7a2V5U259Cg==</text>
+        <text encoding="base64">bmV0d29ya190aW1lb3V0ID0gMzAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHdoZXJlIHVzZXJfaWQgSU4gKHNlbGVjdCB1c2VyX2lkIGZyb20gdGJfcl9rZXlib2FyZF91c2VyIHdoZXJlIGtleWJvYXJkX2lkID0gI3trZXlib2FyZElkfSBhbmQgdXNlcl9uYW1lID0gI3t1c2VyTmFtZX0pCg==</text>
+        <text encoding="base64">ICAgICAgYW5kIGtleV9zbiA9ICN7a2V5U259Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZyb20gdGJfdXNlcgo=</text>
+        <text encoding="base64">ICAgIHdoZXJlIHVzZXJfaWQgSU4gKHNlbGVjdCB1c2VyX2lkIGZyb20gdGJfcl9rZXlib2FyZF91c2VyIHdoZXJlIGtleWJvYXJkX2lkID0gI3trZXlib2FyZElkfSBhbmQgdXNlcl9uYW1lID0gI3t1c2VyTmFtZX0pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNlbGVjdCAqCg==</text>
+        <text encoding="base64">ICAgIGZyb20gdGJfdXNlcgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgKQo=</text>
+        <text encoding="base64">ICAgIHNlbGVjdCAqCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIEFORCB1c2VyX25hbWUgPSAje3VzZXJOYW1lfQo=</text>
+        <text encoding="base64">ICAgICAgKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGtleWJvYXJkX2lkID0gI3trZXlib2FyZElkfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIEFORCB1c2VyX25hbWUgPSAje3VzZXJOYW1lfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBXSEVSRQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGtleWJvYXJkX2lkID0gI3trZXlib2FyZElkfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRiX3Jfa2V5Ym9hcmRfdXNlcgo=</text>
+        <text encoding="base64">ICAgICAgICBXSEVSRQo=</text>
       </register>
       <register name=":" type="4">
-        <text>qa!</text>
+        <text>qa</text>
       </register>
     </registers>
     <search>
@@ -435,7 +441,7 @@
       <last-replace encoding="base64">XCA=</last-replace>
       <last-substitute>CcbVerifier.</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -481,6 +487,8 @@
         <entry>%s/CcbVerifier./\ /g</entry>
         <entry>w</entry>
         <entry>qa!</entry>
+        <entry>Q</entry>
+        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
