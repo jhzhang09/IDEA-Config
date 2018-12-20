@@ -431,7 +431,7 @@
         <text encoding="base64">ICAgICAgICBXSEVSRQo=</text>
       </register>
       <register name=":" type="4">
-        <text>qa</text>
+        <text>qa!</text>
       </register>
     </registers>
     <search>
@@ -441,7 +441,7 @@
       <last-replace encoding="base64">XCA=</last-replace>
       <last-substitute>CcbVerifier.</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -467,8 +467,6 @@
         <entry>keyLogin</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/shiro:/@shiro:/g</entry>
-        <entry>%s/shiro:/@shiro./g</entry>
         <entry encoding="base64">Iik+</entry>
         <entry>%s/#if\ shrio.hasPermision(/@shiro.hasPermision\ name=</entry>
         <entry>%s/#if\ shiro.hasPermision(/@shiro.hasPermision\ name=</entry>
@@ -486,9 +484,9 @@
         <entry>%s/CcbVerifier.//g</entry>
         <entry>%s/CcbVerifier./\ /g</entry>
         <entry>w</entry>
-        <entry>qa!</entry>
         <entry>Q</entry>
         <entry>qa</entry>
+        <entry>qa!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
