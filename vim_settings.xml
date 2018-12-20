@@ -432,7 +432,7 @@
         <text encoding="base64">ICAgICAgICAgIGtleWJvYXJkX2lkID0gI3trZXlib2FyZElkfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qa!</text>
       </register>
     </registers>
     <search>
@@ -486,8 +486,8 @@
         <entry>%s/CcbVerifier./\ /g</entry>
         <entry>Q</entry>
         <entry>qa</entry>
-        <entry>qa!</entry>
         <entry>w</entry>
+        <entry>qa!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
