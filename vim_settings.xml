@@ -220,7 +220,6 @@
         <mark key="^" line="123" column="14" />
         <mark key="." line="118" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.4.0/shiro-core-1.4.0-sources.jar!/org/apache/shiro/authc/UsernamePasswordToken.java" timestamp="1545276815075" />
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/modules/user/service/UserService.java" timestamp="1544087124311">
         <mark key="[" line="45" column="5" />
         <mark key="]" line="45" column="5" />
@@ -261,12 +260,12 @@
         <mark key="." line="41" column="3" />
         <mark key="^" line="41" column="3" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/java/com/tdr/modules/user/controller/UserController.java" timestamp="1545102646628">
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/java/com/tdr/modules/user/controller/UserController.java" timestamp="1545288389155">
         <mark key="'" line="234" column="12" />
-        <mark key="[" line="167" column="9" />
-        <mark key="]" line="168" column="7" />
-        <mark key="." line="168" column="7" />
-        <mark key="^" line="168" column="7" />
+        <mark key="[" line="145" column="0" />
+        <mark key="]" line="149" column="32" />
+        <mark key="." line="149" column="32" />
+        <mark key="^" line="149" column="32" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/constants/ErrorCodeConstants.java" timestamp="1544083309058">
         <mark key="[" line="181" column="49" />
@@ -392,8 +391,8 @@
       <jump line="71" column="43" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/login.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>charset = ISO8859-1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICog0N64xAogICAgICogCiAgICAgKiBAdGhyb3dzIElPRXhjZXB0aW9uCiAgICAgKiBAdGhyb3dzIEpzb25NYXBwaW5nRXhjZXB0aW9uCiAgICAgKiBAdGhyb3dzIEpzb25QYXJzZUV4Y2VwdGlvbgogICAgICovCg==</text>
       </register>
       <register name="-" type="4">
         <text>charset = ISO8859-1</text>
@@ -405,34 +404,34 @@
         <text encoding="base64">CSAgICBBTkQgci51c2VyX25hbWUgPSAje3VzZXJOYW1lfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bmV0d29ya190aW1lb3V0ID0gMzAK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICog0N64xAogICAgICogCiAgICAgKiBAdGhyb3dzIElPRXhjZXB0aW9uCiAgICAgKiBAdGhyb3dzIEpzb25NYXBwaW5nRXhjZXB0aW9uCiAgICAgKiBAdGhyb3dzIEpzb25QYXJzZUV4Y2VwdGlvbgogICAgICovCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYW5kIGtleV9zbiA9ICN7a2V5U259Cg==</text>
+        <text encoding="base64">bmV0d29ya190aW1lb3V0ID0gMzAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHdoZXJlIHVzZXJfaWQgSU4gKHNlbGVjdCB1c2VyX2lkIGZyb20gdGJfcl9rZXlib2FyZF91c2VyIHdoZXJlIGtleWJvYXJkX2lkID0gI3trZXlib2FyZElkfSBhbmQgdXNlcl9uYW1lID0gI3t1c2VyTmFtZX0pCg==</text>
+        <text encoding="base64">ICAgICAgYW5kIGtleV9zbiA9ICN7a2V5U259Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZyb20gdGJfdXNlcgo=</text>
+        <text encoding="base64">ICAgIHdoZXJlIHVzZXJfaWQgSU4gKHNlbGVjdCB1c2VyX2lkIGZyb20gdGJfcl9rZXlib2FyZF91c2VyIHdoZXJlIGtleWJvYXJkX2lkID0gI3trZXlib2FyZElkfSBhbmQgdXNlcl9uYW1lID0gI3t1c2VyTmFtZX0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNlbGVjdCAqCg==</text>
+        <text encoding="base64">ICAgIGZyb20gdGJfdXNlcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgKQo=</text>
+        <text encoding="base64">ICAgIHNlbGVjdCAqCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIEFORCB1c2VyX25hbWUgPSAje3VzZXJOYW1lfQo=</text>
+        <text encoding="base64">ICAgICAgKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGtleWJvYXJkX2lkID0gI3trZXlib2FyZElkfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIEFORCB1c2VyX25hbWUgPSAje3VzZXJOYW1lfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBXSEVSRQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGtleWJvYXJkX2lkID0gI3trZXlib2FyZElkfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>qa!</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -484,10 +483,10 @@
         <entry>%s/username/userName/g</entry>
         <entry>%s/CcbVerifier.//g</entry>
         <entry>%s/CcbVerifier./\ /g</entry>
-        <entry>w</entry>
         <entry>Q</entry>
         <entry>qa</entry>
         <entry>qa!</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
