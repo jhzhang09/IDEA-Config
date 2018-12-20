@@ -141,11 +141,11 @@
         <mark key="^" line="6" column="18" />
         <mark key="." line="6" column="18" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" timestamp="1544755907565">
-        <mark key="[" line="6" column="58" />
-        <mark key="]" line="5" column="30" />
-        <mark key="." line="5" column="30" />
-        <mark key="^" line="5" column="30" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" timestamp="1545290109397">
+        <mark key="[" line="9" column="40" />
+        <mark key="]" line="9" column="37" />
+        <mark key="." line="9" column="37" />
+        <mark key="^" line="8" column="26" />
       </file>
       <file name="/ApiKeyboardJoinController.java" timestamp="1544097593175">
         <mark key="[" line="0" column="0" />
@@ -392,7 +392,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog0N64xAogICAgICogCiAgICAgKiBAdGhyb3dzIElPRXhjZXB0aW9uCiAgICAgKiBAdGhyb3dzIEpzb25NYXBwaW5nRXhjZXB0aW9uCiAgICAgKiBAdGhyb3dzIEpzb25QYXJzZUV4Y2VwdGlvbgogICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYS5lcXVhbHMoYikpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>charset = ISO8859-1</text>
@@ -401,7 +401,7 @@
         <text>keyLogin</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CSAgICBBTkQgci51c2VyX25hbWUgPSAje3VzZXJOYW1lfQo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYS5lcXVhbHMoYikpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIC8qKgogICAgICog0N64xAogICAgICogCiAgICAgKiBAdGhyb3dzIElPRXhjZXB0aW9uCiAgICAgKiBAdGhyb3dzIEpzb25NYXBwaW5nRXhjZXB0aW9uCiAgICAgKiBAdGhyb3dzIEpzb25QYXJzZUV4Y2VwdGlvbgogICAgICovCg==</text>
