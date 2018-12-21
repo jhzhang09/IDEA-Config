@@ -78,7 +78,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>171</Count>
+          <Count>172</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -231,6 +231,14 @@
           <ShortCut>'Ctrl+Alt+L'</ShortCut>
           <Description>Reformat Code</Description>
           <Count>18</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Remove Configuration">
+        <Item>
+          <IdeaActionID>RunDashboard.RemoveConfiguration</IdeaActionID>
+          <ShortCut>'Delete'</ShortCut>
+          <Description>Remove Configuration</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove Module">
@@ -534,7 +542,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>63</Count>
+          <Count>64</Count>
         </Item>
       </Statistic>
       <Statistic Action="Type Declaration">
