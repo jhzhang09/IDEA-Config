@@ -200,6 +200,10 @@
         <mark key="]" line="37" column="53" />
         <mark key="." line="37" column="53" />
       </file>
+      <file name="/IcbcEBankSignVerifyController.java" timestamp="1545376846190">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="78" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d0d78b12-4954-483f-b026-68f2e189eb10/console.sql" timestamp="1544164766223">
         <mark key="[" line="0" column="0" />
       </file>
@@ -396,8 +400,8 @@
       <jump line="71" column="43" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/login.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFN0cmluZyBDQV9QUklWQVRFX0tFWTsKICAgIHByaXZhdGUgc3RhdGljIFN0cmluZyBDQV9QVUJMSUNfS0VZOwoKICAgIHByaXZhdGUgc3RhdGljIFN0cmluZyBQSE9UT19JTkZfQkFTRTY0ID0gIiI7CgogICAgc3RhdGljIHsKICAgICAgICB0cnkgewogICAgICAgICAgICBJbnB1dFN0cmVhbSBpbiA9IEljYmNFQmFua1NpZ25WZXJpZnlDb250cm9sbGVyLmNsYXNzLmdldFJlc291cmNlQXNTdHJlYW0oIi9pY2JjU2lnbi5qcGciKTsKICAgICAgICAgICAgUEhPVE9fSU5GX0JBU0U2NCA9IEJhc2U2NFV0aWxzLmVuY29kZVRvU3RyaW5nKEZpbGVDb3B5VXRpbHMuY29weVRvQnl0ZUFycmF5KGluKSk7CgogICAgICAgICAgICBJbnB1dFN0cmVhbSBwcml2YXRlS2V5SW4gPSBJY2JjRUJhbmtTaWduVmVyaWZ5Q29udHJvbGxlci5jbGFzcy5nZXRSZXNvdXJjZUFzU3RyZWFtKCIvaWNiY1ByaXZhdGVLZXkua2V5Iik7CiAgICAgICAgICAgIENBX1BSSVZBVEVfS0VZID0gQmFzZTY0VXRpbHMuZW5jb2RlVG9TdHJpbmcoRmlsZUNvcHlVdGlscy5jb3B5VG9CeXRlQXJyYXkocHJpdmF0ZUtleUluKSk7CgogICAgICAgICAgICBJbnB1dFN0cmVhbSBwdWJsaWNLZXlJbiA9IEljYmNFQmFua1NpZ25WZXJpZnlDb250cm9sbGVyLmNsYXNzLmdldFJlc291cmNlQXNTdHJlYW0oIi9pY2JjUHVibGljS2V5LmNydCIpOwogICAgICAgICAgICBDQV9QVUJMSUNfS0VZID0gQmFzZTY0VXRpbHMuZW5jb2RlVG9TdHJpbmcoRmlsZUNvcHlVdGlscy5jb3B5VG9CeXRlQXJyYXkocHVibGljS2V5SW4pKTsKCiAgICAgICAgICAgIExPR0dFUi5pbmZvKCLKtcP7x6m5q8u91L+809TYzeqzySIpOwogICAgICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgTE9HR0VSLmVycm9yKCK809TYuaTQ0Mq1w/vHqbmry73Uv7rNx6nD+828xqy07c7zo6wiLCBlKTsKICAgICAgICB9CiAgICB9Cgo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">PA==</text>
