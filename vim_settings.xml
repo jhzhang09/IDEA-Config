@@ -126,8 +126,17 @@
       <file name="/172.16.32.9" timestamp="1544103484372">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiFaceRecognizeController.java" timestamp="1545386487886">
+        <mark key="[" line="71" column="25" />
+        <mark key="]" line="71" column="25" />
+        <mark key="." line="71" column="25" />
+        <mark key="^" line="71" column="25" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.2.RELEASE/spring-webmvc-5.1.2.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/ResponseEntityExceptionHandler.java" timestamp="1545017599447">
         <mark key="'" line="60" column="70" />
+      </file>
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/BaseController.java" timestamp="1545387048796">
+        <mark key="[" line="46" column="41" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/java/com/tdr/modules/sys/controller/AbstractController.java" timestamp="1544675160562">
         <mark key="[" line="39" column="14" />
@@ -178,11 +187,11 @@
         <mark key="^" line="12" column="35" />
         <mark key="." line="12" column="35" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/resolver/JoinedKeyboardHandlerMethodArgumentResolver.java" timestamp="1545381492928">
-        <mark key="[" line="47" column="75" />
-        <mark key="]" line="47" column="98" />
-        <mark key="^" line="47" column="98" />
-        <mark key="." line="47" column="98" />
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/resolver/JoinedKeyboardHandlerMethodArgumentResolver.java" timestamp="1545386804327">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="71" column="13" />
+        <mark key="." line="49" column="40" />
+        <mark key="^" line="60" column="76" />
       </file>
       <file name="/JavaScript Console" timestamp="1544498045191">
         <mark key="[" line="0" column="0" />
@@ -223,8 +232,11 @@
         <mark key="]" line="2" column="27" />
         <mark key="." line="2" column="28" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/ApiApplication.http" timestamp="1545378007535">
-        <mark key="[" line="0" column="57" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/ApiApplication.http" timestamp="1545382929291">
+        <mark key="[" line="0" column="53" />
+        <mark key="]" line="0" column="58" />
+        <mark key="^" line="0" column="58" />
+        <mark key="." line="0" column="58" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/form/KeyboardKeyRecForm.java" timestamp="1544509247936">
         <mark key="[" line="13" column="5" />
@@ -256,11 +268,11 @@
       <file name="/Class.txt.ft" timestamp="1544063714797">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/resources/application-dev.yml" timestamp="1545128548469">
-        <mark key="[" line="43" column="23" />
-        <mark key="]" line="43" column="23" />
-        <mark key="." line="43" column="23" />
-        <mark key="^" line="43" column="23" />
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/resources/application-dev.yml" timestamp="1545382668509">
+        <mark key="[" line="46" column="26" />
+        <mark key="]" line="47" column="3" />
+        <mark key="." line="47" column="3" />
+        <mark key="^" line="47" column="3" />
       </file>
       <file name="/&lt;Generic&gt; Fragment (UserDao.xml:942).sql" timestamp="1544516114499">
         <mark key="[" line="0" column="0" />
@@ -307,7 +319,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/java/com/tdr/modules/user/controller/UserController.java" />
       <jump line="12" column="55" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/user/user.html" />
       <jump line="22" column="8" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/user/user.html" />
       <jump line="181" column="12" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/java/com/tdr/modules/user/controller/UserController.java" />
@@ -407,46 +418,47 @@
       <jump line="33" column="12" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/login.html" />
       <jump line="32" column="41" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/login.html" />
       <jump line="71" column="43" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/login.html" />
+      <jump line="95" column="52" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/resolver/JoinedKeyboardHandlerMethodArgumentResolver.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>nativeWebRequest.getParameterNames().toString()</text>
+        <text encoding="base64">bmV3IA==</text>
       </register>
       <register name="-" type="4">
-        <text>nativeWebRequest.getParameterNames().toString()</text>
+        <text encoding="base64">bmV3IA==</text>
       </register>
       <register name="/" type="4">
         <text>keyLogin</text>
       </register>
-      <register name="0" type="4">
-        <text>HandlerMethodArgumentResolver</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgS2V5Ym9hcmRFbnRpdHkga2V5Ym9hcmRFbnRpdHkgPSBrZXlib2FyZFNlcnZpY2Uuc2VsZWN0QnlTbihrZXlib2FyZFNuKTsKICAgICAgICAgICAgQWJzdHJhY3RBcGlBc3NlcnQuaXNOdWxsKGtleWJvYXJkRW50aXR5LCBFcnJvckNvZGVDb25zdGFudHMuRTAyMDAxKTsKICAgICAgICAgICAgLy8gvPzFzNe0zKzF0LbPo6zWu9PQ0tG+rcXk1sO1xNLUvLDF5NbDwcvTw7untcS8/MXM1MrQ7b3TyOsKICAgICAgICAgICAgaWYgKCFLZXlib2FyZENvbnN0YW50cy5TVEFUVVNfQ09ORklHLmVxdWFscyhrZXlib2FyZEVudGl0eS5nZXRTdGF0dXMoKSkpIHsKICAgICAgICAgICAgICAgIHRocm93IG5ldyBBcGlFeGNlcHRpb24oRXJyb3JDb2RlQ29uc3RhbnRzLkUwMjAwMik7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">sObIqMn5w/ejurG+zsTOqrKp1vfUrbS0zsTVwqOs16rU2MfruL3Jz7KpzsTBtL3To6EK</text>
+        <text encoding="base64">ICAgIEBWYWx1ZSgiJHtzYWZla2V5Ym9hcmQuY29uZmlnLmtleWJvYXJkLXJlc29sdmUtbW9kZX0iKQogICAgcHJpdmF0ZSBTdHJpbmcgcmVzb2x2ZXJNb2RlOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">1K3OxKO6aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTA1MTUyMDIvYXJ0aWNsZS9kZXRhaWxzLzgwNjIyMTk0IAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">wLTUtKO6Q1NETiAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">1/fV36O6eGhqd3l5IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LS0tLS0tLS0tLS0tLS0tLS0tLS0tIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog0N64xAogICAgICogCiAgICAgKiBAdGhyb3dzIElPRXhjZXB0aW9uCiAgICAgKiBAdGhyb3dzIEpzb25NYXBwaW5nRXhjZXB0aW9uCiAgICAgKiBAdGhyb3dzIEpzb25QYXJzZUV4Y2VwdGlvbgogICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEtleWJvYXJkRW50aXR5IGtleWJvYXJkRW50aXR5ID0gSnd0VG9rZW5VdGlsLmRlY29kZVRva2VuKHRva2VuKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bmV0d29ya190aW1lb3V0ID0gMzAK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYW5kIGtleV9zbiA9ICN7a2V5U259Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAga2V5Ym9hcmRTbiA9IGtleWJvYXJkQmFzZUZvcm0uZ2V0S2V5Ym9hcmRTbigpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHdoZXJlIHVzZXJfaWQgSU4gKHNlbGVjdCB1c2VyX2lkIGZyb20gdGJfcl9rZXlib2FyZF91c2VyIHdoZXJlIGtleWJvYXJkX2lkID0gI3trZXlib2FyZElkfSBhbmQgdXNlcl9uYW1lID0gI3t1c2VyTmFtZX0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgS2V5Ym9hcmRCYXNlRm9ybSBrZXlib2FyZEJhc2VGb3JtID0gbWFwcGVyLnJlYWRWYWx1ZShqc29uUmVxdWVzdCwgS2V5Ym9hcmRCYXNlRm9ybS5jbGFzcyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -504,6 +516,7 @@
         <entry>qa</entry>
         <entry>qa!</entry>
         <entry>q</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
