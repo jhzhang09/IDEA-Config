@@ -178,11 +178,11 @@
         <mark key="^" line="12" column="35" />
         <mark key="." line="12" column="35" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/resolver/JoinedKeyboardHandlerMethodArgumentResolver.java" timestamp="1545378547586">
-        <mark key="[" line="48" column="44" />
-        <mark key="]" line="48" column="61" />
-        <mark key="^" line="48" column="61" />
-        <mark key="." line="48" column="61" />
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/resolver/JoinedKeyboardHandlerMethodArgumentResolver.java" timestamp="1545381492928">
+        <mark key="[" line="47" column="75" />
+        <mark key="]" line="47" column="98" />
+        <mark key="^" line="47" column="98" />
+        <mark key="." line="47" column="98" />
       </file>
       <file name="/JavaScript Console" timestamp="1544498045191">
         <mark key="[" line="0" column="0" />
@@ -410,10 +410,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>HandlerMethodArgumentResolver</text>
+        <text>nativeWebRequest.getParameterNames().toString()</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PA==</text>
+        <text>nativeWebRequest.getParameterNames().toString()</text>
       </register>
       <register name="/" type="4">
         <text>keyLogin</text>
@@ -422,31 +422,31 @@
         <text>HandlerMethodArgumentResolver</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog0N64xAogICAgICogCiAgICAgKiBAdGhyb3dzIElPRXhjZXB0aW9uCiAgICAgKiBAdGhyb3dzIEpzb25NYXBwaW5nRXhjZXB0aW9uCiAgICAgKiBAdGhyb3dzIEpzb25QYXJzZUV4Y2VwdGlvbgogICAgICovCg==</text>
+        <text encoding="base64">sObIqMn5w/ejurG+zsTOqrKp1vfUrbS0zsTVwqOs16rU2MfruL3Jz7KpzsTBtL3To6EK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bmV0d29ya190aW1lb3V0ID0gMzAK</text>
+        <text encoding="base64">1K3OxKO6aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTA1MTUyMDIvYXJ0aWNsZS9kZXRhaWxzLzgwNjIyMTk0IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgYW5kIGtleV9zbiA9ICN7a2V5U259Cg==</text>
+        <text encoding="base64">wLTUtKO6Q1NETiAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHdoZXJlIHVzZXJfaWQgSU4gKHNlbGVjdCB1c2VyX2lkIGZyb20gdGJfcl9rZXlib2FyZF91c2VyIHdoZXJlIGtleWJvYXJkX2lkID0gI3trZXlib2FyZElkfSBhbmQgdXNlcl9uYW1lID0gI3t1c2VyTmFtZX0pCg==</text>
+        <text encoding="base64">1/fV36O6eGhqd3l5IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZyb20gdGJfdXNlcgo=</text>
+        <text encoding="base64">LS0tLS0tLS0tLS0tLS0tLS0tLS0tIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNlbGVjdCAqCg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICog0N64xAogICAgICogCiAgICAgKiBAdGhyb3dzIElPRXhjZXB0aW9uCiAgICAgKiBAdGhyb3dzIEpzb25NYXBwaW5nRXhjZXB0aW9uCiAgICAgKiBAdGhyb3dzIEpzb25QYXJzZUV4Y2VwdGlvbgogICAgICovCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgKQo=</text>
+        <text encoding="base64">bmV0d29ya190aW1lb3V0ID0gMzAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIEFORCB1c2VyX25hbWUgPSAje3VzZXJOYW1lfQo=</text>
+        <text encoding="base64">ICAgICAgYW5kIGtleV9zbiA9ICN7a2V5U259Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGtleWJvYXJkX2lkID0gI3trZXlib2FyZElkfQo=</text>
+        <text encoding="base64">ICAgIHdoZXJlIHVzZXJfaWQgSU4gKHNlbGVjdCB1c2VyX2lkIGZyb20gdGJfcl9rZXlib2FyZF91c2VyIHdoZXJlIGtleWJvYXJkX2lkID0gI3trZXlib2FyZElkfSBhbmQgdXNlcl9uYW1lID0gI3t1c2VyTmFtZX0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
