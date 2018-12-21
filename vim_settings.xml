@@ -54,6 +54,11 @@
         <mark key="]" line="173" column="12" />
         <mark key="." line="173" column="12" />
       </file>
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/.idea/gradle.xml" timestamp="1545358854832">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/user/user.js" timestamp="1544692537127">
         <mark key="[" line="157" column="0" />
         <mark key="]" line="157" column="0" />
@@ -162,7 +167,6 @@
         <mark key="^" line="18" column="11" />
         <mark key="." line="18" column="11" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard.iml" timestamp="1545293018449" />
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/ApiApplication.java" timestamp="1544674822507">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -199,7 +203,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d0d78b12-4954-483f-b026-68f2e189eb10/console.sql" timestamp="1544164766223">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545202613382">
+      <file name="/Dummy.txt" timestamp="1545359399942">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -221,7 +225,6 @@
         <mark key="^" line="123" column="14" />
         <mark key="." line="118" column="0" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/pom.xml" timestamp="1545306202518" />
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/modules/user/service/UserService.java" timestamp="1544087124311">
         <mark key="[" line="45" column="5" />
         <mark key="]" line="45" column="5" />
@@ -393,11 +396,11 @@
       <jump line="71" column="43" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/login.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYS5lcXVhbHMoYikpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PA==</text>
       </register>
       <register name="-" type="4">
-        <text>charset = ISO8859-1</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="/" type="4">
         <text>keyLogin</text>
