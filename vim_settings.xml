@@ -154,12 +154,12 @@
         <mark key="^" line="44" column="46" />
         <mark key="." line="44" column="46" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiKeyRecognizeController.java" timestamp="1545391463855">
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiKeyRecognizeController.java" timestamp="1545452551046">
         <mark key="'" line="49" column="0" />
-        <mark key="[" line="84" column="54" />
-        <mark key="]" line="84" column="54" />
-        <mark key="^" line="120" column="82" />
-        <mark key="." line="84" column="54" />
+        <mark key="[" line="111" column="21" />
+        <mark key="]" line="122" column="4" />
+        <mark key="^" line="122" column="4" />
+        <mark key="." line="122" column="4" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/java/com/tdr/modules/sys/controller/AbstractController.java" timestamp="1544675160562">
         <mark key="[" line="39" column="14" />
@@ -252,7 +252,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d0d78b12-4954-483f-b026-68f2e189eb10/console.sql" timestamp="1544164766223">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545391972677">
+      <file name="/Dummy.txt" timestamp="1545453272958">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -280,11 +280,6 @@
         <mark key="]" line="118" column="0" />
         <mark key="^" line="123" column="14" />
         <mark key="." line="118" column="0" />
-      </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiLoginPasswordController.java" timestamp="1545387692324">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/modules/user/service/UserService.java" timestamp="1544087124311">
         <mark key="[" line="45" column="5" />
@@ -456,11 +451,11 @@
       <jump line="29" column="7" filename="$APPLICATION_CONFIG_DIR$/scratches/ApiApplication.http" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>,String</text>
       </register>
       <register name="-" type="4">
-        <text>json</text>
+        <text>,String</text>
       </register>
       <register name="/" type="4">
         <text>protected</text>
@@ -496,7 +491,7 @@
         <text encoding="base64">PD4gMjAxOC0xMi0yMVQwNDIxNTcuMjAwLmpzb24K</text>
       </register>
       <register name=":" type="4">
-        <text>qa!</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -553,8 +548,8 @@
         <entry>wa</entry>
         <entry>q</entry>
         <entry>%s/protected/public/g</entry>
-        <entry>w</entry>
         <entry>qa!</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
