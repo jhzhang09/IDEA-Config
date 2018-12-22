@@ -38,7 +38,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>43</Count>
+          <Count>44</Count>
         </Item>
       </Statistic>
       <Statistic Action="Compare">
@@ -54,7 +54,7 @@
           <IdeaActionID>CompareTwoFiles</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Compare With...</Description>
-          <Count>3</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
@@ -414,7 +414,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>19</Count>
+          <Count>20</Count>
         </Item>
       </Statistic>
       <Statistic Action="Source Editor">
@@ -558,7 +558,7 @@
           <IdeaActionID>UpdateRunningApplication</IdeaActionID>
           <ShortCut>'Ctrl+F10'</ShortCut>
           <Description>Update 'AdminApplication' application</Description>
-          <Count>63</Count>
+          <Count>72</Count>
         </Item>
       </Statistic>
       <Statistic Action="Update 'ApiApplication' application">
@@ -574,7 +574,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>48</Count>
+          <Count>49</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
