@@ -280,7 +280,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545637486664">
+      <file name="/Dummy.txt" timestamp="1545648291671">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -351,10 +351,12 @@
       <file name="/AnnotationType.txt.ft" timestamp="1544063719303">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/keyboard/keyboard.js" timestamp="1545638259263">
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/keyboard/keyboard.js" timestamp="1545648090083">
         <mark key="'" line="43" column="25" />
-        <mark key="^" line="39" column="68" />
-        <mark key="." line="9" column="0" />
+        <mark key="[" line="420" column="20" />
+        <mark key="]" line="421" column="38" />
+        <mark key="^" line="421" column="38" />
+        <mark key="." line="421" column="38" />
       </file>
       <file name="/&lt;Generic&gt; Fragment (UserDao.xml:1292).sql" timestamp="1544516071987">
         <mark key="[" line="0" column="0" />
