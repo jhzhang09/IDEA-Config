@@ -188,11 +188,11 @@
         <mark key="]" line="39" column="14" />
         <mark key="." line="39" column="14" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/index.html" timestamp="1544595151969">
-        <mark key="[" line="110" column="36" />
-        <mark key="]" line="113" column="21" />
-        <mark key="^" line="113" column="21" />
-        <mark key="." line="113" column="21" />
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/index.html" timestamp="1545649040707">
+        <mark key="[" line="29" column="39" />
+        <mark key="]" line="29" column="41" />
+        <mark key="^" line="29" column="41" />
+        <mark key="." line="29" column="41" />
       </file>
       <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/TradingcenterUapApplication.java" timestamp="1544687853586">
         <mark key="[" line="6" column="15" />
@@ -280,7 +280,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545648291671">
+      <file name="/Dummy.txt" timestamp="1545649217234">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -330,6 +330,7 @@
         <mark key="." line="4" column="5" />
         <mark key="^" line="4" column="5" />
       </file>
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/java/com/tdr/common/config/SwaggerConfig.java" timestamp="1545649184466" />
       <file name="/Class.txt.ft" timestamp="1544063714797">
         <mark key="[" line="0" column="0" />
       </file>
@@ -485,10 +486,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>id_server_id</text>
+        <text>io</text>
       </register>
       <register name="-" type="4">
-        <text>id_server_id</text>
+        <text>io</text>
       </register>
       <register name="/" type="4">
         <text>绿框</text>
