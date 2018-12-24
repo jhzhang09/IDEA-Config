@@ -53,11 +53,11 @@
         <mark key="." line="49" column="13" />
         <mark key="^" line="18" column="3" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/keyboarduser/rkeyboarduser.js" timestamp="1545622861145">
-        <mark key="[" line="105" column="40" />
-        <mark key="]" line="105" column="54" />
-        <mark key="." line="105" column="54" />
-        <mark key="^" line="105" column="54" />
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/keyboarduser/rkeyboarduser.js" timestamp="1545626613959">
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="61" />
+        <mark key="." line="106" column="0" />
+        <mark key="^" line="82" column="54" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/pom.xml" timestamp="1544599941666">
         <mark key="[" line="31" column="21" />
@@ -211,12 +211,12 @@
         <mark key="^" line="54" column="7" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/db/update-20181222.sql" timestamp="1545617971112">
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/db/update-20181222.sql" timestamp="1545627009371">
         <mark key="'" line="7" column="0" />
-        <mark key="[" line="16" column="72" />
-        <mark key="]" line="20" column="17" />
-        <mark key="." line="20" column="17" />
-        <mark key="^" line="20" column="17" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="23" column="0" />
       </file>
       <file name="/ApiKeyboardJoinController.java" timestamp="1544097593175">
         <mark key="[" line="0" column="0" />
@@ -499,43 +499,44 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>html(keyboardvm.$data.keyboardId);</text>
+        <text>UPDATE sys_menu SET  name = '人脸识别纪录' WHERE url='modules/record/userfacerecord.html';
+UPDATE sys_menu SET  name = '身份证/员工卡识别纪录' WHERE url='modules/record/useridrecord.html';</text>
       </register>
       <register name="-" type="4">
-        <text>html(keyboardvm.$data.keyboardId);</text>
+        <text>modules/record/userfacerecord.html</text>
       </register>
       <register name="/" type="4">
         <text>userIdadd</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvcm1hdHRlcjogZnVuY3Rpb24gKHZhbHVlLCBvcHRpb25zLCByb3cpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gdmFsdWUgPT09ICcwJyA/CiAgICAgICAgICAgICAgICAgICAgICAgICc8c3BhbiBjbGFzcz0ibGFiZWwgbGFiZWwtc3VjY2VzcyI+srux6sq2PC9zcGFuPicgOgogICAgICAgICAgICAgICAgICAgICAgICAnPHNwYW4gY2xhc3M9ImxhYmVsIGxhYmVsLXN1Y2Nlc3MiPrHqyrY8L3NwYW4+JzsKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">VVBEQVRFIHN5c19tZW51IFNFVCAgbmFtZSA9ICfIy8Gzyrax8LzNwrwnIFdIRVJFIHVybD0nbW9kdWxlcy9yZWNvcmQvdXNlcmZhY2VyZWNvcmQuaHRtbCc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzaHJpbmtUb0ZpdDogdHJ1ZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFyIHVzZXJJZEFkZCA9ICQoIiN1c2VySWRBZGQiKTtkZAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzaHJpbmtUb0ZpdDogdHJ1ZSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge2xhYmVsOiAntcfCvNPDu6cnLCBuYW1lOiAna2V5Ym9hcmRTbicsIGluZGV4OiAna2V5Ym9hcmRfc24nLCB3aWR0aDogODB9LAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZWNvcmRFbnRpdHkuc2V0VXNlck5hbWUoaGF2ZUZhY2VVc2VyRW50aXR5TGlzdC5nZXQoMCkuZ2V0VXNlck5hbWUoKSk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy97IGxhYmVsOiAnye233cq2sfCx6sq2JywgbmFtZTogJ3Rva2VuJywgaW5kZXg6ICd0b2tlbicsIHdpZHRoOiA4MCB9LAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAge2xhYmVsOiAn08O7p0lEJywgbmFtZTogJ3VzZXJJZCcsIGluZGV4OiAndXNlcl9pZCcsIHdpZHRoOiA4MCwgaGlkZGVuOiB0cnVlfSwK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAge2xhYmVsOiAntcfCvNPDu6cnLCBuYW1lOiAna2V5Ym9hcmRTbicsIGluZGV4OiAna2V5Ym9hcmRfc24nLCB3aWR0aDogODB9LAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByZWNvcmRFbnRpdHkuc2V0VXNlck5hbWUoaGF2ZUZhY2VVc2VyRW50aXR5TGlzdC5nZXQoMCkuZ2V0VXNlck5hbWUoKSk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy97IGxhYmVsOiAnye233cq2sfCx6sq2JywgbmFtZTogJ3Rva2VuJywgaW5kZXg6ICd0b2tlbicsIHdpZHRoOiA4MCB9LAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAge2xhYmVsOiAn08O7p0lEJywgbmFtZTogJ3VzZXJJZCcsIGluZGV4OiAndXNlcl9pZCcsIHdpZHRoOiA4MCwgaGlkZGVuOiB0cnVlfSwK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gUi5vaygpLnB1dCgicGFnZSIsIHBhZ2UpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
