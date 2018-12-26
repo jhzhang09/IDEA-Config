@@ -170,11 +170,11 @@
         <mark key="^" line="44" column="46" />
         <mark key="." line="44" column="46" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiKeyRecognizeController.java" timestamp="1545635408142">
-        <mark key="[" line="86" column="74" />
-        <mark key="]" line="87" column="109" />
-        <mark key="." line="87" column="109" />
-        <mark key="^" line="87" column="109" />
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiKeyRecognizeController.java" timestamp="1545795522606">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="^" line="84" column="109" />
+        <mark key="." line="68" column="0" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/index.html" timestamp="1545649040707">
         <mark key="[" line="29" column="39" />
@@ -255,11 +255,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="8" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/record/useridrecord.js" timestamp="1545637443955">
-        <mark key="[" line="26" column="78" />
-        <mark key="]" line="26" column="79" />
-        <mark key="." line="26" column="79" />
-        <mark key="^" line="25" column="64" />
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/record/useridrecord.js" timestamp="1545795224518">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="18" column="68" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/form/KeyboardKeyRecForm.java" timestamp="1545390921727">
         <mark key="[" line="19" column="16" />
@@ -278,6 +278,11 @@
         <mark key="]" line="55" column="28" />
         <mark key="." line="55" column="28" />
         <mark key="^" line="55" column="28" />
+      </file>
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiLoginPasswordController.java" timestamp="1545795455248">
+        <mark key="[" line="52" column="35" />
+        <mark key="]" line="52" column="35" />
+        <mark key="." line="52" column="35" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/keyboarduser/rkeyboarduser.html" timestamp="1545737589588">
         <mark key="'" line="31" column="65" />
@@ -463,44 +468,44 @@
       <jump line="89" column="66" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/sys/user.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>-</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZWNvcmRFbnRpdHkuc2V0Q3JlYXRlVGltZShuZXcgRGF0ZSgpKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>keyboardSn</text>
       </register>
       <register name="/" type="4">
         <text>roleList</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PGxpbmsgcmVsPSJzdHlsZXNoZWV0IiBocmVmPSIke3JlcXVlc3QuY29udGV4dFBhdGh9L3N0YXRpY3MvY3NzL21haW4uY3NzIj4K</text>
+        <text encoding="base64">ICAgICAgICAvLyDJ+rPJsqKxo7Tmye233dakyrax8LzNwrwKICAgICAgICBVc2VySWRSZWNvcmRFbnRpdHkgcmVjb3JkRW50aXR5ID0gbmV3IFVzZXJJZFJlY29yZEVudGl0eSgpOwogICAgICAgIHJlY29yZEVudGl0eS5zZXRLZXlib2FyZElkKGtleWJvYXJkRW50aXR5LmdldEtleWJvYXJkSWQoKSk7CiAgICAgICAgcmVjb3JkRW50aXR5LnNldFVzZXJOYW1lKHVzZXJuYW1lKTsKICAgICAgICByZWNvcmRFbnRpdHkuc2V0S2V5Ym9hcmRTbihrZXlib2FyZFNuKTsKICAgICAgICByZWNvcmRFbnRpdHkuc2V0VHlwZSgiMSIpOwogICAgICAgIHJlY29yZEVudGl0eS5zZXRDcmVhdGVUaW1lKG5ldyBEYXRlKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRhdGEtc3R5bGU9ImJ0bi1pbmZvIgo=</text>
+        <text encoding="base64">ICAgICAgICByZWNvcmRFbnRpdHkuc2V0Q3JlYXRlVGltZShuZXcgRGF0ZSgpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9Imh0dHBzOi8vY2RuanMuY2xvdWRmbGFyZS5jb20vYWpheC9saWJzL2Jvb3RzdHJhcC1zZWxlY3QvMS4xMy4yL2pzL2Jvb3RzdHJhcC1zZWxlY3QubWluLmpzIj48L3NjcmlwdD4K</text>
+        <text encoding="base64">ICAgICAgICByZWNvcmRFbnRpdHkuc2V0VHlwZSgiMSIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PCEtLSBMYXRlc3QgY29tcGlsZWQgYW5kIG1pbmlmaWVkIEphdmFTY3JpcHQgLS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyC8x8K8wODQzc6q1LG5pL+oCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaHJlZj0iaHR0cHM6Ly9jZG5qcy5jbG91ZGZsYXJlLmNvbS9hamF4L2xpYnMvYm9vdHN0cmFwLXNlbGVjdC8xLjEzLjIvY3NzL2Jvb3RzdHJhcC1zZWxlY3QubWluLmNzcyI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnPHNwYW4gY2xhc3M9ImxhYmVsIGxhYmVsLXByaW1hcnkiPi9zcGFuPic7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PGxpbmsgcmVsPSJzdHlsZXNoZWV0Igo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJzxzcGFuIGNsYXNzPSJsYWJlbCBsYWJlbC1wcmltYXJ5Ij7J7bfd1qQ8L3NwYW4+JzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PCEtLSBMYXRlc3QgY29tcGlsZWQgYW5kIG1pbmlmaWVkIENTUyAtLT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJzxzcGFuIGNsYXNzPSJsYWJlbCBsYWJlbC1pbmZvIj7Usbmkv6g8L3NwYW4+JyA6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0iZm9ybS1ncm91cCI+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtc20tMiBjb250cm9sLWxhYmVsIj7Tw7unSUQ8L2Rpdj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1zbS0xMCI+CiAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9InRleHQiIGNsYXNzPSJmb3JtLWNvbnRyb2wiIHYtbW9kZWw9InJLZXlib2FyZFVzZXIudXNlcklkIiBwbGFjZWhvbGRlcj0i08O7p0lEIgogICAgICAgICAgICAgICAgICAgICAgICAgICByZWFkb25seT0icmVhZG9ubHkiLz4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gdmFsdWUgPT09ICcxJyA/Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtb3VudGVkKCkgewogICAgICAgICAgICB0aGlzLmdldFVzZXJMaXN0KCk7CiAgICAgICAgICAgIHRoaXMuZ2V0S2V5Ym9hcmRMaXN0KCk7CiAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
