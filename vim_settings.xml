@@ -126,12 +126,12 @@
         <mark key="^" line="115" column="13" />
         <mark key="." line="115" column="13" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/login.html" timestamp="1545891279814">
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/login.html" timestamp="1545901580382">
         <mark key="'" line="161" column="36" />
-        <mark key="[" line="199" column="75" />
-        <mark key="]" line="200" column="37" />
-        <mark key="^" line="200" column="37" />
-        <mark key="." line="200" column="37" />
+        <mark key="[" line="193" column="69" />
+        <mark key="]" line="193" column="76" />
+        <mark key="^" line="193" column="76" />
+        <mark key="." line="193" column="76" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/record/cameramonitorrecord.js" timestamp="1544754948637">
         <mark key="[" line="31" column="56" />
@@ -206,12 +206,12 @@
         <mark key="^" line="33" column="61" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.java" timestamp="1545898337815">
-        <mark key="'" line="312" column="18" />
-        <mark key="[" line="327" column="15" />
-        <mark key="]" line="327" column="30" />
-        <mark key="^" line="327" column="30" />
-        <mark key="." line="327" column="30" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.java" timestamp="1545901532561">
+        <mark key="'" line="314" column="18" />
+        <mark key="[" line="345" column="83" />
+        <mark key="]" line="345" column="83" />
+        <mark key="." line="345" column="83" />
+        <mark key="^" line="345" column="83" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/form/KeyboardRequestPolicyForm.java" timestamp="1544097271184">
         <mark key="[" line="16" column="65" />
@@ -443,10 +443,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>30819f300d06092a864886f70d010101050003818d003081890281810092e3c9a6ba441acf28f1a05e252364b5fec4f4bcce597cfa263ad991177da8f7c6770eee06aa46cf9ed1ebf4c254abdda73c8a293472fd046f750846a6b7c2894747c1351e1253c6afd0a3053485045cc73dc5a7da16c9a3f731f3d7a456912ae22dda0d1500ea7ce4d1b7bc4753463801f32379f6aab11c07e82d46a8562c770203010001</text>
+        <text>keyboard</text>
       </register>
       <register name="-" type="4">
-        <text>oBase64String</text>
+        <text>keyboard</text>
       </register>
       <register name="/" type="4">
         <text>Base64Utils</text>
@@ -455,31 +455,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgc2lnblZhbHVlID0ga2V5Ym9hcmRPYmplY3QuU2lnbih2bS5waW4sICdrZXlib2FyZCcsICdTSEExJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzaWduYXR1cmUudmVyaWZ5KEJhc2U2NC5kZWNvZGUoc2lnbikpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjaXBoZXIuZG9GaW5hbCgpCg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICAgICAgUHVibGljS2V5RmFjdG9yeSBwdWJsaWNLZXlGYWN0b3J5ID0gbmV3IFB1YmxpY0tleUZhY3RvcnkoKTsKICAgICAgICBwdWJsaWNLZXlGYWN0b3J5Lg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdGV4dCA9ICJrZXlib2FyZCI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgc2lnblZhbHVlID0ga2V5Ym9hcmRPYmplY3QuU2lnbih2bS5waW4sICdrZXlib2FyZCcsICdTSEExJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdGV4dCA9IiIgOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBYNTA5RW5jb2RlZEtleVNwZWMgeDUwOUVuY29kZWRLZXlTcGVjID0gbmV3IFg1MDlFbmNvZGVkS2V5U3BlYyhIZXguZGVjb2RlKHNpZ24pKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDoK</text>
+        <text encoding="base64">ICAgICAgICBQdWJsaWNLZXkgcHVibGljS2V5ID0ga2V5RmFjdG9yeS5nZW5lcmF0ZVB1YmxpYyh4NTA5RW5jb2RlZEtleVNwZWMpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ICAgICAgICBLZXlGYWN0b3J5IGtleUZhY3RvcnkgPSBLZXlGYWN0b3J5LmdldEluc3RhbmNlKCJSU0EiKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oU3RyaW5nVXRpbHMucmV2ZXJzZShwaykpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oa2V5Lik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBLZXkga2V5ID0gKEtleSlnZW5LZXlQYWlyKCkuZ2V0KFBVQkxJQ19LRVkpOyAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
