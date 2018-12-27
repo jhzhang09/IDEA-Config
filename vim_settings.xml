@@ -480,7 +480,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qa!</text>
       </register>
     </registers>
     <search>
@@ -490,23 +490,10 @@
       <last-replace />
       <last-substitute>userIdadd</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>cache</entry>
-        <entry>free</entry>
-        <entry>user.keySn</entry>
-        <entry>too</entry>
-        <entry>username</entry>
-        <entry>slims</entry>
-        <entry>httpclient.version</entry>
-        <entry>CcbVerifier.</entry>
-        <entry>finalNa</entry>
-        <entry>see</entry>
-        <entry>IncorrectCredentialsException</entry>
-        <entry>user</entry>
-        <entry>keyLogin</entry>
         <entry>protected</entry>
         <entry>key_su</entry>
         <entry>tb_user_copy1</entry>
@@ -529,7 +516,6 @@
         <entry>propertychange</entry>
       </history-search>
       <history-cmd>
-        <entry>/#if\ shiro.hasPermision(</entry>
         <entry>%s/#if\ shiro.hasPermission(/@shiro.hasPermission\ name=/g</entry>
         <entry>%s/#if/@shiro.hasPermission</entry>
         <entry>ww</entry>
@@ -547,9 +533,9 @@
         <entry>%s/`//g</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>qa!</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>qa!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
