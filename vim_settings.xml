@@ -206,6 +206,12 @@
         <mark key="^" line="33" column="61" />
         <mark key="." line="40" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.java" timestamp="1545893010431">
+        <mark key="[" line="21" column="25" />
+        <mark key="]" line="21" column="39" />
+        <mark key="^" line="21" column="39" />
+        <mark key="." line="21" column="39" />
+      </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/form/KeyboardRequestPolicyForm.java" timestamp="1544097271184">
         <mark key="[" line="16" column="65" />
         <mark key="]" line="18" column="11" />
@@ -435,11 +441,11 @@
       <jump line="128" column="36" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/login.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgc2lnblZhbHVlID0ga2V5Ym9hcmRPYmplY3QuU2lnbih2bS5waW4sICdrZXlib2FyZCcsICdTSEExJyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Base64.decode(text)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Base64.decode(text)</text>
       </register>
       <register name="/" type="4">
         <text>usernameLogin</text>
@@ -448,31 +454,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgc2lnblZhbHVlID0ga2V5Ym9hcmRPYmplY3QuU2lnbih2bS5waW4sICdrZXlib2FyZCcsICdTSEExJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgc2lnblZhbHVlID0ga2V5Ym9hcmRPYmplY3QuU2lnbih2bS5waW4sICdrZXlib2FyZCcsICdTSEExJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzaWduYXR1cmUudmVyaWZ5KEJhc2U2NC5kZWNvZGUoc2lnbikpOwo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgUHVibGljS2V5RmFjdG9yeSBwdWJsaWNLZXlGYWN0b3J5ID0gbmV3IFB1YmxpY0tleUZhY3RvcnkoKTsKICAgICAgICBwdWJsaWNLZXlGYWN0b3J5Lg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgc2lnblZhbHVlID0ga2V5Ym9hcmRPYmplY3QuU2lnbih2bS5waW4sICdrZXlib2FyZCcsICdTSEExJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIDoK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNlcm5hbWU6ewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
