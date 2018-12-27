@@ -442,7 +442,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Base64.decode(text)</text>
+        <text>Caused by: java.security.InvalidKeyException: IOException: DerInputStream.getLength(): lengthTag=111, too big.</text>
       </register>
       <register name="-" type="4">
         <text>Base64.decode(text)</text>
