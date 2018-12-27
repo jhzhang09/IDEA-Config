@@ -206,11 +206,12 @@
         <mark key="^" line="33" column="61" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.java" timestamp="1545893010431">
-        <mark key="[" line="21" column="25" />
-        <mark key="]" line="21" column="39" />
-        <mark key="^" line="21" column="39" />
-        <mark key="." line="21" column="39" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.java" timestamp="1545898337815">
+        <mark key="'" line="312" column="18" />
+        <mark key="[" line="327" column="15" />
+        <mark key="]" line="327" column="30" />
+        <mark key="^" line="327" column="30" />
+        <mark key="." line="327" column="30" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/form/KeyboardRequestPolicyForm.java" timestamp="1544097271184">
         <mark key="[" line="16" column="65" />
@@ -339,7 +340,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="322" column="20" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.2.RELEASE/spring-webmvc-5.1.2.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/ResponseEntityExceptionHandler.java" />
       <jump line="335" column="30" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.2.RELEASE/spring-webmvc-5.1.2.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/ResponseEntityExceptionHandler.java" />
       <jump line="337" column="20" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.2.RELEASE/spring-webmvc-5.1.2.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/ResponseEntityExceptionHandler.java" />
       <jump line="350" column="30" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.1.2.RELEASE/spring-webmvc-5.1.2.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/ResponseEntityExceptionHandler.java" />
@@ -439,16 +439,17 @@
       <jump line="1849" column="47" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/libs/bootstrap-select/js/bootstrap-select.js" />
       <jump line="415" column="38" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/keyboard/keyboard.js" />
       <jump line="128" column="36" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/login.html" />
+      <jump line="315" column="18" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Caused by: java.security.InvalidKeyException: IOException: DerInputStream.getLength(): lengthTag=111, too big.</text>
+        <text>30819f300d06092a864886f70d010101050003818d003081890281810092e3c9a6ba441acf28f1a05e252364b5fec4f4bcce597cfa263ad991177da8f7c6770eee06aa46cf9ed1ebf4c254abdda73c8a293472fd046f750846a6b7c2894747c1351e1253c6afd0a3053485045cc73dc5a7da16c9a3f731f3d7a456912ae22dda0d1500ea7ce4d1b7bc4753463801f32379f6aab11c07e82d46a8562c770203010001</text>
       </register>
       <register name="-" type="4">
-        <text>Base64.decode(text)</text>
+        <text>oBase64String</text>
       </register>
       <register name="/" type="4">
-        <text>usernameLogin</text>
+        <text>Base64Utils</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgc2lnblZhbHVlID0ga2V5Ym9hcmRPYmplY3QuU2lnbih2bS5waW4sICdrZXlib2FyZCcsICdTSEExJyk7Cg==</text>
@@ -485,11 +486,11 @@
       </register>
     </registers>
     <search>
-      <last-search>usernameLogin</last-search>
+      <last-search>Base64Utils</last-search>
       <last-offset />
-      <last-pattern>usernameLogin</last-pattern>
-      <last-replace />
-      <last-substitute>userIdadd</last-substitute>
+      <last-pattern>Base64Utils</last-pattern>
+      <last-replace>Base64</last-replace>
+      <last-substitute>Base64Utils</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -518,6 +519,7 @@
         <entry>vail</entry>
         <entry>vali</entry>
         <entry>usernameLogin</entry>
+        <entry>Base64Utils</entry>
       </history-search>
       <history-cmd>
         <entry>%s/#if\ shiro.hasPermission(/@shiro.hasPermission\ name=/g</entry>
@@ -544,6 +546,7 @@
         <entry>79,91 mo 77</entry>
         <entry>160,184 mo158</entry>
         <entry>139,154 mo134</entry>
+        <entry>%s/Base64Utils/Base64/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
