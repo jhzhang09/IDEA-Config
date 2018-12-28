@@ -320,12 +320,12 @@
         <mark key="." line="17" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.4.0/shiro-core-1.4.0-sources.jar!/org/apache/shiro/authc/credential/HashedCredentialsMatcher.java" timestamp="1545970420613" />
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/keyboard/keyboard.js" timestamp="1545884920637">
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/keyboard/keyboard.js" timestamp="1545999866357">
         <mark key="'" line="415" column="38" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="14" />
-        <mark key="^" line="36" column="63" />
-        <mark key="." line="36" column="63" />
+        <mark key="[" line="36" column="64" />
+        <mark key="]" line="36" column="64" />
+        <mark key="^" line="36" column="64" />
+        <mark key="." line="36" column="64" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/java/com/tdr/modules/user/controller/UserController.java" timestamp="1545976338094">
         <mark key="'" line="175" column="84" />
@@ -503,7 +503,7 @@
         <text encoding="base64">ICAgICAgICBpZiAoUwo=</text>
       </register>
       <register name=":" type="4">
-        <text>qa!</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -573,8 +573,8 @@
         <entry>139,154 mo134</entry>
         <entry>%s/Base64Utils/Base64/g</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>qa!</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
