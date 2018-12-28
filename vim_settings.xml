@@ -503,7 +503,7 @@
         <text encoding="base64">ICAgICAgICBpZiAoUwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qa!</text>
       </register>
     </registers>
     <search>
@@ -572,9 +572,9 @@
         <entry>160,184 mo158</entry>
         <entry>139,154 mo134</entry>
         <entry>%s/Base64Utils/Base64/g</entry>
-        <entry>qa!</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>qa!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
