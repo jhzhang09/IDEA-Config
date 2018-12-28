@@ -132,11 +132,16 @@
         <mark key="^" line="23" column="26" />
         <mark key="." line="23" column="26" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/modules/sys/entity/SysUserEntity.java" timestamp="1545723331649">
-        <mark key="[" line="109" column="28" />
-        <mark key="]" line="115" column="13" />
-        <mark key="^" line="115" column="13" />
-        <mark key="." line="115" column="13" />
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/modules/sys/entity/SysUserEntity.java" timestamp="1545971962364">
+        <mark key="[" line="62" column="57" />
+        <mark key="]" line="62" column="84" />
+        <mark key="^" line="62" column="84" />
+        <mark key="." line="62" column="84" />
+      </file>
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/modules/sys/service/impl/SysUserServiceImpl.java" timestamp="1545972006241">
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/login.html" timestamp="1545909102135">
         <mark key="'" line="104" column="21" />
@@ -249,6 +254,10 @@
         <mark key="^" line="12" column="35" />
         <mark key="." line="12" column="35" />
       </file>
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/db/create-20180920.sql" timestamp="1545971267908">
+        <mark key="[" line="263" column="46" />
+        <mark key="]" line="263" column="109" />
+      </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/java/com/tdr/common/config/ShiroConfig.java" timestamp="1545903291378">
         <mark key="[" line="95" column="28" />
         <mark key="]" line="95" column="31" />
@@ -261,7 +270,7 @@
         <mark key="^" line="19" column="22" />
         <mark key="." line="19" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1545909140311">
+      <file name="/Dummy.txt" timestamp="1545972312142">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -326,6 +335,7 @@
         <mark key="^" line="17" column="6" />
         <mark key="." line="17" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/apache/shiro/shiro-core/1.4.0/shiro-core-1.4.0-sources.jar!/org/apache/shiro/authc/credential/HashedCredentialsMatcher.java" timestamp="1545970420613" />
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/keyboard/keyboard.js" timestamp="1545884920637">
         <mark key="'" line="415" column="38" />
         <mark key="[" line="0" column="0" />
@@ -333,27 +343,28 @@
         <mark key="^" line="36" column="63" />
         <mark key="." line="36" column="63" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/java/com/tdr/modules/user/controller/UserController.java" timestamp="1545727008342">
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/java/com/tdr/modules/user/controller/UserController.java" timestamp="1545971022597">
         <mark key="'" line="175" column="84" />
-        <mark key="[" line="166" column="0" />
-        <mark key="]" line="166" column="73" />
-        <mark key="." line="175" column="90" />
-        <mark key="^" line="149" column="32" />
+        <mark key="[" line="164" column="74" />
+        <mark key="]" line="164" column="9" />
+        <mark key="." line="164" column="9" />
+        <mark key="^" line="164" column="9" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/java/com/tdr/modules/sys/controller/SysLoginController.java" timestamp="1545963638546">
-        <mark key="[" line="118" column="39" />
-        <mark key="]" line="118" column="39" />
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/java/com/tdr/modules/sys/controller/SysLoginController.java" timestamp="1545970177618">
+        <mark key="[" line="74" column="12" />
+        <mark key="]" line="74" column="12" />
         <mark key="^" line="118" column="39" />
-        <mark key="." line="118" column="39" />
+        <mark key="." line="74" column="12" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/libs/app.js" timestamp="1545908775987">
         <mark key="'" line="118" column="18" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/java/com/tdr/modules/sys/controller/SysUserController.java" timestamp="1545723400263">
-        <mark key="[" line="142" column="31" />
-        <mark key="]" line="141" column="20" />
-        <mark key="." line="141" column="20" />
-        <mark key="^" line="141" column="20" />
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/java/com/tdr/modules/sys/controller/SysUserController.java" timestamp="1545972221995">
+        <mark key="'" line="142" column="10" />
+        <mark key="[" line="145" column="47" />
+        <mark key="]" line="145" column="79" />
+        <mark key="." line="145" column="79" />
+        <mark key="^" line="145" column="79" />
       </file>
       <file name="/fragment.java" timestamp="1545901740870">
         <mark key="[" line="0" column="0" />
@@ -366,7 +377,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="5" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/modules/sys/shiro/ShiroUtils.java" />
       <jump line="87" column="8" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/java/com/tdr/modules/sys/controller/SysLoginController.java" />
       <jump line="52" column="11" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/java/com/tdr/modules/sys/controller/SysLoginController.java" />
       <jump line="0" column="0" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/java/com/tdr/modules/sys/controller/SysLoginController.java" />
@@ -466,55 +476,60 @@
       <jump line="104" column="21" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/login.html" />
       <jump line="232" column="49" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/sys/user.js" />
       <jump line="229" column="8" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/sys/user.js" />
+      <jump line="142" column="10" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/java/com/tdr/modules/sys/controller/SysUserController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHZtLnVzZXIua2V5U24gIT09ICcnIHx8IHZtLnVzZXIua2V5U24gIT09IG51bGwpIHsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoUwo=</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>password</text>
       </register>
       <register name="/" type="4">
-        <text>cleanKey</text>
+        <text>pass</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJC5hamF4U2V0dGluZ3MuYXN5bmMgPSBmYWxzZTsK</text>
+      <register name="0" type="4">
+        <text>ShiroUtils.sha256(password, getUser().getSalt());</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHZtLnVzZXIua2V5U24gIT09ICcnIHx8IHZtLnVzZXIua2V5U24gIT09IG51bGwpIHsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoUwo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHZtLnVzZXIua2V5U24pOwo=</text>
+      <register name="2" type="4">
+        <text>tringUtils.isBlank(user.getPassword())) {
+            user.setPassword(null);
+        } else {
+            user.setPassword(ShiroUtils.sha256(user.getPassword(), user.getSalt()));
+        }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHZtLnVzZXIua2V5U24pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codm0udXNlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAga2V5U246ICcnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHZtLnVzZXIua2V5U24gIT09ICcnIHx8IHZtLnVzZXIua2V5U24gIT09IG51bGwpIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHZtLnVzZXIua2V5U24gIT09ICcnIHx8IHZtLnVzZXIua2V5U24gIT09IG51bGwpIHsKICAgICAgICAgICAgICAgIHRoaXMuJHNldCh0aGlzLl9kYXRhLCAnc3ViS2V5U24nLCB2bS51c2VyLmtleVNuLnN1YnN0cmluZygzLCAxMSkpOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHZtLnVzZXIua2V5U24pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHZtKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHZtLnVzZXIua2V5U24pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZtLnN1YktleVNuID0gdm0udXNlci5rZXlTbi5zdWJzdHJpbmcoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codm0udXNlcik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHZtLnN1YktleVNuKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAga2V5U246ICcnLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>cleanKey</last-search>
+      <last-search>pass</last-search>
       <last-offset />
-      <last-pattern>cleanKey</last-pattern>
+      <last-pattern>pass</last-pattern>
       <last-replace>Base64</last-replace>
       <last-substitute>Base64Utils</last-substitute>
       <last-dir>1</last-dir>
@@ -551,6 +566,7 @@
         <entry>aa</entry>
         <entry>body</entry>
         <entry>cleanKey</entry>
+        <entry>pass</entry>
       </history-search>
       <history-cmd>
         <entry>%s/#if\ shiro.hasPermission(/@shiro.hasPermission\ name=/g</entry>
