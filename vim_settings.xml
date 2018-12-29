@@ -552,7 +552,7 @@
         <text encoding="base64">c3ByaW5nOgogIGRhdGFzb3VyY2U6CiAgICB1cmw6IGpkYmM6bXlzcWw6Ly8xNzIuMTYuMzIuOTozMzA2L3NhZmVrZXlib2FyZD9hbGxvd011bHRpUXVlcmllcz10cnVlJnVzZVVuaWNvZGU9dHJ1ZSZjaGFyYWN0ZXJFbmNvZGluZz1VVEYtOCZ1c2VTU0w9ZmFsc2Umc2VydmVyVGltZXpvbmU9R01UJTJiOAogICAgZHJpdmVyLWNsYXNzLW5hbWU6IGNvbS5teXNxbC5jai5qZGJjLkRyaXZlcgogICAgdXNlcm5hbWU6IHNhZmVrZXlib2FyZAogICAgcGFzc3dvcmQ6IHNhZmVrZXlib2FyZAogICAgaGlrYXJpOgogICAgICBtaW5pbXVtLWlkbGU6IDUKICAgICAgbWF4aW11bS1wb29sLXNpemU6IDIwCiAgICAgIGlkbGUtdGltZW91dDogMzAwMDAKICAgICAgYXV0by1jb21taXQ6IHRydWUKICAgICAgbWF4LWxpZmV0aW1lOiAxODAwMDAwCiAgICAgIGNvbm5lY3Rpb24tdGltZW91dDogMzAwMDAKICAgICAgY29ubmVjdGlvbi10ZXN0LXF1ZXJ5OiBTRUxFQ1QgMQogICAgcmVkaXM6CiAgICAgIGRhdGFiYXNlOiAyCiAgICAgIGhvc3Q6IDE3Mi4xNi4zMi45CiAgICAgIHBvcnQ6IDYzNzkKICAgICAgcGFzc3dvcmQ6IHRlbmR5cm9uITIjICMgw9zC66OoxKzIz86qv9WjqQogICAgICB0aW1lb3V0OiA2MDAwbXMgICMgway907OsyrHKsbOko6i6wcPro6kKICAgICAgbGV0dHVjZToKICAgICAgICBwb29sOgogICAgICAgICAgbWF4LWFjdGl2ZTogMTAwMCAgIyDBrL3Ts9jX7rTzway908r9o6jKudPDuLrWtbHtyr7Du9PQz97WxqOpCiAgICAgICAgICBtYXgtd2FpdDogLTFtcyAgICAgICMgway907PY1+6089foyPu1yLT9yrG85KOoyrnTw7i61rWx7cq+w7vT0M/e1sajqQogICAgICAgICAgbWF4LWlkbGU6IDEwICAgICAgIyDBrL3Ts9jW0LXE1+6087/Vz9DBrL3TCiAgICAgICAgICBtaW4taWRsZTogNSAgICAgICAjIMGsvdOz2NbQtcTX7tChv9XP0MGsvdMKCnNhZmVrZXlib2FyZDoKICByZWRpczoKICAgIG9wZW46IGZhbHNlICAjIMrHt/G/qsb0cmVkaXO7urTmICB0cnVlv6rG9CAgIGZhbHNludix1QogIHNoaXJvOgogICAgcmVkaXM6IGZhbHNlICMgdHJ1ZbHtyr5zaGlybyBzZXNzaW9utOa1vXJlZGlzwO+jrNDo0qq/qsb0cmVkaXOjrLLFu+HJ+tCnob631rK8yr2zob6wob8KICBoc206CiAgICAjIyDKx7fxttRVVEPKsbzkvfjQ0Mepw/ujujEtx6nD+6OsMC2yu8epw/sKICAgIGZsYWc6IDAKICAgIHNvY2tldDoKICAgICAgaXA6IDE3Mi4xNi4zNS4xMgogICAgICBwb3J0OiA1MDEwMAogIGNvbmZpZzoKICAgIGZhY2Utc2VydmVyLXVybDogaHR0cDovLzE3Mi4xNi4zMi4xMTU6ODA4MC90ZHJmYWNlLwogICAgZmFjZS1zZXJ2ZXItcGxhdGZvcm0taWQ6IHNhZmVrZXlib2FyZC1kZXYKICAgIGlkLWNhcmQtc2VydmVyLXVybDogaHR0cHM6Ly9pZGkudGVuZHlyb24uY29tOjE4MDgwL2VudGVycHJpc2VTZXJ2ZXIvaWQvZ2V0SWRDYXJkSW5mb1YyLmFjdGlvbgogICAgaWQtY2FyZC1jdXN0b21lci1pZDogdGRyX3l1bm5hbl8wMQogICAgaWQtY2FyZC1hY2Nlc3Mta2V5OiAwNDA2QTVCNjhCMUJEMUEyNjdGRTQyOUI1RkIwMjU5RkQwRERDMjg2OTkxRUY3OEZCQ0VFODdGMkQ3NTczOTMzNTJBQzE2N0M1ODNFRjcyNEYyMEY4QjQzRTE0QzgyRThBQTE2QkI1NTgxNTIwNjkxNEVGMjc0N0M4RUQ4M0YyMjUyCiAgICBzaW1pbGFyaXR5LXRocmVzaG9sZDogMC43CiAgICBqb2luLXRva2VuLWV4cGlyZS10aW1lOiAzNjAwMAogICAga2V5Ym9hcmQtcmVzb2x2ZS1tb2RlOiAyCgoKbG9nZ2luZzoKICBsZXZlbDoKICAgIHJvb3Q6IGluZm8KICAgIHdlYjogZGVidWcKICBwYXRoOiAvaG9tZS9zYWZla2V5Ym9hcmQvYmFrL2xvZ3MvCiAgZmlsZTogYXBpLmxvZwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qa!</text>
       </register>
     </registers>
     <search>
@@ -619,11 +619,11 @@
         <entry>160,184 mo158</entry>
         <entry>139,154 mo134</entry>
         <entry>%s/Base64Utils/Base64/g</entry>
-        <entry>qa!</entry>
         <entry>wa</entry>
         <entry>qa</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>qa!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
