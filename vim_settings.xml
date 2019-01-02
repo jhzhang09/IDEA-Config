@@ -177,7 +177,7 @@
         <mark key="^" line="31" column="52" />
         <mark key="." line="31" column="52" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiFaceRecognizeController.java" timestamp="1546412698567">
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiFaceRecognizeController.java" timestamp="1546415339428">
         <mark key="[" line="75" column="54" />
         <mark key="]" line="75" column="47" />
         <mark key="^" line="75" column="47" />
@@ -308,6 +308,13 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="8" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/ApiApplication.http" timestamp="1546415440137">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="39" column="30" />
+        <mark key="]" line="40" column="19" />
+        <mark key="." line="40" column="19" />
+        <mark key="^" line="40" column="19" />
+      </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/record/useridrecord.js" timestamp="1545798742213">
         <mark key="[" line="16" column="51" />
         <mark key="]" line="16" column="54" />
@@ -422,7 +429,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="0" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiKeyRecognizeController.java" />
       <jump line="113" column="12" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/constants/ErrorCodeConstants.java" />
       <jump line="29" column="7" filename="$APPLICATION_CONFIG_DIR$/scratches/ApiApplication.http" />
       <jump line="215" column="0" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/java/com/tdr/modules/user/controller/UserController.java" />
@@ -522,10 +528,11 @@
       <jump line="26" column="1" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/db/update-20181222.sql" />
       <jump line="22" column="0" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/db/update-20181222.sql" />
       <jump line="0" column="0" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/db/update-20181222.sql" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/ApiApplication.http" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBBYnN0cmFjdEFwaUFzc2VydC5pc051bGwoaGF2ZUZhY2VVc2VyRW50aXR5TGlzdCwgRXJyb3JDb2RlQ29uc3RhbnRzLkUwMjAwNCk7Cg==</text>
+        <text encoding="base64">IyMjILLiytS7t76zsuLK1ApQT1NUIGh0dHA6Ly8xNzIuMTYuMzIuMTUyOjkwMDEvc2FmZWtleWJvYXJkYXBpL3JlY29nbml6ZS9JZENhcmQKQ29udGVudC1UeXBlOiBhcHBsaWNhdGlvbi9qc29uCgp7CiAgImtleWJvYXJkU24iIDogIjI3MDUxMDAwMDAxMCIsCiAgInVzZXJuYW1lIiA6ICJ0ZHIiLAogICJ0b2tlbiIgOiAiMjcwNTEwMDAwMDEwMTU0NTI5MTA0ODExMSIKfQoKCiMjIyCxvrv6suLK1ApQT1NUIGh0dHA6Ly9sb2NhbGhvc3Q6OTAwMS9zYWZla2V5Ym9hcmRhcGkvcmVjb2duaXplL0lkQ2FyZApDb250ZW50LVR5cGU6IGFwcGxpY2F0aW9uL2pzb24KCnsKICAia2V5Ym9hcmRTbiIgOiAiMjcwNTEwMDAwMDEwIiwKICAidXNlcm5hbWUiIDogInRkciIsCiAgInRva2VuIiA6ICIyNzA1MTAwMDAwMTAxNTQ1MjkxMDQ4MTExIgp9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>user.getUserName())</text>
@@ -533,8 +540,8 @@
       <register name="/" type="4">
         <text>pass</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">bmV3IFF1ZXJ5V3JhcHBlcjxVc2VyRW50aXR5PigpLmVxKCJ1c2VyX25hbWUiLCB1c2VyLmdldFVzZXJOYW1lKCkp</text>
+      <register name="0" type="2">
+        <text encoding="base64">IyMjILLiytS7t76zsuLK1ApQT1NUIGh0dHA6Ly8xNzIuMTYuMzIuMTUyOjkwMDEvc2FmZWtleWJvYXJkYXBpL3JlY29nbml6ZS9JZENhcmQKQ29udGVudC1UeXBlOiBhcHBsaWNhdGlvbi9qc29uCgp7CiAgImtleWJvYXJkU24iIDogIjI3MDUxMDAwMDAxMCIsCiAgInVzZXJuYW1lIiA6ICJ0ZHIiLAogICJ0b2tlbiIgOiAiMjcwNTEwMDAwMDEwMTU0NTI5MTA0ODExMSIKfQoKCiMjIyCxvrv6suLK1ApQT1NUIGh0dHA6Ly9sb2NhbGhvc3Q6OTAwMS9zYWZla2V5Ym9hcmRhcGkvcmVjb2duaXplL0lkQ2FyZApDb250ZW50LVR5cGU6IGFwcGxpY2F0aW9uL2pzb24KCnsKICAia2V5Ym9hcmRTbiIgOiAiMjcwNTEwMDAwMDEwIiwKICAidXNlcm5hbWUiIDogInRkciIsCiAgInRva2VuIiA6ICIyNzA1MTAwMDAwMTAxNTQ1MjkxMDQ4MTExIgp9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBBYnN0cmFjdEFwaUFzc2VydC5pc051bGwoaGF2ZUZhY2VVc2VyRW50aXR5TGlzdCwgRXJyb3JDb2RlQ29uc3RhbnRzLkUwMjAwNCk7Cg==</text>
@@ -607,7 +614,6 @@
         <entry>%s/protected/public/g</entry>
         <entry>%s/tb_user_copy1/tb_user/g</entry>
         <entry>%s/`//g</entry>
-        <entry>wq</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>40,74 mo 38</entry>
         <entry>79,71 mo77</entry>
@@ -619,6 +625,7 @@
         <entry>qa</entry>
         <entry>q</entry>
         <entry>qa!</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
