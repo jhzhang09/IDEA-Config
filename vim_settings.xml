@@ -311,6 +311,9 @@
         <mark key="^" line="19" column="22" />
         <mark key="." line="19" column="22" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d0d78b12-4954-483f-b026-68f2e189eb10/console.sql" timestamp="1546495484496">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1546420696512">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -595,11 +598,10 @@
       <last-replace>Base64</last-replace>
       <last-substitute>Base64Utils</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>绿框</entry>
         <entry>keyCert</entry>
         <entry>for</entry>
         <entry>rolelist</entry>
