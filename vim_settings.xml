@@ -75,20 +75,6 @@
         <mark key="]" line="2" column="150" />
         <mark key="." line="2" column="127" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/user/user.js" timestamp="1546420111109">
-        <mark key="'" line="250" column="9" />
-        <mark key="[" line="244" column="56" />
-        <mark key="]" line="244" column="56" />
-        <mark key="." line="244" column="56" />
-        <mark key="^" line="40" column="52" />
-      </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/sys/user.js" timestamp="1546419748220">
-        <mark key="'" line="236" column="86" />
-        <mark key="[" line="236" column="63" />
-        <mark key="]" line="236" column="63" />
-        <mark key="." line="236" column="63" />
-        <mark key="^" line="12" column="113" />
-      </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiMonitorValueCollectController.java" timestamp="1545387625723">
         <mark key="[" line="49" column="20" />
         <mark key="]" line="49" column="33" />
@@ -100,10 +86,10 @@
         <mark key="]" line="5" column="20" />
         <mark key="." line="5" column="20" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/tradingcenter/WSCDemoBJCA/src/cn/org/bjca/test/Test1.java" timestamp="1547106581978">
+      <file name="D:/Workspaces/IntelliJ/tradingcenter/WSCDemoBJCA/src/cn/org/bjca/test/Test1.java" timestamp="1547116867981">
         <mark key="'" line="147" column="25" />
-        <mark key="[" line="147" column="25" />
-        <mark key="]" line="147" column="25" />
+        <mark key="[" line="357" column="0" />
+        <mark key="]" line="386" column="0" />
         <mark key="." line="147" column="25" />
         <mark key="^" line="147" column="25" />
       </file>
@@ -118,13 +104,6 @@
         <mark key="]" line="29" column="12" />
         <mark key="^" line="29" column="12" />
         <mark key="." line="29" column="12" />
-      </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/sys/user.html" timestamp="1545963925270">
-        <mark key="'" line="96" column="66" />
-        <mark key="[" line="83" column="36" />
-        <mark key="]" line="83" column="43" />
-        <mark key="." line="83" column="43" />
-        <mark key="^" line="83" column="43" />
       </file>
       <file name="D:/Workspaces/IntelliJ/tradingcenter/trading-center/src/main/resources/application-dev.yml" timestamp="1546052308314">
         <mark key="[" line="10" column="132" />
@@ -194,13 +173,6 @@
         <mark key="." line="105" column="12" />
         <mark key="^" line="105" column="12" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/login.html" timestamp="1547007224288">
-        <mark key="'" line="106" column="21" />
-        <mark key="[" line="68" column="28" />
-        <mark key="]" line="92" column="56" />
-        <mark key="." line="92" column="56" />
-        <mark key="^" line="92" column="56" />
-      </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/record/cameramonitorrecord.js" timestamp="1544754948637">
         <mark key="[" line="31" column="56" />
         <mark key="]" line="31" column="52" />
@@ -211,13 +183,6 @@
         <mark key="[" line="5" column="15" />
         <mark key="]" line="5" column="16" />
         <mark key="." line="5" column="16" />
-      </file>
-      <file name="D:/Workspaces/IntelliJ/tradingcenter/WSCDemoBJCA/src/cn/org/bjca/test/request/RequestCertInfo.java" timestamp="1547107374008">
-        <mark key="'" line="8" column="3" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="4" column="0" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiFaceRecognizeController.java" timestamp="1546415339428">
         <mark key="[" line="75" column="54" />
@@ -236,6 +201,12 @@
         <mark key="]" line="15" column="20" />
         <mark key="." line="15" column="20" />
         <mark key="^" line="15" column="20" />
+      </file>
+      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/BjcaCertService.java" timestamp="1547116723752">
+        <mark key="[" line="26" column="3" />
+        <mark key="]" line="25" column="2" />
+        <mark key="." line="25" column="2" />
+        <mark key="^" line="25" column="2" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/BaseController.java" timestamp="1545977122532">
         <mark key="[" line="75" column="0" />
@@ -284,25 +255,11 @@
         <mark key="^" line="54" column="7" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/db/update-20181222.sql" timestamp="1546054482113">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="32" column="68" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="24" column="62" />
-      </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiRequestPolicyController.java" timestamp="1545387472449">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
         <mark key="^" line="33" column="61" />
         <mark key="." line="40" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.java" timestamp="1545901717083">
-        <mark key="'" line="314" column="18" />
-        <mark key="[" line="333" column="0" />
-        <mark key="]" line="345" column="87" />
-        <mark key="." line="345" column="83" />
-        <mark key="^" line="345" column="83" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/form/KeyboardRequestPolicyForm.java" timestamp="1544097271184">
         <mark key="[" line="16" column="65" />
@@ -339,11 +296,11 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.java" timestamp="1547114278331">
-        <mark key="[" line="20" column="56" />
-        <mark key="]" line="20" column="64" />
-        <mark key="." line="20" column="64" />
-        <mark key="^" line="20" column="64" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.java" timestamp="1547116875802">
+        <mark key="[" line="24" column="8" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="23" column="7" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/java/com/tdr/common/config/ShiroConfig.java" timestamp="1545903291378">
         <mark key="[" line="95" column="28" />
@@ -371,13 +328,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="8" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/ApiApplication.http" timestamp="1546415440137">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="39" column="30" />
-        <mark key="]" line="40" column="19" />
-        <mark key="." line="40" column="19" />
-        <mark key="^" line="40" column="19" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/record/useridrecord.js" timestamp="1545798742213">
         <mark key="[" line="16" column="51" />
@@ -460,13 +410,6 @@
         <mark key="^" line="17" column="6" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/keyboard/keyboard.js" timestamp="1545999866357">
-        <mark key="'" line="415" column="38" />
-        <mark key="[" line="36" column="64" />
-        <mark key="]" line="36" column="64" />
-        <mark key="^" line="36" column="64" />
-        <mark key="." line="36" column="64" />
-      </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/db/mysql.sql" timestamp="1546054425719">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="509" column="31" />
@@ -477,25 +420,11 @@
         <mark key="^" line="3" column="73" />
         <mark key="." line="3" column="73" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/java/com/tdr/modules/user/controller/UserController.java" timestamp="1546412072343">
-        <mark key="'" line="185" column="84" />
-        <mark key="[" line="172" column="50" />
-        <mark key="]" line="172" column="115" />
-        <mark key="." line="172" column="49" />
-        <mark key="^" line="172" column="49" />
-      </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/java/com/tdr/modules/sys/controller/SysLoginController.java" timestamp="1546584834719">
         <mark key="[" line="102" column="52" />
         <mark key="]" line="103" column="7" />
         <mark key="^" line="103" column="7" />
         <mark key="." line="103" column="7" />
-      </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/java/com/tdr/modules/sys/controller/SysUserController.java" timestamp="1545972221995">
-        <mark key="'" line="142" column="10" />
-        <mark key="[" line="145" column="47" />
-        <mark key="]" line="145" column="79" />
-        <mark key="." line="145" column="79" />
-        <mark key="^" line="145" column="79" />
       </file>
       <file name="/fragment.java" timestamp="1547112563261">
         <mark key="[" line="0" column="0" />
@@ -617,43 +546,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyDJ6NbDwre+tgogICAgICAgIFNlY3VyaXR5RW5naW5lRGVhbC5zZXRQcm9maWxlUGF0aCgiRDpcXFdvcmtzcGFjZXNcXEludGVsbGlKXFx0cmFkaW5nY2VudGVyXFxCSkNBUk9PVCIpOwoKICAgICAgICBTdHJpbmcgc3RyeG1sID0gbnVsbDsKICAgICAgICBTdHJpbmcgc3RycmV0ID0gbnVsbDsKICAgICAgICBTdHJpbmcgZW52c24gPSBudWxsOwoKICAgICAgICAvLyDWpMrpyerH6wogICAgICAgIHN0cnhtbCA9IENyZWF0ZVhNTERhdGEoKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInN0cnhtbDogIiArIHN0cnhtbCk7CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgc3RycmV0ID0gc2VuZChzdHJ4bWwpOwogICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQogICAgICAgIFhtbE1hcHBlciB4bWxNYXBwZXIgPSBuZXcgWG1sTWFwcGVyKCk7CiAgICAgICAgQ0FSZXNwb25zZSByZXNwb25zZSA9IHhtbE1hcHBlci5yZWFkVmFsdWUoc3RycmV0LCBDQVJlc3BvbnNlLmNsYXNzKTsKICAgICAgICBlbnZzbiA9IHJlc3BvbnNlLmdldFJlc3BvbnNlaW5mbygpLmdldENlcnRpbmZvKCkuZ2V0RW52c24oKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImVudnNuOiAiICsgZW52c24gKyAiLCAiICsgQmFzZTY0RGVjb2RlKGVudnNuKSk7CgogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0iKTsKICAgICAgICAvLyC78cih1qTK6QogICAgICAgIHN0cnhtbCA9IENyZWF0ZVhNTERhdGExKGVudnNuKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInN0cnhtbDogIiArIHN0cnhtbCk7CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgc3RycmV0ID0gc2VuZChzdHJ4bWwpOwogICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQoK</text>
       </register>
       <register name="-" type="4">
-        <text>new CARequest()</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>substring</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">amFja3Nvbi1kYXRhZm9ybWF0LXhtbDw=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAvLyDJ6NbDwre+tgogICAgICAgIFNlY3VyaXR5RW5naW5lRGVhbC5zZXRQcm9maWxlUGF0aCgiRDpcXFdvcmtzcGFjZXNcXEludGVsbGlKXFx0cmFkaW5nY2VudGVyXFxCSkNBUk9PVCIpOwoKICAgICAgICBTdHJpbmcgc3RyeG1sID0gbnVsbDsKICAgICAgICBTdHJpbmcgc3RycmV0ID0gbnVsbDsKICAgICAgICBTdHJpbmcgZW52c24gPSBudWxsOwoKICAgICAgICAvLyDWpMrpyerH6wogICAgICAgIHN0cnhtbCA9IENyZWF0ZVhNTERhdGEoKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInN0cnhtbDogIiArIHN0cnhtbCk7CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgc3RycmV0ID0gc2VuZChzdHJ4bWwpOwogICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQogICAgICAgIFhtbE1hcHBlciB4bWxNYXBwZXIgPSBuZXcgWG1sTWFwcGVyKCk7CiAgICAgICAgQ0FSZXNwb25zZSByZXNwb25zZSA9IHhtbE1hcHBlci5yZWFkVmFsdWUoc3RycmV0LCBDQVJlc3BvbnNlLmNsYXNzKTsKICAgICAgICBlbnZzbiA9IHJlc3BvbnNlLmdldFJlc3BvbnNlaW5mbygpLmdldENlcnRpbmZvKCkuZ2V0RW52c24oKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImVudnNuOiAiICsgZW52c24gKyAiLCAiICsgQmFzZTY0RGVjb2RlKGVudnNuKSk7CgogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0iKTsKICAgICAgICAvLyC78cih1qTK6QogICAgICAgIHN0cnhtbCA9IENyZWF0ZVhNTERhdGExKGVudnNuKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInN0cnhtbDogIiArIHN0cnhtbCk7CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgc3RycmV0ID0gc2VuZChzdHJ4bWwpOwogICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgc3RhdGljIExvZ2dlciBsb2dnZXIgPSBMb2dnZXIuZ2V0TG9nZ2VyKEJqY2FDZXJ0U2VydmljZS5jbGFzcy5nZXROYW1lKCkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGFydGlmYWN0SWQ+PC9hcnRpZmFjdElkPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwSWQ+PC9ncm91cElkPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGFydGlmYWN0SWQ+PC9hcnRpZmFjdElkPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3Qvb3JnLmFwYWNoZS5heGlzL2F4aXMgLS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwSWQ+PC9ncm91cElkPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3Qvb3JnLmFwYWNoZS5heGlzL2F4aXMgLS0+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3Qvb3JnLmNvZGVoYXVzLndvb2RzdG94L3N0YXgyLWFwaSAtLT4K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICA8IS0tIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3Qvb3JnLmNvZGVoYXVzLndvb2RzdG94L3N0YXgyLWFwaSAtLT4K</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmZhc3RlcnhtbC5qYWNrc29uLmRhdGFmb3JtYXQ8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmphY2tzb24tZGF0YWZvcm1hdC14bWw8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPiR7amFja3Nvbi1kYXRhZm9ybWF0LXhtbC52ZXJzaW9ufTwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb20udGRyLnRyYWRpbmdjZW50ZXIudWFwLmJqY2EucmVxdWVzdC4K</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmZhc3RlcnhtbC5qYWNrc29uLmRhdGFmb3JtYXQ8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmphY2tzb24tZGF0YWZvcm1hdC14bWw8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPiR7amFja3Nvbi1kYXRhZm9ybWF0LXhtbC52ZXJzaW9ufTwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
