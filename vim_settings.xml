@@ -101,12 +101,12 @@
         <mark key="]" line="5" column="20" />
         <mark key="." line="5" column="20" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/tradingcenter/WSCDemoBJCA/src/cn/org/bjca/test/Test1.java" timestamp="1547105446061">
-        <mark key="'" line="44" column="8" />
-        <mark key="[" line="102" column="18" />
-        <mark key="]" line="153" column="52" />
-        <mark key="." line="153" column="52" />
-        <mark key="^" line="153" column="52" />
+      <file name="D:/Workspaces/IntelliJ/tradingcenter/WSCDemoBJCA/src/cn/org/bjca/test/Test1.java" timestamp="1547106581978">
+        <mark key="'" line="147" column="25" />
+        <mark key="[" line="147" column="25" />
+        <mark key="]" line="147" column="25" />
+        <mark key="." line="147" column="25" />
+        <mark key="^" line="147" column="25" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/exception/ApiExceptionHandler.java" timestamp="1545017943133">
         <mark key="[" line="33" column="3" />
@@ -438,7 +438,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="226" column="16" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/user/user.js" />
       <jump line="232" column="44" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/user/user.js" />
       <jump line="236" column="34" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/user/user.js" />
       <jump line="6" column="51" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/db/update-20181222.sql" />
@@ -538,13 +537,14 @@
       <jump line="0" column="0" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/policy/policy.js" />
       <jump line="39" column="26" filename="D:/Workspaces/IntelliJ/tradingcenter/WSCDemoBJCA/src/cn/org/bjca/test/Test1.java" />
       <jump line="45" column="8" filename="D:/Workspaces/IntelliJ/tradingcenter/WSCDemoBJCA/src/cn/org/bjca/test/Test1.java" />
+      <jump line="147" column="25" filename="D:/Workspaces/IntelliJ/tradingcenter/WSCDemoBJCA/src/cn/org/bjca/test/Test1.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>substring</text>
