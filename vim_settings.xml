@@ -143,6 +143,12 @@
         <mark key="]" line="10" column="155" />
         <mark key="." line="10" column="132" />
       </file>
+      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/request/CARequest.java" timestamp="1547110720582">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="12" column="17" />
+        <mark key="^" line="12" column="17" />
+        <mark key="." line="12" column="17" />
+      </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/form/KeyboardJoinForm.java" timestamp="1544097370852">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
@@ -154,6 +160,11 @@
         <mark key="]" line="18" column="90" />
         <mark key="^" line="8" column="109" />
         <mark key="." line="25" column="86" />
+      </file>
+      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/pom.xml" timestamp="1547110566526">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/resources/application-test.yml" timestamp="1546051525153">
         <mark key="[" line="2" column="127" />
@@ -226,6 +237,12 @@
         <mark key="]" line="75" column="0" />
         <mark key="^" line="76" column="52" />
         <mark key="." line="75" column="0" />
+      </file>
+      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/request/RequestCertInfo.java" timestamp="1547110879693">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="11" column="19" />
+        <mark key="." line="11" column="18" />
+        <mark key="^" line="11" column="18" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/index.html" timestamp="1545649040707">
         <mark key="[" line="29" column="39" />
@@ -313,6 +330,11 @@
         <mark key="^" line="19" column="22" />
         <mark key="." line="19" column="22" />
       </file>
+      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/request/RequestUserInfo.java" timestamp="1547110893378">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="11" column="19" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d0d78b12-4954-483f-b026-68f2e189eb10/console.sql" timestamp="1546495484496">
         <mark key="[" line="0" column="0" />
       </file>
@@ -369,6 +391,11 @@
         <mark key="." line="53" column="55" />
         <mark key="^" line="53" column="55" />
       </file>
+      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/request/RequestDeviceInfo.java" timestamp="1547110942873">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/keyboarduser/rkeyboarduser.html" timestamp="1546410912037">
         <mark key="[" line="40" column="16" />
         <mark key="]" line="48" column="21" />
@@ -379,6 +406,11 @@
         <mark key="]" line="56" column="104" />
         <mark key="." line="45" column="5" />
         <mark key="^" line="45" column="5" />
+      </file>
+      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/request/RequestInfo.java" timestamp="1547110889694">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="10" column="19" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/resources/fdfs_client.conf" timestamp="1545273365584">
         <mark key="[" line="4" column="0" />
@@ -410,7 +442,6 @@
         <mark key="]" line="509" column="31" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/tradingcenter/WSCDemoBJCA/src/cn/org/bjca/BjcaCertServiceSoap.java" timestamp="1547102910042" />
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/java/com/tdr/modules/user/controller/UserController.java" timestamp="1546412072343">
         <mark key="'" line="185" column="84" />
         <mark key="[" line="172" column="50" />
@@ -445,7 +476,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="51" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/db/update-20181222.sql" />
       <jump line="97" column="52" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/keyboard/keyboard.html" />
       <jump line="104" column="23" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/keyboard/keyboard.html" />
       <jump line="106" column="24" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/keyboard/keyboard.html" />
@@ -545,10 +575,11 @@
       <jump line="147" column="25" filename="D:/Workspaces/IntelliJ/tradingcenter/WSCDemoBJCA/src/cn/org/bjca/test/Test1.java" />
       <jump line="107" column="13" filename="D:/Workspaces/IntelliJ/tradingcenter/WSCDemoBJCA/src/cn/org/bjca/test/request/RequestCertInfo.java" />
       <jump line="106" column="3" filename="D:/Workspaces/IntelliJ/tradingcenter/WSCDemoBJCA/src/cn/org/bjca/test/request/RequestCertInfo.java" />
+      <jump line="26" column="2" filename="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/request/CARequest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0RW52c250YWcoKSB7CiAgICAgICAgcmV0dXJuIGVudnNudGFnOwogICAgfQogICAgcHVibGljIHZvaWQgc2V0RW52c250YWcoU3RyaW5nIGVudnNudGFnKSB7CiAgICAgICAgdGhpcy5lbnZzbnRhZyA9IGVudnNudGFnOwogICAgfQogICAgcHVibGljIFN0cmluZyBnZXRFbnZzbigpIHsKICAgICAgICByZXR1cm4gZW52c247CiAgICB9CiAgICBwdWJsaWMgdm9pZCBzZXRFbnZzbihTdHJpbmcgZW52c24pIHsKICAgICAgICB0aGlzLmVudnNuID0gZW52c247CiAgICB9CiAgICBwdWJsaWMgU3RyaW5nIGdldEVudnNuY29kZSgpIHsKICAgICAgICByZXR1cm4gZW52c25jb2RlOwogICAgfQogICAgcHVibGljIHZvaWQgc2V0RW52c25jb2RlKFN0cmluZyBlbnZzbmNvZGUpIHsKICAgICAgICB0aGlzLmVudnNuY29kZSA9IGVudnNuY29kZTsKICAgIH0KICAgIHB1YmxpYyBTdHJpbmcgZ2V0T2xkZW52c24oKSB7CiAgICAgICAgcmV0dXJuIG9sZGVudnNuOwogICAgfQogICAgcHVibGljIHZvaWQgc2V0T2xkZW52c24oU3RyaW5nIG9sZGVudnNuKSB7CiAgICAgICAgdGhpcy5vbGRlbnZzbiA9IG9sZGVudnNuOwogICAgfQogICAgcHVibGljIFN0cmluZyBnZXRLZXllbnZzbigpIHsKICAgICAgICByZXR1cm4ga2V5ZW52c247CiAgICB9CiAgICBwdWJsaWMgdm9pZCBzZXRLZXllbnZzbihTdHJpbmcga2V5ZW52c24pIHsKICAgICAgICB0aGlzLmtleWVudnNuID0ga2V5ZW52c247CiAgICB9CiAgICBwdWJsaWMgU3RyaW5nIGdldEtleWVudnNuY29kZSgpIHsKICAgICAgICByZXR1cm4ga2V5ZW52c25jb2RlOwogICAgfQogICAgcHVibGljIHZvaWQgc2V0S2V5ZW52c25jb2RlKFN0cmluZyBrZXllbnZzbmNvZGUpIHsKICAgICAgICB0aGlzLmtleWVudnNuY29kZSA9IGtleWVudnNuY29kZTsKICAgIH0KICAgIHB1YmxpYyBTdHJpbmcgZ2V0QWxnKCkgewogICAgICAgIHJldHVybiBhbGc7CiAgICB9CiAgICBwdWJsaWMgdm9pZCBzZXRBbGcoU3RyaW5nIGFsZykgewogICAgICAgIHRoaXMuYWxnID0gYWxnOwogICAgfQogICAgcHVibGljIFN0cmluZyBnZXROb3RiZWZvcmUoKSB7CiAgICAgICAgcmV0dXJuIG5vdGJlZm9yZTsKICAgIH0KICAgIHB1YmxpYyB2b2lkIHNldE5vdGJlZm9yZShTdHJpbmcgbm90YmVmb3JlKSB7CiAgICAgICAgdGhpcy5ub3RiZWZvcmUgPSBub3RiZWZvcmU7CiAgICB9CiAgICBwdWJsaWMgU3RyaW5nIGdldE5vdGFmdGVyKCkgewogICAgICAgIHJldHVybiBub3RhZnRlcjsKICAgIH0KICAgIHB1YmxpYyB2b2lkIHNldE5vdGFmdGVyKFN0cmluZyBub3RhZnRlcikgewogICAgICAgIHRoaXMubm90YWZ0ZXIgPSBub3RhZnRlcjsKICAgIH0KICAgIHB1YmxpYyBTdHJpbmcgZ2V0U2lnbnB1YmtleSgpIHsKICAgICAgICByZXR1cm4gc2lnbnB1YmtleTsKICAgIH0KICAgIHB1YmxpYyB2b2lkIHNldFNpZ25wdWJrZXkoU3RyaW5nIHNpZ25wdWJrZXkpIHsKICAgICAgICB0aGlzLnNpZ25wdWJrZXkgPSBzaWducHVia2V5OwogICAgfQogICAgcHVibGljIFN0cmluZyBnZXREb3ducHVia2V5KCkgewogICAgICAgIHJldHVybiBkb3ducHVia2V5OwogICAgfQogICAgcHVibGljIHZvaWQgc2V0RG93bnB1YmtleShTdHJpbmcgZG93bnB1YmtleSkgewogICAgICAgIHRoaXMuZG93bnB1YmtleSA9IGRvd25wdWJrZXk7CiAgICB9CiAgICBwdWJsaWMgU3RyaW5nIGdldFAxMHRhZygpIHsKICAgICAgICByZXR1cm4gcDEwdGFnOwogICAgfQogICAgcHVibGljIHZvaWQgc2V0UDEwdGFnKFN0cmluZyBwMTB0YWcpIHsKICAgICAgICB0aGlzLnAxMHRhZyA9IHAxMHRhZzsKICAgIH0KICAgIHB1YmxpYyBTdHJpbmcgZ2V0UDEwKCkgewogICAgICAgIHJldHVybiBwMTA7CiAgICB9CiAgICBwdWJsaWMgdm9pZCBzZXRQMTAoU3RyaW5nIHAxMCkgewogICAgICAgIHRoaXMucDEwID0gcDEwOwogICAgfQogICAgcHVibGljIFN0cmluZyBnZXRTaWduY2VydHNuKCkgewogICAgICAgIHJldHVybiBzaWduY2VydHNuOwogICAgfQogICAgcHVibGljIHZvaWQgc2V0U2lnbmNlcnRzbihTdHJpbmcgc2lnbmNlcnRzbikgewogICAgICAgIHRoaXMuc2lnbmNlcnRzbiA9IHNpZ25jZXJ0c247CiAgICB9CiAgICBwdWJsaWMgU3RyaW5nIGdldFNpZ25jZXJ0KCkgewogICAgICAgIHJldHVybiBzaWduY2VydDsKICAgIH0KICAgIHB1YmxpYyB2b2lkIHNldFNpZ25jZXJ0KFN0cmluZyBzaWduY2VydCkgewogICAgICAgIHRoaXMuc2lnbmNlcnQgPSBzaWduY2VydDsKICAgIH0KICAgIHB1YmxpYyBTdHJpbmcgZ2V0RW5jY2VydHNuKCkgewogICAgICAgIHJldHVybiBlbmNjZXJ0c247CiAgICB9CiAgICBwdWJsaWMgdm9pZCBzZXRFbmNjZXJ0c24oU3RyaW5nIGVuY2NlcnRzbikgewogICAgICAgIHRoaXMuZW5jY2VydHNuID0gZW5jY2VydHNuOwogICAgfQogICAgcHVibGljIFN0cmluZyBnZXRFbmNjZXJ0KCkgewogICAgICAgIHJldHVybiBlbmNjZXJ0OwogICAgfQogICAgcHVibGljIHZvaWQgc2V0RW5jY2VydChTdHJpbmcgZW5jY2VydCkgewogICAgICAgIHRoaXMuZW5jY2VydCA9IGVuY2NlcnQ7CiAgICB9CiAgICBwdWJsaWMgU3RyaW5nIGdldFByaXZhdGVrZXkoKSB7CiAgICAgICAgcmV0dXJuIHByaXZhdGVrZXk7CiAgICB9CiAgICBwdWJsaWMgdm9pZCBzZXRQcml2YXRla2V5KFN0cmluZyBwcml2YXRla2V5KSB7CiAgICAgICAgdGhpcy5wcml2YXRla2V5ID0gcHJpdmF0ZWtleTsKICAgIH0KCn0K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0Q3NwbmFtZSgpIHsKICAgICAgICByZXR1cm4gY3NwbmFtZTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRDc3BuYW1lKFN0cmluZyBjc3BuYW1lKSB7CiAgICAgICAgdGhpcy5jc3BuYW1lID0gY3NwbmFtZTsKICAgIH0KCiAgICBwdWJsaWMgU3RyaW5nIGdldFBpZHZpZCgpIHsKICAgICAgICByZXR1cm4gcGlkdmlkOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldFBpZHZpZChTdHJpbmcgcGlkdmlkKSB7CiAgICAgICAgdGhpcy5waWR2aWQgPSBwaWR2aWQ7CiAgICB9CgogICAgcHVibGljIFN0cmluZyBnZXRLZXlzbigpIHsKICAgICAgICByZXR1cm4ga2V5c247CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0S2V5c24oU3RyaW5nIGtleXNuKSB7CiAgICAgICAgdGhpcy5rZXlzbiA9IGtleXNuOwogICAgfQoK</text>
       </register>
       <register name="-" type="4">
         <text>0</text>
@@ -556,53 +587,38 @@
       <register name="/" type="4">
         <text>substring</text>
       </register>
-      <register name="0" type="4">
-        <text>MIIBfTCB5wIBADBAMQswCQYDVQQGEwJDTjEJMAcGA1UECgwAMQkwBwYDVQQLDAAxGzAZBgNVBAMMElJTQeacjeWKoeWZqOivgeS5pjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAgEfP8MUjAUFMZlBa4SwY4mOZ9OSeUfa5nfrnYpERNCaTWXCnawLR0c3Xe+qtCPRT8UxHGw4mLAgb1UA+lpWi/r+Sulznbr3nKG4EBr3wl4R6/iYhbVi21O3xAYJt3QboBbIdbekt3KeuQK7J9jfE1zeICxmkKdTMjxYjsuicHD0CAwEAATANBgkqhkiG9w0BAQUFAAOBgQBqo9e4hWFJMMZjeQqeGOh/kofOw8gZqyL6COZTQQQD3QykOyKzeFn7J8OO8JhJnVzMqj27qtLRT+GsGTeNsTWXb2GzrpCSdib5W1CMoiCQLHbmX1FrHB7IrnWTCnAtBXgfSGLhiC+n87/iS+3xEk+QGiFWtPB9YoFG3oK6AxlRKA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">QERhdGEKQE5vQXJnc0NvbnN0cnVjdG9yCkBBbGxBcmdzQ29uc3RydWN0b3IK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0RW52c250YWcoKSB7CiAgICAgICAgcmV0dXJuIGVudnNudGFnOwogICAgfQogICAgcHVibGljIHZvaWQgc2V0RW52c250YWcoU3RyaW5nIGVudnNudGFnKSB7CiAgICAgICAgdGhpcy5lbnZzbnRhZyA9IGVudnNudGFnOwogICAgfQogICAgcHVibGljIFN0cmluZyBnZXRFbnZzbigpIHsKICAgICAgICByZXR1cm4gZW52c247CiAgICB9CiAgICBwdWJsaWMgdm9pZCBzZXRFbnZzbihTdHJpbmcgZW52c24pIHsKICAgICAgICB0aGlzLmVudnNuID0gZW52c247CiAgICB9CiAgICBwdWJsaWMgU3RyaW5nIGdldEVudnNuY29kZSgpIHsKICAgICAgICByZXR1cm4gZW52c25jb2RlOwogICAgfQogICAgcHVibGljIHZvaWQgc2V0RW52c25jb2RlKFN0cmluZyBlbnZzbmNvZGUpIHsKICAgICAgICB0aGlzLmVudnNuY29kZSA9IGVudnNuY29kZTsKICAgIH0KICAgIHB1YmxpYyBTdHJpbmcgZ2V0T2xkZW52c24oKSB7CiAgICAgICAgcmV0dXJuIG9sZGVudnNuOwogICAgfQogICAgcHVibGljIHZvaWQgc2V0T2xkZW52c24oU3RyaW5nIG9sZGVudnNuKSB7CiAgICAgICAgdGhpcy5vbGRlbnZzbiA9IG9sZGVudnNuOwogICAgfQogICAgcHVibGljIFN0cmluZyBnZXRLZXllbnZzbigpIHsKICAgICAgICByZXR1cm4ga2V5ZW52c247CiAgICB9CiAgICBwdWJsaWMgdm9pZCBzZXRLZXllbnZzbihTdHJpbmcga2V5ZW52c24pIHsKICAgICAgICB0aGlzLmtleWVudnNuID0ga2V5ZW52c247CiAgICB9CiAgICBwdWJsaWMgU3RyaW5nIGdldEtleWVudnNuY29kZSgpIHsKICAgICAgICByZXR1cm4ga2V5ZW52c25jb2RlOwogICAgfQogICAgcHVibGljIHZvaWQgc2V0S2V5ZW52c25jb2RlKFN0cmluZyBrZXllbnZzbmNvZGUpIHsKICAgICAgICB0aGlzLmtleWVudnNuY29kZSA9IGtleWVudnNuY29kZTsKICAgIH0KICAgIHB1YmxpYyBTdHJpbmcgZ2V0QWxnKCkgewogICAgICAgIHJldHVybiBhbGc7CiAgICB9CiAgICBwdWJsaWMgdm9pZCBzZXRBbGcoU3RyaW5nIGFsZykgewogICAgICAgIHRoaXMuYWxnID0gYWxnOwogICAgfQogICAgcHVibGljIFN0cmluZyBnZXROb3RiZWZvcmUoKSB7CiAgICAgICAgcmV0dXJuIG5vdGJlZm9yZTsKICAgIH0KICAgIHB1YmxpYyB2b2lkIHNldE5vdGJlZm9yZShTdHJpbmcgbm90YmVmb3JlKSB7CiAgICAgICAgdGhpcy5ub3RiZWZvcmUgPSBub3RiZWZvcmU7CiAgICB9CiAgICBwdWJsaWMgU3RyaW5nIGdldE5vdGFmdGVyKCkgewogICAgICAgIHJldHVybiBub3RhZnRlcjsKICAgIH0KICAgIHB1YmxpYyB2b2lkIHNldE5vdGFmdGVyKFN0cmluZyBub3RhZnRlcikgewogICAgICAgIHRoaXMubm90YWZ0ZXIgPSBub3RhZnRlcjsKICAgIH0KICAgIHB1YmxpYyBTdHJpbmcgZ2V0U2lnbnB1YmtleSgpIHsKICAgICAgICByZXR1cm4gc2lnbnB1YmtleTsKICAgIH0KICAgIHB1YmxpYyB2b2lkIHNldFNpZ25wdWJrZXkoU3RyaW5nIHNpZ25wdWJrZXkpIHsKICAgICAgICB0aGlzLnNpZ25wdWJrZXkgPSBzaWducHVia2V5OwogICAgfQogICAgcHVibGljIFN0cmluZyBnZXREb3ducHVia2V5KCkgewogICAgICAgIHJldHVybiBkb3ducHVia2V5OwogICAgfQogICAgcHVibGljIHZvaWQgc2V0RG93bnB1YmtleShTdHJpbmcgZG93bnB1YmtleSkgewogICAgICAgIHRoaXMuZG93bnB1YmtleSA9IGRvd25wdWJrZXk7CiAgICB9CiAgICBwdWJsaWMgU3RyaW5nIGdldFAxMHRhZygpIHsKICAgICAgICByZXR1cm4gcDEwdGFnOwogICAgfQogICAgcHVibGljIHZvaWQgc2V0UDEwdGFnKFN0cmluZyBwMTB0YWcpIHsKICAgICAgICB0aGlzLnAxMHRhZyA9IHAxMHRhZzsKICAgIH0KICAgIHB1YmxpYyBTdHJpbmcgZ2V0UDEwKCkgewogICAgICAgIHJldHVybiBwMTA7CiAgICB9CiAgICBwdWJsaWMgdm9pZCBzZXRQMTAoU3RyaW5nIHAxMCkgewogICAgICAgIHRoaXMucDEwID0gcDEwOwogICAgfQogICAgcHVibGljIFN0cmluZyBnZXRTaWduY2VydHNuKCkgewogICAgICAgIHJldHVybiBzaWduY2VydHNuOwogICAgfQogICAgcHVibGljIHZvaWQgc2V0U2lnbmNlcnRzbihTdHJpbmcgc2lnbmNlcnRzbikgewogICAgICAgIHRoaXMuc2lnbmNlcnRzbiA9IHNpZ25jZXJ0c247CiAgICB9CiAgICBwdWJsaWMgU3RyaW5nIGdldFNpZ25jZXJ0KCkgewogICAgICAgIHJldHVybiBzaWduY2VydDsKICAgIH0KICAgIHB1YmxpYyB2b2lkIHNldFNpZ25jZXJ0KFN0cmluZyBzaWduY2VydCkgewogICAgICAgIHRoaXMuc2lnbmNlcnQgPSBzaWduY2VydDsKICAgIH0KICAgIHB1YmxpYyBTdHJpbmcgZ2V0RW5jY2VydHNuKCkgewogICAgICAgIHJldHVybiBlbmNjZXJ0c247CiAgICB9CiAgICBwdWJsaWMgdm9pZCBzZXRFbmNjZXJ0c24oU3RyaW5nIGVuY2NlcnRzbikgewogICAgICAgIHRoaXMuZW5jY2VydHNuID0gZW5jY2VydHNuOwogICAgfQogICAgcHVibGljIFN0cmluZyBnZXRFbmNjZXJ0KCkgewogICAgICAgIHJldHVybiBlbmNjZXJ0OwogICAgfQogICAgcHVibGljIHZvaWQgc2V0RW5jY2VydChTdHJpbmcgZW5jY2VydCkgewogICAgICAgIHRoaXMuZW5jY2VydCA9IGVuY2NlcnQ7CiAgICB9CiAgICBwdWJsaWMgU3RyaW5nIGdldFByaXZhdGVrZXkoKSB7CiAgICAgICAgcmV0dXJuIHByaXZhdGVrZXk7CiAgICB9CiAgICBwdWJsaWMgdm9pZCBzZXRQcml2YXRla2V5KFN0cmluZyBwcml2YXRla2V5KSB7CiAgICAgICAgdGhpcy5wcml2YXRla2V5ID0gcHJpdmF0ZWtleTsKICAgIH0KCn0K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0Q3NwbmFtZSgpIHsKICAgICAgICByZXR1cm4gY3NwbmFtZTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRDc3BuYW1lKFN0cmluZyBjc3BuYW1lKSB7CiAgICAgICAgdGhpcy5jc3BuYW1lID0gY3NwbmFtZTsKICAgIH0KCiAgICBwdWJsaWMgU3RyaW5nIGdldFBpZHZpZCgpIHsKICAgICAgICByZXR1cm4gcGlkdmlkOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldFBpZHZpZChTdHJpbmcgcGlkdmlkKSB7CiAgICAgICAgdGhpcy5waWR2aWQgPSBwaWR2aWQ7CiAgICB9CgogICAgcHVibGljIFN0cmluZyBnZXRLZXlzbigpIHsKICAgICAgICByZXR1cm4ga2V5c247CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0S2V5c24oU3RyaW5nIGtleXNuKSB7CiAgICAgICAgdGhpcy5rZXlzbiA9IGtleXNuOwogICAgfQoK</text>
       </register>
-      <register name="2" type="4">
-        <text>// 测试系统测试渠道 业务规则
-                               // 业务规则 个人证书 新办2932 更新2934 丢失补办2936 损坏补办2938
-                               // 变更2940
-                               // 业务规则 单位证书 新办2931 更新2933 丢失补办2935 损坏补办2937
-                               // 变更2939</text>
+      <register name="2" type="2">
+        <text encoding="base64">QE5vQXJnc0NvbnN0cnVjdG9yCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>// 业务类型 详细信息如下
-        // 1 证书申请(包括证书申请、证书更新、丢失补办、损坏补办和信息变更业务)
-        // 2 密钥上传
-        // 3 获取证书
-        // 4 异常处理
-        // 5 证书吊销
-        // 6 证书解锁
-        // 7 信息查询
-        // 8 用户基础信息存储(新增与修改)
-        // 9 更新业务完成状态
-        // 10 业务终止
-        // 11 电子附件上传</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0VmVyc2lvbigpIHsKICAgICAgICByZXR1cm4gdmVyc2lvbjsKICAgIH0KICAgIHB1YmxpYyB2b2lkIHNldFZlcnNpb24oU3RyaW5nIHZlcnNpb24pIHsKICAgICAgICB0aGlzLnZlcnNpb24gPSB2ZXJzaW9uOwogICAgfQogICAgcHVibGljIFJlcXVlc3RJbmZvIGdldFJlcXVlc3RpbmZvKCkgewogICAgICAgIHJldHVybiByZXF1ZXN0aW5mbzsKICAgIH0KICAgIHB1YmxpYyB2b2lkIHNldFJlcXVlc3RpbmZvKFJlcXVlc3RJbmZvIHJlcXVlc3RpbmZvKSB7CiAgICAgICAgdGhpcy5yZXF1ZXN0aW5mbyA9IHJlcXVlc3RpbmZvOwogICAgfQogICAgcHVibGljIFN0cmluZyBnZXRTaWduZGF0YSgpIHsKICAgICAgICByZXR1cm4gc2lnbmRhdGE7CiAgICB9CiAgICBwdWJsaWMgdm9pZCBzZXRTaWduZGF0YShTdHJpbmcgc2lnbmRhdGEpIHsKICAgICAgICB0aGlzLnNpZ25kYXRhID0gc2lnbmRhdGE7CiAgICB9Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3QvY29tLmZhc3RlcnhtbC5qYWNrc29uLmRhdGFmb3JtYXQvamFja3Nvbi1kYXRhZm9ybWF0LXhtbCAtLT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcHdkID0gCg==</text>
+        <text encoding="base64">ICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgdXNlck5hbWUgPQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+Mi45Ljg8L3ZlcnNpb24+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInB3ZKO6IiArIHB3ZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGFydGlmYWN0SWQ+amFja3Nvbi1kYXRhZm9ybWF0LXhtbDwvYXJ0aWZhY3RJZD4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInVzZXJOYW1lo7oiICsgdXNlck5hbWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmZhc3RlcnhtbC5qYXhrc29uLmRhdGFmb3JtYXQ8L2dyb3VwSWQ+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPINPDu6fD3MLrIGNzcWRyc2EgYmpjYWNlc2hpCg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qa</text>
       </register>
     </registers>
     <search>
@@ -638,8 +654,6 @@
         <entry>substring</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/username/userName/g</entry>
-        <entry>%s/CcbVerifier.//g</entry>
         <entry>%s/CcbVerifier./\ /g</entry>
         <entry>Q</entry>
         <entry>%s/protected/public/g</entry>
@@ -653,13 +667,13 @@
         <entry>139,154 mo134</entry>
         <entry>%s/Base64Utils/Base64/g</entry>
         <entry>q</entry>
-        <entry>wa</entry>
-        <entry>qa</entry>
         <entry>wq</entry>
         <entry>ww</entry>
         <entry>qa!</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry>wa</entry>
+        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
