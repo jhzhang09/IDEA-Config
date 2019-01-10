@@ -73,11 +73,11 @@
         <mark key="." line="134" column="57" />
         <mark key="^" line="134" column="57" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/BjCaTest.java" timestamp="1547128560863">
-        <mark key="[" line="113" column="75" />
-        <mark key="]" line="114" column="21" />
-        <mark key="^" line="114" column="21" />
-        <mark key="." line="114" column="21" />
+      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/BjCaTest.java" timestamp="1547131316431">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="53" />
+        <mark key="^" line="84" column="69" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/form/KeyboardJoinForm.java" timestamp="1544097370852">
         <mark key="[" line="44" column="0" />
@@ -550,7 +550,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkb3dubG9hZENlcnQoKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0SW5mby5zZXREZXZpY2VpbmZvKHJlcXVlc3REZXZpY2VJbmZvKTsK</text>
       </register>
       <register name="-" type="4">
         <text>申</text>
@@ -559,7 +559,7 @@
         <text>substring</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBSZXF1ZXN0VXNlckluZm8gcmVxdWVzdFVzZXJJbmZvID0gbmV3IFJlcXVlc3RVc2VySW5mbygpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0SW5mby5zZXREZXZpY2VpbmZvKHJlcXVlc3REZXZpY2VJbmZvKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBkb3dubG9hZENlcnQoKTsK</text>
