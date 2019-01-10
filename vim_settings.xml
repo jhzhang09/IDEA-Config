@@ -101,12 +101,12 @@
         <mark key="]" line="5" column="20" />
         <mark key="." line="5" column="20" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/tradingcenter/WSCDemoBJCA/src/cn/org/bjca/test/Test1.java" timestamp="1547104468522">
+      <file name="D:/Workspaces/IntelliJ/tradingcenter/WSCDemoBJCA/src/cn/org/bjca/test/Test1.java" timestamp="1547105446061">
         <mark key="'" line="44" column="8" />
-        <mark key="[" line="133" column="22" />
-        <mark key="]" line="133" column="537" />
-        <mark key="." line="101" column="35" />
-        <mark key="^" line="47" column="64" />
+        <mark key="[" line="102" column="18" />
+        <mark key="]" line="153" column="52" />
+        <mark key="." line="153" column="52" />
+        <mark key="^" line="153" column="52" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/exception/ApiExceptionHandler.java" timestamp="1545017943133">
         <mark key="[" line="33" column="3" />
@@ -541,10 +541,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>MIIBfTCB5wIBADBAMQswCQYDVQQGEwJDTjEJMAcGA1UECgwAMQkwBwYDVQQLDAAxGzAZBgNVBAMMElJTQeacjeWKoeWZqOivgeS5pjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAgEfP8MUjAUFMZlBa4SwY4mOZ9OSeUfa5nfrnYpERNCaTWXCnawLR0c3Xe+qtCPRT8UxHGw4mLAgb1UA+lpWi/r+Sulznbr3nKG4EBr3wl4R6/iYhbVi21O3xAYJt3QboBbIdbekt3KeuQK7J9jfE1zeICxmkKdTMjxYjsuicHD0CAwEAATANBgkqhkiG9w0BAQUFAAOBgQBqo9e4hWFJMMZjeQqeGOh/kofOw8gZqyL6COZTQQQD3QykOyKzeFn7J8OO8JhJnVzMqj27qtLRT+GsGTeNsTWXb2GzrpCSdib5W1CMoiCQLHbmX1FrHB7IrnWTCnAtBXgfSGLhiC+n87/iS+3xEk+QGiFWtPB9YoFG3oK6AxlRKA==</text>
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>substring</text>
@@ -552,35 +552,50 @@
       <register name="0" type="4">
         <text>MIIBfTCB5wIBADBAMQswCQYDVQQGEwJDTjEJMAcGA1UECgwAMQkwBwYDVQQLDAAxGzAZBgNVBAMMElJTQeacjeWKoeWZqOivgeS5pjCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEAgEfP8MUjAUFMZlBa4SwY4mOZ9OSeUfa5nfrnYpERNCaTWXCnawLR0c3Xe+qtCPRT8UxHGw4mLAgb1UA+lpWi/r+Sulznbr3nKG4EBr3wl4R6/iYhbVi21O3xAYJt3QboBbIdbekt3KeuQK7J9jfE1zeICxmkKdTMjxYjsuicHD0CAwEAATANBgkqhkiG9w0BAQUFAAOBgQBqo9e4hWFJMMZjeQqeGOh/kofOw8gZqyL6COZTQQQD3QykOyKzeFn7J8OO8JhJnVzMqj27qtLRT+GsGTeNsTWXb2GzrpCSdib5W1CMoiCQLHbmX1FrHB7IrnWTCnAtBXgfSGLhiC+n87/iS+3xEk+QGiFWtPB9YoFG3oK6AxlRKA==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>// 测试系统测试渠道 业务规则
+                               // 业务规则 个人证书 新办2932 更新2934 丢失补办2936 损坏补办2938
+                               // 变更2940
+                               // 业务规则 单位证书 新办2931 更新2933 丢失补办2935 损坏补办2937
+                               // 变更2939</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcHdkID0gCg==</text>
+      <register name="2" type="4">
+        <text>// 业务类型 详细信息如下
+        // 1 证书申请(包括证书申请、证书更新、丢失补办、损坏补办和信息变更业务)
+        // 2 密钥上传
+        // 3 获取证书
+        // 4 异常处理
+        // 5 证书吊销
+        // 6 证书解锁
+        // 7 信息查询
+        // 8 用户基础信息存储(新增与修改)
+        // 9 更新业务完成状态
+        // 10 业务终止
+        // 11 电子附件上传</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgdXNlck5hbWUgPQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInB3ZKO6IiArIHB3ZCk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInVzZXJOYW1lo7oiICsgdXNlck5hbWUpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPINPDu6fD3MLrIGNzcWRyc2EgYmpjYWNlc2hpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInB3ZKO6IiArIHB3ZCk7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInVzZXJOYW1lo7oiICsgdXNlck5hbWUpOwo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcHdkID0gCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdXNlck5hbWUgPQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInB3ZKO6IiArIHB3ZCk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInVzZXJOYW1lo7oiICsgdXNlck5hbWUpOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPINPDu6fD3MLrIGNzcWRyc2EgYmpjYWNlc2hpCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oInB3ZKO6IiArIHB3ZCk7Cg==</text>
+      </register>
       <register name=":" type="4">
-        <text>qa!</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -635,8 +650,9 @@
         <entry>qa</entry>
         <entry>wq</entry>
         <entry>ww</entry>
-        <entry>w</entry>
         <entry>qa!</entry>
+        <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
