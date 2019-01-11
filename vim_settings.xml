@@ -67,17 +67,17 @@
         <mark key="^" line="6" column="14" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/BjCaUtil.java" timestamp="1547125866786">
-        <mark key="[" line="132" column="0" />
-        <mark key="]" line="134" column="57" />
-        <mark key="." line="134" column="57" />
-        <mark key="^" line="134" column="57" />
+      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/BjCaUtil.java" timestamp="1547177605159">
+        <mark key="[" line="58" column="62" />
+        <mark key="]" line="58" column="61" />
+        <mark key="." line="58" column="61" />
+        <mark key="^" line="58" column="61" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/BjCaTest.java" timestamp="1547131316431">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="53" />
-        <mark key="^" line="84" column="69" />
-        <mark key="." line="44" column="0" />
+      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/BjCaTest.java" timestamp="1547178096194">
+        <mark key="[" line="60" column="59" />
+        <mark key="]" line="60" column="67" />
+        <mark key="^" line="60" column="67" />
+        <mark key="." line="60" column="67" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/form/KeyboardJoinForm.java" timestamp="1544097370852">
         <mark key="[" line="44" column="0" />
@@ -339,11 +339,11 @@
         <mark key="]" line="5" column="16" />
         <mark key="." line="5" column="16" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/BjcaCertService.java" timestamp="1547119603055">
-        <mark key="[" line="37" column="61" />
-        <mark key="]" line="37" column="59" />
-        <mark key="." line="37" column="59" />
-        <mark key="^" line="37" column="59" />
+      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/BjcaCertService.java" timestamp="1547177942119">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="^" line="38" column="74" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/BaseController.java" timestamp="1545977122532">
         <mark key="[" line="75" column="0" />
@@ -549,44 +549,44 @@
       <jump line="220" column="0" filename="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/request/RequestUserInfo.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0SW5mby5zZXREZXZpY2VpbmZvKHJlcXVlc3REZXZpY2VJbmZvKTsK</text>
+      <register name="&quot;" type="4">
+        <text>620524199007233699</text>
       </register>
       <register name="-" type="4">
-        <text>申</text>
+        <text>620524199007233699</text>
       </register>
       <register name="/" type="4">
         <text>substring</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0SW5mby5zZXREZXZpY2VpbmZvKHJlcXVlc3REZXZpY2VJbmZvKTsK</text>
+      <register name="0" type="4">
+        <text>BDStpP6WbxLggRaVnFXd3iJ5SwIw4+CQoY7zJxn3kIs9yJ3qBs4a49RbIfczlSRdeGbfeROobr31ERqdP9z4JIk=&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkb3dubG9hZENlcnQoKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0VXNlckluZm8uc2V0UGFwZXJpZChCakNhVXRpbC5iYXNlNjRFbmNvZGVyKCI2MjA1MjQxOTkwMDcyMzM2OTg4ODg4ODg4IikpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0Q2VydCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLndhcm4oZS5nZXRNZXNzYWdlKCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0SW5mby5zZXRUcmFkZXRpbWUoQmpDYVV0aWwuYmFzZTY0RW5jb2RlcigiIikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLndhcm4oIkZhaWxlZCB0byBjcmVhdGUgVVJMIGZvciB0aGUgd3NkbCBMb2NhdGlvbjogJ0JqY2FDZXJ0U2VydmljZS53c2RsJywgcmV0cnlpbmcgYXMgYSBsb2NhbCBmaWxlIik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0SW5mby5zZXRUcmFkZWlkKEJqQ2FVdGlsLmJhc2U2NEVuY29kZXIoIiIpKTsK</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChNYWxmb3JtZWRVUkxFeGNlcHRpb24gZSkgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0SW5mby5zZXRUYWNwbGFjZWlkKEJqQ2FVdGlsLmJhc2U2NEVuY29kZXIoIiIpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgVVJMIGJhc2VVcmw7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0SW5mby5zZXRSdWxlc24oQmpDYVV0aWwuYmFzZTY0RW5jb2RlcigiIikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmFzZVVybCA9IEJqY2FDZXJ0U2VydmljZS5jbGFzcy5nZXRSZXNvdXJjZSgiLyIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkb3dubG9hZENlcnQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXJsID0gbmV3IFVSTChiYXNlVXJsLCAiQmpjYUNlcnRTZXJ2aWNlLndzZGwiKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyByZXF1ZXN0Q2VydEluZm8uc2V0RG93bnB1YmtleShrZXkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
