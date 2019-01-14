@@ -122,6 +122,7 @@
         <mark key="^" line="75" column="47" />
         <mark key="." line="75" column="47" />
       </file>
+      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/util/algorithm/gm/Sm2Util.java" timestamp="1547458500211" />
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/java/com/tdr/modules/keyboarduser/controller/RKeyboardUserController.java" timestamp="1546422377720">
         <mark key="[" line="91" column="60" />
         <mark key="]" line="91" column="60" />
@@ -367,9 +368,11 @@
         <mark key="." line="33" column="4" />
         <mark key="^" line="33" column="4" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/pom.xml" timestamp="1547201836323">
-        <mark key="[" line="7" column="13" />
-        <mark key="]" line="7" column="27" />
+      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/pom.xml" timestamp="1547458746611">
+        <mark key="[" line="171" column="66" />
+        <mark key="]" line="175" column="19" />
+        <mark key="^" line="175" column="19" />
+        <mark key="." line="175" column="19" />
       </file>
       <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/response/ResponseInfo.java" timestamp="1547124147889">
         <mark key="[" line="11" column="1" />
@@ -511,7 +514,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="20" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/sys/user.js" />
       <jump line="92" column="97" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/keyboarduser/rkeyboarduser.html" />
       <jump line="47" column="65" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/keyboarduser/rkeyboarduser.html" />
       <jump line="117" column="20" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/sys/user.js" />
@@ -611,19 +613,20 @@
       <jump line="59" column="14" filename="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/BjCaUtil.java" />
       <jump line="62" column="46" filename="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/BjCaUtil.java" />
       <jump line="231" column="36" filename="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/BjCaUtil.java" />
+      <jump line="180" column="0" filename="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>caResponse.getResponseinfo().getCertinfo().getEnvsntag()</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="-" type="4">
-        <text>caResponse.getResponseinfo().getCertinfo().getEnvsntag()</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="/" type="4">
         <text>BjCaUtil.b</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">IyAwLjAuMS1TTkFQU0hPVAo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">JHtKQVZBX0hPTUV9L2pyZS9saWIvcnQuamFyPA==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -634,42 +637,23 @@
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAvKioKICAgICAqIMfrx/Oxsb6pQ0EKICAgICAqIAogICAgICogQHBhcmFtIHNpZ25SZXF1ZXN0CiAgICAgKiBAcmV0dXJuCiAgICAgKiBAdGhyb3dzIElPRXhjZXB0aW9uCiAgICAgKiBAdGhyb3dzIFNPQVBFeGNlcHRpb24KICAgICAqIEB0aHJvd3MgUGFyYW1ldGVyVG9vTG9uZ0V4Y2VwdGlvbgogICAgICogQHRocm93cyBJbml0RXhjZXB0aW9uCiAgICAgKiBAdGhyb3dzIEFwcGxpY2F0aW9uTm90Rm91bmRFeGNlcHRpb24KICAgICAqIEB0aHJvd3MgU1ZTQ29ubmVjdEV4Y2VwdGlvbgogICAgICovCiAgICBwcml2YXRlIENBUmVzcG9uc2Ugc2VuZFJlcXVlc3QoU2lnblJlcXVlc3Qgc2lnblJlcXVlc3QpIHRocm93cyBJT0V4Y2VwdGlvbiwgU09BUEV4Y2VwdGlvbiwKICAgICAgICAgICAgUGFyYW1ldGVyVG9vTG9uZ0V4Y2VwdGlvbiwgSW5pdEV4Y2VwdGlvbiwgQXBwbGljYXRpb25Ob3RGb3VuZEV4Y2VwdGlvbiwgU1ZTQ29ubmVjdEV4Y2VwdGlvbiB7CiAgICAgICAgQ0FSZXNwb25zZSBjYVJlc3BvbnNlID0gYmpDYVV0aWwuc2VuZChzaWduUmVxdWVzdCk7CiAgICAgICAgaWYgKFN0cmluZ1V0aWxzLmlzTm90QmxhbmsoY2FSZXNwb25zZS5nZXRFcnJvcmNvZGUoKSkpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IEFwaUV4Y2VwdGlvbihjYVJlc3BvbnNlLmdldEVycm9yY29kZSgpKTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIGNhUmVzcG9uc2U7CiAgICB9</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgIDxyZXBvc2l0b3JpZXM+CiAgICAgICAgPHJlcG9zaXRvcnk+CiAgICAgICAgICAgIDxpZD5zb25hdHlwZS1zbmFwc2hvdHM8L2lkPgogICAgICAgICAgICA8bmFtZT5Tb25hdHlwZSBTbmFwc2hvdHM8L25hbWU+CiAgICAgICAgICAgIDx1cmw+aHR0cHM6Ly9vc3Muc29uYXR5cGUub3JnL2NvbnRlbnQvcmVwb3NpdG9yaWVzL3NuYXBzaG90cy88L3VybD4KICAgICAgICAgICAgPHNuYXBzaG90cz4KICAgICAgICAgICAgICAgIDxlbmFibGVkPnRydWU8L2VuYWJsZWQ+CiAgICAgICAgICAgIDwvc25hcHNob3RzPgogICAgICAgIDwvcmVwb3NpdG9yeT4KICAgIDwvcmVwb3NpdG9yaWVzPg==</text>
       </register>
-      <register name="6" type="4">
-        <text>/**
-     * 请求北京CA
-     * 
-     * @param signRequest
-     * @return
-     * @throws IOException
-     * @throws SOAPException
-     * @throws ParameterTooLongException
-     * @throws InitException
-     * @throws ApplicationNotFoundException
-     * @throws SVSConnectException
-     */
-    private CAResponse sendRequest(SignRequest signRequest) throws IOException, SOAPException,
-            ParameterTooLongException, InitException, ApplicationNotFoundException, SVSConnectException {
-        CAResponse caResponse = bjCaUtil.send(signRequest);
-        if (StringUtils.isNotBlank(caResponse.getErrorcode())) {
-            throw new ApiException(caResponse.getErrorcode());
-        }
-        return caResponse;
-    }</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICogQENsYXNzTmFtZTogQ2FDb250cm9sbGVyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gyc+0q7mr1L8K</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAvKioKICAgICAqIMfrx/Oxsb6pQ0EKICAgICAqIAogICAgICogQHBhcmFtIHNpZ25SZXF1ZXN0CiAgICAgKiBAcmV0dXJuCiAgICAgKiBAdGhyb3dzIElPRXhjZXB0aW9uCiAgICAgKiBAdGhyb3dzIFNPQVBFeGNlcHRpb24KICAgICAqIEB0aHJvd3MgUGFyYW1ldGVyVG9vTG9uZ0V4Y2VwdGlvbgogICAgICogQHRocm93cyBJbml0RXhjZXB0aW9uCiAgICAgKiBAdGhyb3dzIEFwcGxpY2F0aW9uTm90Rm91bmRFeGNlcHRpb24KICAgICAqIEB0aHJvd3MgU1ZTQ29ubmVjdEV4Y2VwdGlvbgogICAgICovCiAgICBwcml2YXRlIENBUmVzcG9uc2Ugc2VuZFJlcXVlc3QoU2lnblJlcXVlc3Qgc2lnblJlcXVlc3QpIHRocm93cyBJT0V4Y2VwdGlvbiwgU09BUEV4Y2VwdGlvbiwKICAgICAgICAgICAgUGFyYW1ldGVyVG9vTG9uZ0V4Y2VwdGlvbiwgSW5pdEV4Y2VwdGlvbiwgQXBwbGljYXRpb25Ob3RGb3VuZEV4Y2VwdGlvbiwgU1ZTQ29ubmVjdEV4Y2VwdGlvbiB7CiAgICAgICAgQ0FSZXNwb25zZSBjYVJlc3BvbnNlID0gYmpDYVV0aWwuc2VuZChzaWduUmVxdWVzdCk7CiAgICAgICAgaWYgKFN0cmluZ1V0aWxzLmlzTm90QmxhbmsoY2FSZXNwb25zZS5nZXRFcnJvcmNvZGUoKSkpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IEFwaUV4Y2VwdGlvbihjYVJlc3BvbnNlLmdldEVycm9yY29kZSgpKTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIGNhUmVzcG9uc2U7CiAgICB9</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
