@@ -73,12 +73,7 @@
         <mark key="^" line="6" column="14" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/BjCaUtil.java" timestamp="1547203028394">
-        <mark key="[" line="43" column="3" />
-        <mark key="]" line="43" column="10" />
-        <mark key="^" line="43" column="10" />
-        <mark key="." line="43" column="10" />
-      </file>
+      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/BjCaUtil.java" timestamp="1547450580786" />
       <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/BjCaTest.java" timestamp="1547196168033">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="139" column="4" />
@@ -230,11 +225,6 @@
         <mark key="^" line="16" column="54" />
         <mark key="." line="16" column="54" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/cn/org/bjca/prikey-to-asn-fat/1.0.0/prikey-to-asn-fat-1.0.0.jar!/cn/org/bjca/spki/km/PriKeytoAsn1.class" timestamp="1547187230039">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="91" column="1" />
-      </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/form/KeyboardKeyRecForm.java" timestamp="1545390921727">
         <mark key="[" line="19" column="16" />
         <mark key="]" line="19" column="15" />
@@ -308,10 +298,11 @@
         <mark key="." line="24" column="57" />
         <mark key="^" line="24" column="57" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/controller/CaController.java" timestamp="1547202762912">
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="0" />
-        <mark key="." line="93" column="0" />
+      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/controller/CaController.java" timestamp="1547451115310">
+        <mark key="[" line="140" column="81" />
+        <mark key="]" line="144" column="4" />
+        <mark key="." line="144" column="4" />
+        <mark key="^" line="144" column="4" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" timestamp="1544101594187">
         <mark key="[" line="4" column="29" />
@@ -462,7 +453,7 @@
         <mark key="^" line="34" column="25" />
         <mark key="." line="34" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547091200116">
+      <file name="/Dummy.txt" timestamp="1547449726783">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -509,7 +500,7 @@
         <mark key="^" line="17" column="6" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1547193605167">
+      <file name="/fragment.java" timestamp="1547449726776">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/form/KeyboardFaceRecForm.java" timestamp="1546411443520">
@@ -623,10 +614,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>file</text>
+        <text>caResponse.getResponseinfo().getCertinfo().getEnvsntag()</text>
       </register>
       <register name="-" type="4">
-        <text>file</text>
+        <text>caResponse.getResponseinfo().getCertinfo().getEnvsntag()</text>
       </register>
       <register name="/" type="4">
         <text>BjCaUtil.b</text>
@@ -640,13 +631,16 @@
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">ICAvKioKICAgICAqIMfrx/Oxsb6pQ0EKICAgICAqIAogICAgICogQHBhcmFtIHNpZ25SZXF1ZXN0CiAgICAgKiBAcmV0dXJuCiAgICAgKiBAdGhyb3dzIElPRXhjZXB0aW9uCiAgICAgKiBAdGhyb3dzIFNPQVBFeGNlcHRpb24KICAgICAqIEB0aHJvd3MgUGFyYW1ldGVyVG9vTG9uZ0V4Y2VwdGlvbgogICAgICogQHRocm93cyBJbml0RXhjZXB0aW9uCiAgICAgKiBAdGhyb3dzIEFwcGxpY2F0aW9uTm90Rm91bmRFeGNlcHRpb24KICAgICAqIEB0aHJvd3MgU1ZTQ29ubmVjdEV4Y2VwdGlvbgogICAgICovCiAgICBwcml2YXRlIENBUmVzcG9uc2Ugc2VuZFJlcXVlc3QoU2lnblJlcXVlc3Qgc2lnblJlcXVlc3QpIHRocm93cyBJT0V4Y2VwdGlvbiwgU09BUEV4Y2VwdGlvbiwKICAgICAgICAgICAgUGFyYW1ldGVyVG9vTG9uZ0V4Y2VwdGlvbiwgSW5pdEV4Y2VwdGlvbiwgQXBwbGljYXRpb25Ob3RGb3VuZEV4Y2VwdGlvbiwgU1ZTQ29ubmVjdEV4Y2VwdGlvbiB7CiAgICAgICAgQ0FSZXNwb25zZSBjYVJlc3BvbnNlID0gYmpDYVV0aWwuc2VuZChzaWduUmVxdWVzdCk7CiAgICAgICAgaWYgKFN0cmluZ1V0aWxzLmlzTm90QmxhbmsoY2FSZXNwb25zZS5nZXRFcnJvcmNvZGUoKSkpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IEFwaUV4Y2VwdGlvbihjYVJlc3BvbnNlLmdldEVycm9yY29kZSgpKTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIGNhUmVzcG9uc2U7CiAgICB9</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>/**
      * 请求北京CA
      * 
@@ -668,20 +662,14 @@
         return caResponse;
     }</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICogQENsYXNzTmFtZTogQ2FDb250cm9sbGVyCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gyc+0q7mr1L8K</text>
-      </register>
-      <register name="9" type="4">
-        <text>bjCaUtil.send(signRequest);
-            if (StringUtils.isNotBlank(caResponse.getErrorcode())) {
-                throw new ApiException(caResponse.getErrorcode());
-            }</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
