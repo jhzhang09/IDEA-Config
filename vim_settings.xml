@@ -47,10 +47,11 @@
         <mark key="." line="2" column="126" />
         <mark key="^" line="2" column="126" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/db/update-20190115.sql" timestamp="1547549594327">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="35" column="34" />
-        <mark key="." line="0" column="0" />
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/db/update-20190115.sql" timestamp="1547554767790">
+        <mark key="[" line="18" column="102" />
+        <mark key="]" line="18" column="109" />
+        <mark key="." line="18" column="109" />
+        <mark key="^" line="18" column="109" />
       </file>
       <file name="D:/Workspaces/IntelliJ/tdrface/faceserver-ST&amp;CAS&amp;YITU&amp;TDR-auth/src/main/java/com/tdr/face/dto/response/HitUserInfo.java" timestamp="1547543893607">
         <mark key="[" line="80" column="0" />
@@ -496,7 +497,7 @@
         <mark key="^" line="33" column="24" />
         <mark key="." line="33" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547550585594">
+      <file name="/Dummy.txt" timestamp="1547554783374">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -701,7 +702,7 @@
         <text encoding="base64">CiAgICAgICAgZm9yIChVc2VyRW50aXR5IHVzZXJFbnRpdHkgOiBoYXZlRmFjZVVzZXJFbnRpdHlMaXN0KSB7CiAgICAgICAgICAgIEZhY2VPbmVPbk9uZVJlc3BvbnNlIGZhY2VPbmVPbk9uZVJlc3BvbnNlID0gZmFjZUNsaWVudC5mYWNlT25lVG9PbmVWZXJpZnkoZmFjZVNlcnZlciwgcGxhdGZvcm1JZCwKICAgICAgICAgICAgICAgICAgICB1c2VyRW50aXR5LmdldElkTm8oKSwgZm9ybS5nZXRJbWFnZSgpLCBmYWxzZSwgKGZsb2F0KSAwLjApOwogICAgICAgICAgICBsb2cuaW5mbygiVXNlciB7fSBmYWNlIGNvbXBhcmUgcmVzdWx0IGNvZGU6IHt9LCByZXN1bHQgbWVzc2FnZTp7fSwgc2ltaWxhcml0eToge30hIiwKICAgICAgICAgICAgICAgICAgICB1c2VyRW50aXR5LmdldFVzZXJOYW1lKCksIGZhY2VPbmVPbk9uZVJlc3BvbnNlLmdldFJlc3VsdENvZGUoKSwgZmFjZU9uZU9uT25lUmVzcG9uc2UuZ2V0RXJyb3JNc2coKSwKICAgICAgICAgICAgICAgICAgICBmYWNlT25lT25PbmVSZXNwb25zZS5nZXRTaW1pbGFyaXR5KCkpOwogICAgICAgICAgICBpZiAoIjAiLmVxdWFscyhmYWNlT25lT25PbmVSZXNwb25zZS5nZXRSZXN1bHRDb2RlKCkpCiAgICAgICAgICAgICAgICAgICAgJiYgZmFjZU9uZU9uT25lUmVzcG9uc2UuZ2V0U2ltaWxhcml0eSgpID4gdG9wU2ltaWxhcml0eSkgewogICAgICAgICAgICAgICAgdG9wU2ltaWxhcml0eSA9IGZhY2VPbmVPbk9uZVJlc3BvbnNlLmdldFNpbWlsYXJpdHkoKTsKICAgICAgICAgICAgICAgIGhpdFVzZXJFbnRpdHkgPSB1c2VyRW50aXR5OwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>qa!</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -766,8 +767,8 @@
         <entry>%s/keyValue/lockScreen/g</entry>
         <entry>%s/keyvalue/lockscreen/g</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>qa!</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
