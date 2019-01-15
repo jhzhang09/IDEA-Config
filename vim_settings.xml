@@ -143,11 +143,11 @@
         <mark key="^" line="52" column="25" />
         <mark key="." line="52" column="25" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/tdrface/privatecloudclientsdk/src/test/java/com/tdr/face/clientsdk/FaceClientTest.java" timestamp="1547538820086">
-        <mark key="[" line="119" column="26" />
-        <mark key="]" line="119" column="19" />
-        <mark key="^" line="119" column="19" />
-        <mark key="." line="119" column="19" />
+      <file name="D:/Workspaces/IntelliJ/tdrface/privatecloudclientsdk/src/test/java/com/tdr/face/clientsdk/FaceClientTest.java" timestamp="1547540968086">
+        <mark key="[" line="119" column="17" />
+        <mark key="]" line="27" column="59" />
+        <mark key="^" line="27" column="59" />
+        <mark key="." line="27" column="59" />
       </file>
       <file name="D:/Workspaces/IntelliJ/tdrface/faceserver-ST&amp;CAS&amp;YITU&amp;TDR-auth/src/main/resources/log4j2.xml" timestamp="1547469689759">
         <mark key="[" line="49" column="16" />
@@ -524,7 +524,7 @@
         <mark key="^" line="34" column="25" />
         <mark key="." line="34" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547530950819">
+      <file name="/Dummy.txt" timestamp="1547541791952">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -707,7 +707,7 @@
         <text>2</text>
       </register>
       <register name="/" type="4">
-        <text>gu</text>
+        <text>1.5</text>
       </register>
       <register name="0" type="4">
         <text>connector</text>
@@ -744,9 +744,9 @@
       </register>
     </registers>
     <search>
-      <last-search>gu</last-search>
+      <last-search>1.5</last-search>
       <last-offset />
-      <last-pattern>gu</last-pattern>
+      <last-pattern>1.5</last-pattern>
       <last-replace>b</last-replace>
       <last-substitute>BjCaUtil.b</last-substitute>
       <last-dir>1</last-dir>
@@ -778,6 +778,7 @@
         <entry>mysql</entry>
         <entry>guava</entry>
         <entry>gu</entry>
+        <entry>1.5</entry>
       </history-search>
       <history-cmd>
         <entry>Q</entry>
