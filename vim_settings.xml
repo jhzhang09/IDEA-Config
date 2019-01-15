@@ -701,7 +701,7 @@
         <text encoding="base64">CiAgICAgICAgZm9yIChVc2VyRW50aXR5IHVzZXJFbnRpdHkgOiBoYXZlRmFjZVVzZXJFbnRpdHlMaXN0KSB7CiAgICAgICAgICAgIEZhY2VPbmVPbk9uZVJlc3BvbnNlIGZhY2VPbmVPbk9uZVJlc3BvbnNlID0gZmFjZUNsaWVudC5mYWNlT25lVG9PbmVWZXJpZnkoZmFjZVNlcnZlciwgcGxhdGZvcm1JZCwKICAgICAgICAgICAgICAgICAgICB1c2VyRW50aXR5LmdldElkTm8oKSwgZm9ybS5nZXRJbWFnZSgpLCBmYWxzZSwgKGZsb2F0KSAwLjApOwogICAgICAgICAgICBsb2cuaW5mbygiVXNlciB7fSBmYWNlIGNvbXBhcmUgcmVzdWx0IGNvZGU6IHt9LCByZXN1bHQgbWVzc2FnZTp7fSwgc2ltaWxhcml0eToge30hIiwKICAgICAgICAgICAgICAgICAgICB1c2VyRW50aXR5LmdldFVzZXJOYW1lKCksIGZhY2VPbmVPbk9uZVJlc3BvbnNlLmdldFJlc3VsdENvZGUoKSwgZmFjZU9uZU9uT25lUmVzcG9uc2UuZ2V0RXJyb3JNc2coKSwKICAgICAgICAgICAgICAgICAgICBmYWNlT25lT25PbmVSZXNwb25zZS5nZXRTaW1pbGFyaXR5KCkpOwogICAgICAgICAgICBpZiAoIjAiLmVxdWFscyhmYWNlT25lT25PbmVSZXNwb25zZS5nZXRSZXN1bHRDb2RlKCkpCiAgICAgICAgICAgICAgICAgICAgJiYgZmFjZU9uZU9uT25lUmVzcG9uc2UuZ2V0U2ltaWxhcml0eSgpID4gdG9wU2ltaWxhcml0eSkgewogICAgICAgICAgICAgICAgdG9wU2ltaWxhcml0eSA9IGZhY2VPbmVPbk9uZVJlc3BvbnNlLmdldFNpbWlsYXJpdHkoKTsKICAgICAgICAgICAgICAgIGhpdFVzZXJFbnRpdHkgPSB1c2VyRW50aXR5OwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qa!</text>
       </register>
     </registers>
     <search>
@@ -762,12 +762,12 @@
         <entry>wa</entry>
         <entry>qa</entry>
         <entry>%s/BjCaUtil.b/b/g</entry>
-        <entry>qa!</entry>
         <entry>%s/KeyValue/LockScreen/g</entry>
         <entry>%s/keyValue/lockScreen/g</entry>
         <entry>%s/keyvalue/lockscreen/g</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>qa!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
