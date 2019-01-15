@@ -258,6 +258,12 @@
         <mark key="^" line="16" column="54" />
         <mark key="." line="16" column="54" />
       </file>
+      <file name="D:/Workspaces/IntelliJ/tdrface/faceserver-ST&amp;CAS&amp;YITU&amp;TDR-auth/src/main/webapp/WEB-INF/web.xml" timestamp="1547534249182">
+        <mark key="[" line="36" column="4" />
+        <mark key="]" line="37" column="3" />
+        <mark key="^" line="37" column="3" />
+        <mark key="." line="37" column="3" />
+      </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/form/KeyboardKeyRecForm.java" timestamp="1545390921727">
         <mark key="[" line="19" column="16" />
         <mark key="]" line="19" column="15" />
@@ -365,12 +371,12 @@
         <mark key="]" line="136" column="4" />
         <mark key="." line="175" column="0" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/tdrface/faceserver-ST&amp;CAS&amp;YITU&amp;TDR-auth/pom.xml" timestamp="1547533052561">
-        <mark key="'" line="324" column="50" />
-        <mark key="[" line="310" column="52" />
-        <mark key="]" line="218" column="20" />
-        <mark key="^" line="218" column="20" />
-        <mark key="." line="218" column="20" />
+      <file name="D:/Workspaces/IntelliJ/tdrface/faceserver-ST&amp;CAS&amp;YITU&amp;TDR-auth/pom.xml" timestamp="1547534780054">
+        <mark key="'" line="323" column="50" />
+        <mark key="[" line="27" column="29" />
+        <mark key="]" line="27" column="28" />
+        <mark key="^" line="27" column="28" />
+        <mark key="." line="27" column="28" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiMonitorValueCollectController.java" timestamp="1545387625723">
         <mark key="[" line="49" column="20" />
@@ -688,10 +694,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>7</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>7</text>
       </register>
       <register name="/" type="4">
         <text>mysql</text>
@@ -702,35 +708,35 @@ jdbc.driverClass=oracle.jdbc.driver.OracleDriver
 jdbc.username=ECUAC_BFC
 jdbc.password=ECUAC_BFC123</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="4">
         <text>jdbc.jdbcUrl=jdbc:oracle:thin:@10.200.15.41:1521:tdrorcl
 jdbc.driverClass=oracle.jdbc.driver.OracleDriver
 jdbc.username=TDR_FACE
 jdbc.password=TDR_FACE123</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">ICAgIEBOb3ROdWxsCiAgICBwcml2YXRlIExpc3Q8U3RyaW5nPiB1c2VySWRzOw==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpbnQgaGl0cywgZmxvYXQgdGhyZXNob2xkKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBGYWNlT25lT25MaXN0UmVxdWVzdChTdHJpbmcgcGxhdGZvcm1JZCwgTGlzdDxTdHJpbmc+IHVzZXJJZHMsIFN0cmluZyBpbWFnZUJhc2U2NFN0ciwgQm9vbGVhbiBoYWNrRmxhZywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpbnQgaGl0cywgZmxvYXQgdGhyZXNob2xkKSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBGYWNlT25lT25MaXN0UmVxdWVzdChTdHJpbmcgcGxhdGZvcm1JZCwgTGlzdDxTdHJpbmc+IHVzZXJJZHMsIFN0cmluZyBpbWFnZUJhc2U2NFN0ciwgQm9vbGVhbiBoYWNrRmxhZywK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IGRkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgcHVibGljIEZhY2VPbmVPbkxpc3RSZXF1ZXN0KCkgewogICAgfQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">IGRkCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
