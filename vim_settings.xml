@@ -413,6 +413,11 @@
         <mark key="]" line="62" column="22" />
         <mark key="." line="55" column="0" />
       </file>
+      <file name="D:/Workspaces/IntelliJ/tdrface/faceserver-ST&amp;CAS&amp;YITU&amp;TDR-auth/src/main/resources/profiles/uat/config.properties" timestamp="1547527217837">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="4" column="26" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/BjcaCertService.java" timestamp="1547460982583">
         <mark key="[" line="30" column="105" />
         <mark key="]" line="38" column="60" />
@@ -459,6 +464,10 @@
         <mark key="]" line="72" column="0" />
         <mark key="^" line="54" column="7" />
         <mark key="." line="42" column="0" />
+      </file>
+      <file name="D:/Workspaces/IntelliJ/tdrface/faceserver-ST&amp;CAS&amp;YITU&amp;TDR-auth/src/main/resources/config.properties" timestamp="1547527210011">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="4" column="25" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiRequestPolicyController.java" timestamp="1545387472449">
         <mark key="[" line="40" column="0" />
@@ -649,7 +658,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>11010819831226221X</text>
+        <text>jdbc.jdbcUrl=jdbc:oracle:thin:@10.200.15.41:1521:tdrorcl
+jdbc.driverClass=oracle.jdbc.driver.OracleDriver
+jdbc.username=TDR_FACE
+jdbc.password=TDR_FACE123</text>
       </register>
       <register name="-" type="4">
         <text>11010819831226221X</text>
@@ -657,38 +669,44 @@
       <register name="/" type="4">
         <text>BjCaUtil.b</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VySWRzLmFkZCgiMTEwMTA4MTk4MzEyMjYyMjFYIik7Cg==</text>
+      <register name="0" type="4">
+        <text>jdbc.jdbcUrl=jdbc:oracle:thin:@172.16.32.244:1521:orcl
+jdbc.driverClass=oracle.jdbc.driver.OracleDriver
+jdbc.username=ECUAC_BFC
+jdbc.password=ECUAC_BFC123</text>
       </register>
       <register name="1" type="4">
+        <text>jdbc.jdbcUrl=jdbc:oracle:thin:@10.200.15.41:1521:tdrorcl
+jdbc.driverClass=oracle.jdbc.driver.OracleDriver
+jdbc.username=TDR_FACE
+jdbc.password=TDR_FACE123</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">ICAgIEBOb3ROdWxsCiAgICBwcml2YXRlIExpc3Q8U3RyaW5nPiB1c2VySWRzOw==</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpbnQgaGl0cywgZmxvYXQgdGhyZXNob2xkKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBGYWNlT25lT25MaXN0UmVxdWVzdChTdHJpbmcgcGxhdGZvcm1JZCwgTGlzdDxTdHJpbmc+IHVzZXJJZHMsIFN0cmluZyBpbWFnZUJhc2U2NFN0ciwgQm9vbGVhbiBoYWNrRmxhZywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpbnQgaGl0cywgZmxvYXQgdGhyZXNob2xkKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBGYWNlT25lT25MaXN0UmVxdWVzdChTdHJpbmcgcGxhdGZvcm1JZCwgTGlzdDxTdHJpbmc+IHVzZXJJZHMsIFN0cmluZyBpbWFnZUJhc2U2NFN0ciwgQm9vbGVhbiBoYWNrRmxhZywK</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">IGRkCg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICAgcHVibGljIEZhY2VPbmVPbkxpc3RSZXF1ZXN0KCkgewogICAgfQ==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PEhpdFVzZXJJbmZvPiBoaXRVc2VySW5mb3MgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
-      </register>
       <register name=":" type="4">
-        <text>qa!</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -742,8 +760,8 @@
         <entry>wa</entry>
         <entry>qa</entry>
         <entry>%s/BjCaUtil.b/b/g</entry>
-        <entry>w</entry>
         <entry>qa!</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
