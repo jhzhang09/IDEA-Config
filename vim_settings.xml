@@ -470,8 +470,8 @@
         <mark key="^" line="123" column="14" />
         <mark key="." line="118" column="0" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/db/create.sql" timestamp="1547605812259">
-        <mark key="'" line="539" column="17" />
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/db/create.sql" timestamp="1547620083907">
+        <mark key="'" line="580" column="18" />
         <mark key="[" line="543" column="0" />
         <mark key="]" line="587" column="34" />
         <mark key="." line="543" column="0" />
@@ -563,7 +563,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="40" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/db/update-20181222.sql" />
       <jump line="6" column="22" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/db/create-20180920.sql" />
       <jump line="42" column="45" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/db/create-20180920.sql" />
       <jump line="13" column="4" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/db/mysql.sql" />
@@ -663,6 +662,7 @@
       <jump line="39" column="1" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/db/update-20190115.sql" />
       <jump line="0" column="0" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/db/update-20190115.sql" />
       <jump line="539" column="17" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/db/create.sql" />
+      <jump line="580" column="18" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/db/create.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
