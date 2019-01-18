@@ -374,6 +374,11 @@
         <mark key="^" line="27" column="28" />
         <mark key="." line="204" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.java" timestamp="1547785373765">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiMonitorValueCollectController.java" timestamp="1547547004587">
         <mark key="[" line="86" column="14" />
         <mark key="]" line="91" column="61" />
@@ -648,43 +653,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJ1bGUtc246IDExNjMK</text>
+        <text encoding="base64">Q2F1c2VkIGJ5OiBqYXZheC5uZXQuc3NsLlNTTEhhbmRzaGFrZUV4Y2VwdGlvbjogUmVjZWl2ZWQgZmF0YWwgYWxlcnQ6IGhhbmRzaGFrZV9mYWlsdXJlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>static</text>
+        <text>Scratch</text>
       </register>
       <register name="/" type="4">
         <text>version</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBWYWx1ZSgiJHtjYS5iai51c2VybmFtZX0iKQogICAgcHJpdmF0ZSBTdHJpbmcgYmpDYVVzZXJuYW1lOwo=</text>
+      <register name="0" type="4">
+        <text>SoapRpcCaller</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJ1bGUtc246IDExNjMK</text>
+        <text encoding="base64">ICAgIEBWYWx1ZSgiJHtvYS5zZXJ2ZXJVcmx9IikK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBWYWx1ZSgiJHtjYS5iai5kZHJ1bGUtc259IikK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICAKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgIHJ1bGUtc246IDExNjMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIEBWYWx1ZSgiJHtjYS5iai5kZHJ1bGUtc259IikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoa2V5LnRvU3RyaW5nKCkgPT09ICIxMyIpIHsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIga2V5ID0gd2luZG93LmV2ZW50ID8gZS5rZXlDb2RlIDogZS53aGljaDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICQod2luZG93KS5rZXlkb3duKGZ1bmN0aW9uIChlKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoa2V5LnRvU3RyaW5nKCkgPT09ICIxMyIpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIL3708O72LO1Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXIga2V5ID0gd2luZG93LmV2ZW50ID8gZS5rZXlDb2RlIDogZS53aGljaDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
