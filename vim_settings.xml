@@ -36,11 +36,11 @@
         <mark key="^" line="3" column="13" />
         <mark key="." line="3" column="13" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/controller/CaController.java" timestamp="1547790316141">
-        <mark key="[" line="119" column="39" />
-        <mark key="]" line="129" column="50" />
-        <mark key="." line="129" column="50" />
-        <mark key="^" line="129" column="50" />
+      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/controller/CaController.java" timestamp="1547796513734">
+        <mark key="[" line="57" column="20" />
+        <mark key="]" line="57" column="38" />
+        <mark key="." line="117" column="93" />
+        <mark key="^" line="117" column="93" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/user/user.html" timestamp="1545966185188">
         <mark key="[" line="55" column="40" />
@@ -336,11 +336,11 @@
         <mark key="^" line="76" column="8" />
         <mark key="." line="83" column="0" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/resources/application-dev.yml" timestamp="1547781940681">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="^" line="58" column="20" />
-        <mark key="." line="61" column="0" />
+      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/resources/application-dev.yml" timestamp="1547797132193">
+        <mark key="[" line="64" column="22" />
+        <mark key="]" line="64" column="40" />
+        <mark key="^" line="64" column="40" />
+        <mark key="." line="64" column="40" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/record/lockscreenrecord.html" timestamp="1547547303404">
         <mark key="'" line="52" column="20" />
@@ -526,6 +526,7 @@
         <mark key="[" line="56" column="14" />
         <mark key="]" line="60" column="16" />
       </file>
+      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/resources/SVSClient.properties" timestamp="1547796903476" />
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/java/com/tdr/modules/sys/controller/SysLoginController.java" timestamp="1546584834719">
         <mark key="[" line="102" column="52" />
         <mark key="]" line="103" column="7" />
@@ -652,43 +653,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>StringUtil.isNotNullOrEmpty(dateDay) ? dateDay : &quot;&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>StringUtil.isNotNullOrEmpty(dateDay) ? dateDay : &quot;&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>version</text>
       </register>
       <register name="0" type="4">
-        <text>SoapRpcCaller</text>
+        <text>apply-cert-rule-sn}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBWYWx1ZSgiJHtvYS5zZXJ2ZXJVcmx9IikK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBCSl9DQV9BUFBMWV9DRVJUX1JVTEVfU04gPSAiMTE2MyI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICAKICAgIH0K</text>
+        <text encoding="base64">ICAgICAqLwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJ1bGUtc246IDExNjMK</text>
+        <text encoding="base64">ICAgICAqILGxvqlDQcnqx+vWpMrpuebU8rrFCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBWYWx1ZSgiJHtjYS5iai5kZHJ1bGUtc259IikK</text>
+        <text encoding="base64">ICAgIC8qKgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgIEBWYWx1ZSgiJHtvYS5zZXJ2ZXJVcmx9IikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICAKICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgIHJ1bGUtc246IDExNjMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoa2V5LnRvU3RyaW5nKCkgPT09ICIxMyIpIHsK</text>
+        <text encoding="base64">ICAgIEBWYWx1ZSgiJHtjYS5iai5kZHJ1bGUtc259IikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIga2V5ID0gd2luZG93LmV2ZW50ID8gZS5rZXlDb2RlIDogZS53aGljaDsK</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
