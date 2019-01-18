@@ -9,7 +9,7 @@
         <mark key="^" line="11" column="44" />
         <mark key="." line="11" column="44" />
       </file>
-      <file name="/a.dummy" timestamp="1547781644269">
+      <file name="/a.dummy" timestamp="1547803145472">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/java/com/tdr/common/config/FileUploadConfiguration.java" timestamp="1544429776502">
@@ -37,10 +37,10 @@
         <mark key="." line="3" column="13" />
       </file>
       <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/controller/CaController.java" timestamp="1547796513734">
-        <mark key="[" line="57" column="20" />
-        <mark key="]" line="57" column="38" />
-        <mark key="." line="117" column="93" />
-        <mark key="^" line="117" column="93" />
+        <mark key="[" line="60" column="20" />
+        <mark key="]" line="60" column="38" />
+        <mark key="." line="121" column="93" />
+        <mark key="^" line="121" column="93" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/user/user.html" timestamp="1545966185188">
         <mark key="[" line="55" column="40" />
@@ -154,13 +154,12 @@
         <mark key="^" line="6" column="14" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/BjCaUtil.java" timestamp="1547794880565">
-        <mark key="e" line="53" column="27" />
-        <mark key="'" line="90" column="44" />
-        <mark key="[" line="110" column="11" />
-        <mark key="]" line="110" column="11" />
-        <mark key="^" line="224" column="48" />
-        <mark key="." line="110" column="11" />
+      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/BjCaUtil.java" timestamp="1547805029589">
+        <mark key="e" line="63" column="27" />
+        <mark key="[" line="122" column="108" />
+        <mark key="]" line="126" column="54" />
+        <mark key="^" line="126" column="54" />
+        <mark key="." line="126" column="54" />
       </file>
       <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/request/CARequest.java" timestamp="1547113224246">
         <mark key="[" line="12" column="0" />
@@ -313,11 +312,11 @@
         <mark key="^" line="6" column="18" />
         <mark key="." line="6" column="18" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" timestamp="1547799467755">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="12" column="39" />
-        <mark key="." line="12" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" timestamp="1547805451217">
+        <mark key="[" line="16" column="27" />
+        <mark key="]" line="16" column="27" />
+        <mark key="^" line="15" column="11" />
+        <mark key="." line="16" column="27" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiClientFaceController.java" timestamp="1546070027717">
         <mark key="[" line="70" column="0" />
@@ -331,11 +330,11 @@
         <mark key="^" line="76" column="8" />
         <mark key="." line="83" column="0" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/resources/application-dev.yml" timestamp="1547797132193">
-        <mark key="[" line="64" column="22" />
-        <mark key="]" line="64" column="40" />
-        <mark key="^" line="64" column="40" />
-        <mark key="." line="64" column="40" />
+      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/resources/application-dev.yml" timestamp="1547804390139">
+        <mark key="[" line="73" column="14" />
+        <mark key="]" line="74" column="13" />
+        <mark key="^" line="74" column="13" />
+        <mark key="." line="74" column="13" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/record/lockscreenrecord.html" timestamp="1547547303404">
         <mark key="'" line="52" column="20" />
@@ -647,57 +646,57 @@
       <jump line="90" column="44" filename="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/BjCaUtil.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oa2V5U3RvcmUuZ2V0Q2VydGlmaWNhdGUoImtleSIpKTsK</text>
+      <register name="&quot;" type="4">
+        <text>keyStore.getCertificate(keyStore.aliases().nextElement()).toString()</text>
       </register>
       <register name="-" type="4">
-        <text>keyStore.aliases().nextElement()</text>
+        <text>keyStore.getCertificate(keyStore.aliases().nextElement()).toString()</text>
       </register>
       <register name="/" type="4">
-        <text>version</text>
+        <text>@de</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oa2V5U3RvcmUuYWxpYXNlcygpLm5leHRFbGVtZW50KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oa2V5U3RvcmUuZ2V0Q2VydGlmaWNhdGUoa2V5U3RvcmUuYWxpYXNlcygpLm5leHRFbGVtZW50KCkpLnRvU3RyaW5nKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oa2V5U3RvcmUuZ2V0Q2VydGlmaWNhdGUoImtleSIpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oa2V5U3RvcmUuZ2V0VHlwZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChVbnJlY292ZXJhYmxlS2V5RXhjZXB0aW9uIGUpIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oa2V5U3RvcmUuYWxpYXNlcygpLmhhc01vcmVFbGVtZW50cygpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oa2V5U3RvcmUuYWxpYXNlcygpLm5leHRFbGVtZW50KCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChDZXJ0aWZpY2F0ZUV4Y2VwdGlvbiBlKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBQcml2YXRlS2V5IHByaXZhdGVLZXkgPSBrZXlTdG9yZS5nZXRLZXkoZGRkLCApCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYi5lcXVhbHMoYSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChOb1N1Y2hBbGdvcml0aG1FeGNlcHRpb24gZSkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYS5lcXVhbHMoYikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgYiA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>version</last-search>
+      <last-search>@de</last-search>
       <last-offset />
-      <last-pattern>version</last-pattern>
+      <last-pattern>@de</last-pattern>
       <last-replace>lockscreen</last-replace>
       <last-substitute>keyvalue</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -721,6 +720,7 @@
         <entry>keyValue</entry>
         <entry>keyvalue</entry>
         <entry>version</entry>
+        <entry>@de</entry>
       </history-search>
       <history-cmd>
         <entry>%s/`//g</entry>
