@@ -3,26 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/main.html" timestamp="1544693325273">
-        <mark key="[" line="11" column="44" />
-        <mark key="]" line="11" column="44" />
-        <mark key="^" line="11" column="44" />
-        <mark key="." line="11" column="44" />
-      </file>
       <file name="/a.dummy" timestamp="1547803145472">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/java/com/tdr/common/config/FileUploadConfiguration.java" timestamp="1544429776502">
-        <mark key="[" line="24" column="35" />
-        <mark key="]" line="24" column="57" />
-        <mark key="." line="24" column="57" />
-        <mark key="^" line="24" column="57" />
-      </file>
-      <file name="D:/Workspaces/IntelliJ/tdrface/faceserver-ST&amp;CAS&amp;YITU&amp;TDR-auth/src/main/java/com/tdr/face/dto/request/FaceOneOnListRequest.java" timestamp="1547522440600">
-        <mark key="[" line="21" column="8" />
-        <mark key="]" line="36" column="28" />
-        <mark key="^" line="36" column="28" />
-        <mark key="." line="36" column="28" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/resources/application-prod.yml" timestamp="1546053201759">
         <mark key="[" line="41" column="41" />
@@ -36,12 +18,6 @@
         <mark key="^" line="3" column="13" />
         <mark key="." line="3" column="13" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/controller/CaController.java" timestamp="1548056572213">
-        <mark key="[" line="62" column="14" />
-        <mark key="]" line="155" column="52" />
-        <mark key="^" line="155" column="52" />
-        <mark key="." line="155" column="52" />
-      </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/user/user.html" timestamp="1545966185188">
         <mark key="[" line="55" column="40" />
         <mark key="]" line="55" column="43" />
@@ -53,24 +29,6 @@
         <mark key="]" line="3" column="19" />
         <mark key="^" line="3" column="19" />
         <mark key="." line="3" column="19" />
-      </file>
-      <file name="D:/Workspaces/IntelliJ/tdrface/privatecloudclientsdk/src/test/java/com/tdr/face/clientsdk/test/FaceClientTest.java" timestamp="1547551326886">
-        <mark key="[" line="83" column="36" />
-        <mark key="]" line="83" column="36" />
-        <mark key="." line="83" column="36" />
-        <mark key="^" line="83" column="36" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" timestamp="1544101594187">
-        <mark key="[" line="4" column="29" />
-        <mark key="]" line="4" column="28" />
-        <mark key="^" line="4" column="28" />
-        <mark key="." line="4" column="28" />
-      </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/resources/mapper/record/LockScreenRecordDao.xml" timestamp="1547546836650">
-        <mark key="[" line="3" column="54" />
-        <mark key="]" line="7" column="74" />
-        <mark key="^" line="7" column="74" />
-        <mark key="." line="7" column="74" />
       </file>
       <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/response/ResponseCertInfo.java" timestamp="1547124141034">
         <mark key="[" line="13" column="0" />
@@ -90,38 +48,6 @@
         <mark key="]" line="44" column="34" />
         <mark key="." line="39" column="1" />
         <mark key="^" line="39" column="1" />
-      </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/java/com/tdr/modules/record/controller/LockScreenRecordController.java" timestamp="1547547658966">
-        <mark key="'" line="83" column="8" />
-        <mark key="[" line="20" column="5" />
-        <mark key="]" line="26" column="14" />
-        <mark key="^" line="26" column="14" />
-        <mark key="." line="26" column="14" />
-      </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/pom.xml" timestamp="1547542124686">
-        <mark key="[" line="20" column="25" />
-        <mark key="]" line="20" column="26" />
-        <mark key="." line="20" column="26" />
-        <mark key="^" line="32" column="31" />
-      </file>
-      <file name="D:/Workspaces/IntelliJ/tdrface/faceserver-ST&amp;CAS&amp;YITU&amp;TDR-auth/pom.xml" timestamp="1547538480518">
-        <mark key="'" line="333" column="50" />
-        <mark key="[" line="204" column="0" />
-        <mark key="]" line="208" column="21" />
-        <mark key="^" line="27" column="28" />
-        <mark key="." line="204" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.java" timestamp="1547791683250">
-        <mark key="[" line="117" column="50" />
-        <mark key="]" line="117" column="56" />
-        <mark key="." line="117" column="56" />
-        <mark key="^" line="117" column="56" />
-      </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiMonitorValueCollectController.java" timestamp="1547547004587">
-        <mark key="[" line="86" column="14" />
-        <mark key="]" line="91" column="61" />
-        <mark key="." line="86" column="12" />
-        <mark key="^" line="86" column="11" />
       </file>
       <file name="D:/Workspaces/IntelliJ/tdrface/privatecloudclientsdk/pom.xml" timestamp="1547543416033">
         <mark key="'" line="95" column="22" />
@@ -154,24 +80,8 @@
         <mark key="^" line="6" column="14" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/BjCaUtil.java" timestamp="1548056979847">
+      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/BjCaUtil.java" timestamp="1548061808743">
         <mark key="e" line="62" column="27" />
-        <mark key="[" line="313" column="100" />
-        <mark key="]" line="314" column="33" />
-        <mark key="^" line="314" column="33" />
-        <mark key="." line="314" column="33" />
-      </file>
-      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/request/CARequest.java" timestamp="1547113224246">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="28" column="27" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/PriKeytoAsn1.java" timestamp="1547200906530">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="33" column="4" />
-        <mark key="." line="33" column="4" />
-        <mark key="^" line="33" column="4" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/form/KeyboardJoinForm.java" timestamp="1544097370852">
         <mark key="[" line="44" column="0" />
@@ -184,24 +94,6 @@
         <mark key="]" line="18" column="90" />
         <mark key="^" line="8" column="109" />
         <mark key="." line="25" column="86" />
-      </file>
-      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/pom.xml" timestamp="1547458746611">
-        <mark key="[" line="171" column="66" />
-        <mark key="]" line="175" column="19" />
-        <mark key="^" line="175" column="19" />
-        <mark key="." line="175" column="19" />
-      </file>
-      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/response/ResponseInfo.java" timestamp="1547124147889">
-        <mark key="[" line="11" column="1" />
-        <mark key="]" line="11" column="5" />
-        <mark key="." line="11" column="5" />
-        <mark key="^" line="11" column="5" />
-      </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/sys/log.js" timestamp="1544410239389">
-        <mark key="[" line="23" column="26" />
-        <mark key="]" line="23" column="26" />
-        <mark key="^" line="23" column="26" />
-        <mark key="." line="23" column="26" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/modules/sys/entity/SysUserEntity.java" timestamp="1545971962364">
         <mark key="[" line="62" column="57" />
@@ -220,12 +112,6 @@
         <mark key="]" line="31" column="52" />
         <mark key="^" line="31" column="52" />
         <mark key="." line="31" column="52" />
-      </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/login.html" timestamp="1547705334875">
-        <mark key="[" line="118" column="0" />
-        <mark key="]" line="118" column="0" />
-        <mark key="." line="118" column="0" />
-        <mark key="^" line="88" column="50" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiFaceRecognizeController.java" timestamp="1547545752943">
         <mark key="[" line="100" column="98" />
@@ -263,47 +149,11 @@
         <mark key="." line="15" column="20" />
         <mark key="^" line="15" column="20" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/BjcaCertService.java" timestamp="1547460982583">
-        <mark key="[" line="30" column="105" />
-        <mark key="]" line="38" column="60" />
-        <mark key="^" line="38" column="60" />
-        <mark key="." line="38" column="60" />
-      </file>
-      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/changelog.md" timestamp="1547202404512">
-        <mark key="[" line="8" column="16" />
-        <mark key="]" line="10" column="7" />
-        <mark key="." line="10" column="7" />
-        <mark key="^" line="10" column="7" />
-      </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/BaseController.java" timestamp="1545977122532">
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="0" />
-        <mark key="^" line="76" column="52" />
-        <mark key="." line="75" column="0" />
-      </file>
-      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/response/ResponseExtInfo.java" timestamp="1547111680751">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="11" column="18" />
-        <mark key="." line="11" column="18" />
-        <mark key="^" line="11" column="18" />
-      </file>
       <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/request/RequestCertInfo.java" timestamp="1547114071702">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="6" />
         <mark key="." line="11" column="6" />
         <mark key="^" line="11" column="6" />
-      </file>
-      <file name="D:/Workspaces/IntelliJ/tdrface/faceserver-ST&amp;CAS&amp;YITU&amp;TDR-auth/src/main/java/com/tdr/face/init/InitStHandlerPool.java" timestamp="1547466988948">
-        <mark key="[" line="129" column="3" />
-        <mark key="]" line="129" column="4" />
-        <mark key="^" line="129" column="4" />
-        <mark key="." line="129" column="4" />
-      </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/index.html" timestamp="1545649040707">
-        <mark key="[" line="29" column="39" />
-        <mark key="]" line="29" column="41" />
-        <mark key="^" line="29" column="41" />
-        <mark key="." line="29" column="41" />
       </file>
       <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/TradingcenterUapApplication.java" timestamp="1544687853586">
         <mark key="[" line="6" column="15" />
@@ -318,23 +168,17 @@
         <mark key="^" line="26" column="7" />
         <mark key="." line="26" column="7" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiClientFaceController.java" timestamp="1546070027717">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="^" line="54" column="7" />
-        <mark key="." line="42" column="0" />
-      </file>
       <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/util/ca/PKCS10Utils.java" timestamp="1547200110327">
         <mark key="[" line="83" column="0" />
         <mark key="]" line="83" column="0" />
         <mark key="^" line="76" column="8" />
         <mark key="." line="83" column="0" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/resources/application-dev.yml" timestamp="1548057383981">
-        <mark key="[" line="42" column="3" />
-        <mark key="]" line="43" column="59" />
-        <mark key="^" line="43" column="59" />
-        <mark key="." line="43" column="59" />
+      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/resources/application-dev.yml" timestamp="1548061476743">
+        <mark key="[" line="66" column="37" />
+        <mark key="]" line="66" column="36" />
+        <mark key="^" line="66" column="36" />
+        <mark key="." line="66" column="36" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/record/lockscreenrecord.html" timestamp="1547547303404">
         <mark key="'" line="52" column="20" />
@@ -343,29 +187,11 @@
         <mark key="^" line="3" column="14" />
         <mark key="." line="3" column="14" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiRequestPolicyController.java" timestamp="1545387472449">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="^" line="33" column="61" />
-        <mark key="." line="40" column="0" />
-      </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/form/KeyboardRequestPolicyForm.java" timestamp="1544097271184">
-        <mark key="[" line="16" column="65" />
-        <mark key="]" line="18" column="11" />
-        <mark key="^" line="18" column="11" />
-        <mark key="." line="18" column="11" />
-      </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiIdCardRecognizeController.java" timestamp="1546413185070">
         <mark key="[" line="108" column="48" />
         <mark key="]" line="108" column="48" />
         <mark key="^" line="108" column="48" />
         <mark key="." line="108" column="48" />
-      </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/modules/record/service/impl/UserIdRecordServiceImpl.java" timestamp="1545798243360">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="25" />
-        <mark key="^" line="34" column="25" />
-        <mark key="." line="34" column="25" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/modules/sys/shiro/UsernamePasswordKeyToken.java" timestamp="1545042697083">
         <mark key="[" line="11" column="5" />
@@ -378,12 +204,6 @@
         <mark key="]" line="16" column="18" />
         <mark key="." line="16" column="18" />
         <mark key="^" line="16" column="18" />
-      </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/form/KeyboardMonitorValueCollectForm.java" timestamp="1547546072091">
-        <mark key="[" line="33" column="25" />
-        <mark key="]" line="33" column="24" />
-        <mark key="^" line="33" column="24" />
-        <mark key="." line="33" column="24" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.java" timestamp="1547200485438">
         <mark key="[" line="12" column="83" />
@@ -419,12 +239,6 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d0d78b12-4954-483f-b026-68f2e189eb10/console.sql" timestamp="1546495484496">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1547717368158">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="8" />
-      </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/record/useridrecord.js" timestamp="1545798742213">
         <mark key="[" line="16" column="51" />
         <mark key="]" line="16" column="54" />
@@ -437,23 +251,11 @@
         <mark key="^" line="37" column="3" />
         <mark key="." line="37" column="3" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/resources/static/apidoc/swagger.yaml" timestamp="1548054715130">
-        <mark key="[" line="349" column="45" />
-        <mark key="]" line="352" column="40" />
-        <mark key="." line="352" column="40" />
-        <mark key="^" line="352" column="40" />
-      </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/form/KeyboardKeyRecForm.java" timestamp="1545390921727">
         <mark key="[" line="19" column="16" />
         <mark key="]" line="19" column="15" />
         <mark key="^" line="19" column="15" />
         <mark key="." line="19" column="15" />
-      </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/modules/sys/shiro/UserRealm.java" timestamp="1545042578350">
-        <mark key="[" line="118" column="0" />
-        <mark key="]" line="118" column="0" />
-        <mark key="^" line="123" column="14" />
-        <mark key="." line="118" column="0" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/db/create.sql" timestamp="1547622569475">
         <mark key="'" line="580" column="18" />
@@ -461,6 +263,252 @@
         <mark key="]" line="553" column="36" />
         <mark key="." line="553" column="36" />
         <mark key="^" line="553" column="36" />
+      </file>
+      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/request/RequestDeviceInfo.java" timestamp="1547114154470">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="6" />
+        <mark key="." line="11" column="6" />
+        <mark key="^" line="11" column="6" />
+      </file>
+      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/request/RequestInfo.java" timestamp="1547113994623">
+        <mark key="[" line="11" column="1" />
+        <mark key="]" line="10" column="6" />
+        <mark key="^" line="10" column="6" />
+        <mark key="." line="10" column="6" />
+      </file>
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/modules/record/dao/LockScreenRecordDao.java" timestamp="1547546523392">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="6" column="4" />
+        <mark key="." line="6" column="4" />
+        <mark key="^" line="6" column="4" />
+      </file>
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/resources/application-dev.yml" timestamp="1546051508799">
+        <mark key="[" line="2" column="127" />
+        <mark key="]" line="2" column="150" />
+        <mark key="." line="2" column="127" />
+        <mark key="^" line="47" column="3" />
+      </file>
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/java/com/tdr/modules/sys/controller/SysLoginController.java" timestamp="1546584834719">
+        <mark key="[" line="102" column="52" />
+        <mark key="]" line="103" column="7" />
+        <mark key="^" line="103" column="7" />
+        <mark key="." line="103" column="7" />
+      </file>
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/modules/record/entity/UserIdRecordEntity.java" timestamp="1545635590298">
+        <mark key="[" line="67" column="18" />
+        <mark key="]" line="67" column="18" />
+        <mark key="^" line="67" column="18" />
+        <mark key="." line="67" column="18" />
+      </file>
+      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/dao/CertRequestRecordDao.java" timestamp="1548059507404">
+        <mark key="[" line="7" column="71" />
+        <mark key="]" line="7" column="127" />
+        <mark key="^" line="7" column="127" />
+        <mark key="." line="7" column="127" />
+      </file>
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/main.html" timestamp="1544693325273">
+        <mark key="[" line="11" column="44" />
+        <mark key="]" line="11" column="44" />
+        <mark key="^" line="11" column="44" />
+        <mark key="." line="11" column="44" />
+      </file>
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/java/com/tdr/common/config/FileUploadConfiguration.java" timestamp="1544429776502">
+        <mark key="[" line="24" column="35" />
+        <mark key="]" line="24" column="57" />
+        <mark key="." line="24" column="57" />
+        <mark key="^" line="24" column="57" />
+      </file>
+      <file name="D:/Workspaces/IntelliJ/tdrface/faceserver-ST&amp;CAS&amp;YITU&amp;TDR-auth/src/main/java/com/tdr/face/dto/request/FaceOneOnListRequest.java" timestamp="1547522440600">
+        <mark key="[" line="21" column="8" />
+        <mark key="]" line="36" column="28" />
+        <mark key="^" line="36" column="28" />
+        <mark key="." line="36" column="28" />
+      </file>
+      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/controller/CaController.java" timestamp="1548060049302">
+        <mark key="[" line="151" column="40" />
+        <mark key="]" line="167" column="56" />
+        <mark key="." line="167" column="56" />
+        <mark key="^" line="167" column="56" />
+      </file>
+      <file name="D:/Workspaces/IntelliJ/tdrface/privatecloudclientsdk/src/test/java/com/tdr/face/clientsdk/test/FaceClientTest.java" timestamp="1547551326886">
+        <mark key="[" line="83" column="36" />
+        <mark key="]" line="83" column="36" />
+        <mark key="." line="83" column="36" />
+        <mark key="^" line="83" column="36" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" timestamp="1544101594187">
+        <mark key="[" line="4" column="29" />
+        <mark key="]" line="4" column="28" />
+        <mark key="^" line="4" column="28" />
+        <mark key="." line="4" column="28" />
+      </file>
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/resources/mapper/record/LockScreenRecordDao.xml" timestamp="1547546836650">
+        <mark key="[" line="3" column="54" />
+        <mark key="]" line="7" column="74" />
+        <mark key="^" line="7" column="74" />
+        <mark key="." line="7" column="74" />
+      </file>
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/java/com/tdr/modules/record/controller/LockScreenRecordController.java" timestamp="1547547658966">
+        <mark key="'" line="83" column="8" />
+        <mark key="[" line="20" column="5" />
+        <mark key="]" line="26" column="14" />
+        <mark key="^" line="26" column="14" />
+        <mark key="." line="26" column="14" />
+      </file>
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/pom.xml" timestamp="1547542124686">
+        <mark key="[" line="20" column="25" />
+        <mark key="]" line="20" column="26" />
+        <mark key="." line="20" column="26" />
+        <mark key="^" line="32" column="31" />
+      </file>
+      <file name="D:/Workspaces/IntelliJ/tdrface/faceserver-ST&amp;CAS&amp;YITU&amp;TDR-auth/pom.xml" timestamp="1547538480518">
+        <mark key="'" line="333" column="50" />
+        <mark key="[" line="204" column="0" />
+        <mark key="]" line="208" column="21" />
+        <mark key="^" line="27" column="28" />
+        <mark key="." line="204" column="0" />
+      </file>
+      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/ca/entity/ra/KeyUser.java" timestamp="1548058705541">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="48" column="27" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.java" timestamp="1547791683250">
+        <mark key="[" line="117" column="50" />
+        <mark key="]" line="117" column="56" />
+        <mark key="." line="117" column="56" />
+        <mark key="^" line="117" column="56" />
+      </file>
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiMonitorValueCollectController.java" timestamp="1547547004587">
+        <mark key="[" line="86" column="14" />
+        <mark key="]" line="91" column="61" />
+        <mark key="." line="86" column="12" />
+        <mark key="^" line="86" column="11" />
+      </file>
+      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/request/CARequest.java" timestamp="1547113224246">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="28" column="27" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/PriKeytoAsn1.java" timestamp="1547200906530">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="33" column="4" />
+        <mark key="." line="33" column="4" />
+        <mark key="^" line="33" column="4" />
+      </file>
+      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/pom.xml" timestamp="1547458746611">
+        <mark key="[" line="171" column="66" />
+        <mark key="]" line="175" column="19" />
+        <mark key="^" line="175" column="19" />
+        <mark key="." line="175" column="19" />
+      </file>
+      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/response/ResponseInfo.java" timestamp="1547124147889">
+        <mark key="[" line="11" column="1" />
+        <mark key="]" line="11" column="5" />
+        <mark key="." line="11" column="5" />
+        <mark key="^" line="11" column="5" />
+      </file>
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/sys/log.js" timestamp="1544410239389">
+        <mark key="[" line="23" column="26" />
+        <mark key="]" line="23" column="26" />
+        <mark key="^" line="23" column="26" />
+        <mark key="." line="23" column="26" />
+      </file>
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/login.html" timestamp="1547705334875">
+        <mark key="[" line="118" column="0" />
+        <mark key="]" line="118" column="0" />
+        <mark key="." line="118" column="0" />
+        <mark key="^" line="88" column="50" />
+      </file>
+      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/entity/CertRequestRecord.java" timestamp="1548060899166">
+        <mark key="[" line="118" column="49" />
+        <mark key="]" line="128" column="61" />
+        <mark key="^" line="128" column="61" />
+        <mark key="." line="128" column="61" />
+      </file>
+      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/BjcaCertService.java" timestamp="1547460982583">
+        <mark key="[" line="30" column="105" />
+        <mark key="]" line="38" column="60" />
+        <mark key="^" line="38" column="60" />
+        <mark key="." line="38" column="60" />
+      </file>
+      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/changelog.md" timestamp="1547202404512">
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="10" column="7" />
+        <mark key="." line="10" column="7" />
+        <mark key="^" line="10" column="7" />
+      </file>
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/BaseController.java" timestamp="1545977122532">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="^" line="76" column="52" />
+        <mark key="." line="75" column="0" />
+      </file>
+      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/response/ResponseExtInfo.java" timestamp="1547111680751">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="11" column="18" />
+        <mark key="." line="11" column="18" />
+        <mark key="^" line="11" column="18" />
+      </file>
+      <file name="D:/Workspaces/IntelliJ/tdrface/faceserver-ST&amp;CAS&amp;YITU&amp;TDR-auth/src/main/java/com/tdr/face/init/InitStHandlerPool.java" timestamp="1547466988948">
+        <mark key="[" line="129" column="3" />
+        <mark key="]" line="129" column="4" />
+        <mark key="^" line="129" column="4" />
+        <mark key="." line="129" column="4" />
+      </file>
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/index.html" timestamp="1545649040707">
+        <mark key="[" line="29" column="39" />
+        <mark key="]" line="29" column="41" />
+        <mark key="^" line="29" column="41" />
+        <mark key="." line="29" column="41" />
+      </file>
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiClientFaceController.java" timestamp="1546070027717">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="^" line="54" column="7" />
+        <mark key="." line="42" column="0" />
+      </file>
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiRequestPolicyController.java" timestamp="1545387472449">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="33" column="61" />
+        <mark key="." line="40" column="0" />
+      </file>
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/form/KeyboardRequestPolicyForm.java" timestamp="1544097271184">
+        <mark key="[" line="16" column="65" />
+        <mark key="]" line="18" column="11" />
+        <mark key="^" line="18" column="11" />
+        <mark key="." line="18" column="11" />
+      </file>
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/modules/record/service/impl/UserIdRecordServiceImpl.java" timestamp="1545798243360">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="25" />
+        <mark key="^" line="34" column="25" />
+        <mark key="." line="34" column="25" />
+      </file>
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/form/KeyboardMonitorValueCollectForm.java" timestamp="1547546072091">
+        <mark key="[" line="33" column="25" />
+        <mark key="]" line="33" column="24" />
+        <mark key="^" line="33" column="24" />
+        <mark key="." line="33" column="24" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1547717368158">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="8" />
+      </file>
+      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/resources/static/apidoc/swagger.yaml" timestamp="1548054715130">
+        <mark key="[" line="349" column="45" />
+        <mark key="]" line="352" column="40" />
+        <mark key="." line="352" column="40" />
+        <mark key="^" line="352" column="40" />
+      </file>
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/modules/sys/shiro/UserRealm.java" timestamp="1545042578350">
+        <mark key="[" line="118" column="0" />
+        <mark key="]" line="118" column="0" />
+        <mark key="^" line="123" column="14" />
+        <mark key="." line="118" column="0" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/java/com/tdr/AdminApplication.java" timestamp="1545636739214">
         <mark key="[" line="54" column="37" />
@@ -480,29 +528,11 @@
         <mark key="." line="11" column="24" />
         <mark key="^" line="11" column="24" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/request/RequestDeviceInfo.java" timestamp="1547114154470">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="6" />
-        <mark key="." line="11" column="6" />
-        <mark key="^" line="11" column="6" />
-      </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/modules/user/service/UserService.java" timestamp="1545619595575">
         <mark key="[" line="56" column="59" />
         <mark key="]" line="56" column="104" />
         <mark key="." line="45" column="5" />
         <mark key="^" line="45" column="5" />
-      </file>
-      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/request/RequestInfo.java" timestamp="1547113994623">
-        <mark key="[" line="11" column="1" />
-        <mark key="]" line="10" column="6" />
-        <mark key="^" line="10" column="6" />
-        <mark key="." line="10" column="6" />
-      </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/modules/record/dao/LockScreenRecordDao.java" timestamp="1547546523392">
-        <mark key="[" line="6" column="6" />
-        <mark key="]" line="6" column="4" />
-        <mark key="." line="6" column="4" />
-        <mark key="^" line="6" column="4" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/resources/fdfs_client.conf" timestamp="1545273365584">
         <mark key="[" line="4" column="0" />
@@ -516,36 +546,14 @@
         <mark key="." line="100" column="3" />
         <mark key="^" line="100" column="3" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/resources/application-dev.yml" timestamp="1546051508799">
-        <mark key="[" line="2" column="127" />
-        <mark key="]" line="2" column="150" />
-        <mark key="." line="2" column="127" />
-        <mark key="^" line="47" column="3" />
-      </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/form/KeyboardKeySnRecForm.java" timestamp="1545390903535">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="^" line="17" column="6" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/keyboard/keyboard.js" timestamp="1547549907185">
-        <mark key="[" line="56" column="14" />
-        <mark key="]" line="60" column="16" />
-      </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/java/com/tdr/modules/sys/controller/SysLoginController.java" timestamp="1546584834719">
-        <mark key="[" line="102" column="52" />
-        <mark key="]" line="103" column="7" />
-        <mark key="^" line="103" column="7" />
-        <mark key="." line="103" column="7" />
-      </file>
-      <file name="/fragment.java" timestamp="1547547612483">
+      <file name="/fragment.java" timestamp="1548059471877">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/modules/record/entity/UserIdRecordEntity.java" timestamp="1545635590298">
-        <mark key="[" line="67" column="18" />
-        <mark key="]" line="67" column="18" />
-        <mark key="^" line="67" column="18" />
-        <mark key="." line="67" column="18" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/form/KeyboardFaceRecForm.java" timestamp="1546411443520">
         <mark key="[" line="25" column="7" />
@@ -657,44 +665,44 @@
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>\</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0RGV2aWNlSW5mby5zZXRQaWR2aWQoIiIpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>\</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>@de</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgICAgICAgIGVuY1ByaXZhdGVrZXk6CiAgICAgICAgICAgIHR5cGU6IHN0cmluZwogICAgICAgICAgICBkZXNjcmlwdGlvbjogvNPD3NakyunLvdS/yv3X1tDFt+I=</text>
+        <text encoding="base64">CiAgICAvKioKICAgICAqINPDu6ex6sq2CiAgICAgKi8KICAgIEBDb2x1bW4obmFtZSA9ICJwYXNzcG9ydCIpCiAgICBwcml2YXRlIFN0cmluZyBwYXNzcG9ydDs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0RGV2aWNlSW5mby5zZXRQaWR2aWQoIiIpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGVuY0NlcnRTdHIgPSBiakNhVXRpbC5iYXNlNjREZWNvZGVyKFJlc3BvbnNlQ2VydEluZikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRocm93IG5ldyBBcGlFeGNlcHRpb24od3NSZXNwb25zZS5nZXRSZXN1bHRDb2RlKCksIHdzUmVzcG9uc2UuZ2V0UmVzdWx0TXNnKCkpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEJlYW5VdGlscy5jb3B5UHJvcGVydGllcyh3c1Jlc3BvbnNlLCByZXN0UmVzcG9uc2UpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKEJhc2VSZXNwb25zZS5TVUNDRVNTX1JFU1VMVF9DT0RFLmVxdWFscyh3c1Jlc3BvbnNlLmdldFJlc3VsdENvZGUoKSkpIHsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">IAo=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgLyoqCiAgICAgKiAKICAgICAqLwogICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgbG9uZyBzZXJpYWxWZXJzaW9uVUlEID0gLTUyNjkxNDk0MTY2NjM2NTEwNDVMOw==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICBAQ29sdW1uKG5hbWUgPSAiQlVTU19UWVBFIikKICAgIHByaXZhdGUgU3RyaW5nIGJ1c3NUeXBlOw==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgS2V5VXNlciBrZXlVc2VyOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRG93bmxvYWRDZXJ0UmVzcG9uc2Ugd3NSZXNwb25zZSA9IGNhV3NDbGllbnQuZG93bmxvYWRDZXJ0KHdzUmVxdWVzdCk7Cg==</text>
+        <text encoding="base64">ICAgIEBKb2luQ29sdW1uKG5hbWUgPSAiS0VZX1VTRVJfSUQiLCBmb3JlaWduS2V5ID0gQEZvcmVpZ25LZXkobmFtZSA9ICJGS19DRVJUX1JFUVVFU1RfS0VZX1VTRVJfSUQiKSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQmVhblV0aWxzLmNvcHlQcm9wZXJ0aWVzKHJlc3RSZXF1ZXN0LCB3c1JlcXVlc3QpOwo=</text>
+        <text encoding="base64">ICAgIEBNYW55VG9PbmUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -742,7 +750,6 @@
         <entry>139,154 mo134</entry>
         <entry>%s/Base64Utils/Base64/g</entry>
         <entry>ww</entry>
-        <entry>W</entry>
         <entry>wa</entry>
         <entry>qa</entry>
         <entry>%s/BjCaUtil.b/b/g</entry>
@@ -752,6 +759,7 @@
         <entry>q</entry>
         <entry>qa!</entry>
         <entry>wq</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
