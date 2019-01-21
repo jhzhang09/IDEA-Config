@@ -154,12 +154,12 @@
         <mark key="^" line="6" column="14" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/BjCaUtil.java" timestamp="1547805029589">
+      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/BjCaUtil.java" timestamp="1548049524089">
         <mark key="e" line="63" column="27" />
-        <mark key="[" line="122" column="108" />
-        <mark key="]" line="126" column="54" />
-        <mark key="^" line="126" column="54" />
-        <mark key="." line="126" column="54" />
+        <mark key="[" line="139" column="6" />
+        <mark key="]" line="142" column="31" />
+        <mark key="^" line="139" column="65" />
+        <mark key="." line="139" column="65" />
       </file>
       <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/request/CARequest.java" timestamp="1547113224246">
         <mark key="[" line="12" column="0" />
@@ -311,11 +311,12 @@
         <mark key="^" line="6" column="18" />
         <mark key="." line="6" column="18" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" timestamp="1547805451217">
-        <mark key="[" line="16" column="27" />
-        <mark key="]" line="16" column="27" />
-        <mark key="^" line="15" column="11" />
-        <mark key="." line="16" column="27" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" timestamp="1548050319537">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="24" column="30" />
+        <mark key="]" line="26" column="7" />
+        <mark key="^" line="26" column="7" />
+        <mark key="." line="26" column="7" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiClientFaceController.java" timestamp="1546070027717">
         <mark key="[" line="70" column="0" />
@@ -548,8 +549,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="51" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/db/mysql.sql" />
-      <jump line="0" column="0" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/db/mysql.sql" />
       <jump line="3" column="55" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/db/create-20180920.sql" />
       <jump line="0" column="0" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/db/create-20180920.sql" />
       <jump line="11" column="0" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/db/update-20181222.sql" />
@@ -648,19 +647,21 @@
       <jump line="53" column="28" filename="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/BjCaUtil.java" />
       <jump line="54" column="30" filename="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/BjCaUtil.java" />
       <jump line="90" column="44" filename="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/BjCaUtil.java" />
+      <jump line="25" column="38" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>encPrivatekey</text>
+        <text>source</text>
       </register>
       <register name="-" type="4">
-        <text>encPrivatekey</text>
+        <text>source</text>
       </register>
       <register name="/" type="4">
         <text>@de</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGVuY1ByaXZhdGVrZXk7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICBTaWduYXR1cmUgc2lnbmF0dXJlID0gU2lnbmF0dXJlLmdldEluc3RhbmNlKHg1MDlDZXJ0aWZpY2F0ZS5nZXRTaWdBbGdOYW1lKCkpOwogICAgICAgIHNpZ25hdHVyZS5pbml0U2lnbihzaWduUHJpdmF0ZUtleSk7CiAgICAgICAgc2lnbmF0dXJlLnVwZGF0ZShzb3VyY2UpOwogICAgICAgIHJldHVybiBzaWduYXR1cmUuc2lnbigpOw==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
