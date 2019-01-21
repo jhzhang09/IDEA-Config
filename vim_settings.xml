@@ -227,7 +227,6 @@
         <mark key="." line="118" column="0" />
         <mark key="^" line="88" column="50" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/cn/org/bjca/svs-client/1.0.0/svs-client-1.0.0.jar!/cn/org/bjca/client/security/SecurityEngineDeal.class" timestamp="1547795110866" />
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiFaceRecognizeController.java" timestamp="1547545752943">
         <mark key="[" line="100" column="98" />
         <mark key="]" line="100" column="98" />
@@ -468,6 +467,12 @@
         <mark key="." line="53" column="55" />
         <mark key="^" line="53" column="55" />
       </file>
+      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/dto/response/DownloadCertRestResponse.java" timestamp="1548041787038">
+        <mark key="[" line="11" column="19" />
+        <mark key="]" line="11" column="24" />
+        <mark key="." line="11" column="24" />
+        <mark key="^" line="11" column="24" />
+      </file>
       <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/request/RequestDeviceInfo.java" timestamp="1547114154470">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="6" />
@@ -520,7 +525,6 @@
         <mark key="[" line="56" column="14" />
         <mark key="]" line="60" column="16" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/resources/SVSClient.properties" timestamp="1547796903476" />
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/java/com/tdr/modules/sys/controller/SysLoginController.java" timestamp="1546584834719">
         <mark key="[" line="102" column="52" />
         <mark key="]" line="103" column="7" />
@@ -647,16 +651,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>keyStore.getCertificate(keyStore.aliases().nextElement()).toString()</text>
+        <text>encPrivatekey</text>
       </register>
       <register name="-" type="4">
-        <text>keyStore.getCertificate(keyStore.aliases().nextElement()).toString()</text>
+        <text>encPrivatekey</text>
       </register>
       <register name="/" type="4">
         <text>@de</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oa2V5U3RvcmUuZ2V0Q2VydGlmaWNhdGUoa2V5U3RvcmUuYWxpYXNlcygpLm5leHRFbGVtZW50KCkpLnRvU3RyaW5nKCkpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIGVuY1ByaXZhdGVrZXk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
@@ -696,11 +700,10 @@
       <last-replace>lockscreen</last-replace>
       <last-substitute>keyvalue</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>usernameLogin</entry>
         <entry>Base64Utils</entry>
         <entry>部门</entry>
         <entry>alert</entry>
