@@ -36,7 +36,7 @@
         <mark key="^" line="3" column="13" />
         <mark key="." line="3" column="13" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/controller/CaController.java" timestamp="1548054560924">
+      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/controller/CaController.java" timestamp="1548056572213">
         <mark key="[" line="62" column="14" />
         <mark key="]" line="155" column="52" />
         <mark key="^" line="155" column="52" />
@@ -154,11 +154,12 @@
         <mark key="^" line="6" column="14" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/BjCaUtil.java" timestamp="1548051841941">
+      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/BjCaUtil.java" timestamp="1548056979847">
         <mark key="e" line="62" column="27" />
-        <mark key="]" line="217" column="21" />
-        <mark key="^" line="217" column="21" />
-        <mark key="." line="217" column="21" />
+        <mark key="[" line="313" column="100" />
+        <mark key="]" line="314" column="33" />
+        <mark key="^" line="314" column="33" />
+        <mark key="." line="314" column="33" />
       </file>
       <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/request/CARequest.java" timestamp="1547113224246">
         <mark key="[" line="12" column="0" />
@@ -329,11 +330,11 @@
         <mark key="^" line="76" column="8" />
         <mark key="." line="83" column="0" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/resources/application-dev.yml" timestamp="1548053761853">
-        <mark key="[" line="43" column="9" />
-        <mark key="]" line="43" column="17" />
-        <mark key="^" line="43" column="17" />
-        <mark key="." line="43" column="17" />
+      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/resources/application-dev.yml" timestamp="1548057383981">
+        <mark key="[" line="42" column="3" />
+        <mark key="]" line="43" column="59" />
+        <mark key="^" line="43" column="59" />
+        <mark key="." line="43" column="59" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/record/lockscreenrecord.html" timestamp="1547547303404">
         <mark key="'" line="52" column="20" />
@@ -656,11 +657,11 @@
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">MjAxOS0wMS0yMSAxNToxNDoyNS45MzAgIElORk8gOTA3MiAtLS0gW25pby05OTk5LWV4ZWMtNV0gY29tLnRkci50cmFkaW5nY2VudGVyLnVhcC5iamNhLkJqQ2FVdGlsICA6IDxiamNhY2VydHNlcnZpY2U+PHZlcnNpb24+MTwvdmVyc2lvbj48cmVxdWVzdGluZm8+PHNlcnZpY2V0eXBlPk1RPT08L3NlcnZpY2V0eXBlPjxydWxlc24+TnprM01BPT08L3J1bGVzbj48c2VydmljZWlkPk1RPT08L3NlcnZpY2VpZD48dGFjcGxhY2VpZD5Nek0yTmc9PTwvdGFjcGxhY2VpZD48dHJhZGVpZD5NakF4T1RBeE1qRXhOVEUwTWpVPTwvdHJhZGVpZD48dHJhZGV0aW1lPk1qQXhPVEF4TWpFeE5URTBNalU9PC90cmFkZXRpbWU+PHVzZXJpbmZvPjx1c2VyaWQvPjxjb21tb25uYW1lPjVhU3A1Wnl3Nko2TjU2ZVI1b3FBNklLaDVMdTk1cHlKNlptUTVZV3M1WSs0PC9jb21tb25uYW1lPjxwYXBlcnR5cGU+U2tvPTwvcGFwZXJ0eXBlPjxwYXBlcmlkPk9URXhNVEF4TURnM05qWXlOalEzTnpGVTwvcGFwZXJpZD48Y291bnRyeW5hbWUvPjxwcm92aW5jZW5hbWUvPjxsb2NhbGl0eW5hbWUvPjx1bml0bmFtZT41THFrNXBpVDVMaXQ1YitENmFHNTU1dXU8L3VuaXRuYW1lPjxkZXB0bmFtZS8+PHBvc3RhbGFkZHJlc3MvPjxwb3N0YWxjb2RlLz48YWdlbnRtYW4vPjx0ZWxlcGhvbmUvPjxmYXgvPjxlbWFpbC8+PG1vYmlsZS8+PGluc3VyYW5jZW51bWJlci8+PGljcmVnaXN0Y29kZS8+PGNoaW5hb3JnY29kZS8+PGxlYWdhbHBlcnNvbi8+PHRheHJlZ2lzdGVyaWQvPjx0cmFuc25hbWUvPjx0cmFuc3RlbC8+PHRyYW5zZW1haWwvPjx0cmFuc21vYmlsZS8+PHRyYW5zcGFwZXJ0eXBlLz48dHJhbnNwYXBlcmlkLz48bWVtby8+PGZpcnN0MXVuaXRjb2RlLz48Zmlyc3QydW5pdGNvZGUvPjxzZWNvbmR1bml0Y29kZS8+PGV4dDEvPjxleHQyLz48ZXh0My8+PGV4dDQvPjxleHQ1Lz48ZXh0Ni8+PGV4dDcvPjxleHQ4Lz48ZXh0OS8+PGV4dDEwLz48L3VzZXJpbmZvPjxjZXJ0aW5mbz48ZW52c250YWc+TUE9PTwvZW52c250YWc+PGVudnNuLz48ZW52c25jb2RlLz48b2xkZW52c24vPjxrZXllbnZzbi8+PGtleWVudnNuY29kZS8+PGFsZy8+PG5vdGJlZm9yZS8+PG5vdGFmdGVyLz48c2lnbnB1YmtleS8+PGRvd25wdWJrZXkvPjxwMTB0YWc+TUE9PTwvcDEwdGFnPjxwMTAvPjxzaWduY2VydHNuLz48c2lnbmNlcnQvPjxlbmNjZXJ0c24vPjxlbmNjZXJ0Lz48cHJpdmF0ZWtleS8+PC9jZXJ0aW5mbz48ZGV2aWNlaW5mbz48Y3NwbmFtZS8+PHBpZHZpZC8+PGtleXNuLz48L2RldmljZWluZm8+PC9yZXF1ZXN0aW5mbz48c2lnbmRhdGEvPjwvYmpjYWNlcnRzZXJ2aWNlPgoyMDE5LTAxLTIxIDE1OjE0OjI1Ljk0MSAgSU5GTyA5MDcyIC0tLSBbbmlvLTk5OTktZXhlYy01XSBjb20udGRyLnRyYWRpbmdjZW50ZXIudWFwLmJqY2EuQmpDYVV0aWwgIDogPGJqY2FjZXJ0c2VydmljZT48dmVyc2lvbj4xPC92ZXJzaW9uPjxyZXF1ZXN0aW5mbz48c2VydmljZXR5cGU+TVE9PTwvc2VydmljZXR5cGU+PHJ1bGVzbj5OemszTUE9PTwvcnVsZXNuPjxzZXJ2aWNlaWQ+TVE9PTwvc2VydmljZWlkPjx0YWNwbGFjZWlkPk16TTJOZz09PC90YWNwbGFjZWlkPjx0cmFkZWlkPk1qQXhPVEF4TWpFeE5URTBNalU9PC90cmFkZWlkPjx0cmFkZXRpbWU+TWpBeE9UQXhNakV4TlRFME1qVT08L3RyYWRldGltZT48dXNlcmluZm8+PHVzZXJpZC8+PGNvbW1vbm5hbWU+NWFTcDVaeXc2SjZONTZlUjVvcUE2SUtoNUx1OTVweUo2Wm1RNVlXczVZKzQ8L2NvbW1vbm5hbWU+PHBhcGVydHlwZT5Ta289PC9wYXBlcnR5cGU+PHBhcGVyaWQ+T1RFeE1UQXhNRGczTmpZeU5qUTNOekZVPC9wYXBlcmlkPjxjb3VudHJ5bmFtZS8+PHByb3ZpbmNlbmFtZS8+PGxvY2FsaXR5bmFtZS8+PHVuaXRuYW1lPjVMcWs1cGlUNUxpdDViK0Q2YUc1NTV1dTwvdW5pdG5hbWU+PGRlcHRuYW1lLz48cG9zdGFsYWRkcmVzcy8+PHBvc3RhbGNvZGUvPjxhZ2VudG1hbi8+PHRlbGVwaG9uZS8+PGZheC8+PGVtYWlsLz48bW9iaWxlLz48aW5zdXJhbmNlbnVtYmVyLz48aWNyZWdpc3Rjb2RlLz48Y2hpbmFvcmdjb2RlLz48bGVhZ2FscGVyc29uLz48dGF4cmVnaXN0ZXJpZC8+PHRyYW5zbmFtZS8+PHRyYW5zdGVsLz48dHJhbnNlbWFpbC8+PHRyYW5zbW9iaWxlLz48dHJhbnNwYXBlcnR5cGUvPjx0cmFuc3BhcGVyaWQvPjxtZW1vLz48Zmlyc3QxdW5pdGNvZGUvPjxmaXJzdDJ1bml0Y29kZS8+PHNlY29uZHVuaXRjb2RlLz48ZXh0MS8+PGV4dDIvPjxleHQzLz48ZXh0NC8+PGV4dDUvPjxleHQ2Lz48ZXh0Ny8+PGV4dDgvPjxleHQ5Lz48ZXh0MTAvPjwvdXNlcmluZm8+PGNlcnRpbmZvPjxlbnZzbnRhZz5NQT09PC9lbnZzbnRhZz48ZW52c24vPjxlbnZzbmNvZGUvPjxvbGRlbnZzbi8+PGtleWVudnNuLz48a2V5ZW52c25jb2RlLz48YWxnLz48bm90YmVmb3JlLz48bm90YWZ0ZXIvPjxzaWducHVia2V5Lz48ZG93bnB1YmtleS8+PHAxMHRhZz5NQT09PC9wMTB0YWc+PHAxMC8+PHNpZ25jZXJ0c24vPjxzaWduY2VydC8+PGVuY2NlcnRzbi8+PGVuY2NlcnQvPjxwcml2YXRla2V5Lz48L2NlcnRpbmZvPjxkZXZpY2VpbmZvPjxjc3BuYW1lLz48cGlkdmlkLz48a2V5c24vPjwvZGV2aWNlaW5mbz48L3JlcXVlc3RpbmZvPjxzaWduZGF0YT5LV21oeFRuem9zSjR0bEhHSG5wU1VrQ0s0a3JqQVBOcFdwRy9rYUNEaW5sR2VBUG5yUmZ1ZHNNWVlETDh1eDlYUThPRkYxa3l6NjRrV3dtWEh4L3U1d0dKdFpMK2NwQjAzL0dEOWFJWHVZUTB2dDhhTnJvZWxmWHQ5Ni8xV2dSYVZqdVNxa2krTURyMG40ZE5jUk1GT2xvTGRzcVM0eGVzVDI2UE15bExDN2M9PC9zaWduZGF0YT48L2JqY2FjZXJ0c2VydmljZT4K</text>
+      <register name="&quot;" type="4">
+        <text>\</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
         <text>@de</text>
