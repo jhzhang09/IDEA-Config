@@ -300,10 +300,11 @@
         <mark key="^" line="19" column="15" />
         <mark key="." line="19" column="15" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/dto/request/SignSealRestRequest.java" timestamp="1548163454726">
-        <mark key="[" line="20" column="19" />
-        <mark key="]" line="20" column="19" />
-        <mark key="." line="20" column="19" />
+      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/dto/request/SignSealRestRequest.java" timestamp="1548173729324">
+        <mark key="[" line="19" column="27" />
+        <mark key="]" line="20" column="12" />
+        <mark key="." line="20" column="12" />
+        <mark key="^" line="20" column="12" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/db/create.sql" timestamp="1547622569475">
         <mark key="'" line="580" column="18" />
@@ -448,10 +449,11 @@
         <mark key="^" line="69" column="24" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/pom.xml" timestamp="1548171693303">
-        <mark key="[" line="207" column="0" />
-        <mark key="]" line="207" column="0" />
-        <mark key="." line="207" column="0" />
+      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/pom.xml" timestamp="1548172241015">
+        <mark key="[" line="212" column="41" />
+        <mark key="]" line="212" column="48" />
+        <mark key="^" line="212" column="48" />
+        <mark key="." line="212" column="48" />
       </file>
       <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/response/ResponseInfo.java" timestamp="1547124147889">
         <mark key="[" line="11" column="1" />
@@ -553,17 +555,17 @@
       <file name="/dummy.sql" timestamp="1548157066682">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548170955973">
+      <file name="/Dummy.txt" timestamp="1548173737968">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="8" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/resources/static/apidoc/swagger.yaml" timestamp="1548152531949">
-        <mark key="[" line="323" column="0" />
-        <mark key="]" line="323" column="0" />
-        <mark key="." line="323" column="0" />
-        <mark key="^" line="323" column="7" />
+      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/resources/static/apidoc/swagger.yaml" timestamp="1548173672897">
+        <mark key="[" line="400" column="25" />
+        <mark key="]" line="401" column="17" />
+        <mark key="^" line="401" column="17" />
+        <mark key="." line="401" column="17" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/modules/sys/shiro/UserRealm.java" timestamp="1545042578350">
         <mark key="[" line="118" column="0" />
@@ -738,44 +740,44 @@
       <jump line="51" column="16" filename="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/resources/application-prod.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgdG9rZW5TbjoKICAgICAgICB0eXBlOiBzdHJpbmcKICAgICAgICBkZXNjcmlwdGlvbjoga2V50PLB0LrF</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aHR0cDovL2xvY2FsaG9zdDo5OTk5L3RkcnVhcC9jYXdzL2NhLndzZGw8</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="/" type="4">
         <text>32.99</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8eHM6ZWxlbWVudCBuYW1lPSJ0b2tlblNuIiB0eXBlPSJ4czpzdHJpbmciPjwveHM6ZWxlbWVudD4K</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgICAgdG9rZW5TbjoKICAgICAgICB0eXBlOiBzdHJpbmcKICAgICAgICBkZXNjcmlwdGlvbjoga2V50PLB0LrF</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L3NjaGVtYXM+Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICA8aW5jbHVkZXM+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbmNsdWRlPioud3NkPC9pbmNsdWRlPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvaW5jbHVkZXM+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGV4Y2x1ZGVzPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZXhjbHVkZT4qLnhzZDwvZXhjbHVkZT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2V4Y2x1ZGVzPg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9zY2hlbWE+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx1cmw+aHR0cDovL2xvY2FsaG9zdDo5OTk5L3RkcnVhcC9jYXdzL2NhLndzZGw8L3VybD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZmlsZXNldD4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBwa2NzMTBVdGlscwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGlyZWN0b3J5PiR7YmFzZWRpcn0vc3JjL21haW4vcmVzb3VyY2VzPC9kaXJlY3Rvcnk+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZihzaWduU2VhbFJlcXVlc3QuZ2V0Y2VydHQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxmaWxlc2V0Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNzcC1uYW1lOiBCSkNBU09GVAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHNjaGVtYT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRhYy1wbGFjZS1pZDogLTEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9jb25maWd1cmF0aW9uPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNlcnZpY2UtaWQ6IDEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxnZW5lcmF0ZVBhY2thZ2U+MTwvZ2VuZXJhdGVQYWNrYWdlPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJ1bGUtc246IDExNjMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGNvbmZpZ3VyYXRpb24+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
