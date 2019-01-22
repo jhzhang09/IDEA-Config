@@ -80,12 +80,12 @@
         <mark key="^" line="6" column="14" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/BjCaUtil.java" timestamp="1548145379663">
+      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/BjCaUtil.java" timestamp="1548146026938">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="483" column="11" />
-        <mark key="]" line="483" column="13" />
-        <mark key="." line="483" column="13" />
-        <mark key="^" line="483" column="13" />
+        <mark key="[" line="479" column="12" />
+        <mark key="]" line="479" column="12" />
+        <mark key="." line="479" column="12" />
+        <mark key="^" line="479" column="12" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/form/KeyboardJoinForm.java" timestamp="1544097370852">
         <mark key="[" line="44" column="0" />
@@ -735,12 +735,10 @@
       <last-replace>lockscreen</last-replace>
       <last-substitute>keyvalue</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Base64Utils</entry>
-        <entry>部门</entry>
         <entry>alert</entry>
         <entry>aa</entry>
         <entry>body</entry>
