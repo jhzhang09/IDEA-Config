@@ -758,7 +758,7 @@
         <text encoding="base64">ICAgICAgcG9ydDogNTAwMDAK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qa!</text>
       </register>
     </registers>
     <search>
@@ -811,11 +811,11 @@
         <entry>%s/keyValue/lockScreen/g</entry>
         <entry>%s/keyvalue/lockscreen/g</entry>
         <entry>q</entry>
-        <entry>qa!</entry>
         <entry>wq</entry>
         <entry>W</entry>
         <entry>%s/32.99/15.40/g</entry>
         <entry>w</entry>
+        <entry>qa!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
