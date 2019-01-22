@@ -380,9 +380,6 @@
         <mark key="^" line="36" column="28" />
         <mark key="." line="36" column="28" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/controller/CaController.java" timestamp="1548151237327">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="D:/Workspaces/IntelliJ/tdrface/privatecloudclientsdk/src/test/java/com/tdr/face/clientsdk/test/FaceClientTest.java" timestamp="1547551326886">
         <mark key="[" line="83" column="36" />
         <mark key="]" line="83" column="36" />
@@ -451,11 +448,10 @@
         <mark key="^" line="69" column="24" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/pom.xml" timestamp="1548167555049">
-        <mark key="[" line="216" column="72" />
-        <mark key="]" line="221" column="49" />
-        <mark key="." line="221" column="49" />
-        <mark key="^" line="221" column="49" />
+      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/pom.xml" timestamp="1548168624118">
+        <mark key="[" line="201" column="30" />
+        <mark key="]" line="201" column="31" />
+        <mark key="." line="201" column="31" />
       </file>
       <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/response/ResponseInfo.java" timestamp="1547124147889">
         <mark key="[" line="11" column="1" />
@@ -743,7 +739,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx1cmw+aHR0cDovL2xvY2FsaG9zdDo5OTk5L3RkcnVhcC9jYXdzL2NhLndzZGw8L3VybD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">aHR0cDovL2xvY2FsaG9zdDo5OTk5L3RkcnVhcC9jYXdzL2NhLndzZGw8</text>
@@ -755,31 +751,31 @@
         <text encoding="base64">ICAgICAgICA8eHM6ZWxlbWVudCBuYW1lPSJ0b2tlblNuIiB0eXBlPSJ4czpzdHJpbmciPjwveHM6ZWxlbWVudD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx1cmw+aHR0cDovL2xvY2FsaG9zdDo5OTk5L3RkcnVhcC9jYXdzL2NhLndzZGw8L3VybD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBwa2NzMTBVdGlscwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICA8aW5jbHVkZXM+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbmNsdWRlPioud3NkPC9pbmNsdWRlPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvaW5jbHVkZXM+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGV4Y2x1ZGVzPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZXhjbHVkZT4qLnhzZDwvZXhjbHVkZT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2V4Y2x1ZGVzPg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZihzaWduU2VhbFJlcXVlc3QuZ2V0Y2VydHQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx1cmw+aHR0cDovL2xvY2FsaG9zdDo5OTk5L3RkcnVhcC9jYXdzL2NhLndzZGw8L3VybD4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNzcC1uYW1lOiBCSkNBU09GVAo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBwa2NzMTBVdGlscwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRhYy1wbGFjZS1pZDogLTEK</text>
+        <text encoding="base64">ICAgICAgICBpZihzaWduU2VhbFJlcXVlc3QuZ2V0Y2VydHQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNlcnZpY2UtaWQ6IDEK</text>
+        <text encoding="base64">ICAgIGNzcC1uYW1lOiBCSkNBU09GVAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJ1bGUtc246IDExNjMK</text>
+        <text encoding="base64">ICAgIHRhYy1wbGFjZS1pZDogLTEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhc3N3b3JkOiBiamNhY2VzaGkK</text>
+        <text encoding="base64">ICAgIHNlcnZpY2UtaWQ6IDEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHVzZXJuYW1lOiBiamNhY2VzaGkK</text>
+        <text encoding="base64">ICAgIHJ1bGUtc246IDExNjMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
