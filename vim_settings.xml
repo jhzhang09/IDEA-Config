@@ -165,12 +165,6 @@
         <mark key="^" line="6" column="14" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/BjCaUtil.java" timestamp="1548128015701">
-        <mark key="[" line="68" column="31" />
-        <mark key="]" line="62" column="16" />
-        <mark key="." line="62" column="16" />
-        <mark key="^" line="62" column="16" />
-      </file>
       <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/request/CARequest.java" timestamp="1547113224246">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -570,11 +564,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="0" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/db/update-20181222.sql" />
-      <jump line="0" column="0" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/db/update-20181222.sql" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/ApiApplication.http" />
-      <jump line="41" column="16" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/user/user.js" />
-      <jump line="123" column="64" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/user/user.js" />
       <jump line="242" column="86" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/user/user.js" />
       <jump line="40" column="57" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/user/user.js" />
       <jump line="12" column="57" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/sys/user.js" />
@@ -670,59 +659,67 @@
       <jump line="171" column="0" filename="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/BjCaUtil.java" />
       <jump line="77" column="32" filename="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/controller/CaController.java" />
       <jump line="0" column="0" filename="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/controller/CaController.java" />
+      <jump line="343" column="23" filename="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/BjCaUtil.java" />
+      <jump line="85" column="12" filename="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/BjCaUtil.java" />
+      <jump line="103" column="12" filename="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/BjCaUtil.java" />
+      <jump line="105" column="12" filename="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/BjCaUtil.java" />
+      <jump line="131" column="8" filename="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/BjCaUtil.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
-        <text>@de</text>
+        <text>log.</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICAgIEBWYWx1ZSgiJHtjYS5iai5hcHBseS1uZXctY2VydC1ydWxlLXNufSIpCiAgICBwcml2YXRlIFN0cmluZyBiakNhQXBwbHlOZXdDZXJ0UnVsZVNuOw==</text>
+        <text>(String ruleSn, String serviceId, String tacPlaceId,
+                                                        String oldEnvSn, String p10Tag) {
+        return constructRequestCertRequest(ruleSn, serviceId, tacPlaceId, oldEnvSn, p10Tag, &quot;&quot;, &quot;&quot;, &quot;&quot;, &quot;&quot;);
+    }</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFByaXZhdGVLZXkgc2lnblByaXZhdGVLZXk7Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">U3RyaW5nIHJ1bGVTbiwgU3RyaW5nIHNlcnZpY2VJZCwgU3RyaW5nIHRhY1BsYWNlSWQsIFN0cmluZyBwMTBUYWcsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFN0cmluZyBwYXBlclR5cGUsIFN0cmluZyBwYXBlcklkLCBTdHJpbmcgY29tbW9uTmFtZSwgU3RyaW5nIHVuaXROYW1lKSB7CiAgICAgICAgcmV0dXJuIGNvbnN0cnVjdFJlcXVlc3RDZXJ0UmVxdWVzdChydWxlU24sIHNlcnZpY2VJZCwgdGFjUGxhY2VJZCwgIiIsIHAxMFRhZywgcGFwZXJUeXBlLCBwYXBlcklkLCBjb21tb25OYW1lLAogICAgICAgICAgICAgICAgdW5pdE5hbWUpOwogICAgfQo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFg1MDlDZXJ0aWZpY2F0ZSB4NTA5Q2VydGlmaWNhdGU7Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">KFN0cmluZyBydWxlU24sIFN0cmluZyBzZXJ2aWNlSWQsIFN0cmluZyB0YWNQbGFjZUlkLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFN0cmluZyBwMTBUYWcsIFN0cmluZyBwYXBlclR5cGUsIFN0cmluZyBwYXBlcklkLCBTdHJpbmcgY29tbW9uTmFtZSwgU3RyaW5nIHVuaXROYW1lKSB7CiAgICAgICAgcmV0dXJuIGNvbnN0cnVjdFJlcXVlc3RDZXJ0UmVxdWVzdChydWxlU24sIHNlcnZpY2VJZCwgdGFjUGxhY2VJZCwgIiIsIHAxMFRhZywgcGFwZXJUeXBlLCBwYXBlcklkLCBjb21tb25OYW1lLAogICAgICAgICAgICAgICAgdW5pdE5hbWUpOwogICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzdHJpbmcgPSBzdHJpbmcucmVwbGFjZUFsbCh1dGZTcGFjZSwgIiAiKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBDQVJlcXVlc3QgY29uc3RydWN0UmVxdWVzdFJlbmV3YWxDZXJ0UmVxdWVzdChTdHJpbmcgcnVsZVNuLCBTdHJpbmcgc2VydmljZUlkLCBTdHJpbmcgdGFjUGxhY2VJZCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBTdHJpbmcgcDEwVGFnU3RyaW5nIHBhcGVySWQsIFN0cmluZyBjb21tb25OYW1lLCBTdHJpbmcgdW5pdE5hbWUpIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBieXRlW10gc3BhY2UgPSBuZXcgYnl0ZVtdIHsgKGJ5dGUpIDB4YzIsIChieXRlKSAweGEwIH07Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbyh4bWxNYXBwZXIud3JpdGVWYWx1ZUFzU3RyaW5nKGNBUmVxdWVzdCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgdXRmU3BhY2UgPSBuZXcgU3RyaW5nKHNwYWNlLCBTdGFuZGFyZENoYXJzZXRzLlVURl84KTsK</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbyh4bWxNYXBwZXIud3JpdGVWYWx1ZUFzU3RyaW5nKHNpZ25SZXF1ZXN0KSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBieXRlW10gc3BhY2UgPSBuZXcgYnl0ZVtdIHsgKGJ5dGUpIDB4YzIsIChieXRlKSAweGEwIH07Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFByaXZhdGVLZXkgc2lnblByaXZhdGVLZXk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0RGV2aWNlSW5mby5zZXRDc3BuYW1lKGJhc2U2NEVuY29kZXIoY3NwTmFtZS5yZXBsYWNlQWxsKHV0ZlNwYWNlLCAiICIpKSk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFg1MDlDZXJ0aWZpY2F0ZSB4NTA5Q2VydGlmaWNhdGU7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbyhzdHJpbmcuZ2V0Qnl0ZXMoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdHJpbmcgPSBzdHJpbmcucmVwbGFjZUFsbCh1dGZTcGFjZSwgIiAiKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0RGV2aWNlSW5mby5zZXRQaWR2aWQoIiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBieXRlW10gc3BhY2UgPSBuZXcgYnl0ZVtdIHsgKGJ5dGUpIDB4YzIsIChieXRlKSAweGEwIH07Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>@de</last-search>
+      <last-search>log.</last-search>
       <last-offset />
-      <last-pattern>@de</last-pattern>
+      <last-pattern>log.</last-pattern>
       <last-replace>lockscreen</last-replace>
       <last-substitute>keyvalue</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -746,6 +743,8 @@
         <entry>keyvalue</entry>
         <entry>version</entry>
         <entry>@de</entry>
+        <entry>log,</entry>
+        <entry>log.</entry>
       </history-search>
       <history-cmd>
         <entry>%s/`//g</entry>
