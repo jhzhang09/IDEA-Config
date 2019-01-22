@@ -780,7 +780,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGNvbmZpZ3VyYXRpb24+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qa!</text>
       </register>
     </registers>
     <search>
@@ -836,8 +836,8 @@
         <entry>wq</entry>
         <entry>W</entry>
         <entry>%s/32.99/15.40/g</entry>
-        <entry>qa!</entry>
         <entry>w</entry>
+        <entry>qa!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
