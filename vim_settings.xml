@@ -176,12 +176,12 @@
         <mark key="^" line="76" column="8" />
         <mark key="." line="83" column="0" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/resources/application-dev.yml" timestamp="1548164480859">
+      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/resources/application-dev.yml" timestamp="1548214305496">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="84" column="18" />
-        <mark key="^" line="46" column="2" />
-        <mark key="." line="46" column="2" />
+        <mark key="^" line="61" column="41" />
+        <mark key="." line="61" column="41" />
       </file>
       <file name="D:/Workspaces/IntelliJ/tradingcenter/ccb-verifier/src/main/java/com/tdr/verifier/utils/SM2.java" timestamp="1548149627184" />
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiIdCardRecognizeController.java" timestamp="1546413185070">
@@ -411,12 +411,11 @@
         <mark key="^" line="128" column="61" />
         <mark key="." line="128" column="61" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/resources/application-prod.yml" timestamp="1548212015377">
+      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/resources/application-prod.yml" timestamp="1548213961452">
         <mark key="'" line="51" column="16" />
-        <mark key="[" line="81" column="14" />
-        <mark key="]" line="69" column="26" />
-        <mark key="." line="69" column="26" />
-        <mark key="^" line="69" column="26" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="72" column="41" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/BjcaCertService.java" timestamp="1547460982583">
         <mark key="[" line="30" column="105" />
@@ -487,7 +486,7 @@
       <file name="/dummy.sql" timestamp="1548157066682">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548173737968">
+      <file name="/Dummy.txt" timestamp="1548212224006">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -570,7 +569,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="250" column="9" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/user/user.js" />
       <jump line="55" column="31" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/policy/policy.js" />
       <jump line="23" column="24" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/policy/policy.js" />
       <jump line="115" column="0" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/policy/policy.js" />
@@ -666,50 +664,51 @@
       <jump line="483" column="13" filename="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/BjCaUtil.java" />
       <jump line="0" column="0" filename="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/BjCaUtil.java" />
       <jump line="84" column="17" filename="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/resources/application-dev.yml" />
-      <jump line="0" column="0" filename="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/resources/application-dev.yml" />
       <jump line="73" column="17" filename="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/resources/application-test.yml" />
       <jump line="0" column="0" filename="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/resources/application-test.yml" />
       <jump line="51" column="16" filename="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/resources/application-prod.yml" />
+      <jump line="52" column="16" filename="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/resources/application-dev.yml" />
+      <jump line="0" column="0" filename="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/resources/application-dev.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">c3ByaW5nOgogIGh0dHA6CiAgICBsb2ctcmVxdWVzdC1kZXRhaWxzOiB0cnVlCiAgIyAgYm9vdDogI9TdsrvKudPDc3ByaW5nIGJvb3QgYWRtaW4KICAjICAgIGFkbWluOgogICMgICAgICBjbGllbnQ6CiAgIyAgICAgICAgdXJsOiBodHRwOi8vMTcyLjE2LjMyLjExNTo5MDk5CiAgIyAgICAgICAgaW5zdGFuY2U6CiAgIyAgICAgICAgICBwcmVmZXItaXA6IHRydWUKICBkYXRhc291cmNlOgogICAgdHlwZTogY29tLmFsaWJhYmEuZHJ1aWQucG9vbC5EcnVpZERhdGFTb3VyY2UKICAgIGRyaXZlckNsYXNzTmFtZTogY29tLm15c3FsLmNqLmpkYmMuRHJpdmVyCiAgICBkcnVpZDoKICAgICAgdXJsOiBqZGJjOm15c3FsOi8vMTcyLjE2LjMyLjk6MzMwNi90ZHJfdWFwP2FsbG93TXVsdGlRdWVyaWVzPXRydWUmdXNlVW5pY29kZT10cnVlJmNoYXJhY3RlckVuY29kaW5nPVVURi04JnVzZVNTTD1mYWxzZSZzZXJ2ZXJUaW1lem9uZT1HTVQlMmI4CiAgICAgIHVzZXJuYW1lOiB0ZHJfdWFwCiAgICAgIHBhc3N3b3JkOiB0ZHJfdWFwMTIzCiAgICAgIGluaXRpYWwtc2l6ZTogMTAKICAgICAgbWF4LWFjdGl2ZTogMTAwCiAgICAgIG1pbi1pZGxlOiAxMAogICAgICBtYXgtd2FpdDogNjAwMDAKICAgICAgcG9vbC1wcmVwYXJlZC1zdGF0ZW1lbnRzOiB0cnVlCiAgICAgIG1heC1wb29sLXByZXBhcmVkLXN0YXRlbWVudC1wZXItY29ubmVjdGlvbi1zaXplOiAyMAogICAgICB0aW1lLWJldHdlZW4tZXZpY3Rpb24tcnVucy1taWxsaXM6IDYwMDAwCiAgICAgIG1pbi1ldmljdGFibGUtaWRsZS10aW1lLW1pbGxpczogMzAwMDAwCiAgICAgICN2YWxpZGF0aW9uLXF1ZXJ5OiBTRUxFQ1QgMSBGUk9NIERVQUwKICAgICAgdGVzdC13aGlsZS1pZGxlOiB0cnVlCiAgICAgIHRlc3Qtb24tYm9ycm93OiBmYWxzZQogICAgICB0ZXN0LW9uLXJldHVybjogZmFsc2UKICAgICAgc3RhdC12aWV3LXNlcnZsZXQ6CiAgICAgICAgZW5hYmxlZDogdHJ1ZQogICAgICAgIHVybC1wYXR0ZXJuOiAvZHJ1aWQvKgogICAgICAgICNsb2dpbi11c2VybmFtZTogYWRtaW4KICAgICAgICAjbG9naW4tcGFzc3dvcmQ6IGFkbWluCiAgICAgIGZpbHRlcjoKICAgICAgICBzdGF0OgogICAgICAgICAgbG9nLXNsb3ctc3FsOiB0cnVlCiAgICAgICAgICBzbG93LXNxbC1taWxsaXM6IDEwMDAKICAgICAgICAgIG1lcmdlLXNxbDogZmFsc2UKICAgICAgICB3YWxsOgogICAgICAgICAgY29uZmlnOgogICAgICAgICAgICBtdWx0aS1zdGF0ZW1lbnQtYWxsb3c6IHRydWUKCmNhOgogICMgsuLK1LP2yfrWpNHpx6m5q9S/CiAgYmlydGgtY2VydC1zaWduLXB1YmxpYy1rZXk6IDA0NTlBMDE3RDQ0Q0M5QkRGRDNDQzMzNUE1QzIwODNBQ0VEMjM2NkNGRTRBOTQ4MzQ2QTY1RjRGNkYwNzFDMkUxMEUwMUY2MTQ3MTJBMUFDQ0IxQjdDNUI0QjIxQjQ5MjFCMjIxQTA2RUJEMUYxNTM2NDY3M0QzMUYxQjE4RUM0NzYKICAjIMn6svqz9sn61qTR6cepuavUvwogICNiaXJ0aC1jZXJ0LXNpZ24tcHVibGljLWtleTogMDRBMkI5NEM2MUJBOUFBN0I1QkQ2M0M3Nzk3ODFEQjM5QkUyQThEN0U1NTQ4RUFCN0YyNjRBRjg3QUVDOTdBMDMwREI0N0MyOTU1NzY1NjE2NzRFQjE5NDA1NUQ5QzAwMDVCODhCMUVFNUZCQzMyRjA1NjVCODU2MDJCOTg4OUY0RQogICMguPe49tDQQ0G3/s7xxvfA4NDNo6xtYXDA4NDNo6xrZXk6MS25pNDQo7syLcWp0NCjuzMtvajQ0KOsdmFsdWU6MC3M7LXYyNpDQaO7MS2xsb6pQ0EKICB0eXBlLW1hcDogInsxOicxJywyOicwJywzOicwJ30iCiAgaHNtOgogICAgcm9vdDoKICAgICAgaG9zdDogMTcyLjE2LjMyLjk5CiAgICAgIHBvcnQ6IDUwMDAwCiAgICBpY2JjOgogICAgICBob3N0OiAxNzIuMTYuMzIuOTkKICAgICAgcG9ydDogNTAwMDAKICAgIGFiYzoKICAgICAgaG9zdDogMTcyLjE2LjMyLjk5CiAgICAgIHBvcnQ6IDUwMDAwCiAgICBjY2I6CiAgICAgIGhvc3Q6IDE3Mi4xNi4zMi45OQogICAgICBwb3J0OiA1MDAwMAogIGJqOgogICAgZW5kcG9pbnQ6IGh0dHBzOi8vdXNlcndlYi5iamNhLm9yZy5jbi9CamNhQ2VydFdlYlNlcnZpY2UvQmpjYUNlcnRTZXJ2aWNlLmFzbXg/V1NETAogICAgbWVzc2FnZS12ZXJzaW9uOiAxCiAgICBhcHBseS1uZXctY2VydC1ydWxlLXNuOiAxODA0NDcKICAgIGFwcGx5LXJlbmV3YWwtY2VydC1ydWxlLXNuOiAxODA0NDkKICAgIGFwcGx5LXJlYXBwbHktY2VydC1ydWxlLXNuOiAxODA0NTEKICAgIGFwcGx5LWFsdGVyLWNlcnQtcnVsZS1zbjogMTgwNDU1CiAgICB1c2VybmFtZTogdGRyaHoyNDYwCiAgICBwYXNzd29yZDogdGRyaHoyMDE5MDEyMgogICAgc2VydmljZS1pZDogMQogICAgdGFjLXBsYWNlLWlkOiA4NTg4NQogICAgY3NwLW5hbWU6IFRlbmR5cm9uP09uS2V5P0NTUD9HWlpCP3YxLjAKCnVhcDoKICBjYToKICAgIHdzdXJpOiBodHRwOi8vbG9jYWxob3N0Ojk5OTkvdGRydWFwL2Nhd3MvY2Eud3NkbAoKbG9nZ2luZzoKICBwYXRoOiAvaG9tZS9jb3N1cGRhdGUvYmFrL2xvZy90ZHJ1YXAvCiAgbGV2ZWw6CiAgICByb290OiBpbmZvCiAgICB3ZWI6IGRlYnVnCiAgICBjb20udGRyOiBkZWJ1Zwo=</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>签章接口增加证书类型字段</text>
       </register>
       <register name="/" type="4">
         <text>32.99</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICAgICAgdG9rZW5TbjoKICAgICAgICB0eXBlOiBzdHJpbmcKICAgICAgICBkZXNjcmlwdGlvbjoga2V50PLB0LrF</text>
+      <register name="0" type="2">
+        <text encoding="base64">c3ByaW5nOgogIGh0dHA6CiAgICBsb2ctcmVxdWVzdC1kZXRhaWxzOiB0cnVlCiAgIyAgYm9vdDogI9TdsrvKudPDc3ByaW5nIGJvb3QgYWRtaW4KICAjICAgIGFkbWluOgogICMgICAgICBjbGllbnQ6CiAgIyAgICAgICAgdXJsOiBodHRwOi8vMTcyLjE2LjMyLjExNTo5MDk5CiAgIyAgICAgICAgaW5zdGFuY2U6CiAgIyAgICAgICAgICBwcmVmZXItaXA6IHRydWUKICBkYXRhc291cmNlOgogICAgdHlwZTogY29tLmFsaWJhYmEuZHJ1aWQucG9vbC5EcnVpZERhdGFTb3VyY2UKICAgIGRyaXZlckNsYXNzTmFtZTogY29tLm15c3FsLmNqLmpkYmMuRHJpdmVyCiAgICBkcnVpZDoKICAgICAgdXJsOiBqZGJjOm15c3FsOi8vMTcyLjE2LjMyLjk6MzMwNi90ZHJfdWFwP2FsbG93TXVsdGlRdWVyaWVzPXRydWUmdXNlVW5pY29kZT10cnVlJmNoYXJhY3RlckVuY29kaW5nPVVURi04JnVzZVNTTD1mYWxzZSZzZXJ2ZXJUaW1lem9uZT1HTVQlMmI4CiAgICAgIHVzZXJuYW1lOiB0ZHJfdWFwCiAgICAgIHBhc3N3b3JkOiB0ZHJfdWFwMTIzCiAgICAgIGluaXRpYWwtc2l6ZTogMTAKICAgICAgbWF4LWFjdGl2ZTogMTAwCiAgICAgIG1pbi1pZGxlOiAxMAogICAgICBtYXgtd2FpdDogNjAwMDAKICAgICAgcG9vbC1wcmVwYXJlZC1zdGF0ZW1lbnRzOiB0cnVlCiAgICAgIG1heC1wb29sLXByZXBhcmVkLXN0YXRlbWVudC1wZXItY29ubmVjdGlvbi1zaXplOiAyMAogICAgICB0aW1lLWJldHdlZW4tZXZpY3Rpb24tcnVucy1taWxsaXM6IDYwMDAwCiAgICAgIG1pbi1ldmljdGFibGUtaWRsZS10aW1lLW1pbGxpczogMzAwMDAwCiAgICAgICN2YWxpZGF0aW9uLXF1ZXJ5OiBTRUxFQ1QgMSBGUk9NIERVQUwKICAgICAgdGVzdC13aGlsZS1pZGxlOiB0cnVlCiAgICAgIHRlc3Qtb24tYm9ycm93OiBmYWxzZQogICAgICB0ZXN0LW9uLXJldHVybjogZmFsc2UKICAgICAgc3RhdC12aWV3LXNlcnZsZXQ6CiAgICAgICAgZW5hYmxlZDogdHJ1ZQogICAgICAgIHVybC1wYXR0ZXJuOiAvZHJ1aWQvKgogICAgICAgICNsb2dpbi11c2VybmFtZTogYWRtaW4KICAgICAgICAjbG9naW4tcGFzc3dvcmQ6IGFkbWluCiAgICAgIGZpbHRlcjoKICAgICAgICBzdGF0OgogICAgICAgICAgbG9nLXNsb3ctc3FsOiB0cnVlCiAgICAgICAgICBzbG93LXNxbC1taWxsaXM6IDEwMDAKICAgICAgICAgIG1lcmdlLXNxbDogZmFsc2UKICAgICAgICB3YWxsOgogICAgICAgICAgY29uZmlnOgogICAgICAgICAgICBtdWx0aS1zdGF0ZW1lbnQtYWxsb3c6IHRydWUKCmNhOgogICMgsuLK1LP2yfrWpNHpx6m5q9S/CiAgYmlydGgtY2VydC1zaWduLXB1YmxpYy1rZXk6IDA0NTlBMDE3RDQ0Q0M5QkRGRDNDQzMzNUE1QzIwODNBQ0VEMjM2NkNGRTRBOTQ4MzQ2QTY1RjRGNkYwNzFDMkUxMEUwMUY2MTQ3MTJBMUFDQ0IxQjdDNUI0QjIxQjQ5MjFCMjIxQTA2RUJEMUYxNTM2NDY3M0QzMUYxQjE4RUM0NzYKICAjIMn6svqz9sn61qTR6cepuavUvwogICNiaXJ0aC1jZXJ0LXNpZ24tcHVibGljLWtleTogMDRBMkI5NEM2MUJBOUFBN0I1QkQ2M0M3Nzk3ODFEQjM5QkUyQThEN0U1NTQ4RUFCN0YyNjRBRjg3QUVDOTdBMDMwREI0N0MyOTU1NzY1NjE2NzRFQjE5NDA1NUQ5QzAwMDVCODhCMUVFNUZCQzMyRjA1NjVCODU2MDJCOTg4OUY0RQogICMguPe49tDQQ0G3/s7xxvfA4NDNo6xtYXDA4NDNo6xrZXk6MS25pNDQo7syLcWp0NCjuzMtvajQ0KOsdmFsdWU6MC3M7LXYyNpDQaO7MS2xsb6pQ0EKICB0eXBlLW1hcDogInsxOicxJywyOicwJywzOicwJ30iCiAgaHNtOgogICAgcm9vdDoKICAgICAgaG9zdDogMTcyLjE2LjMyLjk5CiAgICAgIHBvcnQ6IDUwMDAwCiAgICBpY2JjOgogICAgICBob3N0OiAxNzIuMTYuMzIuOTkKICAgICAgcG9ydDogNTAwMDAKICAgIGFiYzoKICAgICAgaG9zdDogMTcyLjE2LjMyLjk5CiAgICAgIHBvcnQ6IDUwMDAwCiAgICBjY2I6CiAgICAgIGhvc3Q6IDE3Mi4xNi4zMi45OQogICAgICBwb3J0OiA1MDAwMAogIGJqOgogICAgZW5kcG9pbnQ6IGh0dHBzOi8vdXNlcndlYi5iamNhLm9yZy5jbi9CamNhQ2VydFdlYlNlcnZpY2UvQmpjYUNlcnRTZXJ2aWNlLmFzbXg/V1NETAogICAgbWVzc2FnZS12ZXJzaW9uOiAxCiAgICBhcHBseS1uZXctY2VydC1ydWxlLXNuOiAxODA0NDcKICAgIGFwcGx5LXJlbmV3YWwtY2VydC1ydWxlLXNuOiAxODA0NDkKICAgIGFwcGx5LXJlYXBwbHktY2VydC1ydWxlLXNuOiAxODA0NTEKICAgIGFwcGx5LWFsdGVyLWNlcnQtcnVsZS1zbjogMTgwNDU1CiAgICB1c2VybmFtZTogdGRyaHoyNDYwCiAgICBwYXNzd29yZDogdGRyaHoyMDE5MDEyMgogICAgc2VydmljZS1pZDogMQogICAgdGFjLXBsYWNlLWlkOiA4NTg4NQogICAgY3NwLW5hbWU6IFRlbmR5cm9uP09uS2V5P0NTUD9HWlpCP3YxLjAKCnVhcDoKICBjYToKICAgIHdzdXJpOiBodHRwOi8vbG9jYWxob3N0Ojk5OTkvdGRydWFwL2Nhd3MvY2Eud3NkbAoKbG9nZ2luZzoKICBwYXRoOiAvaG9tZS9jb3N1cGRhdGUvYmFrL2xvZy90ZHJ1YXAvCiAgbGV2ZWw6CiAgICByb290OiBpbmZvCiAgICB3ZWI6IGRlYnVnCiAgICBjb20udGRyOiBkZWJ1Zwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLSBjZXJ0VHlwZQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICBiajoKICAgIGVuZHBvaW50OiBodHRwczovL3h0eHRlc3QuYmpjYS5vcmcuY246OTAwMi9CSkNBQ2VydFdlYlNlcnZpY2UvQmpjYUNlcnRTZXJ2aWNlLmFzbXg/V1NETAogICAgbWVzc2FnZS12ZXJzaW9uOiAxCiAgICBhcHBseS1uZXctY2VydC1ydWxlLXNuOiA3OTcwCiAgICBhcHBseS1yZW5ld2FsLWNlcnQtcnVsZS1zbjogNzk3MgogICAgYXBwbHktcmVhcHBseS1jZXJ0LXJ1bGUtc246IDc5NzQKICAgIGFwcGx5LWFsdGVyLWNlcnQtcnVsZS1zbjogNzk3OAogICAgdXNlcm5hbWU6IHRkcmh6cWQKICAgIHBhc3N3b3JkOiB0ZHJoenFkMjAxOTAxMTgKICAgIHNlcnZpY2UtaWQ6IDEKICAgIHRhYy1wbGFjZS1pZDogMzM2NgogICAgY3NwLW5hbWU6IFRlbmR5cm9uP09uS2V5P0NTUD9HWlpCP3YxLjA=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBOb3RCbGFuawo=</text>
+        <text encoding="base64">ICAgICAgLSBjZXJ0VHlwZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L3NjaGVtYXM+Cg==</text>
+        <text encoding="base64">ICAgIEBOb3RCbGFuawo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9zY2hlbWE+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L3NjaGVtYXM+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZmlsZXNldD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9zY2hlbWE+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGlyZWN0b3J5PiR7YmFzZWRpcn0vc3JjL21haW4vcmVzb3VyY2VzPC9kaXJlY3Rvcnk+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZmlsZXNldD4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxmaWxlc2V0Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGlyZWN0b3J5PiR7YmFzZWRpcn0vc3JjL21haW4vcmVzb3VyY2VzPC9kaXJlY3Rvcnk+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHNjaGVtYT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxmaWxlc2V0Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9jb25maWd1cmF0aW9uPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHNjaGVtYT4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
