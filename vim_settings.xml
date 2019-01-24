@@ -12,11 +12,11 @@
         <mark key="." line="16" column="18" />
         <mark key="^" line="16" column="18" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/changelog.md" timestamp="1546055920342">
-        <mark key="[" line="2" column="4" />
-        <mark key="]" line="3" column="13" />
-        <mark key="^" line="3" column="13" />
-        <mark key="." line="3" column="13" />
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/changelog.md" timestamp="1548308637845">
+        <mark key="[" line="22" column="42" />
+        <mark key="]" line="22" column="1" />
+        <mark key="^" line="22" column="1" />
+        <mark key="." line="22" column="1" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/user/user.html" timestamp="1545966185188">
         <mark key="[" line="55" column="40" />
@@ -490,7 +490,7 @@
       <file name="/dummy.sql" timestamp="1548157066682">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548212224006">
+      <file name="/Dummy.txt" timestamp="1548308695193">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -675,11 +675,11 @@
       <jump line="0" column="0" filename="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/resources/application-dev.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c3ByaW5nOgogIGh0dHA6CiAgICBsb2ctcmVxdWVzdC1kZXRhaWxzOiB0cnVlCiAgIyAgYm9vdDogI9TdsrvKudPDc3ByaW5nIGJvb3QgYWRtaW4KICAjICAgIGFkbWluOgogICMgICAgICBjbGllbnQ6CiAgIyAgICAgICAgdXJsOiBodHRwOi8vMTcyLjE2LjMyLjExNTo5MDk5CiAgIyAgICAgICAgaW5zdGFuY2U6CiAgIyAgICAgICAgICBwcmVmZXItaXA6IHRydWUKICBkYXRhc291cmNlOgogICAgdHlwZTogY29tLmFsaWJhYmEuZHJ1aWQucG9vbC5EcnVpZERhdGFTb3VyY2UKICAgIGRyaXZlckNsYXNzTmFtZTogY29tLm15c3FsLmNqLmpkYmMuRHJpdmVyCiAgICBkcnVpZDoKICAgICAgdXJsOiBqZGJjOm15c3FsOi8vMTcyLjE2LjMyLjk6MzMwNi90ZHJfdWFwP2FsbG93TXVsdGlRdWVyaWVzPXRydWUmdXNlVW5pY29kZT10cnVlJmNoYXJhY3RlckVuY29kaW5nPVVURi04JnVzZVNTTD1mYWxzZSZzZXJ2ZXJUaW1lem9uZT1HTVQlMmI4CiAgICAgIHVzZXJuYW1lOiB0ZHJfdWFwCiAgICAgIHBhc3N3b3JkOiB0ZHJfdWFwMTIzCiAgICAgIGluaXRpYWwtc2l6ZTogMTAKICAgICAgbWF4LWFjdGl2ZTogMTAwCiAgICAgIG1pbi1pZGxlOiAxMAogICAgICBtYXgtd2FpdDogNjAwMDAKICAgICAgcG9vbC1wcmVwYXJlZC1zdGF0ZW1lbnRzOiB0cnVlCiAgICAgIG1heC1wb29sLXByZXBhcmVkLXN0YXRlbWVudC1wZXItY29ubmVjdGlvbi1zaXplOiAyMAogICAgICB0aW1lLWJldHdlZW4tZXZpY3Rpb24tcnVucy1taWxsaXM6IDYwMDAwCiAgICAgIG1pbi1ldmljdGFibGUtaWRsZS10aW1lLW1pbGxpczogMzAwMDAwCiAgICAgICN2YWxpZGF0aW9uLXF1ZXJ5OiBTRUxFQ1QgMSBGUk9NIERVQUwKICAgICAgdGVzdC13aGlsZS1pZGxlOiB0cnVlCiAgICAgIHRlc3Qtb24tYm9ycm93OiBmYWxzZQogICAgICB0ZXN0LW9uLXJldHVybjogZmFsc2UKICAgICAgc3RhdC12aWV3LXNlcnZsZXQ6CiAgICAgICAgZW5hYmxlZDogdHJ1ZQogICAgICAgIHVybC1wYXR0ZXJuOiAvZHJ1aWQvKgogICAgICAgICNsb2dpbi11c2VybmFtZTogYWRtaW4KICAgICAgICAjbG9naW4tcGFzc3dvcmQ6IGFkbWluCiAgICAgIGZpbHRlcjoKICAgICAgICBzdGF0OgogICAgICAgICAgbG9nLXNsb3ctc3FsOiB0cnVlCiAgICAgICAgICBzbG93LXNxbC1taWxsaXM6IDEwMDAKICAgICAgICAgIG1lcmdlLXNxbDogZmFsc2UKICAgICAgICB3YWxsOgogICAgICAgICAgY29uZmlnOgogICAgICAgICAgICBtdWx0aS1zdGF0ZW1lbnQtYWxsb3c6IHRydWUKCmNhOgogICMgsuLK1LP2yfrWpNHpx6m5q9S/CiAgYmlydGgtY2VydC1zaWduLXB1YmxpYy1rZXk6IDA0NTlBMDE3RDQ0Q0M5QkRGRDNDQzMzNUE1QzIwODNBQ0VEMjM2NkNGRTRBOTQ4MzQ2QTY1RjRGNkYwNzFDMkUxMEUwMUY2MTQ3MTJBMUFDQ0IxQjdDNUI0QjIxQjQ5MjFCMjIxQTA2RUJEMUYxNTM2NDY3M0QzMUYxQjE4RUM0NzYKICAjIMn6svqz9sn61qTR6cepuavUvwogICNiaXJ0aC1jZXJ0LXNpZ24tcHVibGljLWtleTogMDRBMkI5NEM2MUJBOUFBN0I1QkQ2M0M3Nzk3ODFEQjM5QkUyQThEN0U1NTQ4RUFCN0YyNjRBRjg3QUVDOTdBMDMwREI0N0MyOTU1NzY1NjE2NzRFQjE5NDA1NUQ5QzAwMDVCODhCMUVFNUZCQzMyRjA1NjVCODU2MDJCOTg4OUY0RQogICMguPe49tDQQ0G3/s7xxvfA4NDNo6xtYXDA4NDNo6xrZXk6MS25pNDQo7syLcWp0NCjuzMtvajQ0KOsdmFsdWU6MC3M7LXYyNpDQaO7MS2xsb6pQ0EKICB0eXBlLW1hcDogInsxOicxJywyOicwJywzOicwJ30iCiAgaHNtOgogICAgcm9vdDoKICAgICAgaG9zdDogMTcyLjE2LjMyLjk5CiAgICAgIHBvcnQ6IDUwMDAwCiAgICBpY2JjOgogICAgICBob3N0OiAxNzIuMTYuMzIuOTkKICAgICAgcG9ydDogNTAwMDAKICAgIGFiYzoKICAgICAgaG9zdDogMTcyLjE2LjMyLjk5CiAgICAgIHBvcnQ6IDUwMDAwCiAgICBjY2I6CiAgICAgIGhvc3Q6IDE3Mi4xNi4zMi45OQogICAgICBwb3J0OiA1MDAwMAogIGJqOgogICAgZW5kcG9pbnQ6IGh0dHBzOi8vdXNlcndlYi5iamNhLm9yZy5jbi9CamNhQ2VydFdlYlNlcnZpY2UvQmpjYUNlcnRTZXJ2aWNlLmFzbXg/V1NETAogICAgbWVzc2FnZS12ZXJzaW9uOiAxCiAgICBhcHBseS1uZXctY2VydC1ydWxlLXNuOiAxODA0NDcKICAgIGFwcGx5LXJlbmV3YWwtY2VydC1ydWxlLXNuOiAxODA0NDkKICAgIGFwcGx5LXJlYXBwbHktY2VydC1ydWxlLXNuOiAxODA0NTEKICAgIGFwcGx5LWFsdGVyLWNlcnQtcnVsZS1zbjogMTgwNDU1CiAgICB1c2VybmFtZTogdGRyaHoyNDYwCiAgICBwYXNzd29yZDogdGRyaHoyMDE5MDEyMgogICAgc2VydmljZS1pZDogMQogICAgdGFjLXBsYWNlLWlkOiA4NTg4NQogICAgY3NwLW5hbWU6IFRlbmR5cm9uP09uS2V5P0NTUD9HWlpCP3YxLjAKCnVhcDoKICBjYToKICAgIHdzdXJpOiBodHRwOi8vbG9jYWxob3N0Ojk5OTkvdGRydWFwL2Nhd3MvY2Eud3NkbAoKbG9nZ2luZzoKICBwYXRoOiAvaG9tZS9jb3N1cGRhdGUvYmFrL2xvZy90ZHJ1YXAvCiAgbGV2ZWw6CiAgICByb290OiBpbmZvCiAgICB3ZWI6IGRlYnVnCiAgICBjb20udGRyOiBkZWJ1Zwo=</text>
+      <register name="&quot;" type="4">
+        <text>即</text>
       </register>
       <register name="-" type="4">
-        <text>签章接口增加证书类型字段</text>
+        <text>即</text>
       </register>
       <register name="/" type="4">
         <text>32.99</text>
