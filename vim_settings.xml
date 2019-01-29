@@ -6,6 +6,10 @@
       <file name="/a.dummy" timestamp="1548165541907">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/bouncycastle/bcpkix-jdk15on/1.60/bcpkix-jdk15on-1.60-sources.jar!/org/bouncycastle/cms/SignerInformation.java" timestamp="1548751552255">
+        <mark key="[" line="580" column="49" />
+        <mark key="]" line="580" column="124" />
+      </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/resources/application-prod.yml" timestamp="1546053201759">
         <mark key="[" line="41" column="41" />
         <mark key="]" line="16" column="18" />
@@ -359,6 +363,7 @@
         <mark key="." line="20" column="26" />
         <mark key="^" line="32" column="31" />
       </file>
+      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/util/ca/PKCS7Utils.java" timestamp="1548751969768" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.java" timestamp="1547791683250">
         <mark key="[" line="117" column="50" />
         <mark key="]" line="117" column="56" />
@@ -683,7 +688,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>pcks7verify</text>
+        <text>if the verifier is unable to create a ContentVerifiers or DigestCalculators.</text>
       </register>
       <register name="-" type="4">
         <text>prod</text>
@@ -691,8 +696,8 @@
       <register name="/" type="4">
         <text>32.99</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">c3ByaW5nOgogIGh0dHA6CiAgICBsb2ctcmVxdWVzdC1kZXRhaWxzOiB0cnVlCiAgIyAgYm9vdDogI9TdsrvKudPDc3ByaW5nIGJvb3QgYWRtaW4KICAjICAgIGFkbWluOgogICMgICAgICBjbGllbnQ6CiAgIyAgICAgICAgdXJsOiBodHRwOi8vMTcyLjE2LjMyLjExNTo5MDk5CiAgIyAgICAgICAgaW5zdGFuY2U6CiAgIyAgICAgICAgICBwcmVmZXItaXA6IHRydWUKICBkYXRhc291cmNlOgogICAgdHlwZTogY29tLmFsaWJhYmEuZHJ1aWQucG9vbC5EcnVpZERhdGFTb3VyY2UKICAgIGRyaXZlckNsYXNzTmFtZTogY29tLm15c3FsLmNqLmpkYmMuRHJpdmVyCiAgICBkcnVpZDoKICAgICAgdXJsOiBqZGJjOm15c3FsOi8vMTcyLjE2LjMyLjk6MzMwNi90ZHJfdWFwP2FsbG93TXVsdGlRdWVyaWVzPXRydWUmdXNlVW5pY29kZT10cnVlJmNoYXJhY3RlckVuY29kaW5nPVVURi04JnVzZVNTTD1mYWxzZSZzZXJ2ZXJUaW1lem9uZT1HTVQlMmI4CiAgICAgIHVzZXJuYW1lOiB0ZHJfdWFwCiAgICAgIHBhc3N3b3JkOiB0ZHJfdWFwMTIzCiAgICAgIGluaXRpYWwtc2l6ZTogMTAKICAgICAgbWF4LWFjdGl2ZTogMTAwCiAgICAgIG1pbi1pZGxlOiAxMAogICAgICBtYXgtd2FpdDogNjAwMDAKICAgICAgcG9vbC1wcmVwYXJlZC1zdGF0ZW1lbnRzOiB0cnVlCiAgICAgIG1heC1wb29sLXByZXBhcmVkLXN0YXRlbWVudC1wZXItY29ubmVjdGlvbi1zaXplOiAyMAogICAgICB0aW1lLWJldHdlZW4tZXZpY3Rpb24tcnVucy1taWxsaXM6IDYwMDAwCiAgICAgIG1pbi1ldmljdGFibGUtaWRsZS10aW1lLW1pbGxpczogMzAwMDAwCiAgICAgICN2YWxpZGF0aW9uLXF1ZXJ5OiBTRUxFQ1QgMSBGUk9NIERVQUwKICAgICAgdGVzdC13aGlsZS1pZGxlOiB0cnVlCiAgICAgIHRlc3Qtb24tYm9ycm93OiBmYWxzZQogICAgICB0ZXN0LW9uLXJldHVybjogZmFsc2UKICAgICAgc3RhdC12aWV3LXNlcnZsZXQ6CiAgICAgICAgZW5hYmxlZDogdHJ1ZQogICAgICAgIHVybC1wYXR0ZXJuOiAvZHJ1aWQvKgogICAgICAgICNsb2dpbi11c2VybmFtZTogYWRtaW4KICAgICAgICAjbG9naW4tcGFzc3dvcmQ6IGFkbWluCiAgICAgIGZpbHRlcjoKICAgICAgICBzdGF0OgogICAgICAgICAgbG9nLXNsb3ctc3FsOiB0cnVlCiAgICAgICAgICBzbG93LXNxbC1taWxsaXM6IDEwMDAKICAgICAgICAgIG1lcmdlLXNxbDogZmFsc2UKICAgICAgICB3YWxsOgogICAgICAgICAgY29uZmlnOgogICAgICAgICAgICBtdWx0aS1zdGF0ZW1lbnQtYWxsb3c6IHRydWUKCmNhOgogICMgsuLK1LP2yfrWpNHpx6m5q9S/CiAgYmlydGgtY2VydC1zaWduLXB1YmxpYy1rZXk6IDA0NTlBMDE3RDQ0Q0M5QkRGRDNDQzMzNUE1QzIwODNBQ0VEMjM2NkNGRTRBOTQ4MzQ2QTY1RjRGNkYwNzFDMkUxMEUwMUY2MTQ3MTJBMUFDQ0IxQjdDNUI0QjIxQjQ5MjFCMjIxQTA2RUJEMUYxNTM2NDY3M0QzMUYxQjE4RUM0NzYKICAjIMn6svqz9sn61qTR6cepuavUvwogICNiaXJ0aC1jZXJ0LXNpZ24tcHVibGljLWtleTogMDRBMkI5NEM2MUJBOUFBN0I1QkQ2M0M3Nzk3ODFEQjM5QkUyQThEN0U1NTQ4RUFCN0YyNjRBRjg3QUVDOTdBMDMwREI0N0MyOTU1NzY1NjE2NzRFQjE5NDA1NUQ5QzAwMDVCODhCMUVFNUZCQzMyRjA1NjVCODU2MDJCOTg4OUY0RQogICMguPe49tDQQ0G3/s7xxvfA4NDNo6xtYXDA4NDNo6xrZXk6MS25pNDQo7syLcWp0NCjuzMtvajQ0KOsdmFsdWU6MC3M7LXYyNpDQaO7MS2xsb6pQ0EKICB0eXBlLW1hcDogInsxOicxJywyOicwJywzOicwJ30iCiAgaHNtOgogICAgcm9vdDoKICAgICAgaG9zdDogMTcyLjE2LjMyLjk5CiAgICAgIHBvcnQ6IDUwMDAwCiAgICBpY2JjOgogICAgICBob3N0OiAxNzIuMTYuMzIuOTkKICAgICAgcG9ydDogNTAwMDAKICAgIGFiYzoKICAgICAgaG9zdDogMTcyLjE2LjMyLjk5CiAgICAgIHBvcnQ6IDUwMDAwCiAgICBjY2I6CiAgICAgIGhvc3Q6IDE3Mi4xNi4zMi45OQogICAgICBwb3J0OiA1MDAwMAogIGJqOgogICAgZW5kcG9pbnQ6IGh0dHBzOi8vdXNlcndlYi5iamNhLm9yZy5jbi9CamNhQ2VydFdlYlNlcnZpY2UvQmpjYUNlcnRTZXJ2aWNlLmFzbXg/V1NETAogICAgbWVzc2FnZS12ZXJzaW9uOiAxCiAgICBhcHBseS1uZXctY2VydC1ydWxlLXNuOiAxODA0NDcKICAgIGFwcGx5LXJlbmV3YWwtY2VydC1ydWxlLXNuOiAxODA0NDkKICAgIGFwcGx5LXJlYXBwbHktY2VydC1ydWxlLXNuOiAxODA0NTEKICAgIGFwcGx5LWFsdGVyLWNlcnQtcnVsZS1zbjogMTgwNDU1CiAgICB1c2VybmFtZTogdGRyaHoyNDYwCiAgICBwYXNzd29yZDogdGRyaHoyMDE5MDEyMgogICAgc2VydmljZS1pZDogMQogICAgdGFjLXBsYWNlLWlkOiA4NTg4NQogICAgY3NwLW5hbWU6IFRlbmR5cm9uP09uS2V5P0NTUD9HWlpCP3YxLjAKCnVhcDoKICBjYToKICAgIHdzdXJpOiBodHRwOi8vbG9jYWxob3N0Ojk5OTkvdGRydWFwL2Nhd3MvY2Eud3NkbAoKbG9nZ2luZzoKICBwYXRoOiAvaG9tZS9jb3N1cGRhdGUvYmFrL2xvZy90ZHJ1YXAvCiAgbGV2ZWw6CiAgICByb290OiBpbmZvCiAgICB3ZWI6IGRlYnVnCiAgICBjb20udGRyOiBkZWJ1Zwo=</text>
+      <register name="0" type="4">
+        <text>if the verifier is unable to create a ContentVerifiers or DigestCalculators.</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">ICBiajoKICAgIGVuZHBvaW50OiBodHRwczovL3h0eHRlc3QuYmpjYS5vcmcuY246OTAwMi9CSkNBQ2VydFdlYlNlcnZpY2UvQmpjYUNlcnRTZXJ2aWNlLmFzbXg/V1NETAogICAgbWVzc2FnZS12ZXJzaW9uOiAxCiAgICBhcHBseS1uZXctY2VydC1ydWxlLXNuOiA3OTcwCiAgICBhcHBseS1yZW5ld2FsLWNlcnQtcnVsZS1zbjogNzk3MgogICAgYXBwbHktcmVhcHBseS1jZXJ0LXJ1bGUtc246IDc5NzQKICAgIGFwcGx5LWFsdGVyLWNlcnQtcnVsZS1zbjogNzk3OAogICAgdXNlcm5hbWU6IHRkcmh6cWQKICAgIHBhc3N3b3JkOiB0ZHJoenFkMjAxOTAxMTgKICAgIHNlcnZpY2UtaWQ6IDEKICAgIHRhYy1wbGFjZS1pZDogMzM2NgogICAgY3NwLW5hbWU6IFRlbmR5cm9uP09uS2V5P0NTUD9HWlpCP3YxLjA=</text>
