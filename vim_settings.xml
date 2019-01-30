@@ -339,11 +339,12 @@
         <mark key="^" line="36" column="28" />
         <mark key="." line="36" column="28" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/controller/CaController.java" timestamp="1548829430819">
-        <mark key="[" line="240" column="12" />
-        <mark key="]" line="240" column="20" />
-        <mark key="^" line="240" column="20" />
-        <mark key="." line="240" column="20" />
+      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/controller/CaController.java" timestamp="1548836851794">
+        <mark key="'" line="240" column="26" />
+        <mark key="[" line="240" column="9" />
+        <mark key="]" line="240" column="24" />
+        <mark key="^" line="240" column="24" />
+        <mark key="." line="240" column="24" />
       </file>
       <file name="D:/Workspaces/IntelliJ/tdrface/privatecloudclientsdk/src/test/java/com/tdr/face/clientsdk/test/FaceClientTest.java" timestamp="1547551326886">
         <mark key="[" line="83" column="36" />
@@ -590,7 +591,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="31" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/policy/policy.js" />
       <jump line="23" column="24" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/policy/policy.js" />
       <jump line="115" column="0" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/policy/policy.js" />
       <jump line="0" column="0" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/statics/js/modules/policy/policy.js" />
@@ -690,6 +690,7 @@
       <jump line="51" column="16" filename="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/resources/application-prod.yml" />
       <jump line="52" column="16" filename="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/resources/application-dev.yml" />
       <jump line="0" column="0" filename="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/resources/application-dev.yml" />
+      <jump line="240" column="26" filename="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/controller/CaController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -787,6 +788,7 @@
         <entry>W</entry>
         <entry>%s/32.99/15.40/g</entry>
         <entry>qa!</entry>
+        <entry>2</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
