@@ -184,10 +184,10 @@
         <mark key="^" line="76" column="8" />
         <mark key="." line="83" column="0" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/resources/application-dev.yml" timestamp="1548214305496">
+      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/resources/application-dev.yml" timestamp="1548901920563">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="84" column="18" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="70" column="28" />
         <mark key="^" line="61" column="41" />
         <mark key="." line="61" column="41" />
       </file>
@@ -339,7 +339,7 @@
         <mark key="^" line="36" column="28" />
         <mark key="." line="36" column="28" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/controller/CaController.java" timestamp="1548836851794">
+      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/controller/CaController.java" timestamp="1548901560242">
         <mark key="'" line="240" column="26" />
         <mark key="[" line="240" column="9" />
         <mark key="]" line="240" column="24" />
@@ -433,10 +433,10 @@
         <mark key="^" line="128" column="61" />
         <mark key="." line="128" column="61" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/resources/application-prod.yml" timestamp="1548213961452">
+      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/resources/application-prod.yml" timestamp="1548901937554">
         <mark key="'" line="51" column="16" />
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="72" column="41" />
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="69" column="26" />
         <mark key="." line="61" column="0" />
       </file>
       <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/BjcaCertService.java" timestamp="1547460982583">
@@ -694,7 +694,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>if the verifier is unable to create a ContentVerifiers or DigestCalculators.</text>
+        <text encoding="base64">ICAgIHVzZXJuYW1lOiB0ZHJoejI0NjAKICAgIHBhc3N3b3JkOiB0ZHJoejIwMTkwMTIy</text>
       </register>
       <register name="-" type="4">
         <text>prod</text>
