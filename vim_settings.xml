@@ -339,12 +339,12 @@
         <mark key="^" line="36" column="28" />
         <mark key="." line="36" column="28" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/controller/CaController.java" timestamp="1548901560242">
-        <mark key="'" line="240" column="26" />
-        <mark key="[" line="240" column="9" />
-        <mark key="]" line="240" column="24" />
-        <mark key="^" line="240" column="24" />
-        <mark key="." line="240" column="24" />
+      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/controller/CaController.java" timestamp="1548903064718">
+        <mark key="'" line="242" column="26" />
+        <mark key="[" line="183" column="30" />
+        <mark key="]" line="183" column="43" />
+        <mark key="^" line="183" column="43" />
+        <mark key="." line="183" column="43" />
       </file>
       <file name="D:/Workspaces/IntelliJ/tdrface/privatecloudclientsdk/src/test/java/com/tdr/face/clientsdk/test/FaceClientTest.java" timestamp="1547551326886">
         <mark key="[" line="83" column="36" />
@@ -694,10 +694,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIHVzZXJuYW1lOiB0ZHJoejI0NjAKICAgIHBhc3N3b3JkOiB0ZHJoejIwMTkwMTIy</text>
+        <text>setUpdateTime</text>
       </register>
       <register name="-" type="4">
-        <text>prod</text>
+        <text>setUpdateTime</text>
       </register>
       <register name="/" type="4">
         <text>32.99</text>
