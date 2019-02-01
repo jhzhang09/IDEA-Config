@@ -239,11 +239,11 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="218" column="0" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/test/java/com/tdr/tradingcenter/unifiedaccessplatform/UnifiedAccessPlatformApplicationTests.java" timestamp="1548929134572">
-        <mark key="[" line="76" column="24" />
-        <mark key="]" line="76" column="24" />
-        <mark key="." line="76" column="24" />
-        <mark key="^" line="76" column="23" />
+      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/test/java/com/tdr/tradingcenter/unifiedaccessplatform/UnifiedAccessPlatformApplicationTests.java" timestamp="1548999687319">
+        <mark key="[" line="81" column="66" />
+        <mark key="]" line="137" column="91" />
+        <mark key="." line="137" column="91" />
+        <mark key="^" line="137" column="91" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/d0d78b12-4954-483f-b026-68f2e189eb10/console.sql" timestamp="1546495484496">
         <mark key="[" line="0" column="0" />
@@ -507,7 +507,7 @@
       <file name="/dummy.sql" timestamp="1548662910733">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1548904262198">
+      <file name="/Dummy.txt" timestamp="1548999728293">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -693,10 +693,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>32.99</text>
