@@ -143,10 +143,11 @@
         <mark key="^" line="39" column="29" />
         <mark key="." line="39" column="29" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/ca/webservice/CaEndpoint.java" timestamp="1548927411303">
-        <mark key="[" line="615" column="0" />
-        <mark key="]" line="615" column="0" />
-        <mark key="." line="615" column="0" />
+      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/ca/webservice/CaEndpoint.java" timestamp="1551063069652">
+        <mark key="[" line="82" column="9" />
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
+        <mark key="^" line="79" column="0" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/java/com/tdr/modules/keyboarduser/controller/RKeyboardUserController.java" timestamp="1546422377720">
         <mark key="[" line="91" column="60" />
@@ -692,8 +693,8 @@
       <jump line="240" column="26" filename="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/controller/CaController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>&quot;</text>
@@ -705,31 +706,31 @@
         <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiUHVibGljIGtleToge30iLCBzaWduUHViS2V5KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiUHVibGljIGtleToge30iLCBzaWduUHViS2V5KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgc2lnblB1YktleSA9IHBrY3MxMFV0aWxzLmdldFN1YmplY3RQdWJsaWNLZXlJbmZvKCkuZ2V0UHVibGljS2V5RGF0YSgpLmdldE9jdGV0cygpOwo=</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiUHVibGljIGtleToge30iLCBzaWduUHViS2V5KTsK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgc2lnblB1YktleSA9IHBrY3MxMFV0aWxzLmdldFN1YmplY3RQdWJsaWNLZXlJbmZvKCkuZ2V0UHVibGljS2V5RGF0YSgpLmdldE9jdGV0cygpOwo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY2VydFJlcXVlc3RSZWNvcmQubmV3IERhdGUoKSk7Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICBiajoKICAgIGVuZHBvaW50OiBodHRwczovL3h0eHRlc3QuYmpjYS5vcmcuY246OTAwMi9CSkNBQ2VydFdlYlNlcnZpY2UvQmpjYUNlcnRTZXJ2aWNlLmFzbXg/V1NETAogICAgbWVzc2FnZS12ZXJzaW9uOiAxCiAgICBhcHBseS1uZXctY2VydC1ydWxlLXNuOiA3OTcwCiAgICBhcHBseS1yZW5ld2FsLWNlcnQtcnVsZS1zbjogNzk3MgogICAgYXBwbHktcmVhcHBseS1jZXJ0LXJ1bGUtc246IDc5NzQKICAgIGFwcGx5LWFsdGVyLWNlcnQtcnVsZS1zbjogNzk3OAogICAgdXNlcm5hbWU6IHRkcmh6cWQKICAgIHBhc3N3b3JkOiB0ZHJoenFkMjAxOTAxMTgKICAgIHNlcnZpY2UtaWQ6IDEKICAgIHRhYy1wbGFjZS1pZDogMzM2NgogICAgY3NwLW5hbWU6IFRlbmR5cm9uP09uS2V5P0NTUD9HWlpCP3YxLjA=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgLSBjZXJ0VHlwZQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIEBOb3RCbGFuawo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L3NjaGVtYXM+Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9zY2hlbWE+Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZmlsZXNldD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9zY2hlbWE+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -768,7 +769,6 @@
         <entry>32.99</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>40,74 mo 38</entry>
         <entry>79,71 mo77</entry>
         <entry>79,91 mo 77</entry>
