@@ -70,9 +70,11 @@
         <mark key="^" line="15" column="79" />
         <mark key="." line="15" column="79" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/controller/PKCS7VerifyController.java" timestamp="1551235976427">
-        <mark key="[" line="41" column="27" />
-        <mark key="]" line="41" column="37" />
+      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/controller/PKCS7VerifyController.java" timestamp="1551255712431">
+        <mark key="[" line="39" column="13" />
+        <mark key="]" line="39" column="764" />
+        <mark key="^" line="33" column="5" />
+        <mark key="." line="33" column="5" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/validator/AbstractApiAssert.java" timestamp="1544082695211">
         <mark key="[" line="29" column="3" />
@@ -701,8 +703,8 @@
       <jump line="93" column="4" filename="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/util/algorithm/gm/BCECUtil.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAqICAgICAgICAgICAgx6nD+8vjt6gK</text>
+      <register name="&quot;" type="4">
+        <text>MIICLzCCAdWgAwIBAgIQU71dYzccGeQSGXK25GHG4DAKBggqgRzPVQGDdTBAMRowGAYDVQQDDBHlhbHkuqvorqTor4EgUm9vdDEVMBMGA1UECwwM5YWx5Lqr6K6k6K+BMQswCQYDVQQGEwJDTjAeFw0xODEwMjgxNjAwMDBaFw0zODEwMjgxNjAwMDBaMDsxFTATBgNVBAMMDOWFseS6q+iupOivgTEVMBMGA1UECwwM5YWx5Lqr6K6k6K+BMQswCQYDVQQGEwJDTjBZMBMGByqGSM49AgEGCCqBHM9VAYItA0IABCb3YOMKcMdMGd3BkXyaK+CVJCFl9f6CnEjWGudYnxh943KVxZ05Or9D6Hxau5W6oSOEoLZDP0tWwI/nNfaqA4yjgbUwgbIwEgYDVR0TAQH/BAgwBgEB/wIBADAdBgNVHQ4EFgQUO4Q+yVpnPE4CxWixojHqpgym0NcwHwYDVR0jBBgwFoAUcRJJuoso46CozDd4Hl8UmnaBTDEwDgYDVR0PAQH/BAQDAgFGMEwGA1UdHwRFMEMwQaA/oD2kOzA5MQ0wCwYDVQQDDARDUkwxMQwwCgYDVQQLDANDUkwxGjAYBgNVBAoMEeWFseS6q+iupOivgSBSb290MAoGCCqBHM9VAYN1A0gAMEUCIEMicWuZSKtQ5ht536RcifNDoG7SLLSKuPgXU8lswT38AiEAzhAvAwjfCZN6r/KIGzraiB3j5kIha8ywtiaffER41qA=</text>
       </register>
       <register name="-" type="4">
         <text>&quot;</text>
