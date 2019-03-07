@@ -274,11 +274,6 @@
         <mark key="^" line="19" column="15" />
         <mark key="." line="19" column="15" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/dto/request/SignSealRestRequest.java" timestamp="1548210646831">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
       <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/request/RequestDeviceInfo.java" timestamp="1547114154470">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="6" />
@@ -305,11 +300,6 @@
       </file>
       <file name="/tdr_uap.t_ca_caserver [tdr_uap@172.16.32.9]" timestamp="1548157065717">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/resources/application-test.yml" timestamp="1548152615190">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="73" column="42" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/java/com/tdr/modules/sys/controller/SysLoginController.java" timestamp="1546584834719">
         <mark key="[" line="102" column="52" />
@@ -518,6 +508,7 @@
       <file name="/dummy.sql" timestamp="1548662910733">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.2.RELEASE/spring-web-5.1.2.RELEASE-sources.jar!/org/springframework/web/bind/annotation/RestControllerAdvice.java" timestamp="1551927035744" />
       <file name="/Dummy.txt" timestamp="1551169495837">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -743,7 +734,7 @@
         <text encoding="base64">ICAgICAgLSBjZXJ0VHlwZQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qa!</text>
       </register>
     </registers>
     <search>
@@ -797,8 +788,8 @@
         <entry>W</entry>
         <entry>%s/32.99/15.40/g</entry>
         <entry>2</entry>
-        <entry>qa!</entry>
         <entry>w</entry>
+        <entry>qa!</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -851,6 +842,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Q</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
