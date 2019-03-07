@@ -235,11 +235,11 @@
       <file name="/HTML File.txt.ft" timestamp="1548127095432">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/modules/keyboard/entity/KeyboardEntity.java" timestamp="1551767751324">
-        <mark key="[" line="20" column="19" />
-        <mark key="]" line="19" column="22" />
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/com/tdr/modules/keyboard/entity/KeyboardEntity.java" timestamp="1551939530252">
+        <mark key="[" line="62" column="37" />
+        <mark key="]" line="66" column="35" />
         <mark key="^" line="19" column="22" />
-        <mark key="." line="19" column="22" />
+        <mark key="." line="62" column="35" />
       </file>
       <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/request/RequestUserInfo.java" timestamp="1547114008067">
         <mark key="[" line="11" column="0" />
@@ -695,7 +695,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAvKioKICAgICAqINHp1qTWpMrp09DQp9DUCiAgICAgKiAKICAgICAqIEBwYXJhbSBjZXJ0aWZpY2F0ZQogICAgICogICAgICAgICAgICC0/dHp1qTWpMrpCiAgICAgKiBAcGFyYW0gcHVibGljS2V5SW5mbwogICAgICogICAgICAgICAgICDWpMrpsOS3otXfuavUv9DFz6IKICAgICAqIEByZXR1cm4KICAgICAqIEB0aHJvd3MgT3BlcmF0b3JDcmVhdGlvbkV4Y2VwdGlvbgogICAgICogQHRocm93cyBDZXJ0RXhjZXB0aW9uCiAgICAgKiBAdGhyb3dzIElPRXhjZXB0aW9uCiAgICAgKi8KICAgIHB1YmxpYyBzdGF0aWMgYm9vbGVhbiB2ZXJpZnlDZXJ0aWZpY2F0ZShDZXJ0aWZpY2F0ZSBjZXJ0aWZpY2F0ZSwgU3ViamVjdFB1YmxpY0tleUluZm8gcHVibGljS2V5SW5mbykgewogICAgICAgIFg1MDlDZXJ0aWZpY2F0ZUhvbGRlciBjZXJ0aWZpY2F0ZUhvbGRlciA9IG5ldyBYNTA5Q2VydGlmaWNhdGVIb2xkZXIoY2VydGlmaWNhdGUpOwogICAgICAgIHRyeSB7CiAgICAgICAgICAgIHJldHVybiBjZXJ0aWZpY2F0ZUhvbGRlci5pc1ZhbGlkT24obmV3IERhdGUoKSkKICAgICAgICAgICAgICAgICAgICAmJiBjZXJ0aWZpY2F0ZUhvbGRlci5pc1NpZ25hdHVyZVZhbGlkKG5ldyBKY2FDb250ZW50VmVyaWZpZXJQcm92aWRlckJ1aWxkZXIoKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgLnNldFByb3ZpZGVyKG5ldyBCb3VuY3lDYXN0bGVQcm92aWRlcigpKS5idWlsZChwdWJsaWNLZXlJbmZvKSk7CiAgICAgICAgfSBjYXRjaCAoT3BlcmF0b3JDcmVhdGlvbkV4Y2VwdGlvbiB8IENlcnRFeGNlcHRpb24gZSkgewogICAgICAgICAgICBsb2cuaW5mbygiVmVyaWZ5IGNlcnRpZmljYXRlIGVycm9yISIsIGUpOwogICAgICAgICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgfQogICAgfQ==</text>
+        <text encoding="base64">ICAgLyoqCiAgICAgKiDIy8GzvOC/2MqxvOS85Lj0LLWlzru31tbTCiAgICAgKi8KICAgIHByaXZhdGUgU3RyaW5nIGZhY2VNb25pdG9yVGltZTs=</text>
       </register>
       <register name="-" type="4">
         <text>&quot;</text>
@@ -703,8 +703,8 @@
       <register name="/" type="4">
         <text>32.99</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiUHVibGljIGtleToge30iLCBzaWduUHViS2V5KTsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">ICAgLyoqCiAgICAgKiDIy8GzvOC/2MqxvOS85Lj0LLWlzru31tbTCiAgICAgKi8KICAgIHByaXZhdGUgU3RyaW5nIGZhY2VNb25pdG9yVGltZTs=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAqICAgICAgICAgICAgx6nD+8vjt6gK</text>
