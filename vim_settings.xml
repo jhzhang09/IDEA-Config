@@ -13,11 +13,11 @@
         <mark key="." line="16" column="18" />
         <mark key="^" line="16" column="18" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/safekeyboard/changelog.md" timestamp="1548308637845">
-        <mark key="[" line="22" column="42" />
-        <mark key="]" line="22" column="1" />
-        <mark key="^" line="22" column="1" />
-        <mark key="." line="22" column="1" />
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/changelog.md" timestamp="1552033903683">
+        <mark key="[" line="24" column="31" />
+        <mark key="]" line="25" column="15" />
+        <mark key="^" line="25" column="15" />
+        <mark key="." line="25" column="15" />
       </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/resources/templates/modules/user/user.html" timestamp="1545966185188">
         <mark key="[" line="55" column="40" />
@@ -115,6 +115,7 @@
         <mark key="^" line="31" column="52" />
         <mark key="." line="31" column="52" />
       </file>
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiKeyboardJoinController.java" timestamp="1552033506672" />
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiFaceRecognizeController.java" timestamp="1547545752943">
         <mark key="[" line="100" column="98" />
         <mark key="]" line="100" column="98" />
@@ -329,12 +330,6 @@
         <mark key="^" line="36" column="28" />
         <mark key="." line="36" column="28" />
       </file>
-      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/controller/CaController.java" timestamp="1548925452738">
-        <mark key="'" line="242" column="26" />
-        <mark key="[" line="171" column="28" />
-        <mark key="]" line="171" column="40" />
-        <mark key="." line="184" column="0" />
-      </file>
       <file name="D:/Workspaces/IntelliJ/tdrface/privatecloudclientsdk/src/test/java/com/tdr/face/clientsdk/test/FaceClientTest.java" timestamp="1547551326886">
         <mark key="[" line="83" column="36" />
         <mark key="]" line="83" column="36" />
@@ -439,12 +434,6 @@
         <mark key="]" line="128" column="61" />
         <mark key="^" line="128" column="61" />
         <mark key="." line="128" column="61" />
-      </file>
-      <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/resources/application-prod.yml" timestamp="1548901937554">
-        <mark key="'" line="51" column="16" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="69" column="26" />
-        <mark key="." line="61" column="0" />
       </file>
       <file name="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/BjcaCertService.java" timestamp="1547460982583">
         <mark key="[" line="30" column="105" />
@@ -742,7 +731,7 @@
         <text encoding="base64">ICBiajoKICAgIGVuZHBvaW50OiBodHRwczovL3h0eHRlc3QuYmpjYS5vcmcuY246OTAwMi9CSkNBQ2VydFdlYlNlcnZpY2UvQmpjYUNlcnRTZXJ2aWNlLmFzbXg/V1NETAogICAgbWVzc2FnZS12ZXJzaW9uOiAxCiAgICBhcHBseS1uZXctY2VydC1ydWxlLXNuOiA3OTcwCiAgICBhcHBseS1yZW5ld2FsLWNlcnQtcnVsZS1zbjogNzk3MgogICAgYXBwbHktcmVhcHBseS1jZXJ0LXJ1bGUtc246IDc5NzQKICAgIGFwcGx5LWFsdGVyLWNlcnQtcnVsZS1zbjogNzk3OAogICAgdXNlcm5hbWU6IHRkcmh6cWQKICAgIHBhc3N3b3JkOiB0ZHJoenFkMjAxOTAxMTgKICAgIHNlcnZpY2UtaWQ6IDEKICAgIHRhYy1wbGFjZS1pZDogMzM2NgogICAgY3NwLW5hbWU6IFRlbmR5cm9uP09uS2V5P0NTUD9HWlpCP3YxLjA=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -796,8 +785,8 @@
         <entry>%s/32.99/15.40/g</entry>
         <entry>2</entry>
         <entry>qa!</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
