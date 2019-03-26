@@ -115,6 +115,9 @@
         <mark key="^" line="31" column="52" />
         <mark key="." line="31" column="52" />
       </file>
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiKeyboardJoinController.java" timestamp="1553594308017">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiFaceRecognizeController.java" timestamp="1547545752943">
         <mark key="[" line="100" column="98" />
         <mark key="]" line="100" column="98" />
@@ -583,9 +586,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="147" column="25" filename="D:/Workspaces/IntelliJ/tradingcenter/WSCDemoBJCA/src/cn/org/bjca/test/Test1.java" />
-      <jump line="107" column="13" filename="D:/Workspaces/IntelliJ/tradingcenter/WSCDemoBJCA/src/cn/org/bjca/test/request/RequestCertInfo.java" />
-      <jump line="106" column="3" filename="D:/Workspaces/IntelliJ/tradingcenter/WSCDemoBJCA/src/cn/org/bjca/test/request/RequestCertInfo.java" />
       <jump line="26" column="2" filename="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/request/CARequest.java" />
       <jump line="220" column="0" filename="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/request/RequestUserInfo.java" />
       <jump line="133" column="65" filename="D:/Workspaces/IntelliJ/tradingcenter/unified-access-platform/src/main/java/com/tdr/tradingcenter/uap/bjca/BjCaTest.java" />
@@ -683,6 +683,9 @@
       <jump line="4" column="2" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/db/update-20190308.sql" />
       <jump line="0" column="0" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/db/update-20190308.sql" />
       <jump line="587" column="0" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/db/create.sql" />
+      <jump line="92" column="21" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiKeyboardJoinController.java" />
+      <jump line="100" column="0" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiKeyboardJoinController.java" />
+      <jump line="0" column="0" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiKeyboardJoinController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
