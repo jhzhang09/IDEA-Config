@@ -7,6 +7,10 @@
         <mark key="[" line="580" column="49" />
         <mark key="]" line="580" column="124" />
       </file>
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/org/csource/fastdfs/StorageClient.java" timestamp="1553683681939">
+        <mark key="[" line="1952" column="39" />
+        <mark key="]" line="1952" column="71" />
+      </file>
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/resources/application-prod.yml" timestamp="1546053201759">
         <mark key="[" line="41" column="41" />
         <mark key="]" line="16" column="18" />
@@ -295,6 +299,7 @@
         <mark key="." line="2" column="127" />
         <mark key="^" line="47" column="3" />
       </file>
+      <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-common/src/main/java/org/csource/fastdfs/TrackerClient.java" timestamp="1553683694763" />
       <file name="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-admin/src/main/java/com/tdr/modules/sys/controller/SysLoginController.java" timestamp="1546584834719">
         <mark key="[" line="102" column="52" />
         <mark key="]" line="103" column="7" />
@@ -688,8 +693,8 @@
       <jump line="0" column="0" filename="D:/Workspaces/IntelliJ/safekeyboard/safekeyboard-api/src/main/java/com/tdr/controller/ApiKeyboardJoinController.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LyoKICDU2rz8xczKtczl1tDQwtT2yMvBs7zgv9jW2MrU19a2zgogIGF1dGhvcqO6IHpqaAogIGRhdGU6IDIwMTkwMzA4CiAqLwpBTFRFUiBUQUJMRSB0Yl9rZXlib2FyZCBBREQgZmFjZV9tb25pdG9yX3JldHJ5X2NvdW50IFZBUkNIQVIgKCA1ICkgQ09NTUVOVCAnyMvBs7zgv9jW2MrUtM7K/Sc7ClVQREFURSB0Yl9rZXlib2FyZCBTRVQgZmFjZV9tb25pdG9yX3JldHJ5X2NvdW50ID0gJzUnOwo=</text>
+      <register name="&quot;" type="4">
+        <text>getStoreStorage fail, errno code:</text>
       </register>
       <register name="-" type="4">
         <text>tb_user</text>
