@@ -39,14 +39,14 @@
         <entry>%s/\&quot;SPELL/\&quot;spell/g</entry>
         <entry>%s/\&quot;USEDD/\&quot;usedd/g</entry>
         <entry>e</entry>
-        <entry>qa</entry>
-        <entry>q</entry>
         <entry>%s/LOGGER/log/g</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>Wa</entry>
         <entry>13,103d</entry>
-        <entry>wa</entry>
         <entry>w</entry>
+        <entry>q</entry>
+        <entry>qa</entry>
+        <entry>wa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -128,11 +128,20 @@
         <mark key="." line="27" column="30" />
         <mark key="^" line="27" column="30" />
       </file>
+      <file name="/EasyCodeTemplate.vm.ft" timestamp="1586759167700">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/common/utils/RedisUtils.java" timestamp="1586267622395">
         <mark key="[" line="96" column="0" />
         <mark key="]" line="96" column="59" />
         <mark key="^" line="95" column="51" />
         <mark key="." line="96" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/abcapi/config/RestTemplateConfig.java" timestamp="1586760600910">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="40" column="4" />
+        <mark key="^" line="40" column="4" />
+        <mark key="." line="40" column="3" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/handlerfactory/handler/impl/RsuTransactionProcess.java" timestamp="1586268095087">
         <mark key="[" line="41" column="0" />
@@ -316,7 +325,7 @@
         <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiZDc3Nzc3Nzc3NzciKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wa</text>
       </register>
     </registers>
   </component>
@@ -328,7 +337,7 @@
       <last-replace>log</last-replace>
       <last-substitute>LOGGER</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
