@@ -45,8 +45,8 @@
         <entry>13,103d</entry>
         <entry>q</entry>
         <entry>qa</entry>
-        <entry>w</entry>
         <entry>wa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -99,11 +99,11 @@
         <mark key="^" line="11" column="21" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/common/constant/BusinessConstants.java" timestamp="1586767298561">
-        <mark key="[" line="56" column="6" />
-        <mark key="]" line="56" column="7" />
-        <mark key="." line="56" column="6" />
-        <mark key="^" line="56" column="7" />
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/common/constant/BusinessConstants.java" timestamp="1586768168668">
+        <mark key="[" line="29" column="52" />
+        <mark key="]" line="30" column="4" />
+        <mark key="." line="30" column="3" />
+        <mark key="^" line="30" column="4" />
       </file>
       <file name="/" timestamp="1586766706699">
         <mark key="[" line="0" column="0" />
@@ -285,8 +285,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>交易订单状态--</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICog6YOo6Zeo57G75Z6LLS3lkIjkvZzllYbmiLcKICAgICAqLwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgREVQVF9UWVBFX1BBUlRORVIgPSAiMSI7CiAgICAvKioKICAgICAqIOmDqOmXqOexu+Weiy0t5YGc6L2m5Zy6CiAgICAgKi8KICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIERFUFRfVFlQRV9QQVJLID0gIjIiOwo=</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">LS0gLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQotLSBUYWJsZSBzdHJ1Y3R1cmUgZm9yIHRfZW50cnlfcXVldWUKLS0gLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQpEUk9QIFRBQkxFIElGIEVYSVNUUyBgdF9lbnRyeV9xdWV1ZWA7CkNSRUFURSBUQUJMRSBgdF9lbnRyeV9xdWV1ZWAgKAogIGBpZGAgYmlnaW50KDIwKSBOT1QgTlVMTCBBVVRPX0lOQ1JFTUVOVCBDT01NRU5UICfoh6rlop7kuLvplK4nLAogIGBlbnRyeV9zZXFfbm9gIHZhcmNoYXIoNTApIENPTExBVEUgdXRmOG1iNF9nZW5lcmFsX2NpIERFRkFVTFQgTlVMTCBDT01NRU5UICflhaXlnLrmtYHmsLTlj7cnLAogIGB0eXBlYCB2YXJjaGFyKDI1NSkgQ09MTEFURSB1dGY4bWI0X2dlbmVyYWxfY2kgREVGQVVMVCBOVUxMIENPTU1FTlQgJ+WFpeWcuuexu+WeiycsCiAgYGNhbWVyYV9zbmAgdmFyY2hhcigyNTUpIENPTExBVEUgdXRmOG1iNF9nZW5lcmFsX2NpIERFRkFVTFQgTlVMTCBDT01NRU5UICfmkYTlg4/lpLTluo/liJflj7cnLAogIGBydXNfc25gIHZhcmNoYXIoMjU1KSBDT0xMQVRFIHV0ZjhtYjRfZ2VuZXJhbF9jaSBERUZBVUxUIE5VTEwgQ09NTUVOVCAnUlVT5bqP5YiX5Y+3JywKICBgY2FyX25vYCB2YXJjaGFyKDIwKSBDT0xMQVRFIHV0ZjhtYjRfZ2VuZXJhbF9jaSBERUZBVUxUIE5VTEwgQ09NTUVOVCAn6L2m54mM5Y+3JywKICBgZW50cnlfdGltZWAgZGF0ZXRpbWUgREVGQVVMVCBOVUxMIENPTU1FTlQgJ+WFpeWcuuaXtumXtCcsCiAgYGNhcl9zbmAgdmFyY2hhcigyNTUpIENPTExBVEUgdXRmOG1iNF9nZW5lcmFsX2NpIERFRkFVTFQgTlVMTCBDT01NRU5UICfovabovobluo/liJflj7cnLAogIGBlbnRyeV9waWNfcGF0aGAgdmFyY2hhcigyNTUpIENPTExBVEUgdXRmOG1iNF9nZW5lcmFsX2NpIERFRkFVTFQgTlVMTCBDT01NRU5UICfov5vlnLrlm77niYcnLAogIFBSSU1BUlkgS0VZIChgaWRgKQopIEVOR0lORT1Jbm5vREIgREVGQVVMVCBDSEFSU0VUPXV0ZjhtYjQgQ09MTEFURT11dGY4bWI0X2dlbmVyYWxfY2kgQ09NTUVOVD0n5YWl5Zy66Zif5YiXJzsK</text>
@@ -301,34 +301,34 @@
         <text>交易订单状态--</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGhvc3Q6IDEyNy4wLjAuMQogICAgcG9ydDogNjM3OQogICAgcGFzc3dvcmQ6ICAgICAgIyDlr4bnoIHvvIjpu5jorqTkuLrnqbrvvIkK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICog6YOo6Zeo57G75Z6LLS3lkIjkvZzllYbmiLcKICAgICAqLwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgREVQVF9UWVBFX1BBUlRORVIgPSAiMSI7CiAgICAvKioKICAgICAqIOmDqOmXqOexu+Weiy0t5YGc6L2m5Zy6CiAgICAgKi8KICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIERFUFRfVFlQRV9QQVJLID0gIjIiOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICog5YGc6L2m5Zy65pS26ZO25qih5byPLS3lgZzovablnLrlrZDotKbmiLfmlrnlvI8KICAgICAqLwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgREVQVF9UUkFOU0FDVElPTl9NT0RFX0RJUkVDVCA9ICIxIjsKICAgIC8qKgogICAgICog5YGc6L2m5Zy65pS26ZO25qih5byPLS3nu7zlkIjmlLbpk7blj7DmlrnlvI8KICAgICAqLwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgREVQVF9UUkFOU0FDVElPTl9NT0RFX1BST1hZID0gIjIiOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtZXNzYWdlUGFja2FnZS5zZXRNZXNzYWdlQm9keU1hcChudWxsKTsK</text>
+        <text encoding="base64">ICAgIGhvc3Q6IDEyNy4wLjAuMQogICAgcG9ydDogNjM3OQogICAgcGFzc3dvcmQ6ICAgICAgIyDlr4bnoIHvvIjpu5jorqTkuLrnqbrvvIkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gRklYTUUg5aaC5L2V6I635Y+W5omL5oyB5py657yW5Y+3Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBtZXNzYWdlUGFja2FnZS5zZXRNZXNzYWdlQm9keU1hcChudWxsKTsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gRklYTUUg5aaC5L2V6I635Y+W5omL5oyB5py657yW5Y+3Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgUmVkaXNUZW1wbGF0ZTxTdHJpbmcsIE9iamVjdD4gcmVkaXNUZW1wbGF0ZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZWRpc1RlbXBsYXRlLm9wc0ZvclZhbHVlKCkuc2V0KCIxIiwgIjExMTExMXgiKTsK</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiRGVsZXRlIGtleXMgc2l6ZToge30hIiwga2V5cy5zaXplKCkpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgUmVkaXNUZW1wbGF0ZTxTdHJpbmcsIE9iamVjdD4gcmVkaXNUZW1wbGF0ZTsK</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
