@@ -140,8 +140,11 @@
         <mark key="." line="37" column="95" />
         <mark key="^" line="37" column="95" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/modules/sys/entity/SysDeptEntity.java" timestamp="1586780658802">
-        <mark key="[" line="66" column="34" />
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/modules/sys/entity/SysDeptEntity.java" timestamp="1586801871296">
+        <mark key="[" line="45" column="7" />
+        <mark key="]" line="67" column="13" />
+        <mark key="^" line="67" column="13" />
+        <mark key="." line="67" column="12" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/handlerfactory/handler/impl/StartRefuelProcess.java" timestamp="1586272436415">
         <mark key="[" line="27" column="0" />
