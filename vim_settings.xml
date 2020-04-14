@@ -87,17 +87,32 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/api/vo/request/CameraKeepAliveRequest.java" timestamp="1586853784719">
+        <mark key="[" line="14" column="37" />
+        <mark key="]" line="15" column="36" />
+        <mark key="^" line="15" column="36" />
+        <mark key="." line="15" column="35" />
+      </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/modules/sys/controller/SysDeptController.java" timestamp="1586834300036">
         <mark key="[" line="125" column="0" />
         <mark key="]" line="127" column="9" />
         <mark key="." line="125" column="0" />
         <mark key="^" line="122" column="30" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/modules/business/entity/EntrancePositionEntity.java" timestamp="1586813687878">
-        <mark key="[" line="37" column="7" />
-        <mark key="]" line="82" column="13" />
-        <mark key="^" line="82" column="13" />
-        <mark key="." line="82" column="12" />
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/api/vo/request/CameraCommandRespondRequest.java" timestamp="1586853497429">
+        <mark key="[" line="14" column="26" />
+        <mark key="]" line="14" column="40" />
+        <mark key="^" line="14" column="26" />
+        <mark key="." line="14" column="26" />
+      </file>
+      <file name="/a.dummy" timestamp="1586851355665">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/api/vo/request/KeepAliveBean.java" timestamp="1586853208749">
+        <mark key="[" line="17" column="22" />
+        <mark key="]" line="16" column="29" />
+        <mark key="^" line="16" column="29" />
+        <mark key="." line="16" column="28" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/resources/templates/modules/business/refuelposition.html" timestamp="1586814358271">
         <mark key="[" line="106" column="66" />
@@ -112,11 +127,11 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="32" column="5" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/api/controller/CameraInterfaceController.java" timestamp="1586850030250">
-        <mark key="[" line="107" column="57" />
-        <mark key="]" line="107" column="55" />
-        <mark key="^" line="107" column="55" />
-        <mark key="." line="107" column="54" />
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/api/controller/CameraInterfaceController.java" timestamp="1586854107254">
+        <mark key="[" line="87" column="16" />
+        <mark key="]" line="87" column="64" />
+        <mark key="." line="87" column="16" />
+        <mark key="^" line="87" column="16" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/modules/business/controller/BluetoothGatewayController.java" timestamp="1586814215893">
         <mark key="[" line="66" column="30" />
@@ -133,18 +148,17 @@
         <mark key="." line="38" column="3" />
         <mark key="^" line="38" column="4" />
       </file>
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/api/vo/request/CommondRespondBean.java" timestamp="1586853536515">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="19" column="26" />
+        <mark key="^" line="19" column="26" />
+        <mark key="." line="19" column="25" />
+      </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/handlerfactory/handler/impl/RsuTransactionProcess.java" timestamp="1586850047412">
         <mark key="[" line="65" column="0" />
         <mark key="]" line="67" column="14" />
         <mark key="." line="67" column="13" />
         <mark key="^" line="67" column="14" />
-      </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/modules/business/service/impl/RefuelPositionServiceImpl.java" timestamp="1586814053974">
-        <mark key="'" line="43" column="37" />
-        <mark key="[" line="43" column="57" />
-        <mark key="]" line="47" column="57" />
-        <mark key="." line="47" column="56" />
-        <mark key="^" line="47" column="57" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/sql/rus_server.sql" timestamp="1586833518211">
         <mark key="[" line="362" column="3" />
@@ -152,24 +166,18 @@
         <mark key="." line="362" column="42" />
         <mark key="^" line="362" column="43" />
       </file>
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/api/vo/request/CameraUploadRequest.java" timestamp="1586854159322">
+        <mark key="[" line="12" column="5" />
+        <mark key="]" line="12" column="5" />
+        <mark key="." line="12" column="4" />
+        <mark key="^" line="12" column="5" />
+      </file>
       <file name="/Dummy.txt" timestamp="1586843705765">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/modules/business/entity/StaffEntity.java" timestamp="1586813628965">
-        <mark key="[" line="49" column="7" />
-        <mark key="]" line="110" column="13" />
-        <mark key="^" line="110" column="13" />
-        <mark key="." line="110" column="12" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/modules/business/controller/InitController.java" timestamp="1586814542891">
         <mark key="[" line="49" column="0" />
         <mark key="]" line="51" column="43" />
-      </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/modules/business/entity/HandheldTerminalEntity.java" timestamp="1586813551577">
-        <mark key="[" line="32" column="7" />
-      </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/modules/business/entity/RefuelPositionEntity.java" timestamp="1586813579945">
-        <mark key="[" line="38" column="7" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/handlerfactory/handler/impl/GetCarInfoProcess.java" timestamp="1586843987514">
         <mark key="[" line="37" column="77" />
@@ -182,9 +190,6 @@
         <mark key="]" line="54" column="0" />
         <mark key="^" line="65" column="13" />
         <mark key="." line="54" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/modules/business/entity/RusEntity.java" timestamp="1586813606317">
-        <mark key="[" line="31" column="7" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/modules/business/controller/RefuelPositionController.java" timestamp="1586814567953">
         <mark key="[" line="92" column="0" />
@@ -299,13 +304,20 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>cameraEntity</text>
+        <text>\&quot;Response\&quot;: {\n&quot; +
+                &quot;\n&quot; +
+                &quot;                \&quot;trigger_data\&quot;: {                                                                 &quot; +
+                &quot;               \n&quot; +
+                &quot;                        \&quot;action\&quot;: \&quot;on\&quot;                                                          &quot; +
+                &quot;             \n&quot; +
+                &quot;                                }\n&quot; +
+                &quot;                        }</text>
       </register>
       <register name="+" type="2">
         <text encoding="base64">LS0gLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQotLSBUYWJsZSBzdHJ1Y3R1cmUgZm9yIHRfZW50cnlfcXVldWUKLS0gLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQpEUk9QIFRBQkxFIElGIEVYSVNUUyBgdF9lbnRyeV9xdWV1ZWA7CkNSRUFURSBUQUJMRSBgdF9lbnRyeV9xdWV1ZWAgKAogIGBpZGAgYmlnaW50KDIwKSBOT1QgTlVMTCBBVVRPX0lOQ1JFTUVOVCBDT01NRU5UICfoh6rlop7kuLvplK4nLAogIGBlbnRyeV9zZXFfbm9gIHZhcmNoYXIoNTApIENPTExBVEUgdXRmOG1iNF9nZW5lcmFsX2NpIERFRkFVTFQgTlVMTCBDT01NRU5UICflhaXlnLrmtYHmsLTlj7cnLAogIGB0eXBlYCB2YXJjaGFyKDI1NSkgQ09MTEFURSB1dGY4bWI0X2dlbmVyYWxfY2kgREVGQVVMVCBOVUxMIENPTU1FTlQgJ+WFpeWcuuexu+WeiycsCiAgYGNhbWVyYV9zbmAgdmFyY2hhcigyNTUpIENPTExBVEUgdXRmOG1iNF9nZW5lcmFsX2NpIERFRkFVTFQgTlVMTCBDT01NRU5UICfmkYTlg4/lpLTluo/liJflj7cnLAogIGBydXNfc25gIHZhcmNoYXIoMjU1KSBDT0xMQVRFIHV0ZjhtYjRfZ2VuZXJhbF9jaSBERUZBVUxUIE5VTEwgQ09NTUVOVCAnUlVT5bqP5YiX5Y+3JywKICBgY2FyX25vYCB2YXJjaGFyKDIwKSBDT0xMQVRFIHV0ZjhtYjRfZ2VuZXJhbF9jaSBERUZBVUxUIE5VTEwgQ09NTUVOVCAn6L2m54mM5Y+3JywKICBgZW50cnlfdGltZWAgZGF0ZXRpbWUgREVGQVVMVCBOVUxMIENPTU1FTlQgJ+WFpeWcuuaXtumXtCcsCiAgYGNhcl9zbmAgdmFyY2hhcigyNTUpIENPTExBVEUgdXRmOG1iNF9nZW5lcmFsX2NpIERFRkFVTFQgTlVMTCBDT01NRU5UICfovabovobluo/liJflj7cnLAogIGBlbnRyeV9waWNfcGF0aGAgdmFyY2hhcigyNTUpIENPTExBVEUgdXRmOG1iNF9nZW5lcmFsX2NpIERFRkFVTFQgTlVMTCBDT01NRU5UICfov5vlnLrlm77niYcnLAogIFBSSU1BUlkgS0VZIChgaWRgKQopIEVOR0lORT1Jbm5vREIgREVGQVVMVCBDSEFSU0VUPXV0ZjhtYjQgQ09MTEFURT11dGY4bWI0X2dlbmVyYWxfY2kgQ09NTUVOVD0n5YWl5Zy66Zif5YiXJzsK</text>
       </register>
       <register name="-" type="4">
-        <text>cameraEntity</text>
+        <text>new CameraUploadResponse(new ResponseBean(1, new SerialDataBean(&quot;&quot;, 0)))</text>
       </register>
       <register name="/" type="4">
         <text>cameraEntities</text>
@@ -313,32 +325,39 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBTdHJpbmcgc3VmZml4ID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkgKyAiLTEtIiArIFJhbmRvbVN0cmluZ1V0aWxzLnJhbmRvbUFscGhhbnVtZXJpYyg2KTsKICAgICAgICByZXR1cm4gY2FtZXJhRW50aXR5ID09IG51bGwgPyAiMDAwMDAtQzAwMDAwIiArIHN1ZmZpeCA6IGNhbWVyYUVudGl0eS5nZXRDb2RlKCkgKyBzdWZmaXg7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3VmZml4ID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkgKyAiLTItIiArIFJhbmRvbVN0cmluZ1V0aWxzLnJhbmRvbUFscGhhbnVtZXJpYyg2KTsKICAgICAgICByZXR1cm4gcnVzRW50aXR5ID09IG51bGwgPyAiMDAwMDAwLTAwLSIgKyBzdWZmaXggOiAoU3RyaW5nVXRpbHMuaXNCbGFuayhydXNFbnRpdHkuZ2V0UGFya0lkKCkpID8KICAgICAgICAgICAgICAgICIwMDAwMDAtMTEtIiArIHN1ZmZpeCA6IHJ1c0VudGl0eS5nZXRQYXJrSWQoKSArIHN1ZmZpeCk7Cg==</text>
+      <register name="1" type="4">
+        <text>\&quot;Response\&quot;: {\n&quot; +
+                &quot;\n&quot; +
+                &quot;                \&quot;trigger_data\&quot;: {                                                                 &quot; +
+                &quot;               \n&quot; +
+                &quot;                        \&quot;action\&quot;: \&quot;on\&quot;                                                          &quot; +
+                &quot;             \n&quot; +
+                &quot;                                }\n&quot; +
+                &quot;                        }</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">U3RyaW5nVXRpbHMuaXNCbGFuayhjYW1lcmFFbnRpdHkuZ2V0UGFya0lkKCkpID8KICAgICAgICAgICAgICAgICIwMDAxMSIgKyBzdWZmaXggOiA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBLZWVwQWxpdmVCZWFuIGtlZXBBbGl2ZUJlYW4gPSBkT0JKRUNUX01BUFBFUi5yZWFkVmFsdWVzKGNhbWVyYVVwbG9hZFJlcXVlc3RTdHJpbmcsIEtlZXBBbGl2ZUJlYW4uY2xhc3MpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBUYWJsZUxvZ2ljCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiLS0tLS0tLS0iICsgY2FtZXJhVXBsb2FkUmVxdWVzdFN0cmluZyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZGVwdC5nZXREZXB0aCgpID09IDIpIHsKICAgICAgICAgICAgZGVwdC5zZXRQYXJrSWQoZGVwdC5nZXRDb2RlKCkpOwogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhc3N3b3JkOiAgICAgICMg5a+G56CB77yI6buY6K6k5Li656m677yJCg==</text>
+        <text encoding="base64">ICAgICAgICBXaGl0ZUxpc3RJbmZvQmVhbiB3aGl0ZUxpc3RJbmZvID0gY2FtZXJhVXBsb2FkUmVxdWVzdC5nZXRXaGl0ZUxpc3RJbmZvKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBvcnQ6IDYzNzkK</text>
+        <text encoding="base64">ICAgICAgICBUaW1lU3RhbXBCZWFuIHRpbWVTdGFtcCA9IHBsYXRlUmVzdWx0LmdldFRpbWVTdGFtcCgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGhvc3Q6IDEyNy4wLjAuMQo=</text>
+        <text encoding="base64">ICAgICAgICBMb2NhdGlvbkJlYW4gbG9jYXRpb24gPSBwbGF0ZVJlc3VsdC5nZXRMb2NhdGlvbigpc3MgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhcmtfaWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZWZ1ZWxQb3NpdGlvbi5zZXRTdGF0dXMoIjEiKTsK</text>
+        <text encoding="base64">ICAgICAgICBXaGl0ZUxpc3RDb250cm9sQmVhbiB3aGl0ZUxpc3RDb250cm9sID0gd2hpdGVMaXN0SW5mby5nZXRXaGl0ZUxpc3RDb250cm9sKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
