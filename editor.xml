@@ -20,12 +20,21 @@
     <option name="SECONDARY_FONT_FAMILY" value="MesloLGLDZ Nerd Font" />
   </component>
   <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="" />
-    <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="true" />
+    <option name="USE_SOFT_WRAPS" value="PREVIEW" />
     <option name="IS_WHITESPACES_SHOWN" value="true" />
   </component>
   <component name="SqlCodeCompletionSettings" AUTO_ALIAS_TABLE="true">
     <option name="autoAliasTable" value="true" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern icon="important" pattern="\bfixme\b.*" />
+    <filter name="TODO">
+      <pattern index="0" />
+    </filter>
+    <filter name="FIXME">
+      <pattern index="1" />
+    </filter>
   </component>
   <component name="XmlEditorOptions">
     <option name="showCssInlineColorPreview" value="true" />
