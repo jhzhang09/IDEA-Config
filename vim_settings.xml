@@ -107,6 +107,13 @@
         <mark key="^" line="119" column="105" />
         <mark key="." line="119" column="104" />
       </file>
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/pom.xml" timestamp="1586872277641">
+        <mark key="'" line="48" column="44" />
+        <mark key="[" line="210" column="27" />
+        <mark key="]" line="210" column="26" />
+        <mark key="." line="210" column="25" />
+        <mark key="^" line="210" column="26" />
+      </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/resources/application-dev.yml" timestamp="1586871214556">
         <mark key="[" line="48" column="15" />
         <mark key="]" line="48" column="15" />
@@ -120,12 +127,6 @@
         <mark key="^" line="55" column="27" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/socket/handle/TransactionServerHandler.java" timestamp="1586870281456" />
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/api/config/RedisSubConfig.java" timestamp="1586863890550">
-        <mark key="[" line="39" column="32" />
-        <mark key="]" line="39" column="32" />
-        <mark key="^" line="39" column="34" />
-        <mark key="." line="39" column="32" />
-      </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/utils/ApduUtil.java" timestamp="1586869430602">
         <mark key="[" line="120" column="16" />
         <mark key="]" line="128" column="93" />
