@@ -120,6 +120,12 @@
         <mark key="." line="48" column="14" />
         <mark key="^" line="48" column="15" />
       </file>
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/api/consumer/handlerfactory/handler/camera/CameraUploadConsumeHandler.java" timestamp="1586873890904">
+        <mark key="[" line="34" column="13" />
+        <mark key="]" line="35" column="76" />
+        <mark key="^" line="35" column="76" />
+        <mark key="." line="35" column="75" />
+      </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/handlerfactory/handler/impl/RsuTransactionProcess.java" timestamp="1586870284564">
         <mark key="[" line="36" column="48" />
         <mark key="]" line="55" column="27" />
@@ -144,12 +150,6 @@
         <mark key="]" line="109" column="79" />
         <mark key="^" line="109" column="79" />
         <mark key="." line="109" column="78" />
-      </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/abcapi/vo/request/OutParkWithHoldRequest.java" timestamp="1586866362021">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="27" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="12" column="4" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/abcapi/vo/request/ProxyPayForAnotherRequest.java" timestamp="1586866365112">
         <mark key="[" line="13" column="0" />
@@ -180,7 +180,7 @@
         <mark key="." line="116" column="0" />
         <mark key="^" line="114" column="64" />
       </file>
-      <file name="/Dummy.txt" timestamp="1586869548913">
+      <file name="/Dummy.txt" timestamp="1586873926379">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/common/utils/RedisUtils.java" timestamp="1586873715214">
