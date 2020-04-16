@@ -96,11 +96,11 @@
         <mark key="^" line="6" column="17" />
         <mark key="." line="6" column="16" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/modules/business/service/impl/HandheldTerminalServiceImpl.java" timestamp="1586943729162">
-        <mark key="[" line="35" column="43" />
-        <mark key="]" line="35" column="107" />
-        <mark key="." line="35" column="106" />
-        <mark key="^" line="35" column="107" />
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/handlerfactory/handler/impl/HeartbeatProcess.java" timestamp="1587025555173">
+        <mark key="[" line="25" column="93" />
+        <mark key="]" line="26" column="42" />
+        <mark key="." line="26" column="41" />
+        <mark key="^" line="26" column="42" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/constants/TransactionCodeConstants.java" timestamp="1586947130425">
         <mark key="[" line="24" column="56" />
@@ -145,11 +145,17 @@
         <mark key="." line="64" column="64" />
         <mark key="^" line="64" column="65" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/utils/ApduUtil.java" timestamp="1587006959087">
-        <mark key="[" line="126" column="86" />
-        <mark key="]" line="131" column="44" />
-        <mark key="." line="131" column="43" />
-        <mark key="^" line="131" column="44" />
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/socket/handle/RequestLogHandler.java" timestamp="1587025438935">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="93" />
+        <mark key="^" line="36" column="1" />
+        <mark key="." line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/utils/ApduUtil.java" timestamp="1587025327261">
+        <mark key="[" line="202" column="0" />
+        <mark key="]" line="202" column="0" />
+        <mark key="." line="202" column="0" />
+        <mark key="^" line="202" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/resources/application-test.yml" timestamp="1586949709139">
         <mark key="[" line="60" column="17" />
@@ -170,11 +176,10 @@
         <mark key="^" line="48" column="13" />
         <mark key="." line="48" column="12" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/modules/business/service/RusService.java" timestamp="1586946772570">
-        <mark key="[" line="25" column="37" />
-      </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/modules/business/service/impl/RusServiceImpl.java" timestamp="1586946831314">
-        <mark key="[" line="60" column="8" />
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/handlerfactory/handler/impl/PowerOnEventProcess.java" timestamp="1587025449988">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="27" column="48" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/modules/business/service/CameraService.java" timestamp="1587006701375">
         <mark key="[" line="22" column="24" />
@@ -299,46 +304,46 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oIkNhbWVyYToge30gbmVlZCBtYW51YWwgdHJpZ2dlciwgc2VuZCBjb21tYW5kISIsY2FtZXJhU24pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="+" type="4">
         <text>tendyron!2#</text>
       </register>
       <register name="-" type="4">
-        <text>erByDesc(CameraEntity::getCode));</text>
+        <text encoding="base64">IG5ldyBTdHJpbmcoSGV4LmRlY29kZShtZXNzYWdlUGFja2FnZS5nZXRDb250cm9sbGVyU24oKSk=</text>
       </register>
       <register name="/" type="4">
         <text>cameraEntities</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oIkNhbWVyYToge30gbmVlZCBtYW51YWwgdHJpZ2dlciwgc2VuZCBjb21tYW5kISIsY2FtZXJhU24pOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgZGVjb2RlQ29udHJvbGxlclNuID0gbmV3IFN0cmluZyhIZXguZGVjb2RlKG1lc3NhZ2VQYWNrYWdlLmdldENvbnRyb2xsZXJTbigpKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIFN0cmluZyBnZXRDb250cm9sbGVyU25CeUhleChTdHJpbmcgaGV4U24pIHsKICAgICAgICByZXR1cm4gbmV3IFN0cmluZyhIZXguZGVjb2RlKGhleFNuKSk7CiAgICB9Cg==</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKFN0cmluZ1V0aWxzLmlzTm90QmxhbmsoY2FyTm8pKSB7CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gY2FyTm9MaXN0ID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKFN0cmluZ1V0aWxzLmlzTm90QmxhbmsoY2FyTm8pKSB7CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gY2FyTm9MaXN0ID0gbmV3IEFycmF5TGlzdDw+KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gIntcIlJlc3BvbnNlXCI6IHtcInRyaWdnZXJfZGF0YVwiOiB7XCJhY3Rpb25cIjogXCJvblwifX19IjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">c2VydmVyOgogIHBvcnQ6IDI4MDg4CnNwcmluZzoKICBkYXRhc291cmNlOgogICAgdHlwZTogY29tLmFsaWJhYmEuZHJ1aWQucG9vbC5EcnVpZERhdGFTb3VyY2UKICAgIGRydWlkOgogICAgICBkcml2ZXItY2xhc3MtbmFtZTogY29tLm15c3FsLmNqLmpkYmMuRHJpdmVyCiAgICAgIHVybDogamRiYzpteXNxbDovLzE3Mi4xNi4zMi45OjMzMDYvd2VuemhvdV9wYXk/YWxsb3dNdWx0aVF1ZXJpZXM9dHJ1ZSZ1c2VVbmljb2RlPXRydWUmY2hhcmFjdGVyRW5jb2Rpbmc9VVRGLTgmdXNlU1NMPWZhbHNlJnNlcnZlclRpbWV6b25lPUdNVCUyYjgKICAgICAgdXNlcm5hbWU6IHdlbnpob3VfcGF5CiAgICAgIHBhc3N3b3JkOiB3ZW56aG91X3BheTEyMwogICAgICBpbml0aWFsLXNpemU6IDEwCiAgICAgIG1heC1hY3RpdmU6IDEwMAogICAgICBtaW4taWRsZTogMTAKICAgICAgbWF4LXdhaXQ6IDYwMDAwCiAgICAgIHBvb2wtcHJlcGFyZWQtc3RhdGVtZW50czogdHJ1ZQogICAgICBtYXgtcG9vbC1wcmVwYXJlZC1zdGF0ZW1lbnQtcGVyLWNvbm5lY3Rpb24tc2l6ZTogMjAKICAgICAgdGltZS1iZXR3ZWVuLWV2aWN0aW9uLXJ1bnMtbWlsbGlzOiA2MDAwMAogICAgICBtaW4tZXZpY3RhYmxlLWlkbGUtdGltZS1taWxsaXM6IDMwMDAwMAogICAgICAjT3JhY2xl6ZyA6KaB5omT5byA5rOo6YeKCiAgICAgICN2YWxpZGF0aW9uLXF1ZXJ5OiBTRUxFQ1QgMSBGUk9NIERVQUwKICAgICAgdGVzdC13aGlsZS1pZGxlOiB0cnVlCiAgICAgIHRlc3Qtb24tYm9ycm93OiBmYWxzZQogICAgICB0ZXN0LW9uLXJldHVybjogZmFsc2UKICAgICAgc3RhdC12aWV3LXNlcnZsZXQ6CiAgICAgICAgZW5hYmxlZDogdHJ1ZQogICAgICAgIHVybC1wYXR0ZXJuOiAvZHJ1aWQvKgogICAgICAgICNsb2dpbi11c2VybmFtZTogYWRtaW4KICAgICAgICAjbG9naW4tcGFzc3dvcmQ6IGFkbWluCiAgICAgIGZpbHRlcjoKICAgICAgICBzdGF0OgogICAgICAgICAgbG9nLXNsb3ctc3FsOiB0cnVlCiAgICAgICAgICBzbG93LXNxbC1taWxsaXM6IDEwMDAKICAgICAgICAgIG1lcmdlLXNxbDogZmFsc2UKICAgICAgICB3YWxsOgogICAgICAgICAgY29uZmlnOgogICAgICAgICAgICBtdWx0aS1zdGF0ZW1lbnQtYWxsb3c6IHRydWUKCmNvbmZpZzoKICBmYWNlLXNlcnZlci11cmw6IGh0dHA6Ly8xNzIuMTYuMzIuMTE1OjgwODAvdGRyZmFjZS8KICBmYWNlLXNlcnZlci1wbGF0Zm9ybS1pZDogd2VuemhvdXBheS10ZXN0CiAgZmFjZS1zZXJ2ZXItdGhyZXNob2xkOiAwLjgKICAjIOaYr+WQpuWcqOW8gOaIt+WQjuiHquWKqOWFheWAvO+8iOeUqOS6jua8lOekuu+8iQogIGF1dG8tcmVjaGFyZ2U6IHRydWUKICBhYmM6CiAgICBwZngtZmlsZTogd3V6aG91Y2hhb3NoaS5wZngKICAgIGNlcnQtZmlsZTogVHJ1c3RQYXkuY2VyCiAgICBrZXktc3RvcmUtcGFzc3dvcmQ6IDEyMzQxMjM0CgoKIyPlpJrmlbDmja7mupDnmoTphY3nva7vvIzpnIDopoHlvJXnlKhyZW5yZW4tZHluYW1pYy1kYXRhc291cmNlCiNkeW5hbWljOgojICBkYXRhc291cmNlOgojICAgIHNsYXZlMToKIyAgICAgIGRyaXZlci1jbGFzcy1uYW1lOiBjb20ubWljcm9zb2Z0LnNxbHNlcnZlci5qZGJjLlNRTFNlcnZlckRyaXZlcgojICAgICAgdXJsOiBqZGJjOnNxbHNlcnZlcjovL2xvY2FsaG9zdDoxNDMzO0RhdGFiYXNlTmFtZT1yZW5yZW5fc2VjdXJpdHkKIyAgICAgIHVzZXJuYW1lOiBzYQojICAgICAgcGFzc3dvcmQ6IDEyMzQ1NgojICAgIHNsYXZlMjoKIyAgICAgIGRyaXZlci1jbGFzcy1uYW1lOiBvcmcucG9zdGdyZXNxbC5Ecml2ZXIKIyAgICAgIHVybDogamRiYzpwb3N0Z3Jlc3FsOi8vbG9jYWxob3N0OjU0MzIvcmVucmVuX3NlY3VyaXR5CiMgICAgICB1c2VybmFtZTogcmVucmVuCiMgICAgICBwYXNzd29yZDogMTIzNDU2Cgpsb2dnaW5nOgogIHBhdGg6IC9ob21lL3dlbnpob3VwYXkvbG9nLwogIGxldmVsOgogICAgcm9vdDogaW5mbwogICAgY29tLnRkcjogZGVidWcKICAgIHdlYjogZGVidWcKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
