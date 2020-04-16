@@ -1,5 +1,9 @@
 <application>
   <component name="PowerModeII">
-    <option name="enabled" value="false" />
+    <option name="customBamImageFolder" value="/" />
+    <option name="customFlameImageFolder" value="/" />
+    <option name="isCaretAction" value="true" />
+    <option name="shakeEnabled" value="true" />
+    <option name="soundsFolder" value="/" />
   </component>
 </application>
