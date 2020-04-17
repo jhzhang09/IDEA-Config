@@ -166,11 +166,8 @@
         <mark key="^" line="48" column="13" />
         <mark key="." line="48" column="12" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/utils/ApduUtil.java" timestamp="1587112436305">
-        <mark key="[" line="112" column="92" />
-        <mark key="]" line="117" column="56" />
-        <mark key="." line="117" column="55" />
-        <mark key="^" line="117" column="56" />
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/utils/ApduUtil.java" timestamp="1587114756715">
+        <mark key="[" line="201" column="5" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/resources/application-test.yml" timestamp="1586949709139">
         <mark key="[" line="60" column="17" />
