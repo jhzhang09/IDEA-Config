@@ -91,11 +91,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/api/controller/CameraInterfaceController.java" timestamp="1587007233113">
-        <mark key="[" line="94" column="32" />
-        <mark key="]" line="94" column="71" />
-        <mark key="." line="94" column="70" />
-        <mark key="^" line="94" column="71" />
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/api/controller/CameraInterfaceController.java" timestamp="1587123043661">
+        <mark key="[" line="109" column="44" />
+        <mark key="]" line="109" column="44" />
+        <mark key="." line="109" column="43" />
+        <mark key="^" line="109" column="44" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/safety-box/src/main/java/com/tdr/safetybox/socket/config/RootIntegrationConfig.java" timestamp="1587036035338">
         <mark key="'" line="68" column="4" />
@@ -145,7 +145,8 @@
         <mark key="." line="66" column="64" />
         <mark key="^" line="66" column="65" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587108433177">
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/handlerfactory/handler/impl/StartPayProcess.java" timestamp="1587123395020" />
+      <file name="/Dummy.txt" timestamp="1587123096006">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/socket/handle/RequestLogHandler.java" timestamp="1587025438935">
@@ -168,12 +169,6 @@
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/utils/ApduUtil.java" timestamp="1587114756715">
         <mark key="[" line="201" column="5" />
-      </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/resources/application-test.yml" timestamp="1586949709139">
-        <mark key="[" line="60" column="17" />
-        <mark key="]" line="63" column="17" />
-        <mark key="." line="63" column="16" />
-        <mark key="^" line="63" column="17" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/handlerfactory/handler/impl/PowerOnEventProcess.java" timestamp="1587025449988">
         <mark key="[" line="26" column="0" />
