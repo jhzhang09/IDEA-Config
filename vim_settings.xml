@@ -152,6 +152,9 @@
         <mark key="^" line="35" column="76" />
         <mark key="." line="35" column="75" />
       </file>
+      <file name="/" timestamp="1587352330068">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/handlerfactory/handler/impl/PowerOnEventProcess.java" timestamp="1587025449988">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="27" column="48" />
@@ -179,7 +182,6 @@
         <mark key="." line="66" column="64" />
         <mark key="^" line="66" column="65" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/modules/sys/entity/SysConfigEntity.java" timestamp="1587146946237" />
       <file name="$USER_HOME$/Workspaces/IdeaProjects/safety-box/pom.xml" timestamp="1587035153950">
         <mark key="[" line="42" column="8" />
         <mark key="]" line="49" column="21" />
