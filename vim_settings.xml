@@ -166,11 +166,11 @@
         <mark key="^" line="83" column="17" />
         <mark key="." line="83" column="16" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/resources/statics/js/modules/business/order.js" timestamp="1587383382815">
-        <mark key="[" line="69" column="39" />
-        <mark key="]" line="74" column="18" />
-        <mark key="." line="74" column="17" />
-        <mark key="^" line="74" column="18" />
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/resources/statics/js/modules/business/order.js" timestamp="1587385418327">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="19" column="25" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/handlerfactory/handler/impl/GetCarInfoProcess.java" timestamp="1587379145716">
         <mark key="[" line="43" column="60" />
@@ -290,8 +290,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>+</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyh2bS4kZGF0YSk7Cg==</text>
       </register>
       <register name="+" type="4">
         <text>tendyron!2#</text>
@@ -306,37 +306,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGZvcm1hdHRlcjogZnVuY3Rpb24gKHZhbHVlLCBvcHRpb25zLCByb3cpIHsKICAgICAgICAgICAgICAgICAgICBpZiAodmFsdWUgPT09ICflvoXmtL7pgIEnKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiAiPGEgIGhyZWY9JyMnIGRhdGEtdG9nZ2xlPSdtb2RhbCcgZGF0YS10YXJnZXQ9JyNvcmRlckRldGFpbE1vZGFsJyBkYXRhLXdoYXRldmVyPSIgKyByb3dbJ2lkJ10gKyAiPuiuouWNleaYjue7hjwvYT4iICsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICImbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDs8YSBocmVmPScjJyBvbmNsaWNrPSd2bS5jb21wbGV0ZSgiICsgcm93WydpZCddICsgIiknPuWujOaIkOa0vumAgTwvYT4iCiAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuICI8YSBocmVmPScjJyBkYXRhLXRvZ2dsZT0nbW9kYWwnIGRhdGEtdGFyZ2V0PScjb3JkZXJEZXRhaWxNb2RhbCcgZGF0YS13aGF0ZXZlcj0iICsgcm93WydpZCddICsgIj7orqLljZXmmI7nu4Y8L2E+IjsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICImbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDs8YSBocmVmPScjJyBvbmNsaWNrPSd2bS5jb21wbGV0ZSgiICsgcm93WydpZCddICsgIiknPuWujOaIkOa0vumAgTwvYT4iCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyh2bS4kZGF0YSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgKGxldCBzdGF0dXNMaXN0S2V5IGluIHZtLnN0YXR1c0xpc3QpIHsKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHZhbHVlID09PSBzdGF0dXNMaXN0S2V5LmNvZGUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBzdGF0dXNMaXN0S2V5Lm5hbWU7CiAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuICI8YSBocmVmPScjJyBkYXRhLXRvZ2dsZT0nbW9kYWwnIGRhdGEtdGFyZ2V0PScjb3JkZXJEZXRhaWxNb2RhbCcgZGF0YS13aGF0ZXZlcj0iICsgcm93WydpZCddICsgIj7orqLljZXmmI7nu4Y8L2E+IjsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9IGVsc2Ugewo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICImbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDs8YSBocmVmPScjJyBvbmNsaWNrPSd2bS5jb21wbGV0ZSgiICsgcm93WydpZCddICsgIiknPuWujOaIkOa0vumAgTwvYT4iCg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3IgKGxldCBzdGF0dXNMaXN0S2V5IGluIHZtLnN0YXR1c0xpc3QpIHsKICAgICAgICAgICAgICAgICAgICAgICAgaWYgKHZhbHVlID09PSBzdGF0dXNMaXN0S2V5LmNvZGUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBzdGF0dXNMaXN0S2V5Lm5hbWU7CiAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuICI8YSBocmVmPScjJyBkYXRhLXRvZ2dsZT0nbW9kYWwnIGRhdGEtdGFyZ2V0PScjb3JkZXJEZXRhaWxNb2RhbCcgZGF0YS13aGF0ZXZlcj0iICsgcm93WydpZCddICsgIj7orqLljZXmmI7nu4Y8L2E+IjsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9IGVsc2Ugewo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuICI8YSAgaHJlZj0nIycgZGF0YS10b2dnbGU9J21vZGFsJyBkYXRhLXRhcmdldD0nI29yZGVyRGV0YWlsTW9kYWwnIGRhdGEtd2hhdGV2ZXI9IiArIHJvd1snaWQnXSArICI+6K6i5Y2V5piO57uGPC9hPiIgKwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICImbmJzcDsmbmJzcDsmbmJzcDsmbmJzcDs8YSBocmVmPScjJyBvbmNsaWNrPSd2bS5jb21wbGV0ZSgiICsgcm93WydpZCddICsgIiknPuWujOaIkOa0vumAgTwvYT4iCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAodmFsdWUgPT09ICflvoXmtL7pgIEnKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuICI8YSAgaHJlZj0nIycgZGF0YS10b2dnbGU9J21vZGFsJyBkYXRhLXRhcmdldD0nI29yZGVyRGV0YWlsTW9kYWwnIGRhdGEtd2hhdGV2ZXI9IiArIHJvd1snaWQnXSArICI+6K6i5Y2V5piO57uGPC9hPiIgKwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>,
-            {
-                label: '订单类型',
-                name: 'type',
-                index: 'type',
-                width: 80
-            }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAodmFsdWUgPT09ICflvoXmtL7pgIEnKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
