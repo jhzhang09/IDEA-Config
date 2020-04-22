@@ -106,6 +106,12 @@
         <mark key="^" line="61" column="68" />
         <mark key="." line="61" column="67" />
       </file>
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/test/java/com/tdr/russerver/RusServerApplicationTests.java" timestamp="1587536278867">
+        <mark key="[" line="39" column="40" />
+        <mark key="]" line="39" column="48" />
+        <mark key="." line="39" column="46" />
+        <mark key="^" line="48" column="82" />
+      </file>
       <file name="/Dummy.txt" timestamp="1587526015373">
         <mark key="[" line="0" column="0" />
       </file>
@@ -121,8 +127,8 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/lang/System.java" timestamp="1587462415783">
         <mark key="[" line="499" column="48" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/utils/ApduUtil.java" timestamp="1587465679841">
-        <mark key="[" line="52" column="67" />
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/utils/ApduUtil.java" timestamp="1587536560469">
+        <mark key="[" line="244" column="40" />
         <mark key="]" line="52" column="67" />
         <mark key="." line="52" column="67" />
         <mark key="^" line="51" column="98" />
@@ -168,18 +174,12 @@
         <mark key="]" line="105" column="0" />
         <mark key="." line="105" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/modules/business/service/impl/RefuelPositionServiceImpl.java" timestamp="1587454258264">
-        <mark key="[" line="72" column="74" />
-        <mark key="]" line="72" column="81" />
-        <mark key="." line="72" column="80" />
-        <mark key="^" line="72" column="81" />
-      </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/HELP.md" timestamp="1587527239206" />
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/handlerfactory/handler/impl/StartPayProcess.java" timestamp="1587454906830">
-        <mark key="[" line="132" column="42" />
-        <mark key="]" line="133" column="34" />
-        <mark key="." line="133" column="33" />
-        <mark key="^" line="133" column="34" />
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/handlerfactory/handler/impl/StartPayProcess.java" timestamp="1587536634770">
+        <mark key="[" line="170" column="40" />
+        <mark key="]" line="170" column="49" />
+        <mark key="." line="170" column="40" />
+        <mark key="^" line="170" column="40" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/socket/codec/RusMessageDecoder.java" timestamp="1587463144910">
         <mark key="[" line="24" column="19" />
@@ -294,19 +294,19 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>-</text>
+        <text>&quot;京A12345&quot;</text>
       </register>
       <register name="+" type="4">
         <text>tendyron!2#</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>&quot;20191019094039125&quot;</text>
       </register>
       <register name="/" type="4">
         <text>getCu</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5zcHJpbmctYm9vdC1zdGFydGVyLWZyZWVtYXJrZXI8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+      <register name="0" type="4">
+        <text>&quot;京A12345&quot;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IHN1bi5ybWkucnVudGltZS5Mb2c7Cg==</text>
