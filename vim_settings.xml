@@ -74,8 +74,8 @@
         <entry>%s/Root/Hsm/g</entry>
         <entry>w</entry>
         <entry>22,195 d</entry>
-        <entry>qa</entry>
         <entry>wa</entry>
+        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -332,7 +332,7 @@
         <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oYWJjQmFzZVJlc3BvbnNlLnRvU3RyaW5nKCkpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>wa</text>
+        <text>qa</text>
       </register>
     </registers>
   </component>
