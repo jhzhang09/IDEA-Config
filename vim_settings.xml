@@ -106,7 +106,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1588068129950">
+      <file name="/Dummy.txt" timestamp="1588831480825">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/pom.xml" timestamp="1587993620074">
@@ -133,12 +133,12 @@
         <mark key="." line="32" column="35" />
         <mark key="^" line="32" column="36" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/utils/ApduUtil.java" timestamp="1588067858558">
-        <mark key="'" line="318" column="19" />
-        <mark key="[" line="184" column="44" />
-        <mark key="]" line="204" column="10" />
-        <mark key="." line="204" column="9" />
-        <mark key="^" line="204" column="10" />
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/utils/ApduUtil.java" timestamp="1588831432631">
+        <mark key="'" line="319" column="19" />
+        <mark key="[" line="244" column="32" />
+        <mark key="]" line="244" column="94" />
+        <mark key="." line="244" column="93" />
+        <mark key="^" line="244" column="94" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/handlerfactory/handler/impl/PowerOnEventProcess.java" timestamp="1588043392530">
         <mark key="[" line="29" column="64" />
@@ -287,14 +287,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+      <register name="&quot;" type="4">
+        <text>StringUtils.leftPad(refuelPositionEntity.getCode(), 8, '0')</text>
       </register>
       <register name="+" type="4">
         <text>tendyron!2#</text>
       </register>
       <register name="-" type="4">
-        <text>refuelPositionEntity.getCode() + &quot;-&quot; + ApduUtil.getCarNoByHex(liteOrderSnHex)</text>
+        <text>StringUtils.leftPad(refuelPositionEntity.getCode(), 8, '0')</text>
       </register>
       <register name="/" type="4">
         <text>getcar</text>
