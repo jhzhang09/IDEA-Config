@@ -40,6 +40,8 @@
         <entry>getCu</entry>
         <entry>getcar</entry>
         <entry>Abccl</entry>
+        <entry>getseqN</entry>
+        <entry>getse</entry>
       </history-search>
       <history-cmd>
         <entry>105 co 94</entry>
@@ -122,11 +124,12 @@
         <mark key="^" line="62" column="21" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/handlerfactory/handler/impl/StartPayProcess.java" timestamp="1588840764793">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="11" />
-        <mark key="^" line="77" column="71" />
-        <mark key="." line="51" column="0" />
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/handlerfactory/handler/impl/StartPayProcess.java" timestamp="1588849766073">
+        <mark key="'" line="66" column="78" />
+        <mark key="[" line="109" column="75" />
+        <mark key="]" line="109" column="136" />
+        <mark key="^" line="109" column="136" />
+        <mark key="." line="109" column="135" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/socket/handle/PassThroughDecodeHandler.java" timestamp="1588835907780">
         <mark key="[" line="42" column="0" />
@@ -143,12 +146,12 @@
         <mark key="." line="36" column="0" />
         <mark key="^" line="77" column="26" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/utils/ApduUtil.java" timestamp="1588840418922">
-        <mark key="'" line="319" column="19" />
-        <mark key="[" line="419" column="47" />
-        <mark key="]" line="419" column="48" />
-        <mark key="." line="419" column="48" />
-        <mark key="^" line="419" column="24" />
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/utils/ApduUtil.java" timestamp="1588849281343">
+        <mark key="'" line="247" column="44" />
+        <mark key="[" line="505" column="0" />
+        <mark key="]" line="505" column="0" />
+        <mark key="." line="505" column="0" />
+        <mark key="^" line="145" column="26" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/aspect/Q8AuthAspect.java" timestamp="1588843275420">
         <mark key="[" line="85" column="67" />
@@ -173,18 +176,15 @@
         <mark key="^" line="29" column="11" />
         <mark key="." line="29" column="10" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/handlerfactory/handler/impl/StartRefuelProcess.java" timestamp="1588845553994">
-        <mark key="'" line="107" column="35" />
-        <mark key="[" line="98" column="74" />
-        <mark key="]" line="129" column="83" />
-        <mark key="." line="129" column="82" />
-        <mark key="^" line="129" column="83" />
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/handlerfactory/handler/impl/StartRefuelProcess.java" timestamp="1588849405154">
+        <mark key="'" line="108" column="35" />
+        <mark key="[" line="122" column="72" />
+        <mark key="]" line="72" column="26" />
+        <mark key="." line="72" column="25" />
+        <mark key="^" line="72" column="26" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="22" filename="$USER_HOME$/Workspaces/IdeaProjects/swagger/pom.xml" />
-      <jump line="109" column="35" filename="$USER_HOME$/Workspaces/IdeaProjects/swagger/pom.xml" />
-      <jump line="230" column="15" filename="$USER_HOME$/Workspaces/IdeaProjects/social-collect/src/main/resources/templates/index.html" />
       <jump line="664" column="69" filename="$USER_HOME$/Workspaces/IdeaProjects/social-collect/src/main/resources/templates/index.html" />
       <jump line="669" column="65" filename="$USER_HOME$/Workspaces/IdeaProjects/social-collect/src/main/resources/templates/index.html" />
       <jump line="720" column="69" filename="$USER_HOME$/Workspaces/IdeaProjects/social-collect/src/main/resources/templates/index.html" />
@@ -282,12 +282,15 @@
       <jump line="60" column="31" filename="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/handlerfactory/handler/impl/StartRefuelProcess.java" />
       <jump line="47" column="4" filename="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/handlerfactory/handler/impl/StartRefuelProcess.java" />
       <jump line="104" column="35" filename="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/handlerfactory/handler/impl/StartRefuelProcess.java" />
+      <jump line="147" column="76" filename="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/utils/ApduUtil.java" />
+      <jump line="247" column="44" filename="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/utils/ApduUtil.java" />
+      <jump line="63" column="78" filename="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/handlerfactory/handler/impl/StartPayProcess.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>handheldTerminalSn</text>
       </register>
       <register name="+" type="4">
         <text>tendyron!2#</text>
@@ -296,37 +299,37 @@
         <text>handheldTerminalSn</text>
       </register>
       <register name="/" type="4">
-        <text>Abccl</text>
+        <text>getse</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBROEF1dGgK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBROEF1dGgK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHRocm93cyBVbnN1cHBvcnRlZEVuY29kaW5nRXhjZXB0aW9uIHsKICAgICAgICBmaW5hbCBTdHJpbmcgcyA9ICIxNTg4ODQ1OTYxMTQxdUtOU0ZPIjsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oSGV4LnRvSGV4U3RyaW5nKHMuZ2V0Qnl0ZXMoKSkpOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihnZXRDYXJOb0J5SGV4KEhleC50b0hleFN0cmluZyhzLmdldEJ5dGVzKCkpKSk7CiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBROEF1dGgK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3RyaW5nQnVpbGRlci5hcHBlbmQoIjAxIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdHJpbmdCdWlsZGVyLmFwcGVuZCgiMDEiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc3RyaW5nQnVpbGRlci5hcHBlbmQoIjAxIik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgT2JqZWN0TWFwcGVyIG1hcHBlcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -335,9 +338,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>Abccl</last-search>
+      <last-search>getse</last-search>
       <last-offset />
-      <last-pattern>Abccl</last-pattern>
+      <last-pattern>getse</last-pattern>
       <last-replace>Hsm</last-replace>
       <last-substitute>getCu</last-substitute>
       <last-dir>1</last-dir>
