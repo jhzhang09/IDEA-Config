@@ -109,12 +109,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/abcapi/client/AbcApiClient.java" timestamp="1588917221789">
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/abcapi/client/AbcApiClient.java" timestamp="1588934566968">
         <mark key="'" line="61" column="0" />
-        <mark key="[" line="329" column="12" />
-        <mark key="]" line="329" column="16" />
-        <mark key="." line="329" column="15" />
-        <mark key="^" line="329" column="16" />
+        <mark key="[" line="83" column="13" />
+        <mark key="]" line="83" column="21" />
+        <mark key="." line="83" column="20" />
+        <mark key="^" line="83" column="21" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/resources/application-prod.yml" timestamp="1588908909632">
         <mark key="[" line="58" column="0" />
@@ -141,12 +141,13 @@
         <mark key="^" line="5" column="25" />
         <mark key="." line="5" column="25" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/handlerfactory/handler/impl/StartPayProcess.java" timestamp="1588926060690">
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/socket/handle/EncryptHandler.java" timestamp="1588933018106" />
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/handlerfactory/handler/impl/StartPayProcess.java" timestamp="1588934736172">
         <mark key="'" line="68" column="78" />
-        <mark key="[" line="147" column="0" />
-        <mark key="]" line="147" column="0" />
-        <mark key="^" line="152" column="66" />
-        <mark key="." line="147" column="0" />
+        <mark key="[" line="168" column="0" />
+        <mark key="]" line="168" column="0" />
+        <mark key="^" line="168" column="0" />
+        <mark key="." line="168" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/test/java/com/tdr/russerver/RusServerApplicationTests.java" timestamp="1588852227524" />
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/socket/handle/TransactionServerHandler.java" timestamp="1588917489366">
@@ -155,7 +156,7 @@
         <mark key="^" line="88" column="90" />
         <mark key="." line="88" column="89" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588928641318">
+      <file name="/Dummy.txt" timestamp="1588934825970">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/handlerfactory/handler/impl/UndoPayProcess.java" timestamp="1588928055932">
@@ -164,12 +165,12 @@
         <mark key="." line="75" column="42" />
         <mark key="^" line="75" column="43" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/utils/ApduUtil.java" timestamp="1588928275451">
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/utils/ApduUtil.java" timestamp="1588934396187">
         <mark key="'" line="304" column="16" />
-        <mark key="[" line="410" column="0" />
-        <mark key="]" line="414" column="52" />
-        <mark key="." line="413" column="35" />
-        <mark key="^" line="413" column="35" />
+        <mark key="[" line="286" column="0" />
+        <mark key="]" line="286" column="0" />
+        <mark key="." line="286" column="0" />
+        <mark key="^" line="286" column="34" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/aspect/Q8AuthAspect.java" timestamp="1588843275420">
         <mark key="[" line="85" column="67" />
@@ -189,6 +190,11 @@
         <mark key="[" line="68" column="42" />
         <mark key="]" line="68" column="43" />
         <mark key="." line="68" column="43" />
+      </file>
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/handlerfactory/handler/impl/GetCarInfoProcess.java" timestamp="1588933955782">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/handlerfactory/handler/impl/StartRefuelProcess.java" timestamp="1588849405154">
         <mark key="'" line="108" column="35" />
@@ -304,47 +310,47 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>ApduUtil.getCarNoByHex(liteOrderSnHex)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="+" type="4">
         <text>tendyron!2#</text>
       </register>
       <register name="-" type="4">
-        <text>ApduUtil.getCarNoByHex(liteOrderSnHex)</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
         <text>getse</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBGSVhNRTog55So5LqO5rWL6K+V5L+u5pS5CiAgICAgICAgICAgICAgICAgICAgTGlzdDxTdHJpbmc+IHRlc3RDYXJObyA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgICAgICAgICAgICAgIHRlc3RDYXJOby5hZGQoIua1mUE4NzA4NyIpOwogICAgICAgICAgICAgICAgICAgIHRlc3RDYXJOby5hZGQoIum7kUFGNjY1NSIpOwogICAgICAgICAgICAgICAgICAgIGlmICh0ZXN0Q2FyTm8uY29udGFpbnMoY2FyTm8pKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3JkZXJFbnRpdHkuc2V0U3RhdHVzKEJ1c2luZXNzQ29uc3RhbnRzLk9SREVSX1NUQVRVU19BQkNfUEFZX1NVQ0NFU1MpOwogICAgICAgICAgICBvcmRlckVudGl0eS5zZXRQYXlUaW1lKG5ldyBEYXRlKCkpOwogICAgICAgICAgICByZWZ1ZWxQb3NpdGlvbkVudGl0eS5zZXRTdGF0dXMoQnVzaW5lc3NDb25zdGFudHMuUkVGVUVMX1BPU0lUSU9OX1NUQVRVU19TVUNDRVNTKTsKICAgICAgICAgICAgcmVmdWVsUG9zaXRpb25FbnRpdHkuc2V0UGF5VGltZShuZXcgRGF0ZSgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiT3JkZXIgbGl0ZSBzbjoge30hIiwgQXBkdVV0aWwuZ2V0Q2FyTm9CeUhleChsaXRlT3JkZXJTbkhleCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgb3JkZXJTbiA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gRklYTUU6IOWMuuWIhumdnuetvue6puWuouaIt+WSjOS9memineS4jei2s+eahOaDheWGtQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBGSVhNRTog55So5LqO5rWL6K+V5L+u5pS5Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0Q2FyTm8uYWRkKCLpu5FBRjY2NTUiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGtleS1zdG9yZS1wYXNzd29yZDogYWJjZDEyMzQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gRklYTUU6IOWMuuWIhumdnuetvue6puWuouaIt+WSjOS9memineS4jei2s+eahOaDheWGtQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGtleS1zdG9yZS1wYXNzd29yZDogYWJjZDEyMzQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGtleS1zdG9yZS1wYXNzd29yZDogJ2FiY2QxMjM0OjExMTEyMjIyJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBmeC1maWxlOiAxMDM4ODIyMDAxMTAwMzkucGZ4Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oIkFiYyBvbmxpbmUgcGF5IGVycm9yISIpOwogICAgICAgICAgICBvcmRlckVudGl0eS5zZXRTdGF0dXMoQnVzaW5lc3NDb25zdGFudHMuT1JERVJfU1RBVFVTX0FCQ19QQVlfRVJST1IpOwoKICAgICAgICAgICAgLy8gRklYTUU6IOWMuuWIhumdnuetvue6puWuouaIt+WSjOS9memineS4jei2s+eahOaDheWGtQogICAgICAgICAgICBvcmRlckVudGl0eS5zZXRUeXBlKEJ1c2luZXNzQ29uc3RhbnRzLlJFRlVFTF9QT1NJVElPTl9TVEFUVVNfRkFJTF9VTlNJR05FRCk7CiAgICAgICAgICAgIHJlZnVlbFBvc2l0aW9uRW50aXR5LnNldFN0YXR1cyhCdXNpbmVzc0NvbnN0YW50cy5SRUZVRUxfUE9TSVRJT05fU1RBVFVTX0ZBSUxfVU5TSUdORUQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhcnRuZXItaWQ6IDEwMzg4MjIwMDExMDAzOQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3JkZXJFbnRpdHkuc2V0U3RhdHVzKEJ1c2luZXNzQ29uc3RhbnRzLk9SREVSX1NUQVRVU19BQkNfUEFZX1NVQ0NFU1MpOwogICAgICAgICAgICBvcmRlckVudGl0eS5zZXRQYXlUaW1lKG5ldyBEYXRlKCkpOwogICAgICAgICAgICByZWZ1ZWxQb3NpdGlvbkVudGl0eS5zZXRTdGF0dXMoQnVzaW5lc3NDb25zdGFudHMuUkVGVUVMX1BPU0lUSU9OX1NUQVRVU19TVUNDRVNTKTsKICAgICAgICAgICAgcmVmdWVsUG9zaXRpb25FbnRpdHkuc2V0UGF5VGltZShuZXcgRGF0ZSgpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
