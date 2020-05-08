@@ -141,7 +141,7 @@
         <mark key="^" line="62" column="21" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/handlerfactory/handler/impl/StartPayProcess.java" timestamp="1588925033603">
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/handlerfactory/handler/impl/StartPayProcess.java" timestamp="1588926060690">
         <mark key="'" line="68" column="78" />
         <mark key="[" line="147" column="0" />
         <mark key="]" line="147" column="0" />
@@ -158,11 +158,11 @@
       <file name="/Dummy.txt" timestamp="1588922458995">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/handlerfactory/handler/impl/UndoPayProcess.java" timestamp="1588925058917">
-        <mark key="[" line="71" column="79" />
-        <mark key="]" line="71" column="70" />
-        <mark key="." line="71" column="69" />
-        <mark key="^" line="71" column="70" />
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/handlerfactory/handler/impl/UndoPayProcess.java" timestamp="1588926426458">
+        <mark key="[" line="74" column="49" />
+        <mark key="]" line="75" column="43" />
+        <mark key="." line="75" column="42" />
+        <mark key="^" line="75" column="43" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/utils/ApduUtil.java" timestamp="1588922287303">
         <mark key="'" line="304" column="16" />
@@ -304,14 +304,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBGSVhNRTog55So5LqO5rWL6K+V5L+u5pS5Cg==</text>
+      <register name="&quot;" type="4">
+        <text>ApduUtil.getCarNoByHex(liteOrderSnHex)</text>
       </register>
       <register name="+" type="4">
         <text>tendyron!2#</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>ApduUtil.getCarNoByHex(liteOrderSnHex)</text>
       </register>
       <register name="/" type="4">
         <text>getse</text>
@@ -320,25 +320,25 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBGSVhNRTog55So5LqO5rWL6K+V5L+u5pS5CiAgICAgICAgICAgICAgICAgICAgTGlzdDxTdHJpbmc+IHRlc3RDYXJObyA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgICAgICAgICAgICAgIHRlc3RDYXJOby5hZGQoIua1mUE4NzA4NyIpOwogICAgICAgICAgICAgICAgICAgIHRlc3RDYXJOby5hZGQoIum7kUFGNjY1NSIpOwogICAgICAgICAgICAgICAgICAgIGlmICh0ZXN0Q2FyTm8uY29udGFpbnMoY2FyTm8pKSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBGSVhNRTog55So5LqO5rWL6K+V5L+u5pS5Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiT3JkZXIgbGl0ZSBzbjoge30hIiwgQXBkdVV0aWwuZ2V0Q2FyTm9CeUhleChsaXRlT3JkZXJTbkhleCkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXN0Q2FyTm8uYWRkKCLpu5FBRjY2NTUiKTsK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgb3JkZXJTbiA9IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGtleS1zdG9yZS1wYXNzd29yZDogYWJjZDEyMzQK</text>
+        <text encoding="base64">ICAgICAgICAvLyBGSVhNRTog55So5LqO5rWL6K+V5L+u5pS5Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGtleS1zdG9yZS1wYXNzd29yZDogYWJjZDEyMzQK</text>
+        <text encoding="base64">ICAgICAgICB0ZXN0Q2FyTm8uYWRkKCLpu5FBRjY2NTUiKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGtleS1zdG9yZS1wYXNzd29yZDogJ2FiY2QxMjM0OjExMTEyMjIyJwo=</text>
+        <text encoding="base64">ICAgIGtleS1zdG9yZS1wYXNzd29yZDogYWJjZDEyMzQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBmeC1maWxlOiAxMDM4ODIyMDAxMTAwMzkucGZ4Cg==</text>
+        <text encoding="base64">ICAgIGtleS1zdG9yZS1wYXNzd29yZDogYWJjZDEyMzQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhcnRuZXItaWQ6IDEwMzg4MjIwMDExMDAzOQo=</text>
+        <text encoding="base64">ICAgIGtleS1zdG9yZS1wYXNzd29yZDogJ2FiY2QxMjM0OjExMTEyMjIyJwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIHBmeC1maWxlOiAxMDM4ODIyMDAxMTAwMzkucGZ4Cg==</text>
