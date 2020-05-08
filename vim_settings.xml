@@ -109,12 +109,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/abcapi/client/AbcApiClient.java" timestamp="1588909100541">
-        <mark key="'" line="112" column="38" />
-        <mark key="[" line="102" column="42" />
-        <mark key="]" line="104" column="53" />
-        <mark key="." line="104" column="52" />
-        <mark key="^" line="104" column="53" />
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/abcapi/client/AbcApiClient.java" timestamp="1588917221789">
+        <mark key="'" line="61" column="0" />
+        <mark key="[" line="329" column="12" />
+        <mark key="]" line="329" column="16" />
+        <mark key="." line="329" column="15" />
+        <mark key="^" line="329" column="16" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/resources/application-prod.yml" timestamp="1588908909632">
         <mark key="[" line="58" column="0" />
@@ -149,7 +149,13 @@
         <mark key="." line="109" column="135" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/test/java/com/tdr/russerver/RusServerApplicationTests.java" timestamp="1588852227524" />
-      <file name="/Dummy.txt" timestamp="1588909202482">
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/socket/handle/TransactionServerHandler.java" timestamp="1588917489366">
+        <mark key="[" line="87" column="53" />
+        <mark key="]" line="88" column="90" />
+        <mark key="^" line="88" column="90" />
+        <mark key="." line="88" column="89" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1588917854160">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/handlerfactory/handler/impl/UndoPayProcess.java" timestamp="1588851910169">
@@ -187,11 +193,6 @@
         <mark key="]" line="68" column="43" />
         <mark key="." line="68" column="43" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/handlerfactory/handler/impl/GetLogProcess.java" timestamp="1588840746826">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="11" />
-        <mark key="." line="37" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/handlerfactory/handler/impl/StartRefuelProcess.java" timestamp="1588849405154">
         <mark key="'" line="108" column="35" />
         <mark key="[" line="122" column="72" />
@@ -202,7 +203,6 @@
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/common/constants/BusinessConstants.java" timestamp="1588852941912" />
     </filemarks>
     <jumps>
-      <jump line="945" column="52" filename="$USER_HOME$/Workspaces/IdeaProjects/social-collect/src/main/resources/templates/index.html" />
       <jump line="946" column="65" filename="$USER_HOME$/Workspaces/IdeaProjects/social-collect/src/main/resources/templates/index.html" />
       <jump line="1615" column="40" filename="$USER_HOME$/Workspaces/IdeaProjects/social-collect/src/main/resources/templates/index.html" />
       <jump line="1622" column="40" filename="$USER_HOME$/Workspaces/IdeaProjects/social-collect/src/main/resources/templates/index.html" />
@@ -302,18 +302,19 @@
       <jump line="304" column="16" filename="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/utils/ApduUtil.java" />
       <jump line="298" column="31" filename="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/abcapi/client/AbcApiClient.java" />
       <jump line="112" column="38" filename="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/abcapi/client/AbcApiClient.java" />
+      <jump line="61" column="0" filename="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/abcapi/client/AbcApiClient.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>NoSuchAlgorithmException | JsonProcessingException | InvalidKeyException | SignatureException | TdrException e</text>
+        <text>debug</text>
       </register>
       <register name="+" type="4">
         <text>tendyron!2#</text>
       </register>
       <register name="-" type="4">
-        <text>NoSuchAlgorithmException | JsonProcessingException | InvalidKeyException | SignatureException | TdrException e</text>
+        <text>debug</text>
       </register>
       <register name="/" type="4">
         <text>getse</text>
