@@ -142,12 +142,12 @@
         <mark key="." line="5" column="25" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/socket/handle/EncryptHandler.java" timestamp="1588933018106" />
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/handlerfactory/handler/impl/StartPayProcess.java" timestamp="1588934736172">
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/handlerfactory/handler/impl/StartPayProcess.java" timestamp="1589005533947">
         <mark key="'" line="68" column="78" />
-        <mark key="[" line="168" column="0" />
-        <mark key="]" line="168" column="0" />
-        <mark key="^" line="168" column="0" />
-        <mark key="." line="168" column="0" />
+        <mark key="[" line="75" column="34" />
+        <mark key="]" line="76" column="26" />
+        <mark key="^" line="76" column="26" />
+        <mark key="." line="76" column="25" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/test/java/com/tdr/russerver/RusServerApplicationTests.java" timestamp="1588852227524" />
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/socket/handle/TransactionServerHandler.java" timestamp="1588917489366">
