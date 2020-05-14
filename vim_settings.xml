@@ -113,26 +113,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/modules/sys/controller/SysDeptController.java" timestamp="1589368799039">
-        <mark key="[" line="151" column="0" />
-        <mark key="]" line="160" column="9" />
-        <mark key="." line="151" column="0" />
-        <mark key="^" line="133" column="71" />
-      </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/cameraapi/consumer/handlerfactory/handler/AbstractConsumerHandler.java" timestamp="1589372404663" />
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/common/exception/BaseExceptionHandler.java" timestamp="1589369146556">
-        <mark key="[" line="106" column="49" />
-        <mark key="]" line="106" column="58" />
-        <mark key="^" line="106" column="58" />
-        <mark key="." line="106" column="57" />
-      </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/abcapi/filter/WrappedRequest.java" timestamp="1589372779066">
-        <mark key="[" line="77" column="56" />
-        <mark key="]" line="79" column="41" />
-        <mark key="^" line="79" column="41" />
-        <mark key="." line="79" column="40" />
-      </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/cameraapi/vo/request/ResultBean.java" timestamp="1589372383144" />
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/abcapi/controller/ChargeBillController.java" timestamp="1589423594727">
         <mark key="[" line="37" column="42" />
         <mark key="]" line="37" column="42" />
@@ -142,6 +122,12 @@
       <file name="/Dummy.txt" timestamp="1589371465109">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/modules/sys/controller/SysDeptController.java" timestamp="1589368799039">
+        <mark key="[" line="151" column="0" />
+        <mark key="]" line="160" column="9" />
+        <mark key="." line="151" column="0" />
+        <mark key="^" line="133" column="71" />
+      </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/resources/statics/js/modules/sys/dept.js" timestamp="1589370576319">
         <mark key="'" line="19" column="8" />
         <mark key="[" line="63" column="0" />
@@ -149,11 +135,40 @@
         <mark key="^" line="72" column="37" />
         <mark key="." line="63" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/common/exception/BaseExceptionHandler.java" timestamp="1589369146556">
+        <mark key="[" line="106" column="49" />
+        <mark key="]" line="106" column="58" />
+        <mark key="^" line="106" column="58" />
+        <mark key="." line="106" column="57" />
+      </file>
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/resources/application-test.yml" timestamp="1589425411919">
+        <mark key="[" line="61" column="48" />
+        <mark key="]" line="61" column="65" />
+        <mark key="^" line="61" column="65" />
+        <mark key="." line="61" column="64" />
+      </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/resources/statics/js/modules/business/order.js" timestamp="1589372063524">
         <mark key="[" line="60" column="16" />
         <mark key="]" line="58" column="26" />
         <mark key="." line="58" column="25" />
         <mark key="^" line="58" column="26" />
+      </file>
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/cameraapi/vo/request/KeepAliveBean.java" timestamp="1589425678148">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/abcapi/filter/WrappedRequest.java" timestamp="1589372779066">
+        <mark key="[" line="77" column="56" />
+        <mark key="]" line="79" column="41" />
+        <mark key="^" line="79" column="41" />
+        <mark key="." line="79" column="40" />
+      </file>
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/cameraapi/vo/request/RECTBean.java" timestamp="1589425649455">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="7" />
+        <mark key="^" line="11" column="7" />
+        <mark key="." line="11" column="6" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/abcapi/filter/EncryptFilterAdvice.java" timestamp="1589372856750">
         <mark key="[" line="2" column="0" />
@@ -165,6 +180,12 @@
         <mark key="]" line="44" column="2" />
         <mark key="." line="44" column="2" />
         <mark key="^" line="49" column="8" />
+      </file>
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/cameraapi/controller/CameraInterfaceController.java" timestamp="1589425870924">
+        <mark key="[" line="93" column="26" />
+        <mark key="]" line="97" column="74" />
+        <mark key="." line="97" column="73" />
+        <mark key="^" line="97" column="74" />
       </file>
     </filemarks>
     <jumps>
@@ -273,46 +294,46 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>o</text>
+        <text>)</text>
       </register>
       <register name="+" type="4">
         <text>tendyron!2#</text>
       </register>
       <register name="-" type="4">
-        <text>o</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>ispar</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBSZXNwb25zZVN0YXR1cyhIdHRwU3RhdHVzLklOVEVSTkFMX1NFUlZFUl9FUlJPUikKICAgIHB1YmxpYyBCYXNlUmVzdWx0IGhhbmRsZUV4Y2VwdGlvbihFeGNlcHRpb24gZSkgdGhyb3dzIEpzb25Qcm9jZXNzaW5nRXhjZXB0aW9uIHsKICAgICAgICBsb2cuZXJyb3IoIkNhdGNoIGEgc3lzdGVtIGV4Y2VwdGlvbjoge30hIiwgZS5nZXRNZXNzYWdlKCksIGUpOwogICAgICAgIEJhc2VSZXN1bHQgYmFzZVJlc3VsdCA9IEJhc2VSZXN1bHQuZXJyb3IoZS5nZXRNZXNzYWdlKCkpOwogICAgICAgIGxvZy5lcnJvcigiRXJyb3IgcmVzcG9uc2UgY29udGVudCBpczoge30hIiwKICAgICAgICAgICAgICAgIE9CSkVDVF9NQVBQRVIud3JpdGVyV2l0aERlZmF1bHRQcmV0dHlQcmludGVyKCkud3JpdGVWYWx1ZUFzU3RyaW5nKGJhc2VSZXN1bHQpKTsKICAgICAgICByZXR1cm4gYmFzZVJlc3VsdDsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgY2FtZXJhU24gPSBrZWVwQWxpdmVSZXF1ZXN0LmdldEtlZXBBbGl2ZSgpLmdldFNOKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodXNlckFjY291bnRFbnRpdHkgPT0gbnVsbCkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgY2FtZXJhU24gPSBrZWVwQWxpdmVSZXF1ZXN0LmdldEtlZXBBbGl2ZSgpLmdldFNOKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzcEJpbGwuc2V0QmFsYW5jZSh1c2VyQWNjb3VudEVudGl0eS5nZXRCYWxhbmNlKCkgKyAiIik7Cg==</text>
+        <text encoding="base64">ICogVE9ET2RkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzcEJpbGwuc2V0QmFsYW5jZSh1c2VyQWNjb3VudEVudGl0eS5nZXRCYWxhbmNlKCkgKyAiIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAodXNlckFjY291bnRFbnRpdHkgPT0gbnVsbCkgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzcEluZm8uc2V0Q3VzdE5hbWUodXNlckFjY291bnRFbnRpdHkuZ2V0TmFtZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnVzZXJBY2NvdW50U2VydmljZSA9IHVzZXJBY2NvdW50U2VydmljZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzcEJpbGwuc2V0QmFsYW5jZSh1c2VyQWNjb3VudEVudGl0eS5nZXRCYWxhbmNlKCkgKyAiIik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFF1ZXJ5QmlsbENvbnRyb2xsZXIoVXNlckFjY291bnRTZXJ2aWNlIHVzZXJBY2NvdW50U2VydmljZSkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzcEJpbGwuc2V0QmFsYW5jZSh1c2VyQWNjb3VudEVudGl0eS5nZXRCYWxhbmNlKCkgKyAiIik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -327,7 +348,7 @@
       <last-replace>Hsm</last-replace>
       <last-substitute>getCu</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
