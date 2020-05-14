@@ -1,4 +1,7 @@
 <keymap version="1" name="IntelliJ IDEA Classic copy" parent="Mac OS X">
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="meta alt slash" />
+  </action>
   <action id="Refactorings.QuickListPopupAction">
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
