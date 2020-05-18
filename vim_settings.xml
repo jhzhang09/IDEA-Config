@@ -134,11 +134,11 @@
         <mark key="[" line="58" column="0" />
         <mark key="]" line="64" column="31" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/utils/ApduUtil.java" timestamp="1589785864143">
-        <mark key="[" line="399" column="0" />
-        <mark key="]" line="402" column="45" />
-        <mark key="^" line="402" column="42" />
-        <mark key="." line="400" column="0" />
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/utils/ApduUtil.java" timestamp="1589786895232">
+        <mark key="[" line="186" column="22" />
+        <mark key="]" line="198" column="40" />
+        <mark key="^" line="198" column="40" />
+        <mark key="." line="198" column="39" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/common/config/FilterRegisterConfig.java" timestamp="1589438126871">
         <mark key="[" line="65" column="41" />
@@ -190,10 +190,10 @@
         <mark key="." line="44" column="2" />
         <mark key="^" line="49" column="8" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/handlerfactory/handler/impl/StartPayProcess.java" timestamp="1589785912023">
-        <mark key="[" line="194" column="12" />
-        <mark key="]" line="194" column="53" />
-        <mark key="." line="194" column="52" />
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/handlerfactory/handler/impl/StartPayProcess.java" timestamp="1589786018956">
+        <mark key="[" line="205" column="0" />
+        <mark key="]" line="205" column="0" />
+        <mark key="." line="205" column="0" />
         <mark key="^" line="194" column="53" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/cameraapi/controller/CameraInterfaceController.java" timestamp="1589425870924">
@@ -308,8 +308,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>abcSeqNoResponse.getResultCode().equals(AbcApiClient.ABC_RESULT_CODE_SUCCESS)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB9IGVsc2UgaWYgKG9yZGVyRW50aXR5LmdldENhck5vKCkuZXF1YWxzKCLmtZlBSjhKODQiKSkgewogICAgICAgICAgICBsb2cuaW5mbygiQWJjIG9ubGluZSBwYXkgZXJyb3IsIHVuIHNpZ24hIik7CiAgICAgICAgICAgIG9yZGVyRW50aXR5LnNldFN0YXR1cyhCdXNpbmVzc0NvbnN0YW50cy5PUkRFUl9TVEFUVVNfQUJDX1BBWV9FUlJPUik7CiAgICAgICAgICAgIG9yZGVyRW50aXR5LnNldFR5cGUoQnVzaW5lc3NDb25zdGFudHMuT1JERVJfVFlQRV9VTl9TSUdOKTsKICAgICAgICAgICAgcmVmdWVsUG9zaXRpb25FbnRpdHkuc2V0U3RhdHVzKEJ1c2luZXNzQ29uc3RhbnRzLlJFRlVFTF9QT1NJVElPTl9TVEFUVVNfRkFJTF9VTlNJR05FRCk7Cg==</text>
       </register>
       <register name="+" type="4">
         <text>tendyron!2#</text>
@@ -324,31 +324,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMaXN0PFN0cmluZz4gdGVzdENhck5vID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgICAgICAgICAgICAgdGVzdENhck5vLmFkZCgi5rWZQTg3MDg3Iik7CiAgICAgICAgICAgICAgICAgICAgdGVzdENhck5vLmFkZCgi5rWZQUo4SjgyIik7CiAgICAgICAgICAgICAgICAgICAgdGVzdENhck5vLmFkZCgi5rWZQUo4SjgzIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2UgaWYgKG9yZGVyRW50aXR5LmdldENhck5vKCkuZXF1YWxzKCLmtZlBSjhKODQiKSkgewogICAgICAgICAgICBsb2cuaW5mbygiQWJjIG9ubGluZSBwYXkgZXJyb3IsIHVuIHNpZ24hIik7CiAgICAgICAgICAgIG9yZGVyRW50aXR5LnNldFN0YXR1cyhCdXNpbmVzc0NvbnN0YW50cy5PUkRFUl9TVEFUVVNfQUJDX1BBWV9FUlJPUik7CiAgICAgICAgICAgIG9yZGVyRW50aXR5LnNldFR5cGUoQnVzaW5lc3NDb25zdGFudHMuT1JERVJfVFlQRV9VTl9TSUdOKTsKICAgICAgICAgICAgcmVmdWVsUG9zaXRpb25FbnRpdHkuc2V0U3RhdHVzKEJ1c2luZXNzQ29uc3RhbnRzLlJFRlVFTF9QT1NJVElPTl9TVEFUVVNfRkFJTF9VTlNJR05FRCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVmdWVsUG9zaXRpb25FbnRpdHkuc2V0U3RhdHVzKEJ1c2luZXNzQ29uc3RhbnRzLlJFRlVFTF9QT1NJVElPTl9TVEFUVVNfRkFJTF9VTlNJR05FRCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3JkZXJFbnRpdHkuc2V0VHlwZShCdXNpbmVzc0NvbnN0YW50cy5PUkRFUl9UWVBFX0VSUk9SKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVmdWVsUG9zaXRpb25FbnRpdHkuc2V0U3RhdHVzKEJ1c2luZXNzQ29uc3RhbnRzLlJFRlVFTF9QT1NJVElPTl9TVEFUVVNfRkFJTF9VTlNJR05FRCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3JkZXJFbnRpdHkuc2V0U3RhdHVzKEJ1c2luZXNzQ29uc3RhbnRzLk9SREVSX1NUQVRVU19BQkNfUEFZX0VSUk9SKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3JkZXJFbnRpdHkuc2V0VHlwZShCdXNpbmVzc0NvbnN0YW50cy5PUkRFUl9UWVBFX0VSUk9SKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oIkFiYyBvbmxpbmUgcGF5IGVycm9yISIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3JkZXJFbnRpdHkuc2V0U3RhdHVzKEJ1c2luZXNzQ29uc3RhbnRzLk9SREVSX1NUQVRVU19BQkNfUEFZX0VSUk9SKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2UgaWYgKGFiY1NlcU5vUmVzcG9uc2UuZ2V0UmVzdWx0Q29kZSgpLmVxdWFscyhBYmNBcGlDbGllbnQuQUJDX1JFU1VMVF9DT0RFX0VSUk9SX1VOX1NJR04pKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oIkFiYyBvbmxpbmUgcGF5IGVycm9yISIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2UgaWYgKGFiY1NlcU5vUmVzcG9uc2UuZ2V0UmVzdWx0Q29kZSgpLmVxdWFscyhBYmNBcGlDbGllbnQuQUJDX1JFU1VMVF9DT0RFX0VSUk9SX1VOX1NJR04pKSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
