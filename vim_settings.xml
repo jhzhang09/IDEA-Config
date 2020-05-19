@@ -136,15 +136,14 @@
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/modules/business/controller/BluetoothGatewayController.java" timestamp="1589869978079">
         <mark key="[" line="42" column="7" />
       </file>
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/cameraapi/wait/WaiterPool.java" timestamp="1589889395559">
+        <mark key="[" line="16" column="60" />
+        <mark key="]" line="16" column="86" />
+        <mark key="." line="16" column="86" />
+      </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/resources/application-dev.yml" timestamp="1589784927146">
         <mark key="[" line="58" column="0" />
         <mark key="]" line="64" column="31" />
-      </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/common/config/FilterRegisterConfig.java" timestamp="1589438126871">
-        <mark key="[" line="65" column="41" />
-        <mark key="]" line="65" column="44" />
-        <mark key="^" line="65" column="44" />
-        <mark key="." line="65" column="43" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/modules/business/controller/CameraController.java" timestamp="1589874639856" />
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/resources/statics/js/modules/business/refuelposition.js" timestamp="1589531480921" />
@@ -156,6 +155,9 @@
         <mark key="." line="95" column="55" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/handlerfactory/handler/impl/StartPayProcess.java" timestamp="1589884749488" />
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/cameraapi/consumer/handlerfactory/handler/camera/CameraUploadConsumeHandler.java" timestamp="1589889938394">
+        <mark key="[" line="30" column="97" />
+      </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/abcapi/controller/ChargeBillController.java" timestamp="1589446131684">
         <mark key="[" line="37" column="42" />
         <mark key="]" line="37" column="42" />
@@ -171,11 +173,11 @@
         <mark key="^" line="12" column="16" />
         <mark key="." line="12" column="15" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/utils/ApduUtil.java" timestamp="1589886729773">
-        <mark key="[" line="294" column="0" />
-        <mark key="]" line="294" column="0" />
-        <mark key="^" line="422" column="42" />
-        <mark key="." line="294" column="0" />
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/utils/ApduUtil.java" timestamp="1589889716194">
+        <mark key="[" line="367" column="95" />
+        <mark key="]" line="381" column="84" />
+        <mark key="^" line="381" column="84" />
+        <mark key="." line="381" column="83" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/resources/templates/modules/business/refuelposition.html" timestamp="1589531464262">
         <mark key="'" line="83" column="17" />
@@ -199,12 +201,6 @@
         <mark key="]" line="44" column="2" />
         <mark key="." line="44" column="2" />
         <mark key="^" line="49" column="8" />
-      </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/cameraapi/controller/CameraInterfaceController.java" timestamp="1589425870924">
-        <mark key="[" line="93" column="26" />
-        <mark key="]" line="97" column="74" />
-        <mark key="." line="97" column="73" />
-        <mark key="^" line="97" column="74" />
       </file>
     </filemarks>
     <jumps>
@@ -313,13 +309,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>192.168.0.231</text>
+        <text>n</text>
       </register>
       <register name="+" type="4">
         <text>tendyron!2#</text>
       </register>
       <register name="-" type="4">
-        <text>192.168.0.231</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
         <text>active</text>
