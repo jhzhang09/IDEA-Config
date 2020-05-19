@@ -124,6 +124,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/abcapi/client/AbcApiClient.java" timestamp="1589525612193" />
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/resources/application-prod.yml" timestamp="1589868975758">
+        <mark key="[" line="7" column="36" />
+        <mark key="]" line="38" column="19" />
+        <mark key="^" line="38" column="19" />
+        <mark key="." line="38" column="18" />
+      </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/resources/application.yml" timestamp="1589514261576">
         <mark key="[" line="12" column="15" />
         <mark key="]" line="12" column="16" />
@@ -154,12 +160,6 @@
         <mark key="]" line="63" column="45" />
         <mark key="^" line="61" column="65" />
         <mark key="." line="63" column="45" />
-      </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/resources/statics/js/modules/business/order.js" timestamp="1589372063524">
-        <mark key="[" line="60" column="16" />
-        <mark key="]" line="58" column="26" />
-        <mark key="." line="58" column="25" />
-        <mark key="^" line="58" column="26" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/cameraapi/vo/request/KeepAliveBean.java" timestamp="1589425678148">
         <mark key="[" line="10" column="0" />
