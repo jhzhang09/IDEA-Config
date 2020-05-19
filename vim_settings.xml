@@ -119,8 +119,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/screentest/src/com/tdr/screen/test/Test.java" timestamp="1589880772920">
-        <mark key="^" line="12" column="4" />
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/screentest/src/com/tdr/screen/test/Test.java" timestamp="1589888363178">
+        <mark key="[" line="207" column="36" />
+        <mark key="]" line="210" column="40" />
+        <mark key="^" line="210" column="40" />
+        <mark key="." line="210" column="39" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/abcapi/client/AbcApiClient.java" timestamp="1589525612193" />
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/resources/application-prod.yml" timestamp="1589873068492">
@@ -309,14 +312,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmluZm8oInJlZnVlbCBwb3NpdGlvbjoge30gc3RhdHVlcyBlcnJvciwgc3RhdHVzOiB7fSEiLCByZWZ1ZWxQb3NpdGlvbkVudGl0eS5nZXRDb2RlKCksCiAgICAgICAgICAgICAgICAgICAgcmVmdWVsUG9zaXRpb25FbnRpdHkuZ2V0U3RhdHVzKCkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>192.168.0.231</text>
       </register>
       <register name="+" type="4">
         <text>tendyron!2#</text>
       </register>
       <register name="-" type="4">
-        <text>浙AJ8J84</text>
+        <text>192.168.0.231</text>
       </register>
       <register name="/" type="4">
         <text>active</text>
