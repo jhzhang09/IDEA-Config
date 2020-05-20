@@ -158,12 +158,6 @@
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/cameraapi/consumer/handlerfactory/handler/camera/CameraUploadConsumeHandler.java" timestamp="1589889938394">
         <mark key="[" line="30" column="97" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/abcapi/controller/ChargeBillController.java" timestamp="1589446131684">
-        <mark key="[" line="37" column="42" />
-        <mark key="]" line="37" column="42" />
-        <mark key="^" line="24" column="32" />
-        <mark key="." line="37" column="42" />
-      </file>
       <file name="/Dummy.txt" timestamp="1589887020504">
         <mark key="[" line="0" column="0" />
       </file>
@@ -201,6 +195,12 @@
         <mark key="]" line="44" column="2" />
         <mark key="." line="44" column="2" />
         <mark key="^" line="49" column="8" />
+      </file>
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/cameraapi/controller/CameraInterfaceController.java" timestamp="1589942901696">
+        <mark key="[" line="93" column="26" />
+        <mark key="]" line="97" column="74" />
+        <mark key="." line="97" column="73" />
+        <mark key="^" line="97" column="74" />
       </file>
     </filemarks>
     <jumps>
