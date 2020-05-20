@@ -47,6 +47,7 @@
         <entry>rsu_server_pro</entry>
         <entry>rsu_server_test</entry>
         <entry>active</entry>
+        <entry>szVoic</entry>
       </history-search>
       <history-cmd>
         <entry>105 co 94</entry>
@@ -88,6 +89,8 @@
         <entry>w</entry>
         <entry>%s/rsu_server_pro/abcgaspay/g</entry>
         <entry>%s/rsu_server_test/abcgaspay/g</entry>
+        <entry>%s\&quot;192.168.1.117\&quot;/ip/g</entry>
+        <entry>%s\&quot;192.168.0.117\&quot;/ip/g</entry>
         <entry>wa</entry>
       </history-cmd>
       <history-expr />
@@ -119,12 +122,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/screentest/src/com/tdr/screen/test/Test.java" timestamp="1589958082498">
-        <mark key="[" line="143" column="0" />
-        <mark key="]" line="143" column="0" />
-        <mark key="." line="143" column="0" />
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/screentest/src/com/tdr/screen/test/Test.java" timestamp="1589960439934">
+        <mark key="'" line="80" column="39" />
+        <mark key="[" line="57" column="50" />
+        <mark key="]" line="57" column="64" />
+        <mark key="." line="57" column="63" />
+        <mark key="^" line="57" column="64" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/abcapi/client/AbcApiClient.java" timestamp="1589525612193" />
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/resources/application-prod.yml" timestamp="1589873068492">
         <mark key="'" line="7" column="33" />
         <mark key="[" line="91" column="17" />
@@ -132,9 +136,11 @@
         <mark key="." line="91" column="22" />
         <mark key="^" line="91" column="23" />
       </file>
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/screentest/lib/qyled.jar!/com/qy/led/MaterialBuffer.class" timestamp="1589959246636" />
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/modules/business/controller/BluetoothGatewayController.java" timestamp="1589869978079">
         <mark key="[" line="42" column="7" />
       </file>
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/screentest/lib/qyled.jar!/com/qy/led/SendBuffer.class" timestamp="1589959578120" />
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/cameraapi/wait/WaiterPool.java" timestamp="1589946896468">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -163,21 +169,18 @@
       <file name="/Dummy.txt" timestamp="1589887020504">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/screentest/src/com/tdr/screen/test/Test1.java" timestamp="1589958318512">
-        <mark key="[" line="88" column="57" />
-        <mark key="]" line="88" column="58" />
-        <mark key="^" line="14" column="4" />
-        <mark key="." line="88" column="58" />
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/screentest/src/com/tdr/screen/test/Test1.java" timestamp="1589960701169">
+        <mark key="[" line="101" column="57" />
+        <mark key="]" line="101" column="63" />
+        <mark key="." line="101" column="62" />
+        <mark key="^" line="101" column="63" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/screentest/lib/xinrui.jar!/com/xinrui/LedServiceImpl.class" timestamp="1589958269268" />
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/screentest/lib/xinrui.jar!/com/xinrui/LedServiceImpl.class" timestamp="1589959172788" />
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/utils/ApduUtil.java" timestamp="1589956632995">
         <mark key="[" line="381" column="49" />
         <mark key="]" line="384" column="5" />
         <mark key="." line="384" column="4" />
         <mark key="^" line="384" column="5" />
-      </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/resources/templates/modules/business/refuelposition.html" timestamp="1589531464262">
-        <mark key="'" line="83" column="17" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/resources/application-test.yml" timestamp="1589872990859">
         <mark key="'" line="0" column="0" />
@@ -201,9 +204,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="966" column="54" filename="$USER_HOME$/Workspaces/IdeaProjects/social-collect/src/main/resources/templates/index.html" />
-      <jump line="967" column="39" filename="$USER_HOME$/Workspaces/IdeaProjects/social-collect/src/main/resources/templates/index.html" />
-      <jump line="1718" column="12" filename="$USER_HOME$/Workspaces/IdeaProjects/social-collect/src/main/resources/templates/index.html" />
       <jump line="1728" column="24" filename="$USER_HOME$/Workspaces/IdeaProjects/social-collect/src/main/resources/templates/index.html" />
       <jump line="1729" column="50" filename="$USER_HOME$/Workspaces/IdeaProjects/social-collect/src/main/resources/templates/index.html" />
       <jump line="1730" column="32" filename="$USER_HOME$/Workspaces/IdeaProjects/social-collect/src/main/resources/templates/index.html" />
@@ -301,51 +301,71 @@
       <jump line="128" column="84" filename="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/handlerfactory/handler/impl/StartRefuelProcess.java" />
       <jump line="66" column="93" filename="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/handlerfactory/handler/impl/StartRefuelProcess.java" />
       <jump line="67" column="50" filename="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/handlerfactory/handler/impl/StartRefuelProcess.java" />
+      <jump line="69" column="8" filename="$USER_HOME$/Workspaces/IdeaProjects/rus/screentest/src/com/tdr/screen/test/Test.java" />
+      <jump line="74" column="36" filename="$USER_HOME$/Workspaces/IdeaProjects/rus/screentest/src/com/tdr/screen/test/Test.java" />
+      <jump line="71" column="39" filename="$USER_HOME$/Workspaces/IdeaProjects/rus/screentest/src/com/tdr/screen/test/Test.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzelNob3cgKz0gIjExMTExMTExMTExMSI7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>192.168.0.231</text>
       </register>
       <register name="+" type="4">
         <text>tendyron!2#</text>
       </register>
       <register name="-" type="4">
-        <text>要租房，到建行；长租即长住，长住即安家；房子是用来住的，租挺好。</text>
+        <text>192.168.0.231</text>
       </register>
       <register name="/" type="4">
-        <text>active</text>
+        <text>szVoic</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZm9yIChTdHJpbmcgd2FpdEtleVRlbXAgOiBXYWl0ZXJQb29sLkNBTUVSQV9VUExPQURfV0FJVEVSX1BPT0wua2V5U2V0KCkpIHsKICAgICAgICAgICAgICAgIGlmICh3YWl0S2V5LnN0YXJ0c1dpdGgoY2FtZXJhU24pKSB7CiAgICAgICAgICAgICAgICAgICAgd2FpdEtleSA9IHdhaXRLZXlUZW1wOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzelNob3cgKz0gIjExMTExMTExMTExMSI7Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzelNob3cgKz0gIuWfueiCsuWSjOi3teihjOekvuS8muS4u+S5ieaguOW/g+S7t+WAvOingu+8muWvjOW8uuOAgeawkeS4u+OAgeaWh+aYjuOAgeWSjOiwkOOAgeiHqueUseOAgeOAgiI7CiAgICAgICAgc3pTaG93ICs9ICLlubPnrYnjgIHlhazmraPjgIHms5XmsrvjgIHniLHlm73jgIHmlazkuJrjgIHor5rkv6HjgIHlj4vlloTjgIIg5pyJ6buR5omr6buRIOaXoOm7kemZpOaBtiDml6DmgbbmsrvkubHjgILjgIIiOwogICAgICAgIHN6U2hvdyArPSAi5omr6buR6Zmk5oG2IOW8mOaJrOato+awlOOAguaJq+m7kemZpOaBtiDpgKDnpo/kurrmsJHjgILmiavpu5HpmaTmgbYg5Yqf5Zyo5b2T5LujIOWIqeWcqOWNg+eni+OAguOAgiI7CiAgICAgICAgc3pTaG93ICs9ICLmo4DkuL7mj63lj5Hpu5Hmgbbniq/nvaog6K2m5rCR6IGU5omL5YWx5bu65bmz5a6J44CC5Lil5oOp6buR5oG25Yq/5YqbIOWFseS6q+W5s+WuieaIkOaenCDojqvmgJXpu5Hmgbblir/lipsg56ev5p6B5qOA5Li+5o+t5Y+R44CC44CCIjsKICAgICAgICBzelNob3cgKz0gIuS/neaMgemrmOWOi+aAgeWKvyDpk4HohZXmiavpmaTpu5HmgbbjgIIg5bu66KGM5b+r6LS377yM5LiA6Kem5Y2z6LS377yM6K+355m75b2V5bu66KGM5omL5py66ZO26KGM44CB572R5LiK6ZO26KGM5Yqe55CG44CC5YWo56iL57q/5LiK77yM44CCIjsKICAgICAgICBzelNob3cgKz0gIui9u+advuiHquWKqe+8m+enkueUs+enkuaJue+8jOmXqueUteWIsOi0pu+8m+aMieaXpeiuoeaBr++8jOmaj+WAn+maj+i/mO+8m+S/oeeUqOi0t+asvu+8jOacgOmrmDMw5LiH44CC5bCK5pWs55qE5a6i5oi377yM44CCIjsKICAgICAgICBzelNob3cgKz0gIuaIkeihjOS6jjPmnIgxMOaXpeiHszE55pel5Luj6ZSAMjAxOeW5tOWCqOiThOWbveWAuu+8iOWHreivgeW8j++8ie+8jOWFtuS4rTXlubTmnJ/lm73lgLrlt7LllK7nvYTvvIwz5bm05pyf5Zu95YC65bm05Yip546HNCXvvIzov5jmnInliankvZnpop3luqbvvIzjgIIiOwogICAgICAgIHN6U2hvdyArPSAi5qyi6L+O5YmN5p2l6JCl5Lia572R54K55p+c5Y+w6K6k6LSt77yBIOeDreeDiOW6huelneS4reWbveWkluaxh+euoeeQhuaUuemdqeW8gOaUvuaaqOWbveWutuWkluaxh+euoeeQhuWxgOaIkOerizQw5ZGo5bm044CCIDIwMTnlubTigJwzLjE16YeR6J6N5raI6LS56ICF5p2D55uK5pel4oCd5rS75Yqo77ya44CCIjsKICAgICAgICBzelNob3cgKz0gIuaPkOWNh+mHkeiejea2iOi0ueiAheeahOmjjumZqeeuoeeQhuiDveWKm+WSjOi0o+S7u+aJv+aLheaEj+ivhu+8m+e9kee7nOKAnOeCkuaxh+KAneS4jeWQiOazleOAgei1hOmHkeWuieWFqOaXoOS/nemanO+8m+S/neaKpOmHkeiejea2iOi0ueiAheeahOWQiOazleadg+ebiu+8jOaehOW7uuWSjOiwkOeahOmHkeiejea2iOi0ueeOr+Wig+OAgiDjgIIiOwogICAgICAgIHN6U2hvdyArPSAiMjAxOeW5tOKAnDMuMTXigJ3pk7booYzkuJrlkozkv53pmankuJrmtojotLnogIXmnYPnm4rkv53miqTmlZnogrLlrqPkvKDlkajvvJrku6XmtojotLnogIXkuLrkuK3lv4PkvJjljJbmnI3liqHvvIzmj5DljYfph5Hono3mnI3liqHlk4HotKjvvIzmma7lj4rph5Hono3mtojotLnlronlhajnn6Xor4bvvIzjgIIiOwogICAgICAgIHN6U2hvdyArPSAi5byV5a+85raI6LS56ICF5L6d5rOV44CB55CG5oCn57u05p2D44CCIOi3teihjOaZruaDoO+8jOacjeWKoeWwj+W+ruOAguW7uuihjOmdouWQkeivmuS/oee6s+eojuS8geS4muaOqOWHuuKAnOS6keeojui0t+KAne+8jOaXoOmcgOe6uOi0qOi1hOaWme+8jOaXoOmcgOi3kemTtuihjO+8jOacgOmrmDIwMOS4h+S/oeeUqOi0t+asvu+8jOS4ieWIhumSn+WIsOi0pu+8jOOAgiI7CiAgICAgICAgc3pTaG93ICs9ICLpmo/lgJ/pmo/ov5jjgILor6bor6LlrqLmiLfnu4/nkIbjgIIg5q+P5ZGo5LqU55So5bu66KGM5L+h55So5Y2h57uR5a6a5b6u5L+h5pSv5LuY5Lqr576O6aOf5ruhMTYw5YePNTDjgIHnlLXlvbHnpajkubDkuIDpgIHkuIDjgIE15YWD5oOg6L+Q5Yqo44CB5ryU5Ye656Wo5ruhMTYw5YePODDkvJjmg6DvvIHjgIIiOwogICAgICAgIHN6U2hvdyArPSAi6K+m6KeB4oCc6b6Z5Y2h5L+h55So5Y2h5rex5Zyz4oCd5b6u5L+h5Y+344CCIOWvhOW/q+mAkueUqOmhuuS4sO+8jOS7mOi/kOi0ueWwsemAiem+meaUr+S7mO+8gTLmnIgyNeaXpeiHszXmnIgyNeaXpe+8jOS9v+eUqOW7uuihjOm+meaUr+S7mOmSseWMheaIlue7keWumuW7uuihjOWNoeaUr+S7mOmhuuS4sOW/q+mAkui0ue+8jOOAgiI7CiAgICAgICAgc3pTaG93ICs9ICLlj6/kuqsxMuWFg+WHjzblhYPlpKfkvJjmg6DvvIzmr4/lpKnpmZDkuqsx5qyh77yM5q+P5Lq66ZmQ5LqrM+asoe+8geWQjemineaciemZkO+8jOWFiOWIsOWFiOW+l+OAgiI7CiAgICAgICAgc3pTaG93ICs9ICJJSSnopoHnp5/miL/vvIzliLDlu7rooYzvvJvplb/np5/ljbPplb/kvY/vvIzplb/kvY/ljbPlronlrrbvvJvmiL/lrZDmmK/nlKjmnaXkvY/nmoTvvIznp5/mjLrlpb3jgIIiOwogICAgICAgIHN6U2hvdyArPSAi5Z+56IKy5ZKM6Le16KGM56S+5Lya5Li75LmJ5qC45b+D5Lu35YC86KeC77ya5a+M5by644CB5rCR5Li744CB5paH5piO44CB5ZKM6LCQ44CB6Ieq55Sx44CB44CCIjsKICAgICAgICBzelNob3cgKz0gIuW5s+etieOAgeWFrOato+OAgeazleayu+OAgeeIseWbveOAgeaVrOS4muOAgeivmuS/oeOAgeWPi+WWhOOAgiDmnInpu5Hmiavpu5Eg5peg6buR6Zmk5oG2IOaXoOaBtuayu+S5seOAguOAgiI7CiAgICAgICAgc3pTaG93ICs9ICLmiavpu5HpmaTmgbYg5byY5oms5q2j5rCU44CC5omr6buR6Zmk5oG2IOmAoOemj+S6uuawkeOAguaJq+m7kemZpOaBtiDlip/lnKjlvZPku6Mg5Yip5Zyo5Y2D56eL44CC44CCIjsKICAgICAgICBzelNob3cgKz0gIuajgOS4vuaPreWPkem7keaBtueKr+e9qiDorabmsJHogZTmiYvlhbHlu7rlubPlronjgILkuKXmg6npu5Hmgbblir/lipsg5YWx5Lqr5bmz5a6J5oiQ5p6cIOiOq+aAlem7keaBtuWKv+WKmyDnp6/mnoHmo4DkuL7mj63lj5HjgILjgIIiOwogICAgICAgIHN6U2hvdyArPSAi5L+d5oyB6auY5Y6L5oCB5Yq/IOmTgeiFleaJq+mZpOm7keaBtuOAgiDlu7rooYzlv6votLfvvIzkuIDop6bljbPotLfvvIzor7fnmbvlvZXlu7rooYzmiYvmnLrpk7booYzjgIHnvZHkuIrpk7booYzlip7nkIbjgIIiOwogICAgICAgIHN6U2hvdyArPSAi5L+d5oyB6auY5Y6L5oCB5Yq/IOmTgeiFleaJq+mZpOm7keaBtuOAgiDlu7rooYzlv6votLfvvIzkuIDop6bljbPotLfvvIzor7fnmbvlvZXlu7rooYzmiYvmnLrpk7booYzjgIHnvZHkuIrpk7booYzlip7nkIbjgIIiOwogICAgICAgIHN6U2hvdyArPSAiMjAxOeW5tOKAnDMuMTXigJ3pk7booYzkuJrlkozkv53pmankuJrmtojotLnogIXmnYPnm4rkv53miqTmlZnogrLlrqPkvKDlkajvvJrku6XmtojotLnogIXkuLrkuK3lv4PkvJjljJbmnI3liqHvvIzmj5DljYfph5Hono3mnI3liqHlk4HotKjvvIzmma7lj4rph5Hono3mtojotLnlronlhajnn6Xor4bvvIzjgIIiOwogICAgICAgIHN6U2hvdyArPSAi5byV5a+85raI6LS56ICF5L6d5rOV44CB55CG5oCn57u05p2D44CCIOi3teihjOaZruaDoO+8jOacjeWKoeWwj+W+ruOAguW7uuihjOmdouWQkeivmuS/oee6s+eojuS8geS4muaOqOWHuuKAnOS6keeojui0t+KAne+8jOaXoOmcgOe6uOi0qOi1hOaWme+8jOaXoOmcgOi3kemTtuihjO+8jOacgOmrmDIwMOS4h+S/oeeUqOi0t+asvu+8jOS4ieWIhumSn+WIsOi0pu+8jOOAgiI7CiAgICAgICAgc3pTaG93ICs9ICLpmo/lgJ/pmo/ov5jjgILor6bor6LlrqLmiLfnu4/nkIbjgIIg5q+P5ZGo5LqU55So5bu66KGM5L+h55So5Y2h57uR5a6a5b6u5L+h5pSv5LuY5Lqr576O6aOf5ruhMTYw5YePNTDjgIHnlLXlvbHnpajkubDkuIDpgIHkuIDjgIE15YWD5oOg6L+Q5Yqo44CB5ryU5Ye656Wo5ruhMTYw5YePODDkvJjmg6DvvIHjgIIiOwogICAgICAgIHN6U2hvdyArPSAi6ZqP5YCf6ZqP6L+Y44CC6K+m6K+i5a6i5oi357uP55CG44CCIOavj+WRqOS6lOeUqOW7uuihjOS/oeeUqOWNoee7keWumuW+ruS/oeaUr+S7mOS6q+e+jumjn+a7oTE2MOWHjzUw44CB55S15b2x56Wo5Lmw5LiA6YCB5LiA44CBNeWFg+aDoOi/kOWKqOOAgea8lOWHuuelqOa7oTE2MOWHjzgw5LyY5oOg77yB44CCIjsKICAgICAgICBzelNob3cgKz0gIumaj+WAn+maj+i/mOOAguivpuivouWuouaIt+e7j+eQhu+8jOavj+WRqOS6lOeUqOW7uuihjOS/oeeUqOWNoee7keWumuW+ruS/oeaUr+S7mOS6q+e+jumjn+a7oe+8jOavj+WRqOS6lOeUqOW7uuihjOS/oeeUqOWNoee7keWumuW+ruS/oeaUr+S7mOS6q+e+jumjn+a7oe+8jOavj+WRqOS6lOeUqOW7uuihjOS/oeeUqOWNoee7keWumuW+ruS/oeaUr+S7mOS6q+e+jumjn+a7oSI7CiAgICAgICAgc3pTaG93ICs9ICLpmo/lgJ/pmo/ov5jjgILor6bor6LlrqLmiLfnu4/nkIbvvIzpmo/lgJ/pmo/ov5jjgILor6bor6LlrqLmiLfnu4/nkIbjgILor6bor6LlrqLmiLfnu4/nkIbvvIzjgILor6bor6LlrqLmiLfnu4/nkIbjgILor6bor6LlrqLmiLfnu4/nkIYiOwogICAgICAgIHN6U2hvdyArPSAiN+imgeenn+aIv++8jOWIsOW7uuihjO+8m+mVv+enn+WNs+mVv+S9j++8jOmVv+S9j+WNs+WuieWutu+8m+aIv+WtkOaYr+eUqOadpeS9j+eahO+8jOenn+aMuuWlveOAgiI7CiAgICAgICAgc3pTaG93ICs9ICLln7nogrLlkozot7XooYznpL7kvJrkuLvkuYnmoLjlv4Pku7flgLzop4LvvJrlr4zlvLrjgIHmsJHkuLvjgIHmlofmmI7jgIHlkozosJDjgIHoh6rnlLHjgIHjgIIiOwogICAgICAgIHN6U2hvdyArPSAi5bmz562J44CB5YWs5q2j44CB5rOV5rK744CB54ix5Zu944CB5pWs5Lia44CB6K+a5L+h44CB5Y+L5ZaE44CCIOaciem7keaJq+m7kSDml6Dpu5HpmaTmgbYg5peg5oG25rK75Lmx44CC44CCIjsKICAgICAgICBzelNob3cgKz0gIuaJq+m7kemZpOaBtiDlvJjmiazmraPmsJTjgILmiavpu5HpmaTmgbYg6YCg56aP5Lq65rCR44CC5omr6buR6Zmk5oG2IOWKn+WcqOW9k+S7oyDliKnlnKjljYPnp4vjgILjgIIiOwogICAgICAgIHN6U2hvdyArPSAi5qOA5Li+5o+t5Y+R6buR5oG254qv572qIOitpuawkeiBlOaJi+WFseW7uuW5s+WuieOAguS4peaDqem7keaBtuWKv+WKmyDlhbHkuqvlubPlronmiJDmnpwg6I6r5oCV6buR5oG25Yq/5YqbIOenr+aegeajgOS4vuaPreWPkeOAguOAgiI7CiAgICAgICAgc3pTaG93ICs9ICLkv53mjIHpq5jljovmgIHlir8g6ZOB6IWV5omr6Zmk6buR5oG244CCIOW7uuihjOW/q+i0t++8jOS4gOinpuWNs+i0t++8jOivt+eZu+W9leW7uuihjOaJi+acuumTtuihjOOAgee9keS4iumTtuihjOWKnueQhuOAguWFqOeoi+e6v+S4iu+8jOOAgiI7CiAgICAgICAgc3pTaG93ICs9ICLovbvmnb7oh6rliqnvvJvnp5LnlLPnp5LmibnvvIzpl6rnlLXliLDotKbvvJvmjInml6XorqHmga/vvIzpmo/lgJ/pmo/ov5jvvJvkv6HnlKjotLfmrL7vvIzmnIDpq5gzMOS4h+OAguWwiuaVrOeahOWuouaIt++8jOOAgiI7CiAgICAgICAgc3pTaG93ICs9ICLmiJHooYzkuo4z5pyIMTDml6Xoh7MxOeaXpeS7o+mUgDIwMTnlubTlgqjok4Tlm73lgLrvvIjlh63or4HlvI/vvInvvIzlhbbkuK015bm05pyf5Zu95YC65bey5ZSu572E77yMM+W5tOacn+WbveWAuuW5tOWIqeeOhzQl77yM6L+Y5pyJ5Ymp5L2Z6aKd5bqm77yM44CCIjsKICAgICAgICBzelNob3cgKz0gIuasoui/juWJjeadpeiQpeS4mue9keeCueafnOWPsOiupOi0re+8gSDng63ng4jluobnpZ3kuK3lm73lpJbmsYfnrqHnkIbmlLnpnanlvIDmlL7mmqjlm73lrrblpJbmsYfnrqHnkIblsYDmiJDnq4s0MOWRqOW5tOOAgiAyMDE55bm04oCcMy4xNemHkeiejea2iOi0ueiAheadg+ebiuaXpeKAnea0u+WKqO+8muOAgiI7CiAgICAgICAgc3pTaG93ICs9ICLmj5DljYfph5Hono3mtojotLnogIXnmoTpo47pmannrqHnkIbog73lipvlkozotKPku7vmib/mi4XmhI/or4bvvJvnvZHnu5zigJzngpLmsYfigJ3kuI3lkIjms5XjgIHotYTph5Hlronlhajml6Dkv53pmpzvvJvkv53miqTph5Hono3mtojotLnogIXnmoTlkIjms5XmnYPnm4rvvIzmnoTlu7rlkozosJDnmoTph5Hono3mtojotLnnjq/looPjgIIg44CCIjsKICAgICAgICBzelNob3cgKz0gIjIwMTnlubTigJwzLjE14oCd6ZO26KGM5Lia5ZKM5L+d6Zmp5Lia5raI6LS56ICF5p2D55uK5L+d5oqk5pWZ6IKy5a6j5Lyg5ZGo77ya5Lul5raI6LS56ICF5Li65Lit5b+D5LyY5YyW5pyN5Yqh77yM5o+Q5Y2H6YeR6J6N5pyN5Yqh5ZOB6LSo77yM5pmu5Y+K6YeR6J6N5raI6LS55a6J5YWo55+l6K+G77yM44CCIjsKICAgICAgICBzelNob3cgKz0gIuW8leWvvOa2iOi0ueiAheS+neazleOAgeeQhuaAp+e7tOadg+OAgiDot7XooYzmma7mg6DvvIzmnI3liqHlsI/lvq7jgILlu7rooYzpnaLlkJHor5rkv6HnurPnqI7kvIHkuJrmjqjlh7rigJzkupHnqI7otLfigJ3vvIzml6DpnIDnurjotKjotYTmlpnvvIzml6DpnIDot5Hpk7booYzvvIzmnIDpq5gyMDDkuIfkv6HnlKjotLfmrL7vvIzkuInliIbpkp/liLDotKbvvIzjgIIiOwogICAgICAgIHN6U2hvdyArPSAi6ZqP5YCf6ZqP6L+Y44CC6K+m6K+i5a6i5oi357uP55CG44CCIOavj+WRqOS6lOeUqOW7uuihjOS/oeeUqOWNoee7keWumuW+ruS/oeaUr+S7mOS6q+e+jumjn+a7oTE2MOWHjzUw44CB55S15b2x56Wo5Lmw5LiA6YCB5LiA44CBNeWFg+aDoOi/kOWKqOOAgea8lOWHuuelqOa7oTE2MOWHjzgw5LyY5oOg77yB44CCIjsKICAgICAgICBzelNob3cgKz0gIuivpuingeKAnOm+meWNoeS/oeeUqOWNoea3seWcs+KAneW+ruS/oeWPt+OAgiDlr4Tlv6vpgJLnlKjpobrkuLDvvIzku5jov5DotLnlsLHpgInpvpnmlK/ku5jvvIEy5pyIMjXml6Xoh7M15pyIMjXml6XvvIzkvb/nlKjlu7rooYzpvpnmlK/ku5jpkrHljIXmiJbnu5Hlrprlu7rooYzljaHmlK/ku5jpobrkuLDlv6vpgJLotLnvvIzjgIIiOwogICAgICAgIHN6U2hvdyArPSAi5Y+v5LqrMTLlhYPlh4825YWD5aSn5LyY5oOg77yM5q+P5aSp6ZmQ5LqrMeasoe+8jOavj+S6uumZkOS6qzPmrKHvvIHlkI3pop3mnInpmZDvvIzlhYjliLDlhYjlvpfjgIIiOwogICAgICAgIHN6U2hvdyArPSAiSUkp6KaB56ef5oi/77yM5Yiw5bu66KGM77yb6ZW/56ef5Y2z6ZW/5L2P77yM6ZW/5L2P5Y2z5a6J5a6277yb5oi/5a2Q5piv55So5p2l5L2P55qE77yM56ef5oy65aW944CCIjsKICAgICAgICBzelNob3cgKz0gIuWfueiCsuWSjOi3teihjOekvuS8muS4u+S5ieaguOW/g+S7t+WAvOingu+8muWvjOW8uuOAgeawkeS4u+OAgeaWh+aYjuOAgeWSjOiwkOOAgeiHqueUseOAgeOAgiI7CiAgICAgICAgc3pTaG93ICs9ICLlubPnrYnjgIHlhazmraPjgIHms5XmsrvjgIHniLHlm73jgIHmlazkuJrjgIHor5rkv6HjgIHlj4vlloTjgIIg5pyJ6buR5omr6buRIOaXoOm7kemZpOaBtiDml6DmgbbmsrvkubHjgILjgIIiOwogICAgICAgIHN6U2hvdyArPSAi5omr6buR6Zmk5oG2IOW8mOaJrOato+awlOOAguaJq+m7kemZpOaBtiDpgKDnpo/kurrmsJHjgILmiavpu5HpmaTmgbYg5Yqf5Zyo5b2T5LujIOWIqeWcqOWNg+eni+OAguOAgiI7CiAgICAgICAgc3pTaG93ICs9ICLmo4DkuL7mj63lj5Hpu5Hmgbbniq/nvaog6K2m5rCR6IGU5omL5YWx5bu65bmz5a6J44CC5Lil5oOp6buR5oG25Yq/5YqbIOWFseS6q+W5s+WuieaIkOaenCDojqvmgJXpu5Hmgbblir/lipsg56ev5p6B5qOA5Li+5o+t5Y+R44CC44CCIjsKICAgICAgICBzelNob3cgKz0gIuS/neaMgemrmOWOi+aAgeWKvyDpk4HohZXmiavpmaTpu5HmgbbjgIIg5bu66KGM5b+r6LS377yM5LiA6Kem5Y2z6LS377yM6K+355m75b2V5bu66KGM5omL5py66ZO26KGM44CB572R5LiK6ZO26KGM5Yqe55CG44CCIjsKICAgICAgICBzelNob3cgKz0gIuS/neaMgemrmOWOi+aAgeWKvyDpk4HohZXmiavpmaTpu5HmgbbjgIIg5bu66KGM5b+r6LS377yM5LiA6Kem5Y2z6LS377yM6K+355m75b2V5bu66KGM5omL5py66ZO26KGM44CB572R5LiK6ZO26KGM5Yqe55CG44CCIjsKICAgICAgICBzelNob3cgKz0gIjIwMTnlubTigJwzLjE14oCd6ZO26KGM5Lia5ZKM5L+d6Zmp5Lia5raI6LS56ICF5p2D55uK5L+d5oqk5pWZ6IKy5a6j5Lyg5ZGo77ya5Lul5raI6LS56ICF5Li65Lit5b+D5LyY5YyW5pyN5Yqh77yM5o+Q5Y2H6YeR6J6N5pyN5Yqh5ZOB6LSo77yM5pmu5Y+K6YeR6J6N5raI6LS55a6J5YWo55+l6K+G77yM44CCIjsKICAgICAgICBzelNob3cgKz0gIuW8leWvvOa2iOi0ueiAheS+neazleOAgeeQhuaAp+e7tOadg+OAgiDot7XooYzmma7mg6DvvIzmnI3liqHlsI/lvq7jgILlu7rooYzpnaLlkJHor5rkv6HnurPnqI7kvIHkuJrmjqjlh7rigJzkupHnqI7otLfigJ3vvIzml6DpnIDnurjotKjotYTmlpnvvIzml6DpnIDot5Hpk7booYzvvIzmnIDpq5gyMDDkuIfkv6HnlKjotLfmrL7vvIzkuInliIbpkp/liLDotKbvvIzjgIIiOwogICAgICAgIHN6U2hvdyArPSAi6ZqP5YCf6ZqP6L+Y44CC6K+m6K+i5a6i5oi357uP55CG44CCIOavj+WRqOS6lOeUqOW7uuihjOS/oeeUqOWNoee7keWumuW+ruS/oeaUr+S7mOS6q+e+jumjn+a7oTE2MOWHjzUw44CB55S15b2x56Wo5Lmw5LiA6YCB5LiA44CBNeWFg+aDoOi/kOWKqOOAgea8lOWHuuelqOa7oTE2MOWHjzgw5LyY5oOg77yB44CCIjsKICAgICAgICBzelNob3cgKz0gIumaj+WAn+maj+i/mOOAguivpuivouWuouaIt+e7j+eQhuOAgiDmr4/lkajkupTnlKjlu7rooYzkv6HnlKjljaHnu5Hlrprlvq7kv6HmlK/ku5jkuqvnvo7po5/mu6ExNjDlh481MOOAgeeUteW9seelqOS5sOS4gOmAgeS4gOOAgTXlhYPmg6Dov5DliqjjgIHmvJTlh7rnpajmu6ExNjDlh484MOS8mOaDoO+8geOAgiI7CiAgICAgICAgc3pTaG93ICs9ICLpmo/lgJ/pmo/ov5jjgILor6bor6LlrqLmiLfnu4/nkIbvvIzmr4/lkajkupTnlKjlu7rooYzkv6HnlKjljaHnu5Hlrprlvq7kv6HmlK/ku5jkuqvnvo7po5/mu6HvvIzmr4/lkajkupTnlKjlu7rooYzkv6HnlKjljaHnu5Hlrprlvq7kv6HmlK/ku5jkuqvnvo7po5/mu6HvvIzmr4/lkajkupTnlKjlu7rooYzkv6HnlKjljaHnu5Hlrprlvq7kv6HmlK/ku5jkuqvnvo7po5/mu6EiOwogICAgICAgIHN6U2hvdyArPSAi6ZqP5YCf6ZqP6L+Y44CC6K+m6K+i5a6i5oi357uP55CG77yM6ZqP5YCf6ZqP6L+Y44CC6K+m6K+i5a6i5oi357uP55CG44CC6K+m6K+i5a6i5oi357uP55CG77yM44CC6K+m6K+i5a6i5oi357uP55CG44CC6K+m6K+i5a6i5oi357uP55CGIjsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiUmVmdWVsIHBvc2l0aW9uIGNvZGU6IHt9ISIsIHJlZnVlbFBvc2l0aW9uRW50aXR5LmdldENvZGUoKSk7Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocmVmdWVsUG9zaXRpb25FbnRpdHkuZ2V0U3RhdHVzKCkuZXF1YWxzKEJ1c2luZXNzQ29uc3RhbnRzLlJFRlVFTF9QT1NJVElPTl9TVEFUVVNfV0FJVCkpIHsK</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB0aHJvd3MgSU9FeGNlcHRpb24gewo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHdhaXRLZXkgPSB3YWl0S2V5VGVtcDsK</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRydWUsIDIsIDEpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBTZW5kQnVmZmVyLlNlbmRNdWxJbnRlcm5hbFRleHRfTmV0KCIyNzg0NzI5NzkiLCAiMTcyLjE2LjM4LjI1MyIsIDEsIDUwMCwgNTAsIDg5LCAyLCAxLCAxLCAxMDAwLCAzLCA0LCAxMCwgMiwK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBTZW5kQnVmZmVyLlNlbmRUZW1wbGF0ZURhdGFfTmV0KCIxNzIuMTYuMzguMjUzIiwgMik7Cg==</text>
+      </register>
+      <register name="6" type="8">
+        <text>*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ2FtZXJhVXBsb2FkV2FpdGVyIGNhbWVyYVVwbG9hZFdhaXRlciA9CiAgICAgICAgICAgICAgICAgICAgV2FpdGVyUG9vbC5DQU1FUkFfVVBMT0FEX1dBSVRFUl9QT09MLmdldChjYW1lcmFVcGxvYWRSZWRpc01zZy5nZXRDYW1lcmFTbigpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgKiovCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgV2FpdGVyUG9vbC5DQU1FUkFfVVBMT0FEX1dBSVRFUl9QT09MLnJlbW92ZShjYW1lcmFFbnRpdHkuZ2V0U24oKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvKioK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgV2FpdGVyUG9vbC5DQU1FUkFfVVBMT0FEX1dBSVRFUl9QT09MLnB1dChjYW1lcmFFbnRpdHkuZ2V0U24oKSwgY2FtZXJhVXBsb2FkV2FpdGVyKTsK</text>
+      <register name="9" type="8">
+        <text>*
+*
+*
+*
+*
+*</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -354,9 +374,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>active</last-search>
+      <last-search>szVoic</last-search>
       <last-offset />
-      <last-pattern>active</last-pattern>
+      <last-pattern>szVoic</last-pattern>
       <last-replace>abcgaspay</last-replace>
       <last-substitute>rsu_server_test</last-substitute>
       <last-dir>1</last-dir>
