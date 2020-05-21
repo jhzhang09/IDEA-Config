@@ -137,12 +137,6 @@
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/id-reader-srv-jdk16on/src/main/java/com/tdr/jni/IDVReaderCallbackImpl.java" timestamp="1590052356811" />
       <file name="$USER_HOME$/Workspaces/IdeaProjects/id-reader-srv-jdk16on/src/main/java/com/tdr/subscriber/IdSrvResultRedisSubscriber.java" timestamp="1590053082441" />
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/handlerfactory/handler/impl/RsuTransactionProcess.java" timestamp="1589884437279">
-        <mark key="[" line="96" column="56" />
-        <mark key="]" line="95" column="56" />
-        <mark key="^" line="95" column="56" />
-        <mark key="." line="95" column="55" />
-      </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/cameraapi/consumer/handlerfactory/handler/camera/CameraUploadConsumeHandler.java" timestamp="1589947793145">
         <mark key="[" line="33" column="27" />
         <mark key="]" line="35" column="17" />
@@ -166,6 +160,7 @@
         <mark key="." line="384" column="4" />
         <mark key="^" line="384" column="5" />
       </file>
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/id-reader-srv-jdk16on/src/main/java/tendyron/idvreader/IDVReader.java" timestamp="1590054345001" />
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/resources/application-test.yml" timestamp="1590043302929">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="98" column="0" />
@@ -173,7 +168,7 @@
         <mark key="." line="98" column="0" />
         <mark key="^" line="97" column="16" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/id-reader-srv-jdk16on/src/main/java/com/tdr/jni/IDVReaderJniThread.java" timestamp="1590050855636" />
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/id-reader-srv-jdk16on/src/main/java/com/tdr/jni/IDVReaderJniThread.java" timestamp="1590053975576" />
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/handlerfactory/handler/impl/StartRefuelProcess.java" timestamp="1589957075699">
         <mark key="'" line="69" column="50" />
         <mark key="[" line="81" column="22" />
