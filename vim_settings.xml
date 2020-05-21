@@ -131,13 +131,10 @@
         <mark key="." line="57" column="63" />
         <mark key="^" line="57" column="64" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/id-reader-srv-jdk16on/src/main/java/com/tdr/jni/IDVReaderCallbackImpl.java" timestamp="1590052356811" />
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/id-reader-srv-jdk16on/src/main/java/com/tdr/subscriber/IdSrvResultRedisSubscriber.java" timestamp="1590053082441" />
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/cameraapi/consumer/handlerfactory/handler/camera/CameraUploadConsumeHandler.java" timestamp="1589947793145">
-        <mark key="[" line="33" column="27" />
-        <mark key="]" line="35" column="17" />
-        <mark key="." line="35" column="16" />
-        <mark key="^" line="35" column="17" />
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/test/java/com/tdr/russerver/RusServerApplicationTests.java" timestamp="1590056904375">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1589975258577">
         <mark key="[" line="0" column="0" />
@@ -146,7 +143,9 @@
         <mark key="a" line="14" column="3" />
         <mark key="^" line="24" column="8" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/id-reader-srv-jdk16on/src/main/java/com/tdr/controller/IdSrvReaderController.java" timestamp="1590052807903" />
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/screentest/src/com/tdr/screen/test/enum2/ColorEnum.java" timestamp="1590056440742">
+        <mark key="[" line="9" column="23" />
+      </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/resources/application.yml" timestamp="1590043369295">
         <mark key="[" line="12" column="16" />
       </file>
@@ -156,7 +155,6 @@
         <mark key="." line="384" column="4" />
         <mark key="^" line="384" column="5" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/id-reader-srv-jdk16on/src/main/java/tendyron/idvreader/IDVReader.java" timestamp="1590054345001" />
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/resources/application-test.yml" timestamp="1590043302929">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="98" column="0" />
@@ -164,8 +162,17 @@
         <mark key="." line="98" column="0" />
         <mark key="^" line="97" column="16" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/id-reader-srv-jdk16on/src/main/java/com/tdr/jni/IDVReaderJniThread.java" timestamp="1590055402133" />
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/id-reader-srv-jdk16on/src/main/java/com/tdr/init/IdSrvInitComponent.java" timestamp="1590055745468" />
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/test/java/com/tdr/russerver/ledenum/ColorEnum.java" timestamp="1590057268234">
+        <mark key="[" line="13" column="40" />
+        <mark key="]" line="19" column="5" />
+        <mark key="." line="19" column="4" />
+        <mark key="^" line="19" column="5" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.java" timestamp="1590056908776">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="49" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/handlerfactory/handler/impl/StartRefuelProcess.java" timestamp="1589957075699">
         <mark key="'" line="69" column="50" />
         <mark key="[" line="81" column="22" />
@@ -173,12 +180,11 @@
         <mark key="^" line="64" column="37" />
         <mark key="." line="81" column="23" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/id-reader-srv-jdk16on/src/main/java/com/tdr/subscriber/IdSrvRespRedisSubscriber.java" timestamp="1590051294485" />
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/cameraapi/controller/CameraInterfaceController.java" timestamp="1589947777684">
-        <mark key="[" line="105" column="12" />
-        <mark key="]" line="105" column="20" />
-        <mark key="." line="105" column="19" />
-        <mark key="^" line="105" column="20" />
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/screentest/src/com/tdr/screen/test/enum/ColorEnum.kt" timestamp="1590056256847">
+        <mark key="[" line="2" column="9" />
+      </file>
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/test/java/com/tdr/russerver/ledenum/TypefaceEnum.java" timestamp="1590057463611">
+        <mark key="[" line="17" column="4" />
       </file>
     </filemarks>
     <jumps>
@@ -287,7 +293,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBTdGF0ZW1lbnQ6IERFQlVHCg==</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBDb2xvckVudW0gY29sb3JFbnVtID0gQ29sb3JFbnVtLkdSRUVOOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihjb2xvckVudW0udG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="+" type="4">
         <text>tendyron!2#</text>
@@ -302,31 +308,31 @@
         <text encoding="base64">ICAgICAgICAgICAgZm9yIChTdHJpbmcgd2FpdEtleVRlbXAgOiBXYWl0ZXJQb29sLkNBTUVSQV9VUExPQURfV0FJVEVSX1BPT0wua2V5U2V0KCkpIHsKICAgICAgICAgICAgICAgIGlmICh3YWl0S2V5LnN0YXJ0c1dpdGgoY2FtZXJhU24pKSB7CiAgICAgICAgICAgICAgICAgICAgd2FpdEtleSA9IHdhaXRLZXlUZW1wOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTdGF0ZW1lbnQ6IERFQlVHCg==</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBDb2xvckVudW0gY29sb3JFbnVtID0gQ29sb3JFbnVtLkdSRUVOOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihjb2xvckVudW0udG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHN0YXRlbWVudC1zcWwtZm9ybWF0LW9wdGlvbjoK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3RyaW5nLmdldEJ5dGVzKCkubGVuZ3RoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeyB0eXBlOiAnYXJyYXknLCByZXF1aXJlZDogdHJ1ZSwgbWVzc2FnZTogJ+ivt+iHs+WwkemAieaLqeS4gOS4qua0u+WKqOaAp+i0qCcsIHRyaWdnZXI6ICdjaGFuZ2UnIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICIvZXJ2UmxMd0x3M24xcTk3MzBwdnN3TUVMMlNkU1E5Y0ZldVBCWTlxcjNYQm9POUlRY1RQb1YwUGIwTU9xazlEV2FpdmZTRVdyM3VnWlk5SjR4R3ZpQXdaYnlzdU1XOVRGTGh2TkQweXoweUdRcSswQWdRUGdEM3Y3MDg2Wk05aS9nSHZ2UVpycjJHclRFOU52N0lQVkpXMHIxV095ODliQlVjdmVEdEtEMkRjQTIrWkxsdXZaNXBKNzJuMXJBOXd6T2FQZTZlaEQwakg5UTlOb1l3dlU2QnNycW5FNWk5QzdHZVBmMTBXejJubnJhOEJmOTZQaVpiWXJ3T1NCWTlDQUZoUGRtdmg3eXEwaTQ5WDNPaXZUSFd3N3MwVk1VOUlxN092SEQwQ2J5ZS9XWTlNWWZDdlhLcHpUMWlzYTQ5ZGtzdk8rSGlBajA5Y2swOEY1ZTJ2VXRaUzcxR0VxMjlXdno3dThmUmlUem0ySFU5VUFiVHZGanJGVDJLdno0K3ZjbVl2TVZmVHJ5eTR5SStVVFRvUFFsS3hyMUpKVjgrYmJMUHZabFZCajFGYkh5N3l5cm9QVGJZRkw1V05kVTk2a0RVUFUxYWlqeWREYSs5M3RhVVBOWHRMcnlFc0lZOVp2YnlQZlIyQmI3S3hzUTlHdWlwdkJncnNyejB1WlM4UXhhMnZaTEIrN3hmUDQwOXBVdFBQWmNuRVQyYU9CaStBRXZEUFJYSDRiME1mVFU5OWQ1Z3ZHS05JejY0Q09nOWJSY2pQVnhWZno2YzFBdSttdGdXdlpWbWNUMGV4UTQrZEZTc08zK2hNcnc9IjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyMjIOWFs+mUruWtl+Wkp+WGmQo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgc3RyaW5nID0gIlIwNEFBRHAvQUFBTUFnQUFNUnNydTB6VEZiM0dNbCsrV3lBQXZvYy9lRHJSa1h5OU9SNml2UHQxc0x5cjRuVTl4RitUdkpQVHpUemZGRis5RCIgKwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFyYW1ldGVyaXplZDogZmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICBIZXguZGVjb2RlKCIxMjMxIik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyMjIOWPguaVsOWMlu+8jGNvbHVtbj0/Cg==</text>
+        <text encoding="base64">QERhdGEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJldHR5LWZvcm1hdDogdHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICBTdGF0ZW1lbnQ6IERFQlVHCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIyMjIOagvOW8j+WMlgo=</text>
+        <text encoding="base64">ICAgICAgICAgIHN0YXRlbWVudC1zcWwtZm9ybWF0LW9wdGlvbjoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVzZW5zaXRpemU6IGZhbHNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgeyB0eXBlOiAnYXJyYXknLCByZXF1aXJlZDogdHJ1ZSwgbWVzc2FnZTogJ+ivt+iHs+WwkemAieaLqeS4gOS4qua0u+WKqOaAp+i0qCcsIHRyaWdnZXI6ICdjaGFuZ2UnIH0K</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -341,7 +347,7 @@
       <last-replace>abcgaspay</last-replace>
       <last-substitute>rsu_server_test</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
