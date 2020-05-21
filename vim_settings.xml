@@ -136,7 +136,7 @@
         <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/id-reader-srv-jdk16on/src/main/java/com/tdr/jni/IDVReaderCallbackImpl.java" timestamp="1590052356811" />
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/id-reader-srv-jdk16on/src/main/java/com/tdr/subscriber/IdSrvResultRedisSubscriber.java" timestamp="1590051860618" />
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/id-reader-srv-jdk16on/src/main/java/com/tdr/subscriber/IdSrvResultRedisSubscriber.java" timestamp="1590053082441" />
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/handlerfactory/handler/impl/RsuTransactionProcess.java" timestamp="1589884437279">
         <mark key="[" line="96" column="56" />
         <mark key="]" line="95" column="56" />
@@ -156,7 +156,7 @@
         <mark key="a" line="14" column="3" />
         <mark key="^" line="24" column="8" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/id-reader-srv-jdk16on/src/main/java/com/tdr/controller/IdSrvReaderController.java" timestamp="1590052018965" />
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/id-reader-srv-jdk16on/src/main/java/com/tdr/controller/IdSrvReaderController.java" timestamp="1590052807903" />
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/resources/application.yml" timestamp="1590043369295">
         <mark key="[" line="12" column="16" />
       </file>
