@@ -157,10 +157,10 @@
         <mark key="." line="39" column="12" />
         <mark key="^" line="39" column="13" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/handlerfactory/handler/impl/StartPayProcess.java" timestamp="1590482896587">
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="." line="102" column="0" />
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/handlerfactory/handler/impl/StartPayProcess.java" timestamp="1590571740064">
+        <mark key="[" line="198" column="0" />
+        <mark key="]" line="205" column="82" />
+        <mark key="." line="198" column="0" />
         <mark key="^" line="102" column="28" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/test/java/com/tdr/russerver/ledenum/TypefaceEnum.java" timestamp="1590057463611">
@@ -188,11 +188,11 @@
         <mark key="^" line="17" column="104" />
         <mark key="." line="17" column="103" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/utils/ApduUtil.java" timestamp="1590136360537">
-        <mark key="[" line="381" column="49" />
-        <mark key="]" line="384" column="5" />
-        <mark key="." line="384" column="4" />
-        <mark key="^" line="384" column="5" />
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/utils/ApduUtil.java" timestamp="1590571716670">
+        <mark key="[" line="451" column="0" />
+        <mark key="]" line="457" column="48" />
+        <mark key="." line="451" column="0" />
+        <mark key="^" line="429" column="45" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/resources/application-test.yml" timestamp="1590483396950">
         <mark key="'" line="0" column="0" />
@@ -333,19 +333,19 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBUZXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0ZXN0Q2FyTm8uYWRkKCLpu5FBRjY2NTUiKTsKICAgICAgICAgICAgICAgICAgICB0ZXN0Q2FyTm8uYWRkKCLotLVDMEMwMDAiKTsKICAgICAgICAgICAgICAgICAgICB0ZXN0Q2FyTm8uYWRkKCLmtZlBRDEyMzQ1Iik7CiAgICAgICAgICAgICAgICAgICAgdGVzdENhck5vLmFkZCgi5LqsQTAwMDAzIik7CiAgICAgICAgICAgICAgICAgICAgdGVzdENhck5vLmFkZCgi5LqsQTAwMDA0Iik7CiAgICAgICAgICAgICAgICAgICAgdGVzdENhck5vLmFkZCgi5LqsQTAwMDA1Iik7Cg==</text>
       </register>
       <register name="+" type="4">
         <text>tendyron!2#</text>
       </register>
       <register name="-" type="4">
-        <text>u</text>
+        <text>浙AJ8J85</text>
       </register>
       <register name="/" type="4">
         <text>jn</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICMgcnVz6L2m54mM5LiK6YCB6LaF5pe25pe26Ze077yM5aaC5p6c6LaF6L+H5q2k5pe26Ze077yM5YiZ5LuO5rGg5Lit56e76Zmk77yM5Y2V5L2NL+enkgogICAgcnVzLWNhcjogNjAwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0ZXN0Q2FyTm8uYWRkKCLpu5FBRjY2NTUiKTsKICAgICAgICAgICAgICAgICAgICB0ZXN0Q2FyTm8uYWRkKCLotLVDMEMwMDAiKTsKICAgICAgICAgICAgICAgICAgICB0ZXN0Q2FyTm8uYWRkKCLmtZlBRDEyMzQ1Iik7CiAgICAgICAgICAgICAgICAgICAgdGVzdENhck5vLmFkZCgi5LqsQTAwMDAzIik7CiAgICAgICAgICAgICAgICAgICAgdGVzdENhck5vLmFkZCgi5LqsQTAwMDA0Iik7CiAgICAgICAgICAgICAgICAgICAgdGVzdENhck5vLmFkZCgi5LqsQTAwMDA1Iik7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEBUZXN0Cg==</text>
