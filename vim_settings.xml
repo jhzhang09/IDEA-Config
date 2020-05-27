@@ -139,11 +139,22 @@
         <mark key="." line="76" column="6" />
         <mark key="^" line="76" column="7" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/test/java/com/tdr/russerver/ledenum/ColorEnum.java" timestamp="1590057268234">
-        <mark key="[" line="13" column="40" />
-        <mark key="]" line="19" column="5" />
-        <mark key="." line="19" column="4" />
-        <mark key="^" line="19" column="5" />
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/test/java/com/tdr/russerver/LedCell.java" timestamp="1590582560219">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="21" column="24" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/test/java/com/tdr/russerver/ledenum/ColorEnum.java" timestamp="1590582868408">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="31" column="1" />
+      </file>
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/test/java/com/tdr/russerver/ledenum/FontSizeEnum.java" timestamp="1590582900015">
+        <mark key="[" line="18" column="43" />
+        <mark key="]" line="20" column="4" />
+        <mark key="." line="20" column="3" />
+        <mark key="^" line="20" column="4" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/socket/server/Q8TransactionServer.java" timestamp="1590484196724">
         <mark key="[" line="132" column="24" />
@@ -163,8 +174,11 @@
         <mark key="." line="198" column="0" />
         <mark key="^" line="102" column="28" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/test/java/com/tdr/russerver/ledenum/TypefaceEnum.java" timestamp="1590057463611">
-        <mark key="[" line="23" column="4" />
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/test/java/com/tdr/russerver/ledenum/TypefaceEnum.java" timestamp="1590583033950">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="21" />
+        <mark key="." line="43" column="20" />
+        <mark key="^" line="43" column="21" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/test/java/com/tdr/russerver/RusServerApplicationTests.java" timestamp="1590550717519">
         <mark key="[" line="64" column="5" />
@@ -181,12 +195,6 @@
         <mark key="]" line="88" column="0" />
         <mark key="." line="88" column="0" />
         <mark key="^" line="88" column="26" />
-      </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/swagger/src/test/java/com/tdr/zjh/swagger/SwaggerToMarkupTest.java" timestamp="1590478568369">
-        <mark key="[" line="17" column="73" />
-        <mark key="]" line="17" column="104" />
-        <mark key="^" line="17" column="104" />
-        <mark key="." line="17" column="103" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/utils/ApduUtil.java" timestamp="1590572742147">
         <mark key="[" line="242" column="54" />
@@ -207,12 +215,6 @@
         <mark key="." line="54" column="0" />
         <mark key="^" line="55" column="26" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/handlerfactory/handler/impl/GetCarInfoProcess.java" timestamp="1590482822187">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="54" column="56" />
-        <mark key="^" line="57" column="1" />
-        <mark key="." line="57" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/handlerfactory/handler/impl/StartRefuelProcess.java" timestamp="1590482880004">
         <mark key="'" line="70" column="50" />
         <mark key="[" line="89" column="0" />
@@ -225,6 +227,11 @@
         <mark key="]" line="130" column="23" />
         <mark key="^" line="130" column="23" />
         <mark key="." line="130" column="22" />
+      </file>
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/test/java/com/tdr/russerver/LedRow.java" timestamp="1590582965191">
+        <mark key="[" line="43" column="64" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -333,46 +340,46 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0ZXN0Q2FyTm8uYWRkKCLpu5FBRjY2NTUiKTsKICAgICAgICAgICAgICAgICAgICB0ZXN0Q2FyTm8uYWRkKCLotLVDMEMwMDAiKTsKICAgICAgICAgICAgICAgICAgICB0ZXN0Q2FyTm8uYWRkKCLmtZlBRDEyMzQ1Iik7CiAgICAgICAgICAgICAgICAgICAgdGVzdENhck5vLmFkZCgi5LqsQTAwMDAzIik7CiAgICAgICAgICAgICAgICAgICAgdGVzdENhck5vLmFkZCgi5LqsQTAwMDA0Iik7CiAgICAgICAgICAgICAgICAgICAgdGVzdENhck5vLmFkZCgi5LqsQTAwMDA1Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gIlR5cGVmYWNlRW51bXsiICsKICAgICAgICAgICAgICAgICJ2YWx1ZT0nIiArIHZhbHVlICsgJ1wnJyArCiAgICAgICAgICAgICAgICAnfSc7</text>
       </register>
       <register name="+" type="4">
         <text>tendyron!2#</text>
       </register>
       <register name="-" type="4">
-        <text>浙AJ8J85</text>
+        <text encoding="base64">ICAgQE92ZXJyaWRl</text>
       </register>
       <register name="/" type="4">
         <text>jn</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0ZXN0Q2FyTm8uYWRkKCLpu5FBRjY2NTUiKTsKICAgICAgICAgICAgICAgICAgICB0ZXN0Q2FyTm8uYWRkKCLotLVDMEMwMDAiKTsKICAgICAgICAgICAgICAgICAgICB0ZXN0Q2FyTm8uYWRkKCLmtZlBRDEyMzQ1Iik7CiAgICAgICAgICAgICAgICAgICAgdGVzdENhck5vLmFkZCgi5LqsQTAwMDAzIik7CiAgICAgICAgICAgICAgICAgICAgdGVzdENhck5vLmFkZCgi5LqsQTAwMDA0Iik7CiAgICAgICAgICAgICAgICAgICAgdGVzdENhck5vLmFkZCgi5LqsQTAwMDA1Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBMZWRDZWxsIGxlZENlbGwxID0gbmV3IExlZENlbGwoIjEyIiwgZmFsc2UsIENvbG9yRW51bS5DVVNUT00sIEZvbnRTaXplRW51bS5DVVNUT00sIFR5cGVmYWNlRW51bS5DVVNUT00pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBUZXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gIlR5cGVmYWNlRW51bXsiICsKICAgICAgICAgICAgICAgICJ2YWx1ZT0nIiArIHZhbHVlICsgJ1wnJyArCiAgICAgICAgICAgICAgICAnfSc7</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QFNwcmluZ0Jvb3RUZXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdHJpbmdCdWlsZGVyLmFwcGVuZChmaXJzdENvbHVtbi5nZXQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiR2V0IGxvZyBwcm9jZXNzIHN1Y2Nlc3MsIGlzc3VlIGFwdWQgY29tbWFuZDoge30hIiwgYXBkdVN0cmluZyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBMZWRDZWxsIGxlZENlbGwxID0gbmV3IExlZENlbGwoZmFsc2UsICkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiU3RhcnQgcGF5IHByb2Nlc3Mgc3VjY2VzcywgaXNzdWUgYXB1ZCBjb21tYW5kOiB7fSEiLCBhcGR1U3RyaW5nKTsK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICog5pi+56S65paH5pysCiAgICAgKi8KICAgIHByaXZhdGUgU3RyaW5nIHRleHQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiU3RhcnQgcmVmdWVsIHByb2Nlc3Mgc3VjY2VzcywgaXNzdWUgYXB1ZCBjb21tYW5kOiB7fSEiLCBhcGR1U3RyaW5nKTsK</text>
+        <text encoding="base64">ICAgICAgICBzdHJpbmdCdWlsZGVyLmFwcGVuZCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuaW5mbygiVW5kbyBwYXkgcHJvY2VzcyBzdWNjZXNzLCBpc3N1ZSBhcHVkIGNvbW1hbmQ6IHt9ISIsIGFwZHVTdHJpbmcpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gSGV4LnRvSGV4U3RyaW5nKHRleHQuZ2V0Qnl0ZXMoIkdCSyIpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBDb2xvckVudW0gY29sb3JFbnVtID0gQ29sb3JFbnVtLkdSRUVOOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihjb2xvckVudW0udG9TdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gIkxlZFJvd3siICsKICAgICAgICAgICAgICAgICJyb3dOdW09IiArIHJvd051bSArCiAgICAgICAgICAgICAgICAiLCBmaXJzdENvbHVtbj0iICsgZmlyc3RDb2x1bW4gKwogICAgICAgICAgICAgICAgIiwgc2Vjb25kQ29sdW1uPSIgKyBzZWNvbmRDb2x1bW4gKwogICAgICAgICAgICAgICAgJ30nOw==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3RyaW5nLmdldEJ5dGVzKCkubGVuZ3RoKTsK</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFN0cmluZyB0b1N0cmluZygpIHsKICAgICAgICByZXR1cm4gIkxlZFJvd3siICsKICAgICAgICAgICAgICAgICJyb3dOdW09IiArIHJvd051bSArCiAgICAgICAgICAgICAgICAiLCBmaXJzdENvbHVtbj0iICsgZmlyc3RDb2x1bW4gKwogICAgICAgICAgICAgICAgIiwgc2Vjb25kQ29sdW1uPSIgKyBzZWNvbmRDb2x1bW4gKwogICAgICAgICAgICAgICAgJ30nOwogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICIvZXJ2UmxMd0x3M24xcTk3MzBwdnN3TUVMMlNkU1E5Y0ZldVBCWTlxcjNYQm9POUlRY1RQb1YwUGIwTU9xazlEV2FpdmZTRVdyM3VnWlk5SjR4R3ZpQXdaYnlzdU1XOVRGTGh2TkQweXoweUdRcSswQWdRUGdEM3Y3MDg2Wk05aS9nSHZ2UVpycjJHclRFOU52N0lQVkpXMHIxV095ODliQlVjdmVEdEtEMkRjQTIrWkxsdXZaNXBKNzJuMXJBOXd6T2FQZTZlaEQwakg5UTlOb1l3dlU2QnNycW5FNWk5QzdHZVBmMTBXejJubnJhOEJmOTZQaVpiWXJ3T1NCWTlDQUZoUGRtdmg3eXEwaTQ5WDNPaXZUSFd3N3MwVk1VOUlxN092SEQwQ2J5ZS9XWTlNWWZDdlhLcHpUMWlzYTQ5ZGtzdk8rSGlBajA5Y2swOEY1ZTJ2VXRaUzcxR0VxMjlXdno3dThmUmlUem0ySFU5VUFiVHZGanJGVDJLdno0K3ZjbVl2TVZmVHJ5eTR5SStVVFRvUFFsS3hyMUpKVjgrYmJMUHZabFZCajFGYkh5N3l5cm9QVGJZRkw1V05kVTk2a0RVUFUxYWlqeWREYSs5M3RhVVBOWHRMcnlFc0lZOVp2YnlQZlIyQmI3S3hzUTlHdWlwdkJncnNyejB1WlM4UXhhMnZaTEIrN3hmUDQwOXBVdFBQWmNuRVQyYU9CaStBRXZEUFJYSDRiME1mVFU5OWQ1Z3ZHS05JejY0Q09nOWJSY2pQVnhWZno2YzFBdSttdGdXdlpWbWNUMGV4UTQrZEZTc08zK2hNcnc9IjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
