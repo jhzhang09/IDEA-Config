@@ -171,11 +171,7 @@
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/test/java/com/tdr/russerver/ledenum/TypefaceEnum.java" timestamp="1590057463611">
         <mark key="[" line="23" column="4" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/test/java/com/tdr/russerver/RusServerApplicationTests.java" timestamp="1590056904375">
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
-      </file>
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/socket/handle/TransactionServerHandler.java" timestamp="1590547089062" />
       <file name="/Dummy.txt" timestamp="1590484204041">
         <mark key="[" line="0" column="0" />
       </file>
