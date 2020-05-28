@@ -133,10 +133,11 @@
         <mark key="." line="76" column="6" />
         <mark key="^" line="76" column="7" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/test/java/com/tdr/russerver/LedCell.java" timestamp="1590582560219">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="21" column="24" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/test/java/com/tdr/russerver/LedCell.java" timestamp="1590644388229">
+        <mark key="[" line="16" column="5" />
+        <mark key="]" line="17" column="8" />
+        <mark key="." line="17" column="7" />
+        <mark key="^" line="17" column="8" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/test/java/com/tdr/russerver/ledenum/ColorEnum.java" timestamp="1590582868408">
         <mark key="[" line="31" column="0" />
@@ -150,11 +151,11 @@
         <mark key="." line="20" column="3" />
         <mark key="^" line="20" column="4" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/test/java/com/tdr/russerver/LedClient.java" timestamp="1590636842203">
-        <mark key="[" line="150" column="0" />
-        <mark key="]" line="150" column="0" />
-        <mark key="^" line="149" column="56" />
-        <mark key="." line="150" column="0" />
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/test/java/com/tdr/russerver/LedClient.java" timestamp="1590644458262">
+        <mark key="[" line="142" column="0" />
+        <mark key="]" line="142" column="0" />
+        <mark key="^" line="141" column="44" />
+        <mark key="." line="142" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/socket/server/Q8TransactionServer.java" timestamp="1590484196724">
         <mark key="[" line="132" column="24" />
@@ -319,7 +320,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBMZWRDZWxsLmJ1aWxkZXIoKS4K</text>
       </register>
       <register name="+" type="4">
         <text>tendyron!2#</text>
@@ -334,31 +335,31 @@
         <text encoding="base64">ICAgICAgICBMZWRDZWxsIGxlZENlbGwxID0gbmV3IExlZENlbGwoIjEyIiwgZmFsc2UsIENvbG9yRW51bS5DVVNUT00sIEZvbnRTaXplRW51bS5DVVNUT00sIFR5cGVmYWNlRW51bS5DVVNUT00pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBMZWRDZWxsLmJ1aWxkZXIoKS4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obGVkUm93LnRvU3RyaW5nKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oSGV4LnRvSGV4U3RyaW5nKGJ5dGVCdWYuYXJyYXkoKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obGVkUm93LnRvU3RyaW5nKCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oSW50ZWdlci50b0hleFN0cmluZyhpbnRlZ2VyKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oSGV4LnRvSGV4U3RyaW5nKGJ5dGVCdWYuYXJyYXkoKSkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oSW50ZWdlci50b0hleFN0cmluZyhhKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oSW50ZWdlci50b0hleFN0cmluZyhpbnRlZ2VyKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBJbnRlZ2VyIGEgPSBJbnRlZ2VyLnJldmVyc2VCeXRlcygxMDkwMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oSW50ZWdlci50b0hleFN0cmluZyhhKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBJbnRlZ2VyIGludGVnZXIgPSAxMDsK</text>
+        <text encoding="base64">ICAgICAgICBJbnRlZ2VyIGEgPSBJbnRlZ2VyLnJldmVyc2VCeXRlcygxMDkwMCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBieXRlMy5vcmRlcihCeXRlT3JkZXIuTElUVExFX0VORElBTik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBJbnRlZ2VyIGludGVnZXIgPSAxMDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBCeXRlQnVmZmVyIGJ5dGUzID0gQnl0ZUJ1ZmZlci53cmFwKGJ1Zi5hcnJheSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICBieXRlMy5vcmRlcihCeXRlT3JkZXIuTElUVExFX0VORElBTik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
