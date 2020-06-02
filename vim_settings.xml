@@ -126,7 +126,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/RusServerApplication.java" timestamp="1591065755911">
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/RusServerApplication.java" timestamp="1591066435213">
         <mark key="[" line="8" column="28" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/handlerfactory/TransactionHandlerFactory.java" timestamp="1590980196330">
@@ -166,7 +166,7 @@
         <mark key="." line="61" column="9" />
         <mark key="^" line="61" column="10" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/socket/handle/TransactionServerHandler.java" timestamp="1590982627839">
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/socket/handle/TransactionServerHandler.java" timestamp="1591066998046">
         <mark key="[" line="34" column="6" />
         <mark key="]" line="65" column="16" />
         <mark key="^" line="65" column="16" />
