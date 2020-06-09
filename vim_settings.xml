@@ -127,10 +127,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/location-collect/pom.xml" timestamp="1591699528798">
-        <mark key="[" line="29" column="24" />
-        <mark key="]" line="29" column="24" />
-        <mark key="." line="29" column="24" />
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/location-collect/pom.xml" timestamp="1591705560247">
+        <mark key="[" line="29" column="35" />
+        <mark key="]" line="27" column="20" />
+        <mark key="." line="27" column="19" />
+        <mark key="^" line="27" column="20" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/location-collect/src/main/resources/application-dev.yml" timestamp="1591698728855">
         <mark key="[" line="8" column="13" />
@@ -159,27 +160,21 @@
         <mark key="^" line="69" column="51" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/location-collect/src/main/java/com/tdr/locationcollect/common/config/MybatisCustomMetaObjectHandler.java" timestamp="1591695591575">
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/location-collect/src/main/java/com/tdr/locationcollect/common/config/MybatisCustomMetaObjectHandler.java" timestamp="1591705365098">
         <mark key="[" line="23" column="8" />
         <mark key="]" line="24" column="0" />
         <mark key="." line="22" column="64" />
-      </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/location-collect/src/main/java/com/tdr/locationcollect/LocationCollectApplication.java" timestamp="1591695447902">
-        <mark key="[" line="10" column="3" />
-        <mark key="]" line="16" column="70" />
-        <mark key="^" line="16" column="70" />
-        <mark key="." line="16" column="69" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/location-collect/src/main/java/com/tdr/locationcollect/common/utils/IPUtils.java" timestamp="1591695750199">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/location-collect/src/main/java/com/tdr/locationcollect/entity/LocationCollect.java" timestamp="1591702471838">
-        <mark key="[" line="49" column="36" />
-        <mark key="]" line="54" column="0" />
-        <mark key="^" line="54" column="0" />
-        <mark key="." line="54" column="0" />
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/location-collect/src/main/java/com/tdr/locationcollect/entity/LocationCollect.java" timestamp="1591705371483">
+        <mark key="[" line="64" column="17" />
+        <mark key="]" line="64" column="17" />
+        <mark key="^" line="64" column="17" />
+        <mark key="." line="64" column="17" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/location-collect/src/main/java/com/tdr/locationcollect/common/exception/BaseExceptionHandler.java" timestamp="1591695620486">
         <mark key="[" line="90" column="0" />
@@ -207,16 +202,19 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/location-collect/src/main/java/com/tdr/locationcollect/controller/LocationCollectController.java" timestamp="1591702069783">
-        <mark key="[" line="30" column="87" />
-        <mark key="]" line="28" column="22" />
-        <mark key="." line="28" column="21" />
-        <mark key="^" line="28" column="22" />
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/location-collect/src/main/java/com/tdr/locationcollect/controller/LocationCollectController.java" timestamp="1591704877005">
+        <mark key="[" line="48" column="64" />
+        <mark key="]" line="48" column="71" />
+        <mark key="." line="48" column="70" />
+        <mark key="^" line="48" column="71" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/location-collect/src/main/java/com/tdr/locationcollect/common/utils/PageUtils.java" timestamp="1591695764374">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1591704938778">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -324,47 +322,47 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvZ2dlciBWRVJJRllfTE9HR0VSID0gTG9nZ2VyRmFjdG9yeS5nZXRMb2dnZXIoInZlcmlmeUxvZyIpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PA==</text>
       </register>
       <register name="+" type="4">
         <text>tendyron!2#</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;locationCollect&quot;</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="/" type="4">
         <text>entryQueue</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMZWRDZWxsIGxlZENlbGwxID0gbmV3IExlZENlbGwoIjEy5YyX5LqsIiwgdHJ1ZSwgQ29sb3JFbnVtLkdSRUVOLCBGb250U2l6ZUVudW0uQ1VTVE9NLCBUeXBlZmFjZUVudW0uQ1VTVE9NKTsKICAgICAgICBMZWRDZWxsIGxlZENlbGwyID0gbmV3IExlZENlbGwoIjUiLCBmYWxzZSwgQ29sb3JFbnVtLkNVU1RPTSwgRm9udFNpemVFbnVtLkNVU1RPTSwgVHlwZWZhY2VFbnVtLkNVU1RPTSk7CiAgICAgICAgTGVkUm93IGxlZFJvdyA9IG5ldyBMZWRSb3coMSwgbGVkQ2VsbDEsIGxlZENlbGwyKTsK</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBEYXRlRm9ybWF0IGRhdGVGb3JtYXQgPSBuZXcgU2ltcGxlRGF0ZUZvcm1hdCgiZGRNTXl5SEhtbXNzLnNzcyIpOwogICAgICAgICAgICBEYXRlIGRhdGUgPSBkYXRlRm9ybWF0LnBhcnNlKCI8Y2hhbmdlbWU+Iik7CiAgICAgICAgfSBjYXRjaCAoUGFyc2VFeGNlcHRpb24gZSkgewogICAgICAgICAgICAvLyAuLi4gaGFuZGxlIHBhcnNpbmcgZXhjZXB0aW9uCiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIExvZ2dlciBWRVJJRllfTE9HR0VSID0gTG9nZ2VyRmFjdG9yeS5nZXRMb2dnZXIoInZlcmlmeUxvZyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0ZUZvcm1hdC5wYXJzZShkYXRzZGQgVGltZSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g6K6w5b2V5bel6KGM5oub5qCH5byC5bi46aqM6K+B5pel5b+XCiAgICAgICAgICAgIGlmICgicGtjczdWZXJpZnkiLmVxdWFscyhtZXRob2ROYW1lKSkgewogICAgICAgICAgICAgICAgVkVSSUZZX0xPR0dFUi5pbmZvKCJcclxu562+5ZCN6aqM562+5byA5aeL77yM6K+35rGC5pe26Ze0OiB7fVxyXG7lrqLmiLfnq69JUDoge30sIOWuouaIt+err+iuvuWkhzoge30sIOWuouaIt+err+aTjeS9nOezu+e7nzoge31cclxu6aqM562+57uT5p6cOiDlpLHotKVcclxu6aqM562+5byC5bi45L+h5oGvOiB7fSIsCiAgICAgICAgICAgICAgICAgICAgICAgIERhdGVGb3JtYXRVdGlscy5mb3JtYXQobmV3IERhdGUoKSwgInl5eXktTU0tZGQgSEg6bW06c3MiKSwgaXAsIHVzZXJBZ2VudC5nZXRWYWx1ZSgiRGV2aWNlTmFtZSIpLAogICAgICAgICAgICAgICAgICAgICAgICB1c2VyQWdlbnQuZ2V0VmFsdWUoIk9wZXJhdGluZ1N5c3RlbU5hbWVWZXJzaW9uIiksIGUuZ2V0TWVzc2FnZSgpKTsKICAgICAgICAgICAgfSBlbHNlIGlmICgiZG93bmxvYWRGdWxsQ2VydCIuZXF1YWxzKG1ldGhvZE5hbWUpIHx8ICJkb3dubG9hZENlcnQiLmVxdWFscyhtZXRob2ROYW1lKSkgewogICAgICAgICAgICAgICAgVkVSSUZZX0xPR0dFUi5pbmZvKAogICAgICAgICAgICAgICAgICAgICAgICAiXHJcbuivgeS5pumigeWPkeW8gOWni++8jOivt+axguaXtumXtDoge31cclxu5a6i5oi356uvSVA6IHt9LCDlrqLmiLfnq6/orr7lpIc6IHt9LCDlrqLmiLfnq6/mk43kvZzns7vnu586IHt9XHJcbuivgeS5puS4i+i9vee7k+aenDog5aSx6LSlXHJcbuivgeS5puS4i+i9veW8guW4uOS/oeaBrzoge30iLAogICAgICAgICAgICAgICAgICAgICAgICBEYXRlRm9ybWF0VXRpbHMuZm9ybWF0KG5ldyBEYXRlKCksICJ5eXl5LU1NLWRkIEhIOm1tOnNzIiksIGlwLCB1c2VyQWdlbnQuZ2V0VmFsdWUoIkRldmljZU5hbWUiKSwKICAgICAgICAgICAgICAgICAgICAgICAgdXNlckFnZW50LmdldFZhbHVlKCJPcGVyYXRpbmdTeXN0ZW1OYW1lVmVyc2lvbiIpLCBlLmdldE1lc3NhZ2UoKSk7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0ZUZvcm1hdC5wYXJzZShkYXRlVGltZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgY29udGVudCA9IG1hcHBlci53cml0ZXJXaXRoRGVmYXVsdFByZXR0eVByaW50ZXIoKS53cml0ZVZhbHVlQXNTdHJpbmcoam9pblBvaW50LmdldEFyZ3MoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRpbWUtem9uZTogR01UKzgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9jYWxEYXRlVGltZSBsb2NhbERhdGVUaW1lID0gTG9jYWxEYXRlVGltZS5wYXJzZShkYXRlVGltZSwgZGF0ZVRpbWVGb3JtYXR0ZXIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBqYWNrc29uOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgRGF0ZVRpbWVGb3JtYXR0ZXIgZGF0ZVRpbWVGb3JtYXR0ZXIgPSBEYXRlVGltZUZvcm1hdHRlci5vZlBhdHRlcm4oIiIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRhdGUtZm9ybWF0OiAneXl5eS1NTS1kZCBISDptbTpzcycK</text>
+        <text encoding="base64">ICAgICAgICAgICBTdHJpbmcgZGF0ZVN0ciA9IGRhdGVGb3JtYXQuZm9ybWF0KGRhdGUpOyAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+PC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICBEYXRlIGRhdGUgPSBuZXcgRGF0ZSgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5iYW9taWRvdS5teWJhdGlzcGx1cy5jb3JlLnRvb2xraXQuU3RyaW5nVXRpbHM7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS50ZHIucmVmaWxsc2VydmVyLm9tbW9uLmV4Y2VwdGlvbi5UZHJFeGNlcHRpb247Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmdbXSBzdHJpbmdzID0gbG9jYXRpb25Db2xsZWN0LmdldFJtY0RhdGEoKS5zcGxpdCgiLCIpOwogICAgICAgIGxvY2F0aW9uQ29sbGVjdC5zZXRNZXNzYWdlSWQoc3RyaW5nc1swXSk7CiAgICAgICAgbG9jYXRpb25Db2xsZWN0LnNldFN0YXR1cyhzdHJpbmdzWzJdKTsKICAgICAgICBsb2NhdGlvbkNvbGxlY3Quc2V0RGV2aWNlTGF0aXR1ZGUoc3RyaW5nc1szXSk7CiAgICAgICAgbG9jYXRpb25Db2xsZWN0LnNldE5zSW5kaWNhdG9yKHN0cmluZ3NbNF0pOwogICAgICAgIGxvY2F0aW9uQ29sbGVjdC5zZXREZXZpY2VMb25naXR1ZGUoc3RyaW5nc1s1XSk7CiAgICAgICAgbG9jYXRpb25Db2xsZWN0LnNldEV3SW5kaWNhdG9yKHN0cmluZ3NbNl0pOwogICAgICAgIGxvY2F0aW9uQ29sbGVjdC5zZXRTcGVlZE92ZXJHcm91bmQoc3RyaW5nc1s3XSk7CiAgICAgICAgbG9jYXRpb25Db2xsZWN0LnNldENvdXJzZU92ZXJHcm91bmQoc3RyaW5nc1s4XSk7CiAgICAgICAgbG9jYXRpb25Db2xsZWN0LnNldE1lc3NhZ2VJZChzdHJpbmdzWzEwXSk7CiAgICAgICAgbG9jYXRpb25Db2xsZWN0LnNldFZhcmlhdGlvblNlbnNlKHN0cmluZ3NbMTFdKTsKICAgICAgICBsb2NhdGlvbkNvbGxlY3Quc2V0TW9kZShzdHJpbmdzWzEyXS5zdWJzdHJpbmcoMCwgMSkpOwogICAgICAgIGxvY2F0aW9uQ29sbGVjdC5zZXRDaGVja3N1bShzdHJpbmdzWzEyXS5zdWJzdHJpbmcoMSkpOwoKICAgICAgICBTdHJpbmcgZGF0ZVRpbWUgPSBzdHJpbmdzWzldICsgc3RyaW5nc1sxXTsKICAgICAgICBEYXRlVGltZUZvcm1hdHRlciBkYXRlVGltZUZvcm1hdHRlciA9IERhdGVUaW1lRm9ybWF0dGVyLm9mUGF0dGVybigiZGRNTXl5SEhtbXNzLnNzcyIpOwogICAgICAgIExvY2FsRGF0ZVRpbWUgbG9jYWxEYXRlVGltZSA9IExvY2FsRGF0ZVRpbWUucGFyc2UoZGF0ZVRpbWUsIGRhdGVUaW1lRm9ybWF0dGVyKTsKICAgICAgICBsb2NhdGlvbkNvbGxlY3Quc2V0RGV2aWNlVGltZShEYXRlLmZyb20obG9jYWxEYXRlVGltZS5hdFpvbmUoWm9uZUlkLnN5c3RlbURlZmF1bHQoKSkudG9JbnN0YW50KCkpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
