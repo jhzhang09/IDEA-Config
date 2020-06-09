@@ -127,87 +127,98 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/refill-server/src/main/java/com/tdr/acs/utils/led/LedRow.java" timestamp="1591691733117">
-        <mark key="[" line="56" column="41" />
-        <mark key="]" line="56" column="41" />
-        <mark key="^" line="56" column="41" />
-        <mark key="." line="56" column="40" />
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/location-collect/pom.xml" timestamp="1591699528798">
+        <mark key="[" line="29" column="24" />
+        <mark key="]" line="29" column="24" />
+        <mark key="." line="29" column="24" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/location-collect/pom.xml" timestamp="1591692775242">
-        <mark key="[" line="17" column="40" />
-        <mark key="]" line="19" column="56" />
-        <mark key="." line="19" column="55" />
-        <mark key="^" line="19" column="56" />
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/location-collect/src/main/resources/application-dev.yml" timestamp="1591698728855">
+        <mark key="[" line="8" column="13" />
+        <mark key="]" line="1" column="13" />
+        <mark key="^" line="1" column="13" />
+        <mark key="." line="1" column="12" />
       </file>
-      <file name="/console" timestamp="1591270191722">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/location-collect/src/main/java/com/tdr/locationcollect/common/xss/SQLFilter.java" timestamp="1591696705753">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
-      <file name="/a.sql" timestamp="1591270274458">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/location-collect/src/main/resources/application.yml" timestamp="1591698310388">
+        <mark key="[" line="26" column="31" />
+        <mark key="]" line="26" column="22" />
+        <mark key="^" line="26" column="22" />
+        <mark key="." line="26" column="21" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/refill-server/src/main/java/com/tdr/refillserver/cameraapi/controller/CameraInterfaceController.java" timestamp="1591344617717" />
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/socket/server/Q8TransactionServer.java" timestamp="1591324844414" />
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/refill-server/src/main/java/com/tdr/openinterface/socket/UdpTransactionServer.java" timestamp="1591343165192">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
-        <mark key="^" line="55" column="0" />
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/location-collect/src/main/java/com/tdr/locationcollect/common/validator/ValidatorUtils.java" timestamp="1591696503803">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/refill-server/src/main/resources/application-test.yml" timestamp="1591271260062">
-        <mark key="[" line="61" column="5" />
-        <mark key="]" line="63" column="13" />
-        <mark key="." line="63" column="12" />
-        <mark key="^" line="63" column="13" />
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/location-collect/src/main/java/com/tdr/locationcollect/common/aspect/TransactionLogAspect.java" timestamp="1591696843827">
+        <mark key="[" line="74" column="47" />
+        <mark key="]" line="74" column="51" />
+        <mark key="^" line="74" column="51" />
+        <mark key="." line="74" column="50" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/refill-server/src/main/java/com/tdr/acs/utils/led/ledenum/ColorEnum.java" timestamp="1591689251717">
-        <mark key="[" line="16" column="10" />
-        <mark key="]" line="24" column="13" />
-        <mark key="^" line="24" column="13" />
-        <mark key="." line="24" column="12" />
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/location-collect/src/main/java/com/tdr/locationcollect/common/config/MybatisCustomMetaObjectHandler.java" timestamp="1591695591575">
+        <mark key="[" line="23" column="8" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="22" column="64" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/socket/handle/TransactionServerHandler.java" timestamp="1591688014635">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="47" />
-        <mark key="^" line="65" column="16" />
-        <mark key="." line="65" column="15" />
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/location-collect/src/main/java/com/tdr/locationcollect/LocationCollectApplication.java" timestamp="1591695447902">
+        <mark key="[" line="10" column="3" />
+        <mark key="]" line="16" column="70" />
+        <mark key="^" line="16" column="70" />
+        <mark key="." line="16" column="69" />
       </file>
-      <file name="/Dummy.txt" timestamp="1591344400681">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/location-collect/src/main/java/com/tdr/locationcollect/common/utils/IPUtils.java" timestamp="1591695750199">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/refill-server/src/test/java/com/tdr/refillserver/udpclient/UdpClientHandler.java" timestamp="1591343555336">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="54" />
-        <mark key="." line="22" column="18" />
-        <mark key="^" line="22" column="19" />
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/location-collect/src/main/java/com/tdr/locationcollect/entity/LocationCollect.java" timestamp="1591698298415">
+        <mark key="[" line="16" column="7" />
+        <mark key="]" line="11" column="30" />
+        <mark key="^" line="11" column="30" />
+        <mark key="." line="11" column="29" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/refill-server/src/main/java/com/tdr/openinterface/handler/UdpTransactionServerHandler.java" timestamp="1591343629691">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/location-collect/src/main/java/com/tdr/locationcollect/common/exception/BaseExceptionHandler.java" timestamp="1591695620486">
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/refill-server/src/test/java/com/tdr/refillserver/udpclient/UdpClient.java" timestamp="1591344285980">
-        <mark key="[" line="58" column="50" />
-        <mark key="]" line="60" column="17" />
-        <mark key="." line="60" column="16" />
-        <mark key="^" line="60" column="17" />
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/location-collect/src/main/java/com/tdr/locationcollect/common/utils/BaseResult.java" timestamp="1591695682973">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/refill-server/src/main/java/com/tdr/acs/utils/led/LedClient.java" timestamp="1591691526241">
-        <mark key="[" line="136" column="43" />
-        <mark key="]" line="127" column="0" />
-        <mark key="." line="127" column="0" />
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/location-collect/src/main/resources/mapper/LocationCollectDao.xml" timestamp="1591697961814">
+        <mark key="[" line="8" column="62" />
+        <mark key="]" line="8" column="63" />
+        <mark key="." line="8" column="62" />
+        <mark key="^" line="8" column="63" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/refill-server/src/main/java/com/tdr/acs/entrance/socket/server/RsuTransactionServer.java" timestamp="1591268558286">
-        <mark key="[" line="130" column="0" />
-        <mark key="]" line="131" column="70" />
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/location-collect/src/main/java/com/tdr/locationcollect/common/validator/Assert.java" timestamp="1591696435766">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/refill-server/src/main/java/com/tdr/acs/entrance/socket/handle/RsuTransactionServerHandler.java" timestamp="1591268039881">
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="130" column="5" />
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/location-collect/src/main/java/com/tdr/locationcollect/common/utils/Query.java" timestamp="1591695773905">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1591326783257">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/location-collect/src/main/java/com/tdr/locationcollect/controller/LocationCollectController.java" timestamp="1591698660685">
+        <mark key="[" line="30" column="29" />
+        <mark key="]" line="28" column="22" />
+        <mark key="." line="28" column="21" />
+        <mark key="^" line="28" column="22" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/socket/handle/RsuTlvEncodeHandler.java" timestamp="1591681515168" />
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/location-collect/src/main/java/com/tdr/locationcollect/common/utils/PageUtils.java" timestamp="1591695764374">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="1749" column="50" filename="$USER_HOME$/Workspaces/IdeaProjects/social-collect/src/main/resources/templates/index.html" />
@@ -314,14 +325,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLm15YmF0aXMuc3ByaW5nLmJvb3Q8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPm15YmF0aXMtc3ByaW5nLWJvb3Qtc3RhcnRlcjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+Mi4xLjI8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+      <register name="&quot;" type="4">
+        <text>&quot;locationCollect&quot;</text>
       </register>
       <register name="+" type="4">
         <text>tendyron!2#</text>
       </register>
       <register name="-" type="4">
-        <text>in.available()</text>
+        <text>&quot;locationCollect&quot;</text>
       </register>
       <register name="/" type="4">
         <text>entryQueue</text>
@@ -330,31 +341,31 @@
         <text encoding="base64">ICAgICAgICBMZWRDZWxsIGxlZENlbGwxID0gbmV3IExlZENlbGwoIjEy5YyX5LqsIiwgdHJ1ZSwgQ29sb3JFbnVtLkdSRUVOLCBGb250U2l6ZUVudW0uQ1VTVE9NLCBUeXBlZmFjZUVudW0uQ1VTVE9NKTsKICAgICAgICBMZWRDZWxsIGxlZENlbGwyID0gbmV3IExlZENlbGwoIjUiLCBmYWxzZSwgQ29sb3JFbnVtLkNVU1RPTSwgRm9udFNpemVFbnVtLkNVU1RPTSwgVHlwZWZhY2VFbnVtLkNVU1RPTSk7CiAgICAgICAgTGVkUm93IGxlZFJvdyA9IG5ldyBMZWRSb3coMSwgbGVkQ2VsbDEsIGxlZENlbGwyKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLm15YmF0aXMuc3ByaW5nLmJvb3Q8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPm15YmF0aXMtc3ByaW5nLWJvb3Qtc3RhcnRlcjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+Mi4xLjI8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+PC92ZXJzaW9uPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzd2FwU3RyZWFtLndyaXRlKGJ1ZmYpOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5iYW9taWRvdS5teWJhdGlzcGx1cy5jb3JlLnRvb2xraXQuU3RyaW5nVXRpbHM7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzd2FwU3RyZWFtLndyaXRlKGJ1ZmZDb24pOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS50ZHIucmVmaWxsc2VydmVyLm9tbW9uLmV4Y2VwdGlvbi5UZHJFeGNlcHRpb247Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDplb/luqbpg6jliIYKICAgICAgICBieXRlW10gYnVmZkxlbiA9IG5ldyBieXRlWzRdOwogICAgICAgIGluLnJlYWQoYnVmZkxlbiwgMCwgNCk7CiAgICAgICAgc3dhcFN0cmVhbS53cml0ZShidWZmTGVuKTsKICAgICAgICBpbnQgbGVuID0gKGludCkgQnl0ZVV0aWxzLmZyb21MaXR0bGVFbmRpYW4oYnVmZkxlbik7CiAgICAgICAgCiAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGxlbik7CiAgICAgICAgLy8g5YaF5a656YOo5YiGCiAgICAgICAgYnl0ZVtdIGJ1ZmZDb24gPSBuZXcgYnl0ZVtsZW5dOwogICAgICAgIGluLnJlYWQoYnVmZkNvbiwgMCwgbGVuKTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS50ZHIucmVmaWxsc2VydmVyLmNvbW1vbi5leGNlcHRpb24uVGRyRXhjZXB0aW9uOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDplb/luqbpg6jliIYKICAgICAgICBieXRlW10gYnVmZkxlbiA9IG5ldyBieXRlWzRdOwogICAgICAgIGluLnJlYWQoYnVmZkxlbiwgMCwgNCk7CiAgICAgICAgc3dhcFN0cmVhbS53cml0ZShidWZmTGVuKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oSGV4LnRvSGV4U3RyaW5nKGJ1ZmZMZW4pKTsKICAgICAgICBpbnQgbGVuID0gKGludCkgQnl0ZVV0aWxzLmZyb21MaXR0bGVFbmRpYW4oYnVmZkxlbik7CiAgICAgICAgbGVuID0gSW50ZWdlci5yZXZlcnNlKGxlbik7CiAgICAgICAgLy8g5YaF5a656YOo5YiGCiAgICAgICAgYnl0ZVtdIGJ1ZmZDb24gPSBuZXcgYnl0ZVtsZW5dOwogICAgICAgIGluLnJlYWQoYnVmZkNvbiwgMCwgbGVuKTsKICAgICAgICBzd2FwU3RyZWFtLndyaXRlKGJ1ZmZDb24pOwo=</text>
+        <text encoding="base64">CgoKIyPlpJrmlbDmja7mupDnmoTphY3nva7vvIzpnIDopoHlvJXnlKhyZW5yZW4tZHluYW1pYy1kYXRhc291cmNlCiNkeW5hbWljOgojICBkYXRhc291cmNlOgojICAgIHNsYXZlMToKIyAgICAgIGRyaXZlci1jbGFzcy1uYW1lOiBjb20ubWljcm9zb2Z0LnNxbHNlcnZlci5qZGJjLlNRTFNlcnZlckRyaXZlcgojICAgICAgdXJsOiBqZGJjOnNxbHNlcnZlcjovL2xvY2FsaG9zdDoxNDMzO0RhdGFiYXNlTmFtZT1yZW5yZW5fc2VjdXJpdHkKIyAgICAgIHVzZXJuYW1lOiBzYQojICAgICAgcGFzc3dvcmQ6IDEyMzQ1NgojICAgIHNsYXZlMjoKIyAgICAgIGRyaXZlci1jbGFzcy1uYW1lOiBvcmcucG9zdGdyZXNxbC5Ecml2ZXIKIyAgICAgIHVybDogamRiYzpwb3N0Z3Jlc3FsOi8vbG9jYWxob3N0OjU0MzIvcmVucmVuX3NlY3VyaXR5CiMgICAgICB1c2VybmFtZTogcmVucmVuCiMgICAgICBwYXNzd29yZDogMTIzNDU2Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obGVuKTsK</text>
+        <text encoding="base64">ICByZWRpczoKICAgIGhvc3Q6IDE3Mi4xNi4zMi45CiAgICBwb3J0OiA2Mzc5CiAgICBwYXNzd29yZDogdGVuZHlyb24hMiMgICAgICMg5a+G56CB77yI6buY6K6k5Li656m677yJICAgZGF0YWJhc2U6IDAKICAgIHRpbWVvdXQ6IDYwMDBtcyAgIyDov57mjqXotoXml7bml7bplb/vvIjmr6vnp5LvvIkKICAgIGxldHR1Y2U6CiAgICAgIHBvb2w6CiAgICAgICAgbWF4LWFjdGl2ZTogMTAwMCAgIyDov57mjqXmsaDmnIDlpKfov57mjqXmlbDvvIjkvb/nlKjotJ/lgLzooajnpLrmsqHmnInpmZDliLbvvIkKICAgICAgICBtYXgtd2FpdDogLTFtcyAgICAgICMg6L+e5o6l5rGg5pyA5aSn6Zi75aGe562J5b6F5pe26Ze077yI5L2/55So6LSf5YC86KGo56S65rKh5pyJ6ZmQ5Yi277yJCiAgICAgICAgbWF4LWlkbGU6IDEwICAgICAgIyDov57mjqXmsaDkuK3nmoTmnIDlpKfnqbrpl7Lov57mjqUKICAgICAgICBtaW4taWRsZTogNSAgICAgICAjIOi/nuaOpeaxoOS4reeahOacgOWwj+epuumXsui/nuaOpQogICAgZGF0YWJhc2U6IDUKCmNvbmZpZzoKICBhYmM6CiAgICB1cmw6IGh0dHA6Ly8yMTkuMTQyLjc5LjE1Ny95aC13ZWIvcXVpY2twYXlwYXJrLwogICAgIyDlpoLkuIvkuInkuKrlj4LmlbDlpJrkuKrnmoTor53kvb/nlKgiOiLpmpTlvIDvvIzlubbkuIDkuIDlr7nlupQKICAgIHBhcnRuZXItaWQ6ICcxMDM4ODIyMDAxMTAwMzk6MTAzODgyMjAwMDAwOTU4JwogICAgcGZ4LWZpbGU6ICcxMDM4ODIyMDAxMTAwMzkucGZ4OjEwMzg4MjIwMDAwMDk1OC5wZngnCiAgICBrZXktc3RvcmUtcGFzc3dvcmQ6ICdhYmNkMTIzNDoxMTExMjIyMicKICAgIGNlcnQtZmlsZTogVHJ1c3RQYXlUZXN0LmNlcgogIHE4OgogICAgc29ja2V0LXNlcnZlcjoKICAgICAgcG9ydDogMjIzMzMKICByc3U6CiAgICBzb2NrZXQtc2VydmVyOgogICAgICBwb3J0OiAyMjIzMwogIGV4cGlyZToKICAgIGJnOiAzMAogICAgY2FtZXJhOiAxMAogICAgcnN1OiAzMAogICAgIyBydXPovabniYzkuIrpgIHotoXml7bml7bpl7TvvIzlpoLmnpzotoXov4fmraTml7bpl7TvvIzliJnku47msaDkuK3np7vpmaTvvIzljZXkvY0v56eSCiAgICByc3UtY2FyOiA2MDAKCgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYWEpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgYWEgPSBpbi5hdmFpbGFibGUoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwo=</text>
+        <text encoding="base64">ICAgIHJlcXVlc3QtY29udGV4dC1hdHRyaWJ1dGU6IHJlcXVlc3QK</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
