@@ -176,11 +176,6 @@
         <mark key="^" line="64" column="17" />
         <mark key="." line="64" column="17" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/location-collect/src/main/java/com/tdr/locationcollect/common/exception/BaseExceptionHandler.java" timestamp="1591695620486">
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="0" />
-        <mark key="." line="90" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/location-collect/src/main/java/com/tdr/locationcollect/common/utils/BaseResult.java" timestamp="1591695682973">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -192,10 +187,20 @@
         <mark key="." line="8" column="62" />
         <mark key="^" line="8" column="63" />
       </file>
+      <file name="/Dummy.txt" timestamp="1591759081185">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/location-collect/src/main/java/com/tdr/locationcollect/common/validator/Assert.java" timestamp="1591696435766">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/refill-server/src/main/java/com/tdr/acs/utils/led/LedClient.java" timestamp="1591759445086">
+        <mark key="'" line="80" column="13" />
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
+        <mark key="^" line="81" column="34" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/location-collect/src/main/java/com/tdr/locationcollect/common/utils/Query.java" timestamp="1591695773905">
         <mark key="[" line="14" column="0" />
@@ -218,7 +223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1749" column="50" filename="$USER_HOME$/Workspaces/IdeaProjects/social-collect/src/main/resources/templates/index.html" />
       <jump line="1750" column="32" filename="$USER_HOME$/Workspaces/IdeaProjects/social-collect/src/main/resources/templates/index.html" />
       <jump line="1752" column="24" filename="$USER_HOME$/Workspaces/IdeaProjects/social-collect/src/main/resources/templates/index.html" />
       <jump line="964" column="80" filename="$USER_HOME$/Workspaces/IdeaProjects/social-collect/src/main/resources/templates/index.html" />
@@ -318,18 +322,19 @@
       <jump line="41" column="30" filename="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/handlerfactory/handler/impl/StartRefuelProcess.java" />
       <jump line="108" column="25" filename="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/handlerfactory/handler/impl/StartRefuelProcess.java" />
       <jump line="27" column="0" filename="$USER_HOME$/Workspaces/IdeaProjects/refill-server/src/main/java/com/tdr/openinterface/handler/UdpTransactionServerHandler.java" />
+      <jump line="80" column="13" filename="$USER_HOME$/Workspaces/IdeaProjects/refill-server/src/main/java/com/tdr/acs/utils/led/LedClient.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc29ja2V0ID0gbmV3IFNvY2tldCgpOwo=</text>
       </register>
       <register name="+" type="4">
         <text>tendyron!2#</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PA==</text>
+        <text>socket= new Socket</text>
       </register>
       <register name="/" type="4">
         <text>entryQueue</text>
@@ -338,31 +343,40 @@
         <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBEYXRlRm9ybWF0IGRhdGVGb3JtYXQgPSBuZXcgU2ltcGxlRGF0ZUZvcm1hdCgiZGRNTXl5SEhtbXNzLnNzcyIpOwogICAgICAgICAgICBEYXRlIGRhdGUgPSBkYXRlRm9ybWF0LnBhcnNlKCI8Y2hhbmdlbWU+Iik7CiAgICAgICAgfSBjYXRjaCAoUGFyc2VFeGNlcHRpb24gZSkgewogICAgICAgICAgICAvLyAuLi4gaGFuZGxlIHBhcnNpbmcgZXhjZXB0aW9uCiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0ZUZvcm1hdC5wYXJzZShkYXRzZGQgVGltZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc29ja2V0ID0gbmV3IFNvY2tldCgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0ZUZvcm1hdC5wYXJzZShkYXRlVGltZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTb2NrZXQgc29ja2V0ID0gbnVsbDsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="3" type="4">
+        <text>finally {
+            // 关闭资源
+            try {
+                if (socket != null) {
+                    socket.close();
+                }
+            } catch (IOException e) {
+                log.error(&quot;socket close error!&quot;, e);
+            }
+        }</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9jYWxEYXRlVGltZSBsb2NhbERhdGVUaW1lID0gTG9jYWxEYXRlVGltZS5wYXJzZShkYXRlVGltZSwgZGF0ZVRpbWVGb3JtYXR0ZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc29ja2V0ID0gbmV3IFNvY2tldCgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGF0ZVRpbWVGb3JtYXR0ZXIgZGF0ZVRpbWVGb3JtYXR0ZXIgPSBEYXRlVGltZUZvcm1hdHRlci5vZlBhdHRlcm4oIiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc29ja2V0ID0gbmV3IFNvY2tldCgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICBTdHJpbmcgZGF0ZVN0ciA9IGRhdGVGb3JtYXQuZm9ybWF0KGRhdGUpOyAK</text>
+        <text encoding="base64">ICAgICAgICBCeXRlQXJyYXlPdXRwdXRTdHJlYW0gc3dhcFN0cmVhbSA9IG5ldyBCeXRlQXJyYXlPdXRwdXRTdHJlYW0oKTsKICAgICAgICAvLyDliY3lr7zmoIflv5cKICAgICAgICBieXRlW10gYnVmZiA9IG5ldyBieXRlWzEyXTsKICAgICAgICBpbi5yZWFkKGJ1ZmYsIDAsIDEyKTsKICAgICAgICBBcnJheVV0aWxzLnJldmVyc2UoYnVmZik7CgogICAgICAgIHJldHVybiBzd2FwU3RyZWFtLnRvQnl0ZUFycmF5KCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICBEYXRlIGRhdGUgPSBuZXcgRGF0ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0ZUZvcm1hdC5wYXJzZShkYXRzZGQgVGltZSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0ZUZvcm1hdC5wYXJzZShkYXRlVGltZSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmdbXSBzdHJpbmdzID0gbG9jYXRpb25Db2xsZWN0LmdldFJtY0RhdGEoKS5zcGxpdCgiLCIpOwogICAgICAgIGxvY2F0aW9uQ29sbGVjdC5zZXRNZXNzYWdlSWQoc3RyaW5nc1swXSk7CiAgICAgICAgbG9jYXRpb25Db2xsZWN0LnNldFN0YXR1cyhzdHJpbmdzWzJdKTsKICAgICAgICBsb2NhdGlvbkNvbGxlY3Quc2V0RGV2aWNlTGF0aXR1ZGUoc3RyaW5nc1szXSk7CiAgICAgICAgbG9jYXRpb25Db2xsZWN0LnNldE5zSW5kaWNhdG9yKHN0cmluZ3NbNF0pOwogICAgICAgIGxvY2F0aW9uQ29sbGVjdC5zZXREZXZpY2VMb25naXR1ZGUoc3RyaW5nc1s1XSk7CiAgICAgICAgbG9jYXRpb25Db2xsZWN0LnNldEV3SW5kaWNhdG9yKHN0cmluZ3NbNl0pOwogICAgICAgIGxvY2F0aW9uQ29sbGVjdC5zZXRTcGVlZE92ZXJHcm91bmQoc3RyaW5nc1s3XSk7CiAgICAgICAgbG9jYXRpb25Db2xsZWN0LnNldENvdXJzZU92ZXJHcm91bmQoc3RyaW5nc1s4XSk7CiAgICAgICAgbG9jYXRpb25Db2xsZWN0LnNldE1lc3NhZ2VJZChzdHJpbmdzWzEwXSk7CiAgICAgICAgbG9jYXRpb25Db2xsZWN0LnNldFZhcmlhdGlvblNlbnNlKHN0cmluZ3NbMTFdKTsKICAgICAgICBsb2NhdGlvbkNvbGxlY3Quc2V0TW9kZShzdHJpbmdzWzEyXS5zdWJzdHJpbmcoMCwgMSkpOwogICAgICAgIGxvY2F0aW9uQ29sbGVjdC5zZXRDaGVja3N1bShzdHJpbmdzWzEyXS5zdWJzdHJpbmcoMSkpOwoKICAgICAgICBTdHJpbmcgZGF0ZVRpbWUgPSBzdHJpbmdzWzldICsgc3RyaW5nc1sxXTsKICAgICAgICBEYXRlVGltZUZvcm1hdHRlciBkYXRlVGltZUZvcm1hdHRlciA9IERhdGVUaW1lRm9ybWF0dGVyLm9mUGF0dGVybigiZGRNTXl5SEhtbXNzLnNzcyIpOwogICAgICAgIExvY2FsRGF0ZVRpbWUgbG9jYWxEYXRlVGltZSA9IExvY2FsRGF0ZVRpbWUucGFyc2UoZGF0ZVRpbWUsIGRhdGVUaW1lRm9ybWF0dGVyKTsKICAgICAgICBsb2NhdGlvbkNvbGxlY3Quc2V0RGV2aWNlVGltZShEYXRlLmZyb20obG9jYWxEYXRlVGltZS5hdFpvbmUoWm9uZUlkLnN5c3RlbURlZmF1bHQoKSkudG9JbnN0YW50KCkpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
