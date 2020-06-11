@@ -139,11 +139,6 @@
         <mark key="^" line="1" column="13" />
         <mark key="." line="1" column="12" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/location-collect/src/main/java/com/tdr/locationcollect/common/xss/SQLFilter.java" timestamp="1591696705753">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/refill-server/src/main/java/com/tdr/acs/entrance/handlerfactory/handler/impl/RsuTransactionProcess.java" timestamp="1591777479090">
         <mark key="[" line="80" column="0" />
         <mark key="]" line="80" column="0" />
@@ -161,11 +156,6 @@
         <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/refill-server/src/main/java/com/tdr/acs/entrance/socket/context/ChannelContextHoldTable.java" timestamp="1591772186679" />
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/location-collect/src/main/java/com/tdr/locationcollect/common/validator/ValidatorUtils.java" timestamp="1591696503803">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/location-collect/src/main/java/com/tdr/locationcollect/common/aspect/TransactionLogAspect.java" timestamp="1591702050170">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
@@ -195,19 +185,8 @@
         <mark key="^" line="64" column="17" />
         <mark key="." line="64" column="17" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/location-collect/src/main/resources/mapper/LocationCollectDao.xml" timestamp="1591697961814">
-        <mark key="[" line="8" column="62" />
-        <mark key="]" line="8" column="63" />
-        <mark key="." line="8" column="62" />
-        <mark key="^" line="8" column="63" />
-      </file>
       <file name="/Dummy.txt" timestamp="1591770491671">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/location-collect/src/main/java/com/tdr/locationcollect/common/validator/Assert.java" timestamp="1591696435766">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/refill-server/src/main/java/com/tdr/acs/utils/led/LedClient.java" timestamp="1591759445086">
         <mark key="'" line="80" column="13" />
@@ -215,6 +194,12 @@
         <mark key="]" line="81" column="0" />
         <mark key="." line="81" column="0" />
         <mark key="^" line="81" column="34" />
+      </file>
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/handlerfactory/handler/impl/GetCarInfoProcess.java" timestamp="1591863183240">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/location-collect/src/main/java/com/tdr/locationcollect/controller/LocationCollectController.java" timestamp="1591704877005">
         <mark key="[" line="48" column="64" />
@@ -225,10 +210,11 @@
       <file name="/fragment.java" timestamp="1591704938778">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/cameraapi/controller/CameraInterfaceController.java" timestamp="1591863280371">
+        <mark key="'" line="47" column="13" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="1750" column="32" filename="$USER_HOME$/Workspaces/IdeaProjects/social-collect/src/main/resources/templates/index.html" />
-      <jump line="1752" column="24" filename="$USER_HOME$/Workspaces/IdeaProjects/social-collect/src/main/resources/templates/index.html" />
       <jump line="964" column="80" filename="$USER_HOME$/Workspaces/IdeaProjects/social-collect/src/main/resources/templates/index.html" />
       <jump line="952" column="29" filename="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.10.2/jackson-databind-2.10.2-sources.jar!/com/fasterxml/jackson/databind/JsonNode.java" />
       <jump line="11" column="0" filename="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/api/vo/request/CameraUploadRequest.java" />
@@ -327,6 +313,8 @@
       <jump line="108" column="25" filename="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/handlerfactory/handler/impl/StartRefuelProcess.java" />
       <jump line="27" column="0" filename="$USER_HOME$/Workspaces/IdeaProjects/refill-server/src/main/java/com/tdr/openinterface/handler/UdpTransactionServerHandler.java" />
       <jump line="80" column="13" filename="$USER_HOME$/Workspaces/IdeaProjects/refill-server/src/main/java/com/tdr/acs/utils/led/LedClient.java" />
+      <jump line="23" column="0" filename="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/handlerfactory/handler/impl/GetCarInfoProcess.java" />
+      <jump line="47" column="13" filename="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/cameraapi/controller/CameraInterfaceController.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
