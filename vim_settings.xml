@@ -169,14 +169,19 @@
         <mark key="." line="64" column="17" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/modules/business/controller/BluetoothGatewayController.java" timestamp="1591865075928" />
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/modules/business/service/RefuelPositionService.java" timestamp="1591866278897">
-        <mark key="[" line="63" column="91" />
-        <mark key="]" line="64" column="16" />
-        <mark key="^" line="64" column="16" />
-        <mark key="." line="64" column="15" />
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/modules/business/service/RefuelPositionService.java" timestamp="1591866283288">
+        <mark key="[" line="63" column="14" />
+        <mark key="]" line="63" column="16" />
+        <mark key="^" line="63" column="16" />
+        <mark key="." line="63" column="15" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/modules/business/service/impl/RefuelPositionServiceImpl.java" timestamp="1591865935958" />
-      <file name="/Dummy.txt" timestamp="1591865377288">
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/modules/business/service/impl/RefuelPositionServiceImpl.java" timestamp="1591866904746">
+        <mark key="[" line="131" column="102" />
+        <mark key="]" line="131" column="83" />
+        <mark key="." line="131" column="82" />
+        <mark key="^" line="131" column="83" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1591866946044">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/refill-server/src/main/java/com/tdr/acs/utils/led/LedClient.java" timestamp="1591759445086">
@@ -310,8 +315,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">cmVmdWVsUG9zaXRpb25FbnRpdHkgIT0gbnVsbCAmJiAhcmVmdWVsUG9zaXRpb25FbnRpdHkuZ2V0SWQoKS5lcXVhbHMocmVmdWVsUG9zaXRpb24uZ2V0SWQoKSk=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="+" type="4">
         <text>tendyron!2#</text>
@@ -323,24 +328,27 @@
         <text>entryQueue</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBSZWZ1ZWxQb3NpdGlvbkVudGl0eSByZWZ1ZWxQb3NpdGlvbkVudGl0eSA9IHJlZnVlbFBvc2l0aW9uU2VydmljZS5nZXRCeU5mY1VpZChyZWZ1ZWxQb3NpdGlvbi5nZXROZmNVaWQoKSk7CiAgICAgICAgaWYgKHJlZnVlbFBvc2l0aW9uRW50aXR5ICE9IG51bGwpIHsKICAgICAgICAgICAgcmV0dXJuIEJhc2VSZXN1bHQuZXJyb3IoIk5GQ+agh+etviIgKyByZWZ1ZWxQb3NpdGlvbi5nZXROZmNVaWQoKSArICLlt7Lnu4/mt7vliqDvvIzor7fli7/ph43lpI3mk43kvZzvvIEiKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVkaXNVdGlscy5kZWxldGUoUmVkaXNVdGlscy5SVVNfUkVGVUVMX1BPU0lUSU9OX1NUQVRVU19LRVkgKyByZWZ1ZWxQb3NpdGlvbkVudGl0eS5nZXROZmNVaWQoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBSZWZ1ZWxQb3NpdGlvbkVudGl0eSByZWZ1ZWxQb3NpdGlvbkVudGl0eSA9IHJlZnVlbFBvc2l0aW9uU2VydmljZS5nZXRCeU5mY1VpZChyZWZ1ZWxQb3NpdGlvbi5nZXROZmNVaWQoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBSZWZ1ZWxQb3NpdGlvbkVudGl0eSByZWZ1ZWxQb3NpdGlvbkVudGl0eSA9IHJlZnVlbFBvc2l0aW9uU2VydmljZS5nZXRCeU5mY1VpZChyZWZ1ZWxQb3NpdGlvbi5nZXROZmNVaWQoKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ2hhbm5lbCBjaGFubmVsID0gaGFuZGxlckNvbnRleHQuY2hhbm5lbCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc29ja2V0ID0gbmV3IFNvY2tldCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ2hhbm5lbCBjaGFubmVsID0gaGFuZGxlckNvbnRleHQuY2hhbm5lbCgpOwo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc29ja2V0ID0gbmV3IFNvY2tldCgpOwo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBTb2NrZXQgc29ja2V0ID0gbnVsbDsK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>finally {
             // 关闭资源
             try {
@@ -352,14 +360,11 @@
             }
         }</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc29ja2V0ID0gbmV3IFNvY2tldCgpOwo=</text>
-      </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc29ja2V0ID0gbmV3IFNvY2tldCgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBCeXRlQXJyYXlPdXRwdXRTdHJlYW0gc3dhcFN0cmVhbSA9IG5ldyBCeXRlQXJyYXlPdXRwdXRTdHJlYW0oKTsKICAgICAgICAvLyDliY3lr7zmoIflv5cKICAgICAgICBieXRlW10gYnVmZiA9IG5ldyBieXRlWzEyXTsKICAgICAgICBpbi5yZWFkKGJ1ZmYsIDAsIDEyKTsKICAgICAgICBBcnJheVV0aWxzLnJldmVyc2UoYnVmZik7CgogICAgICAgIHJldHVybiBzd2FwU3RyZWFtLnRvQnl0ZUFycmF5KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc29ja2V0ID0gbmV3IFNvY2tldCgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
