@@ -210,10 +210,11 @@
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/cameraapi/controller/CameraInterfaceController.java" timestamp="1591863280371">
         <mark key="'" line="47" column="13" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/test/java/com/tdr/russerver/icbc/QrcodeGenerateTest.java" timestamp="1592290714793">
-        <mark key="[" line="48" column="31" />
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/test/java/com/tdr/russerver/icbc/QrcodeGenerateTest.java" timestamp="1592291649380">
+        <mark key="[" line="49" column="31" />
         <mark key="]" line="48" column="31" />
-        <mark key="." line="48" column="31" />
+        <mark key="." line="48" column="30" />
+        <mark key="^" line="48" column="31" />
       </file>
     </filemarks>
     <jumps>
@@ -322,13 +323,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>http://ip:port/api/qrcode/V2/generate</text>
+        <text>https://apisandbox.dccnet.com.cn/api/qrcode/V2/generate</text>
       </register>
       <register name="+" type="4">
         <text>tendyron!2#</text>
       </register>
       <register name="-" type="4">
-        <text>http://ip:port/api/qrcode/V2/generate</text>
+        <text>https://apisandbox.dccnet.com.cn/api/qrcode/V2/generate</text>
       </register>
       <register name="/" type="4">
         <text>entryQueue</text>
