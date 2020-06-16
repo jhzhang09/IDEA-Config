@@ -133,12 +133,6 @@
         <mark key="^" line="248" column="20" />
         <mark key="." line="253" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/pdfsign/pom.xml" timestamp="1591779384073">
-        <mark key="[" line="36" column="38" />
-        <mark key="]" line="37" column="26" />
-        <mark key="^" line="37" column="26" />
-        <mark key="." line="37" column="25" />
-      </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/test/java/com/tdr/russerver/icbc/QrcodeQueryTest.java" timestamp="1592295821249">
         <mark key="[" line="23" column="44" />
         <mark key="]" line="23" column="44" />
@@ -183,6 +177,7 @@
         <mark key="." line="56" column="61" />
         <mark key="^" line="56" column="62" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/icbc/icbc-api-sdk-cop/0.0.1/icbc-api-sdk-cop-0.0.1.jar!/META-INF/MANIFEST.MF" timestamp="1592299809760" />
       <file name="$USER_HOME$/Workspaces/IdeaProjects/tradingCenter/tradingcenter/src/main/resources/templates/icbc/icbcopen.html" timestamp="1592293901480" />
       <file name="$USER_HOME$/Workspaces/IdeaProjects/pdfsign/src/main/java/com/tdr/pdfsign/PdfSignerTest.java" timestamp="1591779400690">
         <mark key="[" line="31" column="3" />
