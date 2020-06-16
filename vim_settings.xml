@@ -133,12 +133,17 @@
         <mark key="^" line="248" column="20" />
         <mark key="." line="253" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/test/java/com/tdr/russerver/icbc/QrcodeQueryTest.java" timestamp="1592295821249">
-        <mark key="[" line="23" column="44" />
-        <mark key="]" line="23" column="44" />
-        <mark key="." line="23" column="44" />
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/test/java/com/tdr/russerver/icbc/QrcodeQueryTest.java" timestamp="1592307427297">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/tradingCenter/tradingcenter/src/main/resources/application-prod.yml" timestamp="1592293717346" />
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/test/java/com/tdr/russerver/icbc/QrcodeRejectQueryTestV3.java" timestamp="1592307411201">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/modules/business/service/RefuelPositionService.java" timestamp="1591866283288">
         <mark key="[" line="63" column="14" />
         <mark key="]" line="63" column="16" />
@@ -157,34 +162,26 @@
         <mark key="." line="131" column="82" />
         <mark key="^" line="131" column="83" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/test/java/com/tdr/russerver/icbc/QrcodeGenerateTest.java" timestamp="1592296200350">
-        <mark key="[" line="49" column="32" />
-        <mark key="]" line="49" column="32" />
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/test/java/com/tdr/russerver/icbc/QrcodeRejectTest.java" timestamp="1592307386903">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/test/java/com/tdr/russerver/icbc/QrcodeGenerateTest.java" timestamp="1592307505304">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="44" />
         <mark key="." line="49" column="32" />
       </file>
       <file name="/Dummy.txt" timestamp="1591866946044">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/handlerfactory/handler/impl/GetCarInfoProcess.java" timestamp="1591863183240">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/pdfsign/src/main/java/com/tdr/pdfsign/AbcHsmSigner.java" timestamp="1591785853108">
-        <mark key="[" line="56" column="62" />
-        <mark key="]" line="56" column="62" />
-        <mark key="." line="56" column="61" />
-        <mark key="^" line="56" column="62" />
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/test/java/com/tdr/russerver/icbc/QrcodeReverseTest.java" timestamp="1592307369763">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/icbc/icbc-api-sdk-cop/0.0.1/icbc-api-sdk-cop-0.0.1.jar!/META-INF/MANIFEST.MF" timestamp="1592299809760" />
       <file name="$USER_HOME$/Workspaces/IdeaProjects/tradingCenter/tradingcenter/src/main/resources/templates/icbc/icbcopen.html" timestamp="1592293901480" />
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/pdfsign/src/main/java/com/tdr/pdfsign/PdfSignerTest.java" timestamp="1591779400690">
-        <mark key="[" line="31" column="3" />
-        <mark key="]" line="28" column="3" />
-        <mark key="^" line="28" column="3" />
-        <mark key="." line="28" column="2" />
-      </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/modules/business/controller/RefuelPositionController.java" timestamp="1591866216404">
         <mark key="[" line="96" column="51" />
         <mark key="]" line="94" column="10" />
@@ -195,10 +192,10 @@
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/cameraapi/controller/CameraInterfaceController.java" timestamp="1591863280371">
         <mark key="'" line="47" column="13" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/test/java/com/tdr/russerver/icbc/QrcodePayTest.java" timestamp="1592297118132">
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/test/java/com/tdr/russerver/icbc/QrcodePayTest.java" timestamp="1592307513778">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -307,46 +304,46 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCVN5c3RlbS5vdXQucHJpbnRsbihyZXNwb25zZS4pOwo=</text>
+        <text encoding="base64">ICAgICAgICBiaXpDb250ZW50LnNldE1lcklkKCIwMjAwMDIwNDAwOTUiKTsK</text>
       </register>
       <register name="+" type="4">
         <text>tendyron!2#</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;20171210&quot;</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>entryQueue</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5pY2JjPC9ncm91cElkPgogICAgICA8YXJ0aWZhY3RJZD5pY2JjLWFwaS1zZGstY29wLWlvPC9hcnRpZmFjdElkPgogICAgICA8dmVyc2lvbj4wLjAuMTwvdmVyc2lvbj4KICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">ICAgICAgICBiaXpDb250ZW50LnNldE1lcklkKCI0NDAyMDQxNDAzMDMiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCVN5c3RlbS5vdXQucHJpbnRsbihyZXNwb25zZS4pOwo=</text>
+        <text encoding="base64">ICAgICAgICBiaXpDb250ZW50LnNldE1lcklkKCIwMjAwMDIwNDAwOTUiKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBEYXRlRm9ybWF0VXRpbHMuZm9ybWF0KGRhdGUsICJ5eXl5TU1kZCIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiL0R6cURaSEFrQkduWjh2ZmRZSVVWZURiRHJ6V1h2Q0VYWEpxZXdiS3dPVDJLcW5US005eWo5SUJhdHR0SkdndnJBS2l5SDR6Q3FaRDlKYUcyM3NLR2VKOFFvcEw2MGRBa0VBdGM0dGxLb2ozWFp6UlVYYm9xejBFaGtna2p6RGo1MHpwQ0Qxc0pLWjJFWkgrQS83dFh3UHVnK1JudVNtS3BNMnV2M21zcXczcHJkUzNLNEVuOCtyb2c9PSI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBiaXpDb250ZW50LnNldE1lcklkKCI0NDAyMDQxNDAzMDMiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiK29EQWtBNWRsNnZJdzJWWHljQUpDcCtRL0FXVnlxTHUwcncwWXVkK0hCYmlQZWsyamFiS3FhSmxrRmZSZG9sNXJyY0YzeklzdE1EdGFoazV1eE0wIiArCg==</text>
+        <text encoding="base64">ICAgICAgICBiaXpDb250ZW50LnNldE1lcklkKCIwMjAwMDE1MTUxNTEiKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiL2lmMmM2VEZ0NHg5dis2TDBwbUZDbFl5aU9pOVJ1QlN6MXNIbVBvdXVjL1lZdnV4QU9kT3p1M3l6T2tlbzdiNUtjQ0tJVFRXdktJIiArCg==</text>
+        <text encoding="base64">ICAgICAgICBiaXpDb250ZW50LnNldE1lcklkKCIwMjAwMDE1MTUxNTEiKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiL1o0Unp2UWNvVlpFdGhZYXZaNHBrRm9XR1lDNGp3YzVHOHVtNzZ6b1F5cnR4V1lydFRQMEdTK3hGRlgyZEV1aUdYeHd6bVNRSnJQZHJNQ1FRQ2duVVhjUWUiICsK</text>
+        <text encoding="base64">CQliaXpDb250ZW50LnNldE1lcklkKCIwMjAwMDE1MTUxNTEiKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiK3dsOEJnT2dCNFJxc05YV05HdG9NQzhsSEtIbXJWY3B5Sk1mRGMzY1AwN05aMXdHMnpCMGxRSkJBTStkTlp2MkwiICsK</text>
+        <text encoding="base64">ICAgICAgICBiaXpDb250ZW50LnNldE1lcklkKCIwMjAwMDIwNDAwOTUiKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiK051d2FjT2Zna0dYbVowbjZ2YzhqWWE3ZjJ1WjFBVlRVdGQ0SUlPNWJwcThzMFR3MkJmV0FMWXdyL0pkVXVOS1NqSFZRc2gvRG8iICsK</text>
+        <text encoding="base64">ICAgIC8vMeOAgee9keWFs+WFrOmSpQogICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgU3RyaW5nIEFQSUdXX1BVQkxJQ19LRVkgPSAiTUlHZk1BMEdDU3FHU0liM0RRRUJBUVVBQTRHTkFEQ0JpUUtCZ1FDd0ZnSEQ0a3pFVlBkT2owM2N0S003S1YiICsKICAgICAgICAgICAgIisxNmJXWjVCTU5ndkVldUVRd2ZRWWtSVndJOUhGT0drd05UTW41aGlKWEhubFhZQ1giICsKICAgICAgICAgICAgIit6cDVyNlI1Mk1ZME83QnNUQ0xUN2FIYXhzQU5zdkk5QUJHeDNPYVRWbFBCNTlNNkdQYkpoMHVYdmlvMG0xci9sVFczWjYwUlU2UTNvaWQiICsKICAgICAgICAgICAgIi9yTmhQM0NpTmdnMFc2TzNBR3F3SURBUUFCIjsKCiAgICAvLzLjgIFhcHBpZAogICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgU3RyaW5nIEFQUF9JRCA9ICIxMDAwMDAwMDAwMDAwMDA1NDAwMiI7CgogICAgLy8z44CB5a+G6ZKl5a+56K6k6K+B5pa55byP77yM5YWs6ZKl5ZyoQVBJ5bmz5Y+w55m76K6w77yM5q2k5aSE5Li656eB6ZKlCiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgTVlfUFJJVkFURV9LRVkgPQogICAgICAgICAgICAiTUlJQ2RnSUJBREFOQmdrcWhraUc5dzBCQVFFRkFBU0NBbUF3Z2dKY0FnRUFBb0dCQUlKQnpaTmFpb2JwbFJVZ3RKNE96bVV2WlJLOTlpaCIgKwogICAgICAgICAgICAgICAgICAgICIvZlV5REJPb0ZMdHBKSkNDUnpwOFQ2VjExWU5sRTdYZzVkdCtFRzdieVFzMk5JbXFnMGVXRWoiICsKICAgICAgICAgICAgICAgICAgICAiL21CZFo3VW1sQWN0N0JOdzJoeUYyaDRSNU9FZlh5am9IM3dxR2pLSmF5aGFIVHZMTTFEWXkiICsKICAgICAgICAgICAgICAgICAgICAiL21ERkJiMFNoSllJMVFNU2NRSlpoc09oTU1GaHJyWndJWkFnTUJBQUVDZ1lBQTJrZHJPSU9Cb0pQT1FKbU9FMUM4anRQZGpJckk5eFN0NUltcXNuLzlBOCIgKwogICAgICAgICAgICAgICAgICAgICIrTnV3YWNPZmdrR1htWjBuNnZjOGpZYTdmMnVaMUFWVFV0ZDRJSU81YnBxOHMwVHcyQmZXQUxZd3IvSmRVdU5LU2pIVlFzaC9EbyIgKwogICAgICAgICAgICAgICAgICAgICIrd2w4QmdPZ0I0UnFzTlhXTkd0b01DOGxIS0htclZjcHlKTWZEYzNjUDA3Tloxd0cyekIwbFFKQkFNK2ROWnYyTCIgKwogICAgICAgICAgICAgICAgICAgICIvWjRSenZRY29WWkV0aFlhdlo0cGtGb1dHWUM0andjNUc4dW03NnpvUXlydHhXWXJ0VFAwR1MreEZGWDJkRXVpR1h4d3ptU1FKclBkck1DUVFDZ25VWGNRZSIgKwogICAgICAgICAgICAgICAgICAgICIvaWYyYzZURnQ0eDl2KzZMMHBtRkNsWXlpT2k5UnVCU3oxc0htUG91dWMvWVl2dXhBT2RPenUzeXpPa2VvN2I1S2NDS0lUVFd2S0kiICsKICAgICAgICAgICAgICAgICAgICAiK29EQWtBNWRsNnZJdzJWWHljQUpDcCIgKwogICAgICAgICAgICAgICAgICAgICIrUS9BV1Z5cUx1MHJ3MFl1ZCtIQmJpUGVrMmphYktxYUpsa0ZmUmRvbDVycmNGM3pJc3RNRHRhaGs1dXhNMCIgKwogICAgICAgICAgICAgICAgICAgICIvRHpxRFpIQWtCR25aOHZmZFlJVVZlRGJEcnpXWHZDRVhYSnFld2JLd09UMktxblRLTTl5ajlJQmF0dHRKR2d2ckFLaXlINHpDcVpEOUphRzIzc0tHZUo4UW9wTDYwZEFrRUF0YzR0bEtvajNYWnpSVVhib3F6MEVoa2dranpEajUwenBDRDFzSktaMkVaSCtBLzd0WHdQdWcrUm51U21LcE0ydXYzbXNxdzNwcmRTM0s0RW44K3JvZz09IjsKCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiL21ERkJiMFNoSllJMVFNU2NRSlpoc09oTU1GaHJyWndJWkFnTUJBQUVDZ1lBQTJrZHJPSU9Cb0pQT1FKbU9FMUM4anRQZGpJckk5eFN0NUltcXNuLzlBOCIgKwo=</text>
+        <text encoding="base64">CiAgICAvLzHjgIHnvZHlhbPlhazpkqUKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBBUElHV19QVUJMSUNfS0VZID0gIk1JR2ZNQTBHQ1NxR1NJYjNEUUVCQVFVQUE0R05BRENCaVFLQmdRQ3dGZ0hENGt6RVZQZE9qMDNjdEtNN0tWIiArCgkJCSIrMTZiV1o1Qk1OZ3ZFZXVFUXdmUVlrUlZ3STlIRk9Ha3dOVE1uNWhpSlhIbmxYWUNYIiArCgkJCSIrenA1cjZSNTJNWTBPN0JzVENMVDdhSGF4c0FOc3ZJOUFCR3gzT2FUVmxQQjU5TTZHUGJKaDB1WHZpbzBtMXIvbFRXM1o2MFJVNlEzb2lkIiArCgkJCSIvck5oUDNDaU5nZzBXNk8zQUdxd0lEQVFBQiI7CgogICAgLy8y44CBYXBwaWQKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBBUFBfSUQgPSAiMTAwMDAwMDAwMDAwMDAwMDIxNTYiOwoKICAgIC8vM+OAgeWvhumSpeWvueiupOivgeaWueW8j++8jOWFrOmSpeWcqEFQSeW5s+WPsOeZu+iusO+8jOatpOWkhOS4uuengemSpQogICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgU3RyaW5nIE1ZX1BSSVZBVEVfS0VZID0KCQkJIk1JSUNkZ0lCQURBTkJna3Foa2lHOXcwQkFRRUZBQVNDQW1Bd2dnSmNBZ0VBQW9HQkFJSkJ6Wk5haW9icGxSVWd0SjRPem1VdlpSSzk5aWgiICsKCQkJCQkiL2ZVeURCT29GTHRwSkpDQ1J6cDhUNlYxMVlObEU3WGc1ZHQrRUc3YnlRczJOSW1xZzBlV0VqIiArCgkJCQkJIi9tQmRaN1VtbEFjdDdCTncyaHlGMmg0UjVPRWZYeWpvSDN3cUdqS0pheWhhSFR2TE0xRFl5IiArCgkJCQkJIi9tREZCYjBTaEpZSTFRTVNjUUpaaHNPaE1NRmhyclp3SVpBZ01CQUFFQ2dZQUEya2RyT0lPQm9KUE9RSm1PRTFDOGp0UGRqSXJJOXhTdDVJbXFzbi85QTgiICsKCQkJCQkiK051d2FjT2Zna0dYbVowbjZ2YzhqWWE3ZjJ1WjFBVlRVdGQ0SUlPNWJwcThzMFR3MkJmV0FMWXdyL0pkVXVOS1NqSFZRc2gvRG8iICsKCQkJCQkiK3dsOEJnT2dCNFJxc05YV05HdG9NQzhsSEtIbXJWY3B5Sk1mRGMzY1AwN05aMXdHMnpCMGxRSkJBTStkTlp2MkwiICsKCQkJCQkiL1o0Unp2UWNvVlpFdGhZYXZaNHBrRm9XR1lDNGp3YzVHOHVtNzZ6b1F5cnR4V1lydFRQMEdTK3hGRlgyZEV1aUdYeHd6bVNRSnJQZHJNQ1FRQ2duVVhjUWUiICsKCQkJCQkiL2lmMmM2VEZ0NHg5dis2TDBwbUZDbFl5aU9pOVJ1QlN6MXNIbVBvdXVjL1lZdnV4QU9kT3p1M3l6T2tlbzdiNUtjQ0tJVFRXdktJK29EQWtBNWRsNnZJdzJWWHljQUpDcCIgKwoJCQkJCSIrUS9BV1Z5cUx1MHJ3MFl1ZCtIQmJpUGVrMmphYktxYUpsa0ZmUmRvbDVycmNGM3pJc3RNRHRhaGs1dXhNMCIgKwoJCQkJCSIvRHpxRFpIQWtCR25aOHZmZFlJVVZlRGJEcnpXWHZDRVhYSnFld2JLd09UMktxblRLTTl5ajlJQmF0dHRKR2d2ckFLaXlINHpDcVpEOUphRzIzc0tHZUo4UW9wTDYwZEFrRUF0YzR0bEtvajNYWnpSVVhib3F6MEVoa2dranpEajUwenBDRDFzSktaMkVaSCtBLzd0WHdQdWcrUm51U21LcE0ydXYzbXNxdzNwcmRTM0s0RW44K3JvZz09IjsKCg==</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
