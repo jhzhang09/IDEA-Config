@@ -210,6 +210,11 @@
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/cameraapi/controller/CameraInterfaceController.java" timestamp="1591863280371">
         <mark key="'" line="47" column="13" />
       </file>
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/test/java/com/tdr/russerver/icbc/QrcodeGenerateTest.java" timestamp="1592290714793">
+        <mark key="[" line="48" column="31" />
+        <mark key="]" line="48" column="31" />
+        <mark key="." line="48" column="31" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="964" column="80" filename="$USER_HOME$/Workspaces/IdeaProjects/social-collect/src/main/resources/templates/index.html" />
@@ -316,14 +321,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+aWNiYzwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+aWNiYy1hcGktc2RrLWNvcDwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+MC4wLjE8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+      <register name="&quot;" type="4">
+        <text>http://ip:port/api/qrcode/V2/generate</text>
       </register>
       <register name="+" type="4">
         <text>tendyron!2#</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmVmdWVsUG9zaXRpb25FbnRpdHkgIT0gbnVsbCAmJiAhcmVmdWVsUG9zaXRpb25FbnRpdHkuZ2V0SWQoKS5lcXVhbHMocmVmdWVsUG9zaXRpb24uZ2V0SWQoKSk=</text>
+        <text>http://ip:port/api/qrcode/V2/generate</text>
       </register>
       <register name="/" type="4">
         <text>entryQueue</text>
