@@ -128,12 +128,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/pom.xml" timestamp="1592294274053">
-        <mark key="[" line="248" column="0" />
-        <mark key="]" line="257" column="21" />
-        <mark key="^" line="248" column="20" />
-        <mark key="." line="253" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/abcapi/client/AbcApiClient.java" timestamp="1592382669518" />
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/resources/application-prod.yml" timestamp="1592461599380">
         <mark key="[" line="49" column="0" />
@@ -172,7 +166,12 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/handlerfactory/handler/impl/StartPayProcess.java" timestamp="1592464912267" />
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/handlerfactory/handler/impl/StartPayProcess.java" timestamp="1592466821431">
+        <mark key="[" line="93" column="93" />
+        <mark key="]" line="94" column="71" />
+        <mark key="^" line="94" column="71" />
+        <mark key="." line="94" column="70" />
+      </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/test/java/com/tdr/russerver/icbc/QrcodeGenerateTest.java" timestamp="1592463987212">
         <mark key="[" line="57" column="42" />
         <mark key="]" line="45" column="44" />
@@ -187,9 +186,18 @@
       <file name="/Dummy.txt" timestamp="1592386460550">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/utils/ApduUtil.java" timestamp="1592465159558">
-        <mark key="'" line="365" column="43" />
-        <mark key="[" line="373" column="48" />
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/utils/ApduUtil.java" timestamp="1592467012743">
+        <mark key="'" line="360" column="43" />
+        <mark key="[" line="300" column="0" />
+        <mark key="]" line="300" column="0" />
+        <mark key="^" line="296" column="71" />
+        <mark key="." line="300" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/modules/business/entity/RefuelPositionEntity.java" timestamp="1592466535056">
+        <mark key="[" line="124" column="10" />
+        <mark key="]" line="124" column="13" />
+        <mark key="^" line="124" column="13" />
+        <mark key="." line="124" column="12" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/resources/application-test.yml" timestamp="1592392104563">
         <mark key="[" line="44" column="0" />
@@ -318,46 +326,46 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog5Yqg5rK55L2N54q25oCBLS3mrL7lpLHotKXvvIzkvZnpop3kuI3otrMKICAgICAqLwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgUkVGVUVMX1BPU0lUSU9OX1NUQVRVU19GQUlMX0xBQ0sgPSAiNSI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAoQnVzaW5lc3NDb25zdGFudHMuUkVGVUVMX1BPU0lUSU9OX1NUQVRVU19GQUlMX0xBQ0spOgogICAgICAgICAgICAgICAgc3RyaW5nQnVmZmVyLmFwcGVuZCgiODIiKTsKICAgICAgICAgICAgICAgIHN0cmluZ0J1ZmZlci5hcHBlbmQoZW5jb2RlTGl0ZU9yZGVyU24ocmVmdWVsUG9zaXRpb25FbnRpdHkuZ2V0T3JkZXJTbigpKSk7CiAgICAgICAgICAgICAgICBzdHJpbmdCdWZmZXIuYXBwZW5kKGdldFBheUFtb3VudERhdGFTdHJpbmcocmVmdWVsUG9zaXRpb25FbnRpdHkuZ2V0UGF5VG90YWwoKSkpOwogICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="+" type="4">
         <text>tendyron!2#</text>
       </register>
       <register name="-" type="4">
-        <text>103881104990007</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>wait</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICByZWRpczoKICAgIGhvc3Q6IDE3Mi4xNi4zMi45CiAgICBwb3J0OiA2Mzc5CiAgICBwYXNzd29yZDogdGVuZHlyb24hMiMgICAgICMg5a+G56CB77yI6buY6K6k5Li656m677yJICAgZGF0YWJhc2U6IDAKICAgIHRpbWVvdXQ6IDYwMDBtcyAgIyDov57mjqXotoXml7bml7bplb/vvIjmr6vnp5LvvIkK</text>
+      <register name="0" type="4">
+        <text>(BusinessConstants.REFUEL_POSITION_STATUS_FAIL</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog5Yqg5rK55L2N54q25oCBLS3mrL7lpLHotKXvvIzkvZnpop3kuI3otrMKICAgICAqLwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgUkVGVUVMX1BPU0lUSU9OX1NUQVRVU19GQUlMX0xBQ0sgPSAiNSI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAoQnVzaW5lc3NDb25zdGFudHMuUkVGVUVMX1BPU0lUSU9OX1NUQVRVU19GQUlMX0xBQ0spOgogICAgICAgICAgICAgICAgc3RyaW5nQnVmZmVyLmFwcGVuZCgiODIiKTsKICAgICAgICAgICAgICAgIHN0cmluZ0J1ZmZlci5hcHBlbmQoZW5jb2RlTGl0ZU9yZGVyU24ocmVmdWVsUG9zaXRpb25FbnRpdHkuZ2V0T3JkZXJTbigpKSk7CiAgICAgICAgICAgICAgICBzdHJpbmdCdWZmZXIuYXBwZW5kKGdldFBheUFtb3VudERhdGFTdHJpbmcocmVmdWVsUG9zaXRpb25FbnRpdHkuZ2V0UGF5VG90YWwoKSkpOwogICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRpbWVvdXQ6IDYwMDBtcyAgIyDov57mjqXotoXml7bml7bplb/vvIjmr6vnp5LvvIkK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICog5Yqg5rK55L2N54q25oCBLS3mrL7lpLHotKXvvIzkvZnpop3kuI3otrMKICAgICAqLwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgUkVGVUVMX1BPU0lUSU9OX1NUQVRVU19GQUlMX0xBQ0sgPSAiNSI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhc3N3b3JkOiB0ZW5keXJvbiEyIyAgICAgIyDlr4bnoIHvvIjpu5jorqTkuLrnqbrvvIkgICBkYXRhYmFzZTogMAo=</text>
+        <text encoding="base64">ICAgIHRpbWVvdXQ6IDYwMDBtcyAgIyDov57mjqXotoXml7bml7bplb/vvIjmr6vnp5LvvIkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBvcnQ6IDYzNzkK</text>
+        <text encoding="base64">ICAgIHBhc3N3b3JkOiB0ZW5keXJvbiEyIyAgICAgIyDlr4bnoIHvvIjpu5jorqTkuLrnqbrvvIkgICBkYXRhYmFzZTogMAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGhvc3Q6IDEyNy4wLjAuMQo=</text>
+        <text encoding="base64">ICAgIHBvcnQ6IDYzNzkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICByZWRpczoK</text>
+        <text encoding="base64">ICAgIGhvc3Q6IDEyNy4wLjAuMQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcGFzc3dvcmQ6IGFiY2dhc3BheTEyMwo=</text>
+        <text encoding="base64">ICByZWRpczoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdXNlcm5hbWU6IGFiY2dhc3BheQo=</text>
+        <text encoding="base64">ICAgICAgcGFzc3dvcmQ6IGFiY2dhc3BheTEyMwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdXNlU1NMPWZhbHNlJnNlcnZlclRpbWV6b25lPUdNVCUyYjgmYWxsb3dQdWJsaWNLZXlSZXRyaWV2YWw9dHJ1ZSIK</text>
+        <text encoding="base64">ICAgICAgdXNlcm5hbWU6IGFiY2dhc3BheQo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
