@@ -128,15 +128,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/test/java/com/tdr/russerver/RusServerApplicationTests.java" timestamp="1592385758631">
-        <mark key="[" line="29" column="47" />
-        <mark key="]" line="66" column="45" />
-        <mark key="^" line="35" column="8" />
-        <mark key="." line="36" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1592386460550">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/pom.xml" timestamp="1592294274053">
         <mark key="[" line="248" column="0" />
         <mark key="]" line="257" column="21" />
@@ -159,29 +150,16 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="10" column="24" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/utils/ApduUtil.java" timestamp="1592460626677">
-        <mark key="'" line="365" column="43" />
-        <mark key="[" line="373" column="48" />
-      </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/test/java/com/tdr/russerver/icbc/QrcodeRejectQueryTestV3.java" timestamp="1592307411201">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/resources/application-test.yml" timestamp="1592392104563">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="48" column="33" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/tradingCenter/tradingcenter/pom.xml" timestamp="1592294299832">
         <mark key="[" line="96" column="37" />
         <mark key="]" line="96" column="25" />
         <mark key="^" line="96" column="25" />
         <mark key="." line="96" column="24" />
-      </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/test/java/com/tdr/russerver/icbc/QrcodeReverseTest.java" timestamp="1592307369763">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/abcapi/config/RestTemplateConfig.java" timestamp="1592384369147">
         <mark key="[" line="89" column="50" />
@@ -194,10 +172,33 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/handlerfactory/handler/impl/StartPayProcess.java" timestamp="1592463595550" />
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/test/java/com/tdr/russerver/icbc/QrcodeGenerateTest.java" timestamp="1592392171876">
         <mark key="[" line="48" column="36" />
         <mark key="]" line="45" column="44" />
         <mark key="." line="49" column="32" />
+      </file>
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/test/java/com/tdr/russerver/RusServerApplicationTests.java" timestamp="1592385758631">
+        <mark key="[" line="29" column="47" />
+        <mark key="]" line="66" column="45" />
+        <mark key="^" line="35" column="8" />
+        <mark key="." line="36" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1592386460550">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/utils/ApduUtil.java" timestamp="1592460626677">
+        <mark key="'" line="365" column="43" />
+        <mark key="[" line="373" column="48" />
+      </file>
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/resources/application-test.yml" timestamp="1592392104563">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="48" column="33" />
+      </file>
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/test/java/com/tdr/russerver/icbc/QrcodeReverseTest.java" timestamp="1592307369763">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/test/java/com/tdr/russerver/icbc/QrcodePayTest.java" timestamp="1592307513778">
         <mark key="[" line="43" column="0" />
