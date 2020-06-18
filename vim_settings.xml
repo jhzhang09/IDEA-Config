@@ -51,6 +51,7 @@
         <entry>jn</entry>
         <entry>rus-server</entry>
         <entry>entryQueue</entry>
+        <entry>wait</entry>
       </history-search>
       <history-cmd>
         <entry>105 co 94</entry>
@@ -143,7 +144,7 @@
         <mark key="." line="253" column="0" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/abcapi/client/AbcApiClient.java" timestamp="1592382669518" />
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/resources/application-prod.yml" timestamp="1592392118025">
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/resources/application-prod.yml" timestamp="1592461599380">
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="0" />
         <mark key="." line="49" column="0" />
@@ -157,6 +158,10 @@
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/resources/application-dev.yml" timestamp="1592392018726">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="10" column="24" />
+      </file>
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/utils/ApduUtil.java" timestamp="1592460626677">
+        <mark key="'" line="365" column="43" />
+        <mark key="[" line="373" column="48" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/test/java/com/tdr/russerver/icbc/QrcodeRejectQueryTestV3.java" timestamp="1592307411201">
         <mark key="[" line="42" column="0" />
@@ -184,12 +189,6 @@
         <mark key="^" line="89" column="56" />
         <mark key="." line="89" column="55" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/modules/business/service/impl/RefuelPositionServiceImpl.java" timestamp="1591866904746">
-        <mark key="[" line="131" column="102" />
-        <mark key="]" line="131" column="83" />
-        <mark key="." line="131" column="82" />
-        <mark key="^" line="131" column="83" />
-      </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/test/java/com/tdr/russerver/icbc/QrcodeRejectTest.java" timestamp="1592307386903">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
@@ -207,11 +206,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="964" column="80" filename="$USER_HOME$/Workspaces/IdeaProjects/social-collect/src/main/resources/templates/index.html" />
-      <jump line="952" column="29" filename="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.10.2/jackson-databind-2.10.2-sources.jar!/com/fasterxml/jackson/databind/JsonNode.java" />
-      <jump line="11" column="0" filename="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/api/vo/request/CameraUploadRequest.java" />
-      <jump line="41" column="0" filename="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/socket/handle/TransactionServerHandler.java" />
-      <jump line="142" column="6" filename="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/modules/business/entity/OrderEntity.java" />
       <jump line="21" column="36" filename="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/modules/business/entity/OrderEntity.java" />
       <jump line="46" column="19" filename="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/pom.xml" />
       <jump line="48" column="44" filename="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/pom.xml" />
@@ -307,6 +301,11 @@
       <jump line="80" column="13" filename="$USER_HOME$/Workspaces/IdeaProjects/refill-server/src/main/java/com/tdr/acs/utils/led/LedClient.java" />
       <jump line="23" column="0" filename="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/handlerfactory/handler/impl/GetCarInfoProcess.java" />
       <jump line="47" column="13" filename="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/cameraapi/controller/CameraInterfaceController.java" />
+      <jump line="45" column="13" filename="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/utils/ApduUtil.java" />
+      <jump line="124" column="8" filename="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/utils/ApduUtil.java" />
+      <jump line="277" column="59" filename="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/utils/ApduUtil.java" />
+      <jump line="289" column="88" filename="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/utils/ApduUtil.java" />
+      <jump line="365" column="43" filename="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/utils/ApduUtil.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -321,7 +320,7 @@
         <text>103881104990007</text>
       </register>
       <register name="/" type="4">
-        <text>entryQueue</text>
+        <text>wait</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICByZWRpczoKICAgIGhvc3Q6IDE3Mi4xNi4zMi45CiAgICBwb3J0OiA2Mzc5CiAgICBwYXNzd29yZDogdGVuZHlyb24hMiMgICAgICMg5a+G56CB77yI6buY6K6k5Li656m677yJICAgZGF0YWJhc2U6IDAKICAgIHRpbWVvdXQ6IDYwMDBtcyAgIyDov57mjqXotoXml7bml7bplb/vvIjmr6vnp5LvvIkK</text>
@@ -360,13 +359,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>entryQueue</last-search>
+      <last-search>wait</last-search>
       <last-offset />
-      <last-pattern>entryQueue</last-pattern>
+      <last-pattern>wait</last-pattern>
       <last-replace>refill-server</last-replace>
       <last-substitute>rus-server</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
