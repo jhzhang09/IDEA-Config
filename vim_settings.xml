@@ -52,6 +52,7 @@
         <entry>rus-server</entry>
         <entry>entryQueue</entry>
         <entry>wait</entry>
+        <entry>getlo</entry>
       </history-search>
       <history-cmd>
         <entry>105 co 94</entry>
@@ -187,8 +188,8 @@
       <file name="/Dummy.txt" timestamp="1592477736158">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/utils/ApduUtil.java" timestamp="1592467012743">
-        <mark key="'" line="360" column="43" />
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/utils/ApduUtil.java" timestamp="1592536467496">
+        <mark key="'" line="300" column="0" />
         <mark key="[" line="300" column="0" />
         <mark key="]" line="300" column="0" />
         <mark key="^" line="296" column="71" />
@@ -222,7 +223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="36" filename="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/modules/business/entity/OrderEntity.java" />
       <jump line="46" column="19" filename="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/pom.xml" />
       <jump line="48" column="44" filename="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/pom.xml" />
       <jump line="128" column="45" filename="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/resources/statics/js/modules/sys/dept.js" />
@@ -322,6 +322,7 @@
       <jump line="277" column="59" filename="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/utils/ApduUtil.java" />
       <jump line="289" column="88" filename="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/utils/ApduUtil.java" />
       <jump line="365" column="43" filename="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/utils/ApduUtil.java" />
+      <jump line="300" column="0" filename="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/utils/ApduUtil.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -336,7 +337,7 @@
         <text>H</text>
       </register>
       <register name="/" type="4">
-        <text>wait</text>
+        <text>getlo</text>
       </register>
       <register name="0" type="4">
         <text>(BusinessConstants.REFUEL_POSITION_STATUS_FAIL</text>
@@ -375,9 +376,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>wait</last-search>
+      <last-search>getlo</last-search>
       <last-offset />
-      <last-pattern>wait</last-pattern>
+      <last-pattern>getlo</last-pattern>
       <last-replace>refill-server</last-replace>
       <last-substitute>rus-server</last-substitute>
       <last-dir>1</last-dir>
