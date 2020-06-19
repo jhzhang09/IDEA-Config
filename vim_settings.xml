@@ -193,11 +193,11 @@
         <mark key="^" line="94" column="44" />
         <mark key="." line="94" column="43" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/modules/business/entity/RefuelPositionEntity.java" timestamp="1592546971025">
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/modules/business/entity/RefuelPositionEntity.java" timestamp="1592563869502">
         <mark key="[" line="127" column="29" />
-        <mark key="]" line="124" column="13" />
-        <mark key="^" line="124" column="13" />
-        <mark key="." line="124" column="12" />
+        <mark key="]" line="131" column="29" />
+        <mark key="^" line="131" column="29" />
+        <mark key="." line="131" column="28" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/resources/application-test.yml" timestamp="1592392104563">
         <mark key="[" line="44" column="0" />
