@@ -55,6 +55,8 @@
         <entry>getlo</entry>
         <entry>MD5</entry>
         <entry>SM2</entry>
+        <entry>sm2</entry>
+        <entry>sha256</entry>
       </history-search>
       <history-cmd>
         <entry>105 co 94</entry>
@@ -137,15 +139,11 @@
         <mark key="^" line="23" column="36" />
         <mark key="." line="23" column="35" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/resources/application-prod.yml" timestamp="1592461599380">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-        <mark key="^" line="55" column="15" />
-      </file>
       <file name="/a.dummy" timestamp="1592548341776">
         <mark key="[" line="0" column="14" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/bouncycastle/bcpkix-jdk15on/1.65/bcpkix-jdk15on-1.65-sources.jar!/org/bouncycastle/operator/bc/BcECContentSignerBuilder.java" timestamp="1592913394939" />
+      <file name="$MAVEN_REPOSITORY$/org/bouncycastle/bcpkix-jdk15on/1.65/bcpkix-jdk15on-1.65-sources.jar!/org/bouncycastle/operator/bc/BcContentSignerBuilder.java" timestamp="1592913146942" />
       <file name="$MAVEN_REPOSITORY$/org/bouncycastle/bcpkix-jdk15on/1.65/bcpkix-jdk15on-1.65-sources.jar!/org/bouncycastle/operator/jcajce/JcaContentSignerBuilder.java" timestamp="1592910958553" />
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/handlerfactory/handler/impl/RsuTransactionProcess.java" timestamp="1592548503500">
         <mark key="[" line="114" column="96" />
@@ -160,18 +158,21 @@
         <mark key="^" line="176" column="90" />
         <mark key="." line="176" column="89" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/test/java/com/tdr/russerver/icbc/QrcodeGenerateTest.java" timestamp="1592476100428">
-        <mark key="[" line="52" column="70" />
-        <mark key="]" line="52" column="70" />
-        <mark key="." line="52" column="70" />
-        <mark key="^" line="52" column="72" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/bouncycastle/bcpkix-jdk15on/1.62/bcpkix-jdk15on-1.62-sources.jar!/org/bouncycastle/operator/DefaultSignatureAlgorithmIdentifierFinder.java" timestamp="1592909780651">
         <mark key="'" line="49" column="24" />
       </file>
       <file name="/Dummy.txt" timestamp="1592548721846">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/icbcca/src/main/java/com/tdr/ca/icbc/util/ca/SignatureAlgorithmNameFinder.java" timestamp="1592912385586">
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="." line="103" column="0" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/bouncycastle/bcpkix-jdk15on/1.62/bcpkix-jdk15on-1.62-sources.jar!/org/bouncycastle/operator/DefaultAlgorithmNameFinder.java" timestamp="1592912964041">
+        <mark key="'" line="50" column="66" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/bouncycastle/bcpkix-jdk15on/1.65/bcpkix-jdk15on-1.65-sources.jar!/org/bouncycastle/operator/bc/BcDSAContentSignerBuilder.java" timestamp="1592913190235" />
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/utils/ApduUtil.java" timestamp="1592548698609">
         <mark key="'" line="300" column="0" />
         <mark key="[" line="93" column="24" />
@@ -185,25 +186,12 @@
         <mark key="^" line="131" column="29" />
         <mark key="." line="131" column="28" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/resources/application-test.yml" timestamp="1592392104563">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="48" column="33" />
-      </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/handlerfactory/handler/impl/GetCarInfoProcess.java" timestamp="1592546961193" />
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/handlerfactory/handler/impl/StartRefuelProcess.java" timestamp="1592548004448">
-        <mark key="[" line="84" column="86" />
-        <mark key="]" line="84" column="80" />
-        <mark key="^" line="84" column="80" />
-        <mark key="." line="84" column="79" />
-      </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/icbcca/src/test/java/com/tdr/ca/icbc/BadPkcs7ParseTest.java" timestamp="1592909679178">
-        <mark key="[" line="109" column="73" />
-      </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/common/constants/BusinessConstants.java" timestamp="1592547491332">
-        <mark key="[" line="62" column="22" />
-        <mark key="]" line="62" column="20" />
-        <mark key="^" line="62" column="20" />
-        <mark key="." line="62" column="19" />
+      <file name="$MAVEN_REPOSITORY$/org/bouncycastle/bcpkix-jdk15on/1.65/bcpkix-jdk15on-1.65.jar!/org/bouncycastle/operator/bc/BcDefaultDigestProvider.class" timestamp="1592912791669" />
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/icbcca/src/test/java/com/tdr/ca/icbc/BadPkcs7ParseTest.java" timestamp="1592914136606">
+        <mark key="[" line="102" column="49" />
+        <mark key="]" line="102" column="49" />
+        <mark key="." line="102" column="49" />
+        <mark key="^" line="99" column="192" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/common/utils/RedisUtils.java" timestamp="1592548360735">
         <mark key="[" line="53" column="72" />
@@ -211,31 +199,14 @@
         <mark key="." line="55" column="14" />
         <mark key="^" line="55" column="15" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/bouncycastle/bcpkix-jdk15on/1.65/bcpkix-jdk15on-1.65-sources.jar!/org/bouncycastle/operator/DefaultSignatureAlgorithmIdentifierFinder.java" timestamp="1592910890458">
-        <mark key="'" line="137" column="36" />
+      <file name="$MAVEN_REPOSITORY$/org/bouncycastle/bcpkix-jdk15on/1.65/bcpkix-jdk15on-1.65-sources.jar!/org/bouncycastle/operator/DefaultSignatureAlgorithmIdentifierFinder.java" timestamp="1592911931359">
+        <mark key="'" line="351" column="43" />
       </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/test/java/com/tdr/russerver/utils/EncryptTest.java" timestamp="1592895375768">
         <mark key="[" line="237" column="5" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="12" filename="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/modules/business/service/impl/HandheldTerminalServiceImpl.java" />
-      <jump line="37" column="24" filename="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/modules/business/service/impl/HandheldTerminalServiceImpl.java" />
-      <jump line="41" column="12" filename="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/modules/business/service/impl/EntrancePositionServiceImpl.java" />
-      <jump line="43" column="12" filename="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/modules/business/service/impl/EntrancePositionServiceImpl.java" />
-      <jump line="45" column="4" filename="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/modules/business/service/impl/BluetoothGatewayServiceImpl.java" />
-      <jump line="37" column="24" filename="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/modules/business/service/impl/BluetoothGatewayServiceImpl.java" />
-      <jump line="42" column="12" filename="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/modules/business/service/impl/BluetoothGatewayServiceImpl.java" />
-      <jump line="47" column="0" filename="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/modules/business/service/impl/RusServiceImpl.java" />
-      <jump line="45" column="12" filename="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/modules/business/service/impl/RusServiceImpl.java" />
-      <jump line="38" column="24" filename="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/modules/business/service/impl/RusServiceImpl.java" />
-      <jump line="91" column="15" filename="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/russerver/common/utils/RedisUtils.java" />
-      <jump line="19" column="37" filename="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/resources/application-prod.yml" />
-      <jump line="19" column="42" filename="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/resources/application-test.yml" />
-      <jump line="68" column="4" filename="$USER_HOME$/Workspaces/IdeaProjects/safety-box/src/main/java/com/tdr/safetybox/socket/config/RootIntegrationConfig.java" />
-      <jump line="105" column="56" filename="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/handlerfactory/handler/impl/StartPayProcess.java" />
-      <jump line="93" column="20" filename="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/handlerfactory/handler/impl/StartPayProcess.java" />
-      <jump line="102" column="20" filename="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/acs/entrance/handlerfactory/handler/impl/StartPayProcess.java" />
       <jump line="123" column="0" filename="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/abcapi/client/AbcApiClient.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/resources/statics/js/modules/business/refuelposition.js" />
       <jump line="198" column="23" filename="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/resources/statics/js/modules/business/refuelposition.js" />
@@ -310,60 +281,77 @@
       <jump line="48" column="24" filename="$MAVEN_REPOSITORY$/org/bouncycastle/bcpkix-jdk15on/1.62/bcpkix-jdk15on-1.62-sources.jar!/org/bouncycastle/operator/DefaultSignatureAlgorithmIdentifierFinder.java" />
       <jump line="49" column="24" filename="$MAVEN_REPOSITORY$/org/bouncycastle/bcpkix-jdk15on/1.62/bcpkix-jdk15on-1.62-sources.jar!/org/bouncycastle/operator/DefaultSignatureAlgorithmIdentifierFinder.java" />
       <jump line="390" column="31" filename="$MAVEN_REPOSITORY$/org/bouncycastle/bcpkix-jdk15on/1.65/bcpkix-jdk15on-1.65-sources.jar!/org/bouncycastle/operator/DefaultSignatureAlgorithmIdentifierFinder.java" />
-      <jump line="249" column="11" filename="$MAVEN_REPOSITORY$/org/bouncycastle/bcpkix-jdk15on/1.65/bcpkix-jdk15on-1.65-sources.jar!/org/bouncycastle/operator/DefaultSignatureAlgorithmIdentifierFinder.java" />
-      <jump line="135" column="39" filename="$MAVEN_REPOSITORY$/org/bouncycastle/bcpkix-jdk15on/1.65/bcpkix-jdk15on-1.65-sources.jar!/org/bouncycastle/operator/DefaultSignatureAlgorithmIdentifierFinder.java" />
-      <jump line="138" column="34" filename="$MAVEN_REPOSITORY$/org/bouncycastle/bcpkix-jdk15on/1.65/bcpkix-jdk15on-1.65-sources.jar!/org/bouncycastle/operator/DefaultSignatureAlgorithmIdentifierFinder.java" />
-      <jump line="139" column="36" filename="$MAVEN_REPOSITORY$/org/bouncycastle/bcpkix-jdk15on/1.65/bcpkix-jdk15on-1.65-sources.jar!/org/bouncycastle/operator/DefaultSignatureAlgorithmIdentifierFinder.java" />
-      <jump line="140" column="36" filename="$MAVEN_REPOSITORY$/org/bouncycastle/bcpkix-jdk15on/1.65/bcpkix-jdk15on-1.65-sources.jar!/org/bouncycastle/operator/DefaultSignatureAlgorithmIdentifierFinder.java" />
-      <jump line="141" column="31" filename="$MAVEN_REPOSITORY$/org/bouncycastle/bcpkix-jdk15on/1.65/bcpkix-jdk15on-1.65-sources.jar!/org/bouncycastle/operator/DefaultSignatureAlgorithmIdentifierFinder.java" />
       <jump line="359" column="34" filename="$MAVEN_REPOSITORY$/org/bouncycastle/bcpkix-jdk15on/1.65/bcpkix-jdk15on-1.65-sources.jar!/org/bouncycastle/operator/DefaultSignatureAlgorithmIdentifierFinder.java" />
-      <jump line="136" column="34" filename="$MAVEN_REPOSITORY$/org/bouncycastle/bcpkix-jdk15on/1.65/bcpkix-jdk15on-1.65-sources.jar!/org/bouncycastle/operator/DefaultSignatureAlgorithmIdentifierFinder.java" />
+      <jump line="138" column="60" filename="$MAVEN_REPOSITORY$/org/bouncycastle/bcpkix-jdk15on/1.65/bcpkix-jdk15on-1.65-sources.jar!/org/bouncycastle/operator/DefaultSignatureAlgorithmIdentifierFinder.java" />
+      <jump line="135" column="65" filename="$MAVEN_REPOSITORY$/org/bouncycastle/bcpkix-jdk15on/1.65/bcpkix-jdk15on-1.65-sources.jar!/org/bouncycastle/operator/DefaultSignatureAlgorithmIdentifierFinder.java" />
+      <jump line="136" column="60" filename="$MAVEN_REPOSITORY$/org/bouncycastle/bcpkix-jdk15on/1.65/bcpkix-jdk15on-1.65-sources.jar!/org/bouncycastle/operator/DefaultSignatureAlgorithmIdentifierFinder.java" />
       <jump line="137" column="36" filename="$MAVEN_REPOSITORY$/org/bouncycastle/bcpkix-jdk15on/1.65/bcpkix-jdk15on-1.65-sources.jar!/org/bouncycastle/operator/DefaultSignatureAlgorithmIdentifierFinder.java" />
+      <jump line="139" column="62" filename="$MAVEN_REPOSITORY$/org/bouncycastle/bcpkix-jdk15on/1.65/bcpkix-jdk15on-1.65-sources.jar!/org/bouncycastle/operator/DefaultSignatureAlgorithmIdentifierFinder.java" />
+      <jump line="140" column="62" filename="$MAVEN_REPOSITORY$/org/bouncycastle/bcpkix-jdk15on/1.65/bcpkix-jdk15on-1.65-sources.jar!/org/bouncycastle/operator/DefaultSignatureAlgorithmIdentifierFinder.java" />
+      <jump line="141" column="57" filename="$MAVEN_REPOSITORY$/org/bouncycastle/bcpkix-jdk15on/1.65/bcpkix-jdk15on-1.65-sources.jar!/org/bouncycastle/operator/DefaultSignatureAlgorithmIdentifierFinder.java" />
+      <jump line="249" column="11" filename="$MAVEN_REPOSITORY$/org/bouncycastle/bcpkix-jdk15on/1.65/bcpkix-jdk15on-1.65-sources.jar!/org/bouncycastle/operator/DefaultSignatureAlgorithmIdentifierFinder.java" />
+      <jump line="251" column="43" filename="$MAVEN_REPOSITORY$/org/bouncycastle/bcpkix-jdk15on/1.65/bcpkix-jdk15on-1.65-sources.jar!/org/bouncycastle/operator/DefaultSignatureAlgorithmIdentifierFinder.java" />
+      <jump line="252" column="43" filename="$MAVEN_REPOSITORY$/org/bouncycastle/bcpkix-jdk15on/1.65/bcpkix-jdk15on-1.65-sources.jar!/org/bouncycastle/operator/DefaultSignatureAlgorithmIdentifierFinder.java" />
+      <jump line="253" column="43" filename="$MAVEN_REPOSITORY$/org/bouncycastle/bcpkix-jdk15on/1.65/bcpkix-jdk15on-1.65-sources.jar!/org/bouncycastle/operator/DefaultSignatureAlgorithmIdentifierFinder.java" />
+      <jump line="254" column="41" filename="$MAVEN_REPOSITORY$/org/bouncycastle/bcpkix-jdk15on/1.65/bcpkix-jdk15on-1.65-sources.jar!/org/bouncycastle/operator/DefaultSignatureAlgorithmIdentifierFinder.java" />
+      <jump line="255" column="43" filename="$MAVEN_REPOSITORY$/org/bouncycastle/bcpkix-jdk15on/1.65/bcpkix-jdk15on-1.65-sources.jar!/org/bouncycastle/operator/DefaultSignatureAlgorithmIdentifierFinder.java" />
+      <jump line="256" column="43" filename="$MAVEN_REPOSITORY$/org/bouncycastle/bcpkix-jdk15on/1.65/bcpkix-jdk15on-1.65-sources.jar!/org/bouncycastle/operator/DefaultSignatureAlgorithmIdentifierFinder.java" />
+      <jump line="257" column="41" filename="$MAVEN_REPOSITORY$/org/bouncycastle/bcpkix-jdk15on/1.65/bcpkix-jdk15on-1.65-sources.jar!/org/bouncycastle/operator/DefaultSignatureAlgorithmIdentifierFinder.java" />
+      <jump line="345" column="45" filename="$MAVEN_REPOSITORY$/org/bouncycastle/bcpkix-jdk15on/1.65/bcpkix-jdk15on-1.65-sources.jar!/org/bouncycastle/operator/DefaultSignatureAlgorithmIdentifierFinder.java" />
+      <jump line="346" column="45" filename="$MAVEN_REPOSITORY$/org/bouncycastle/bcpkix-jdk15on/1.65/bcpkix-jdk15on-1.65-sources.jar!/org/bouncycastle/operator/DefaultSignatureAlgorithmIdentifierFinder.java" />
+      <jump line="347" column="45" filename="$MAVEN_REPOSITORY$/org/bouncycastle/bcpkix-jdk15on/1.65/bcpkix-jdk15on-1.65-sources.jar!/org/bouncycastle/operator/DefaultSignatureAlgorithmIdentifierFinder.java" />
+      <jump line="348" column="43" filename="$MAVEN_REPOSITORY$/org/bouncycastle/bcpkix-jdk15on/1.65/bcpkix-jdk15on-1.65-sources.jar!/org/bouncycastle/operator/DefaultSignatureAlgorithmIdentifierFinder.java" />
+      <jump line="349" column="45" filename="$MAVEN_REPOSITORY$/org/bouncycastle/bcpkix-jdk15on/1.65/bcpkix-jdk15on-1.65-sources.jar!/org/bouncycastle/operator/DefaultSignatureAlgorithmIdentifierFinder.java" />
+      <jump line="350" column="45" filename="$MAVEN_REPOSITORY$/org/bouncycastle/bcpkix-jdk15on/1.65/bcpkix-jdk15on-1.65-sources.jar!/org/bouncycastle/operator/DefaultSignatureAlgorithmIdentifierFinder.java" />
+      <jump line="351" column="43" filename="$MAVEN_REPOSITORY$/org/bouncycastle/bcpkix-jdk15on/1.65/bcpkix-jdk15on-1.65-sources.jar!/org/bouncycastle/operator/DefaultSignatureAlgorithmIdentifierFinder.java" />
+      <jump line="161" column="15" filename="$MAVEN_REPOSITORY$/org/bouncycastle/bcpkix-jdk15on/1.62/bcpkix-jdk15on-1.62-sources.jar!/org/bouncycastle/operator/DefaultAlgorithmNameFinder.java" />
+      <jump line="31" column="65" filename="$MAVEN_REPOSITORY$/org/bouncycastle/bcpkix-jdk15on/1.62/bcpkix-jdk15on-1.62-sources.jar!/org/bouncycastle/operator/DefaultAlgorithmNameFinder.java" />
+      <jump line="50" column="66" filename="$MAVEN_REPOSITORY$/org/bouncycastle/bcpkix-jdk15on/1.62/bcpkix-jdk15on-1.62-sources.jar!/org/bouncycastle/operator/DefaultAlgorithmNameFinder.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>cms</text>
       </register>
       <register name="+" type="4">
         <text>tendyron!2#</text>
       </register>
       <register name="-" type="4">
-        <text>H</text>
+        <text>cms</text>
       </register>
       <register name="/" type="4">
-        <text>SM2</text>
+        <text>sha256</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVkaXNVdGlscy5zZXQoUmVkaXNVdGlscy5SVVNfUlVTX1JFU1VMVF9LRVkgKyBlbnRyeVF1ZXVlRW50aXR5LmdldENhck5vKCksIGVudHJ5UXVldWVFbnRpdHksIHJzdUNhckV4cGlyZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oQVNOMUR1bXAuZHVtcEFzU3RyaW5nKGNtcykpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb250ZW50U2lnbmVyID0KICAgICAgICAgICAgICAgIG5ldyBCY0VDQ29udGVudFNpZ25lckJ1aWxkZXIobmV3IEFsZ29yaXRobUlkZW50aWZpZXIoR01PYmplY3RJZGVudGlmaWVycy5zbTJzaWduX3dpdGhfc20zKSwKICAgICAgICAgICAgICAgICAgICAgICAgbmV3IEFsZ29yaXRobUlkZW50aWZpZXIoT0lXT2JqZWN0SWRlbnRpZmllcnMuaWRTSEExKSkuYnVpbGQoUHJpdmF0ZUtleUZhY3RvcnkuY3JlYXRlS2V5KHN1YktleVBhaXIuZ2V0UHJpdmF0ZSgpLmdldEVuY29kZWQoKSkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVkaXNVdGlscy5zZXQoUmVkaXNVdGlscy5SVVNfUlVTX1JFU1VMVF9LRVkgKyBlbnRyeVF1ZXVlRW50aXR5LmdldENhck5vKCksIGVudHJ5UXVldWVFbnRpdHksIHJzdUNhckV4cGlyZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBPSVdPYmplY3RJZGVudGlmaWVyc2RkCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVkaXNVdGlscy5kZWxldGUoKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb250ZW50U2lnbmVyID0KICAgICAgICAgICAgICAgIG5ldyBCY0VDQ29udGVudFNpZ25lckJ1aWxkZXIobmV3IEFsZ29yaXRobUlkZW50aWZpZXIoR01PYmplY3RJZGVudGlmaWVycy5zbTJzaWduX3dpdGhfc20zKSwKICAgICAgICAgICAgICAgICAgICAgICAgbmV3IEFsZ29yaXRobUlkZW50aWZpZXIoT0lXT2JqZWN0SWRlbnRpZmllcnMuaWRTSEExKSkuYnVpbGQoUHJpdmF0ZUtleUZhY3RvcnkuY3JlYXRlS2V5KHN1YktleVBhaXIuZ2V0UHJpdmF0ZSgpLmdldEVuY29kZWQoKSkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb250ZW50U2lnbmVyID0KICAgICAgICAgICAgICAgIG5ldyBCY0VDQ29udGVudFNpZ25lckJ1aWxkZXIobmV3IEFsZ29yaXRobUlkZW50aWZpZXIoR01PYmplY3RJZGVudGlmaWVycy5zbTJzaWduX3dpdGhfc20zKSwKICAgICAgICAgICAgICAgICAgICAgICAgbmV3IEFsZ29yaXRobUlkZW50aWZpZXIoT0lXT2JqZWN0SWRlbnRpZmllcnMuaWRTSEExKSkuYnVpbGQoUHJpdmF0ZUtleUZhY3RvcnkuY3JlYXRlS2V5KHN1YktleVBhaXIuZ2V0UHJpdmF0ZSgpLmdldEVuY29kZWQoKSkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBiaXpDb250ZW50LnNldFRyYWRlVGltZShEYXRlRm9ybWF0VXRpbHMuZm9ybWF0KGRhdGUsICJISG1tc3MiKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbmV3IEFsZ29yaXRobUlkZW50aWZpZXIoT0lXT2JqZWN0SWRlbnRpZmllcnMuaWRTSEExKSkuYnVpbGQoUHJpdmF0ZUtleUZhY3RvcnkuY3JlYXRlS2V5KHN1YktleVBhaXIuZ2V0UHJpdmF0ZSgpLmdldEVuY29kZWQoKSkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBiaXpDb250ZW50LnNldFRyYWRlRGF0ZShEYXRlRm9ybWF0VXRpbHMuZm9ybWF0KGRhdGUsICJ5eXl5TU1kZEhIIikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBCY0VDQ29udGVudFNpZ25lckJ1aWxkZXIobmV3IEFsZ29yaXRobUlkZW50aWZpZXIoR01PYmplY3RJZGVudGlmaWVycy5zbTJzaWduX3dpdGhfc20zKSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSAoQnVzaW5lc3NDb25zdGFudHMuUkVGVUVMX1BPU0lUSU9OX1NUQVRVU19GQUlMX0xBQ0spOgogICAgICAgICAgICAgICAgc3RyaW5nQnVmZmVyLmFwcGVuZCgiODIiKTsKICAgICAgICAgICAgICAgIHN0cmluZ0J1ZmZlci5hcHBlbmQoZW5jb2RlTGl0ZU9yZGVyU24ocmVmdWVsUG9zaXRpb25FbnRpdHkuZ2V0T3JkZXJTbigpKSk7CiAgICAgICAgICAgICAgICBzdHJpbmdCdWZmZXIuYXBwZW5kKGdldFBheUFtb3VudERhdGFTdHJpbmcocmVmdWVsUG9zaXRpb25FbnRpdHkuZ2V0UGF5VG90YWwoKSkpOwogICAgICAgICAgICAgICAgYnJlYWs7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb250ZW50U2lnbmVyID1kZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog5Yqg5rK55L2N54q25oCBLS3mrL7lpLHotKXvvIzkvZnpop3kuI3otrMKICAgICAqLwogICAgcHVibGljIHN0YXRpYyBmaW5hbCBTdHJpbmcgUkVGVUVMX1BPU0lUSU9OX1NUQVRVU19GQUlMX0xBQ0sgPSAiNSI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTSUdOQVRVUkVfQUxHT1JJVEhNX05BTUVfTUFQLnB1dChCQ09iamVjdElkZW50aWZpZXJzLnFURVNMQV9JSUlfc3BlZWQsICJRVEVTTEEtSUlJLVNQRUVEIik7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRpbWVvdXQ6IDYwMDBtcyAgIyDov57mjqXotoXml7bml7bplb/vvIjmr6vnp5LvvIkK</text>
+        <text encoding="base64">ICAgICAgICBTSUdOQVRVUkVfQUxHT1JJVEhNX05BTUVfTUFQLnB1dChCQ09iamVjdElkZW50aWZpZXJzLnFURVNMQV9JSUlfc2l6ZSwgIlFURVNMQS1JSUktU0laRSIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wa</text>
@@ -372,9 +360,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>SM2</last-search>
+      <last-search>sha256</last-search>
       <last-offset />
-      <last-pattern>SM2</last-pattern>
+      <last-pattern>sha256</last-pattern>
       <last-replace>refill-server</last-replace>
       <last-substitute>rus-server</last-substitute>
       <last-dir>1</last-dir>
