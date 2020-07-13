@@ -157,10 +157,6 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/rus/rus-server/src/main/java/com/tdr/abcapi/vo/request/AbcBaseRequest.java" timestamp="1593503861621">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="25" />
-      </file>
       <file name="/" timestamp="1593594787553">
         <mark key="[" line="0" column="0" />
       </file>
@@ -186,6 +182,9 @@
         <mark key="]" line="44" column="64" />
         <mark key="." line="44" column="63" />
         <mark key="^" line="44" column="64" />
+      </file>
+      <file name="/Dummy.vm" timestamp="1594628899111">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1593509448246">
         <mark key="[" line="0" column="0" />
