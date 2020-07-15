@@ -137,10 +137,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Workspaces/IdeaProjects/PSC/portal-server/src/main/java/com/psc/portal/business/authority/entity/MenuEntity.java" timestamp="1594722131801">
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="100" column="28" />
-      </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/PSC/portal-server/src/main/java/com/psc/portal/business/message/entity/MessageEntity.java" timestamp="1594797205622">
         <mark key="[" line="74" column="28" />
         <mark key="]" line="123" column="9" />
@@ -213,6 +209,10 @@
         <mark key="^" line="38" column="26" />
       </file>
       <file name="/DictionaryService.java" timestamp="1594731181298" />
+      <file name="$USER_HOME$/Workspaces/IdeaProjects/PSC/portal-server/pom.xml" timestamp="1594810897743">
+        <mark key="[" line="10" column="13" />
+        <mark key="]" line="10" column="26" />
+      </file>
       <file name="$USER_HOME$/Workspaces/IdeaProjects/PSC/portal-server/src/main/java/com/psc/portal/business/message/dao/UserMessageDao.java" timestamp="1594727558422">
         <mark key="[" line="13" column="32" />
         <mark key="]" line="13" column="119" />
@@ -338,10 +338,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>172.16.42.237</text>
+        <text>com.psc.portal</text>
       </register>
       <register name="+" type="4">
-        <text>172.16.42.237</text>
+        <text>com.psc.portal</text>
       </register>
       <register name="-" type="4">
         <text>LJJG</text>
