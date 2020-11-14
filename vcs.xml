@@ -26,6 +26,22 @@
           <option name="url" value="http://172.16.42.237:3000" />
           <option name="userName" value="Zhangjinhu" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@540d9ab393b5:abc/abc_decp.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://540d9ab393b5/abc/abc_decp.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.1.135/abc/abc_decp.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.1.135" />
+          <option name="userName" value="zhangjinhu" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Workspaces/IdeaProjects" />
@@ -39,8 +55,5 @@
         <option value="3" />
       </list>
     </option>
-  </component>
-  <component name="VcsApplicationSettings">
-    <option name="SHOW_LST_WORD_DIFFERENCES" value="false" />
   </component>
 </application>
