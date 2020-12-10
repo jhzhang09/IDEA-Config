@@ -4,7 +4,7 @@
     <property name="created">2018-12-03T20:20:16</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2018.3.0.0</property>
-    <property name="modified">2020-12-10T16:11:39</property>
+    <property name="modified">2020-12-10T17:39:13</property>
     <property name="originalScheme">Material Solarized Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -16,6 +16,14 @@
     <option name="EDITOR_FONT_NAME" value="MesloLGS NF" />
     <option name="EDITOR_FONT_SIZE" value="16" />
   </font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="MesloLGS Nerd Font Mono" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="MesloLGS NF" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
+  </console-font>
   <colors>
     <option name="ADDED_LINES_COLOR" value="10483e" />
     <option name="ANNOTATIONS_COLOR" value="7899a4" />
