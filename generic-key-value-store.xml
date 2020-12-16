@@ -2,8 +2,11 @@
   <component name="GenericKVStore">
     <option name="map">
       <map>
+        <entry key="com.alibabacloud.intellij.model.UploadFileUIModel10" value="eyJpc0ZpbGUiOnRydWUsInVybCI6Ii9Vc2Vycy96aGFuZ2ppbmh1L0Rvd25sb2Fkcy9yZXN0YXJ0U2VydmVyLnNoIiwibG9jYXRpb24iOiIvaG9tZS9zbTAxL3RlbmR5cm9uL2RjZXAgIiwiY29tbWFuZCI6IiJ9" />
+        <entry key="com.alibabacloud.intellij.model.UploadFileUIModel11" value="eyJpc0ZpbGUiOnRydWUsInVybCI6Ii9Vc2Vycy96aGFuZ2ppbmh1L0Rvd25sb2Fkcy9yZXN0YXJ0U2VydmVyLnNoIiwibG9jYXRpb24iOiIvaG9tZS9zbTAxL3RlbmR5cm9uL2RjZXAgIiwiY29tbWFuZCI6IiJ9" />
         <entry key="com.alibabacloud.intellij.model.UploadFileUIModel7" value="eyJpc0ZpbGUiOnRydWUsInVybCI6Ii9Vc2Vycy96aGFuZ2ppbmh1L1dvcmtzcGFjZXMvSWRlYVByb2plY3RzL2FiY19kY2VwX2dhdGV3YXkvc3JjL21haW4vcmVzb3VyY2VzL2FwcGxpY2F0aW9uLnltbCIsImxvY2F0aW9uIjoiL2hvbWUvc20wMSIsImNvbW1hbmQiOiIifQ==" />
         <entry key="com.alibabacloud.intellij.model.UploadFileUIModel8" value="eyJpc0ZpbGUiOnRydWUsInVybCI6Ii9Vc2Vycy96aGFuZ2ppbmh1L1dvcmtzcGFjZXMvSWRlYVByb2plY3RzL2FiY19kY2VwX2dhdGV3YXkvc3JjL21haW4vcmVzb3VyY2VzL2FwcGxpY2F0aW9uLnltbCIsImxvY2F0aW9uIjoiL2hvbWUvc20wMSIsImNvbW1hbmQiOiIifQ==" />
+        <entry key="com.alibabacloud.intellij.model.UploadFileUIModel9" value="eyJpc0ZpbGUiOnRydWUsInVybCI6Ii9Vc2Vycy96aGFuZ2ppbmh1L0Rvd25sb2Fkcy9yZXN0YXJ0U2VydmVyLnNoIiwibG9jYXRpb24iOiIvaG9tZS9zbTAxL3RlbmR5cm9uL2RjZXAgIiwiY29tbWFuZCI6IiJ9" />
       </map>
     </option>
   </component>
