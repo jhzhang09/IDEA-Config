@@ -13,6 +13,7 @@
       <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping ext="p10" type="PLAIN_TEXT" />
       <mapping ext="sql" type="SQL" />
+      <removed_mapping pattern=".analysis_options" type="YAML" />
       <removed_mapping ext="yml" type="YAML" />
       <mapping ext="yml" type="YAML_EX" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
