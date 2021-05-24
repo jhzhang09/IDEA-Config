@@ -14,15 +14,14 @@
     <entry key="mac.editor.thumb.darcula.fill.min" value="102" />
     <entry key="mac.editor.thumb.darcula.fill.max" value="163" />
     <entry key="ide.mac.allowDarkWindowDecorations" value="true" />
-    <entry key="SBT.system.in.process" value="true" />
     <entry key="BSP.experimental.feature.enabled" value="false" />
-    <entry key="BSP.system.in.process" value="true" />
     <entry key="ide.tree.ui.experimental" value="false" />
     <entry key="ide.settings.move.mouse.on.default.button" value="true" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
       <map>
+        <entry key="DBNavigator.Project.DatasetEditorStatusBarWidgetFactory" value="false" />
         <entry key="Memory" value="true" />
       </map>
     </option>
