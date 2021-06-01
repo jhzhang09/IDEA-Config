@@ -10,6 +10,7 @@
       <mapping pattern="oo" type="PLAIN_TEXT" />
       <mapping pattern="gemfile.lock" type="PLAIN_TEXT" />
       <mapping ext="obj" type="PLAIN_TEXT" />
+      <mapping ext="cer" type="PLAIN_TEXT" />
       <mapping ext="p12" type="PLAIN_TEXT" />
       <mapping ext="p10" type="PLAIN_TEXT" />
       <removed_mapping ext="sql" type="SQL" />
